@@ -1,0 +1,3150 @@
+===== FILE =====
+FW122A.bin: data
+-rwxrwxrwx 1 mine mine 1.2M Aug 17 18:24 FW122A.bin
+5d737fdc738127b6cb95cc6cc9755914c1e30c694c7f57f486afb69588c62fb1  FW122A.bin
+
+===== BINWALK =====
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+188564        0x2E094         JPEG image data, JFIF standard 1.01
+188594        0x2E0B2         TIFF image data, big-endian, offset of first image directory: 8
+194320        0x2F710         Copyright string: "Copyright (c) 1998 Hewlett-Packard Company"
+216721        0x34E91         JPEG image data, JFIF standard 1.01
+216751        0x34EAF         TIFF image data, big-endian, offset of first image directory: 8
+222477        0x3650D         Copyright string: "Copyright (c) 1998 Hewlett-Packard Company"
+1119666       0x1115B2        MySQL ISAM index file Version 1
+1229739       0x12C3AB        JPEG image data, EXIF standard
+
+
+===== VIDEO / CAMERA SETTINGS =====
+  2caad UIFrameworkTsk()
+  2cae1 FLG_ID_KEY
+  2caec FLG_ID_KEY_REL
+  2cb28 FLG_ID_FRAMEWORK
+  2cb39 SEMID_FRAMEWORK_WINDOW
+  2cb50 SEMID_FRAMEWORK_DRAW
+  2cb75 MBXID_SYS_EVENT
+  2cb85 MBXID_BKG_EVENT
+  2cec4 ^RError:Dummy Interrupt, Previous INT No=%#08X Current INT No=%#08X
+  2d008 MediaVideoPlayTsk()
+  2d02c RecVideoTsk()
+  2d070 USBPccVideoTsk()
+  2d0d4 AWBTsk()
+  2d0e0 AETsk()
+  2d0f8 PhotoDisplayTsk()
+  2d128 Photo3rdTsk()
+  2d138 Photo2ndTsk()
+  2d148 Photo1stTsk()
+  2d1f0 MediaVideoRecTsk()
+  2d560  [text]gCurrentMenuInfo.parkingmode_flag=%d
+  2dae2 FS UNKNOWN FORMAT
+  2e166 Adobe Photoshop CS6 (Windows)
+  2eae0 DPRS6
+  2eb51 i(4AE
+  2ecae !^Photoshop 3.0
+  2f4a1 ESliceVertAlign
+  30dae LCntlong
+  30f17 		<rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:DocumentID="F6289A1CCBAC5F40F082ECFF46207735" xmpMM:InstanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" xmpMM:OriginalDocumentID="F6289A1CCBAC5F40F082ECFF46207735" dc:format="image/jpeg" photoshop:ColorMode="3" xmp:CreateDate="2018-04-11T09:55:45+08:00" xmp:ModifyDate="2018-04-11T18:35:29+08:00" xmp:MetadataDate="2018-04-11T18:35:29+08:00">
+  311b1 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7AC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  3127f 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  31372 			<photoshop:DocumentAncestors>
+  313eb 			</photoshop:DocumentAncestors>
+  3347e J$]6EV
+  34f63 Adobe Photoshop CS6 (Windows)
+  3594e i(4AE
+  35aab !^Photoshop 3.0
+  3629e ESliceVertAlign
+  376ae }/cY
+  37ae7 null
+  37d14 		<rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:DocumentID="F6289A1CCBAC5F40F082ECFF46207735" xmpMM:InstanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" xmpMM:OriginalDocumentID="F6289A1CCBAC5F40F082ECFF46207735" dc:format="image/jpeg" photoshop:ColorMode="3" xmp:CreateDate="2018-04-11T09:55:45+08:00" xmp:ModifyDate="2018-04-11T18:35:29+08:00" xmp:MetadataDate="2018-04-11T18:35:29+08:00">
+  37fae 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7AC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  3807c 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  3816f 			<photoshop:DocumentAncestors>
+  381e8 			</photoshop:DocumentAncestors>
+  3a27b J$]6EV
+  3ae27 viAW
+  3ae52 d#6x
+  3ae7a @?ZF'
+  3aea7 p(nr
+  3bd36 FLG_ID_PHOTO
+  3be15 FLG_ID_PHOTODISPLAY
+  3be29 FLG_ID_PHOTODIS
+  3c1b8 MENU_DRAW_IMAGE_TABLE ,plz assign table
+  3c378 Unsupported Video1 format %d
+  3c818 ^RPLL1 configured frequency is out of range(300-700)!  uiLoopDiv=%d
+  3d0dc ^Rpinmux_configSensor(): no bus width assigned: 0x%lx
+  3dae0 usb_open(): open AMBA DMA fail
+  3e9fc ^RJPG_ENC: ^R[JpegEncOnePic] Error! VAEstCtl not support
+  3ea64 ^R[JpegEncOnePic] User Defined Lineoffset is smaller than image width
+  3ec94 ^R Unnormal situration! Skip Frame %d Size=%d
+  3ed98 ^RJPG_ENC: [JpegGetDCOutConfig] Error! Frame Size = %d x %d, Panel Size = %d x %d
+  3eecc ^MgFrameWidth=%d, gFrameHeight=%d
+  3ef20 ^M gVidBrcMode=0x%x, gTargetFrameSize=%d, Default QF=%d, gBRCWeighting=%d/%d, gMaxValidFrameSize=%d
+  3f094 ^RJPG_ENC: [JpegEncUpdateHDR] Error! YUVFormat %d
+  3f1c4 ^R[JpegEncOneChannel] User Defined Lineoffset is smaller than image width
+  3f320 ^R[JpegEncSetData]JPG_MAX_VALID_FRAME_SIZE_RATIO parameter error!
+  3f3e8 ^R[JpegEstimateBitRate] BRC not enabled!
+  3f414 ^R[JpegEstimateBitRate] jpeg_open() error
+  3f440 ^R[JpegEstimateBitRate] jpeg_setCmpStartAddr() error
+  3f478 ^R[JpegEstimateBitRate] jpeg_setImgLineOffsetByte() error
+  3f4b4 ^R[JpegEstimateBitRate] jpeg_setEnableInt() error
+  3f4e8 ^RJPG_ENC: [JpegEstimateBitRate] Error! No Frame End Interrupt
+  3f52c ^RJPG_ENC: [JpegEstimateBitRate] Error! jpeg_close()
+  3f61c Error dispdev_RegRead Op!
+  3f638 DispDev NO valid rotate!
+  408c8 ^RNo support Video Format!
+  40bb8 SPI flash: get devInfo: driver not opened
+  40be4 SPI flash: get devInfo: Manufacture ID dosen't support. MFG ID:0x%lx, Device ID:0x%lx
+  411ec Dev1 has not closed!
+  41204 SET_DEVICE no support! (%d)
+  41224 ^RDISPLAYDEV No Support!(%d)
+  4127c ^RPrevious dev1 has not closed!
+  412b0 Non of DISP1 DEV (%d)
+  412c8 ^MCant chg obj of act dev!
+  41388 ^RDISPDEV No Support!(%d)
+  413a4 Dev2 has not closed!
+  413bc ^RDISDEVPCTL2 No Support!(%d)
+  4145c ^RPrevious dev2 has not closed!
+  41490 Non of DISP2 DEV (%d)
+  41570 ^RDISPDEV2 No Support!(%d)
+  41d58 [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X, YLOFS %d < ImageWidth %d
+  41db0 [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X, ULOFS %d < ImageWidth/2 %d
+  41e0c [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X, VLOFS %d < ImageWidth/2 %d
+  42758 ^R[ ime_setInputImageInfo ] - Error - IPE direct to IME does not support YCC420 format ...
+  427b8 ^R[ IME Engine ] - Error - Horizontal stripe setting do not match with the width size of input image (multi-stripe mode) ...
+  42838 ^R[ IME Engine ] - Error - Vertical stripe setting do not match with the height size of input image (multi-stripe mode) ...
+  428b8 ^R[ IME Engine ] - Error - Horizontal stripe setting do not match with the width size of input image (single-stripe mode) ...
+  42938 ^R[ IME Engine ] - Error - Vertical stripe setting do not match with the height size of input image (single-stripe mode) ...
+  432e0 ^R[ ime_setChangeIOImageInfo ] - Error - User horizontal scaling down rate overflow (setting value = %d) , and please double check it
+  43368 ^R[ ime_setChangeIOImageInfo ] - Error - User horizontal output size overflow (setting value = %d) , and please double check it
+  433ec ^R[ ime_setChangeIOImageInfo ] - Error - User vertical scaling down rate overflow (setting value = %d) , and please double check it
+  43474 ^R[ ime_setChangeIOImageInfo ] - Error - User vertical output size overflow (setting value = %d) , and please double check it
+  43eac ^R[ ime_chgParam ] - Error - Change Input/Output Image Size Parameters NULL...
+  44378 ^R[ ime_close ] - IME engine was already closed, can not close again ...
+  44d18 Sunday
+  44d1f xxxMonday
+  44d29 xxxTuesday
+  44d34 xxWednesday
+  44d40 Thursday
+  44d49 xFriday
+  44d51 xxxSaturday
+  4a653 AVI LISThdrl
+  6fa61 AVI strlLISThdrl
+  7b9ae 462H
+  aae6a RIFFdata
+  aae7a WAVEfmt T
+  aae86 fact
+  ce8ae rec 
+  cea23 opy iso
+  ceabb  AWB
+  ceae3 delaychain
+  ced80 |photo
+  cefae *... 
+  cf6c1 TP:Event=%d, X=%03d, Y
+  cf6f4 <debug text> gbFlagScreenSaveIsOff
+  cf9fc [AppInitAVI]: uiSensorRecordS
+  cfada %video resolu
+  cfaea :%dx
+  cfd79 0Codec = MEDIAPLAY_VIDEO_MJPG
+  cfdae %s: out of string
+  d1e27 usICN_EV
+  d1ed0 aetCurrRecUnlock  LINE
+  d1f0d #$app_parking_
+  d2034 _gsensor
+  d2601 FWRevisio
+  d27a1 AVideo Menu
+  d27b8 A720P
+  d28ae High
+  d2a36 tDevice Sound
+  d2ace ImageCB]: ALGMSG_QVSTAR
+  d2aec (PREVIEWSTABLE
+  d2bc6 &PNL_FDFrame
+  d2c19 nevt
+  d2cb8 DISO
+  d2dd0  Sharpness
+  d2ea9 1080P
+  d30a3 ~PanLoop
+  d3117 Eevent
+  f2ddf Gsensor_Test
+  f2e84 $ParkingMode
+  f2f49 A:\AWBGS.txt
+  f3003 hRgain
+  f31f4 0bitrate control not enable..! BytesPerSecond is zero
+  f350e g, resolution must
+  f38ca t, no video in saveQueu
+  f3a2f pGetActVideo
+  f3a82  VIDEO
+  f3ab4 hset FRAMERATE %d
+  f3ad3 #SaveVF
+  f3ae8 newVidP
+  f3de6 OK, hdr
+  f3f16 hdrlavih8
+  f4177 RECORD
+  f4751 hThis, jumplevel
+  f48d6 Z HDR
+  f4934 IPHOTO
+  f4b1a 8Image
+  f4e76 7Ux_PostEvent: Mailbox ID incorrect
+  f4edc Sevent_i
+  f50a9 AddNotifyDevice
+  f5ae2 aSensor
+  f5aef tF_CH0
+  f6503 LPreview
+  f685c Hg_fpSetPCC2CapRaw
+  f6ae5 push up 2 down
+  f6c69 qAVI:prev i
+  f6eb5 bae lock
+  f6ed9 1awb
+  f6ef3 9awbmsg 
+  f74ae Qitdepth
+  f76b7 HAe Converg
+  f76c5 @(WaitAe
+  f76d4 xCAL_AE
+  f77b4 $AWB
+  f7a5a p_ISOG
+  f7a92 <CapEV_
+  f7aee W		:
+  f7e7d i^RAEALG: AEAlg_all
+  f7e99 c AeCurv
+  f7f96 PREV
+  f7f9d No REV
+  f80ca Idebug-leve
+  f83c6 &0DEVICE
+  f8720  GFI
+  f8ae6 xwitch
+  f9ae2 FS: %s
+  fa01c #Level
+  fa249 Pvideo
+  fa2f9  MAKEVA
+  fa35a 2Frame
+  fa9e9 vdispdev
+  fadae ,JPG
+  fae1e $   
+  fae27 nail :
+  fae58 PLC_BUF
+  fae71 8^R 8m
+  fae80 IFE YCC
+  fae8e ,buf is
+  faea9 ,Cap_MinCase
+  faeca 4RAW
+  faedb TAlphaBl
+  faef6 DieRaw
+  fb3b2 oEven
+  fb4ae  retry: %d,
+  fb873 (Cap AE
+  fb91f u  ISO
+  fb929  AWB
+  fb989 tAE IsoCompens
+  fb9a9 Real Gain
+  fbac8 6AE_
+  fbad0 .ISO_
+  fbde8 image
+  fc04d @[HDRL] 
+  fc1ff Uhae
+  fdaed <No pNandStr
+  fdea1  ISO
+  fdfae xPB_JpgBRC
+ 125aec (Ta!
+ 12aec2 CRAS
+ 12aef5 2.00.002
+ 12aefe Oct 08 2012, 14:40:01
+ 12be18 [HDR]
+ 12be2a GEN REV
+ 12bfb9 BRC_DEBUG_LEVEL_DISABLE
+
+===== NOVATEK / USB / HARDWARE =====
+  2c930 NOVATEK
+  2cbee POOL_ID_MSDCVENDOR
+  2d050 USBSICDEP3Tsk()
+  2d060 USBSICDTsk()
+  2d070 USBPccVideoTsk()
+  2d084 USBMSDC_StrgTsk()
+  2d098 USBSetupHalTsk()
+  2d0ac USBCtlStartTsk()
+  2d0e8 LensCtrlTsk()
+  2d0f8 PhotoDisplayTsk()
+  2d10c SieCapTsk()
+  2d178 DispRotateTsk()
+  2d9c4 SysGetDispRotateBuffSize() 0x%x
+  2d9e8 ^R[SysGetDispRotateAddr]: addr = 0x%x
+  3bda5 FLG_ID_USBTSK
+  3be05 FLG_ID_USBCLASS
+  3be15 FLG_ID_PHOTODISPLAY
+  3be4d FLG_ID_LENS
+  3be74 FLG_ID_DISPROTATE
+  3bf0b SEMID_USB
+  3bfb1 SEMID_SIE
+  3c03f SEMID_SENSOR
+  3c05e SEMID_DISPROT
+  3c4b8 DMA_CH_SIE0
+  3c4c4 DMA_CH_SIE1
+  3c4d0 DMA_CH_SIE2
+  3c4dc DMA_CH_SIE3
+  3ccbc ^RSIE-Mclk clock must not exceed 96Mhz!
+  3cce8 ^RSIE-PXCLK clock must not exceed 96Mhz!
+  3d0dc ^Rpinmux_configSensor(): no bus width assigned: 0x%lx
+  3d9a4 ^Rpinmux_init(): sensor, scanner BOTH enabled
+  3da00 ^Gpinmux_setDispPinmux(%d): NOT need to handle TV/HDMI
+  3da3c usb_initFOTG200(): sw reset timeout
+  3da64  USB driver is not opened !
+  3da84  USB driver is already opened !
+  3daa8 usb_open(): not contact
+  3dac4 usb_open(): VBUS removed
+  3dae0 usb_open(): open AMBA DMA fail
+  3db04 ^Rusb_open(): USB NOT support AHB 160MHz
+  3f61c Error dispdev_RegRead Op!
+  3f638 DispDev NO valid rotate!
+  40904 LENS_M: Lens_Module_Init
+  40920 LENS_E: %s param error!!
+  4093c Lens_Module_Init
+  40950 LENS_E: %s init part2 error!!
+  40970 Lens_Init
+  4097c LENS_E: %s: init wrong state = %d
+  409a0 LENS_M: Lens Retracting...
+  409c0 LENS_E: %s: fail state=%d
+  409dc Lens_Zoom_Goto
+  409ec Lens_Zoom_Goto2
+  409fc Lens_Zoom_In
+  40a0c Lens_Zoom_In2
+  40a1c Lens_Zoom_Out
+  40a2c Lens_Zoom_Out2
+  40a3c Lens_Zoom_Stop
+  40a4c LENS_E: %s fail state=%d
+  40a68 Lens_Zoom_GetBL
+  40a78 Lens_Zoom_DoBL
+  40a88 Lens_Focus_DoAction
+  40a9c Lens_Focus_DoAction2
+  40ab4 Lens_Focus_Goto2
+  40ac8 Lens_Focus_GotoHome
+  40adc Lens_Focus_GetBL
+  40af0 LENS_E: %s pMotor is null
+  40b0c LensCtrlTsk
+  40b18 lensFF: pMotor is null
+  40b4c lensFF: aperture goto wrong state=%d
+  40b74 lensFF: shutter goto wrong state=%d
+  41224 ^RDISPLAYDEV No Support!(%d)
+  41244 ^RDISPCTL No Support!(%d)
+  41260 ^RDISPLYR No Support!(%d)
+  412b0 Non of DISP1 DEV (%d)
+  412e8 Non of DISP1 REG WRITE (%d)
+  41308 Non of DISP1 Rotate (%d)
+  41368 Non of DISP1 REG READ (%d)
+  41388 ^RDISPDEV No Support!(%d)
+  413dc ^RDISPCTL2 No Support!(%d)
+  413fc ^RDISPLYR2 has only vdo1
+  41418 ^RDISPLYR2 Vdo1 can not disable!
+  4143c ^RDISPLYR2 No Support!(%d)
+  41490 Non of DISP2 DEV (%d)
+  414a8 ^MDISP2 can support PANEL only!
+  414cc Non of DISP2 REG WRITE (%d)
+  414ec Non of DISP2 Rotate (%d)
+  41550 Non of DISP1 REG READ (%d)
+  41570 ^RDISPDEV2 No Support!(%d)
+  a4698 USBS
+  a47ce USBC-
+  ce864 ?   : display help message
+  ced33 Lens Init
+  cedb9  msdc
+  cedc1 MSDC
+  cf0a9 >(c) 2011 Novatek Microelectronic Corp
+  cf358 USBEn
+  cf71d xDetUSB_return
+  cf72d a^R USB plugging i
+  cf787 usb_StateChange()
+  cf79b UUSB is connected to
+  cf7cf L usb
+  cf9fc [AppInitAVI]: uiSensorRecordS
+  cfc11 4_ZoomControl: Lens
+  cfe93 MenuUSB
+  d2034 _gsensor
+  d22e6  usb auto r
+  d22fc 3camera
+  d3203 $USB_Inf
+  d3218 	USB
+  d34fb GPIO_INT_USBPLUGIN
+  d39bc mUSB
+  f2ddf Gsensor_Test
+  f30bc Cover Lens
+  f4432 SIECAP TSK >Capture 
+  f49f9 @Display_WaitIdle
+  f58fc SIE 
+  f5ae2 aSensor
+  f5c7b @ => USB
+  f66de EMSDC:
+  f6757 NOVAUPccOpen: dis
+  f676b cUVC,
+  f67ab USBPccSet
+  f67f6 	-PCC
+  f685c Hg_fpSetPCC2CapRaw
+  f68d1 l[USBSICD_
+  f6905 busb
+  f6f5d Vchksie io
+  f7040 getsieraw
+  f704c pFPGA\SIE1.RAW
+  f725c 2Disp
+  f73f7 tSIE
+  f78d8 ln lens
+  f7903 8LensDrv (%s), M
+  f94d7 tusb_FIFO_EPxCfg
+  f94f0 5 USB
+  fa9e9 vdispdev
+  fabf4 Wneed SIE_CHOUT_EN
+  fac0a Lsie func
+  fac7b Sie sub
+  facc4 \sie HSCL_EN
+  faf71 XQV_DISPLA
+  fb356  Sie
+  fb38d 2SieCa
+  fb4ee @Sie 
+  fb9f4 !Cap Sie
+  fc33b (PTP
+  fdb3c DigitalCamera
+  fdc1a SIE_SLICE_MODE
+  fddcd zLens: S
+ 12b020 Novatek Company
+ 12b55c NOVATEK DIGITAL CAMERA
+ 12b574 !NTK96630
+ 12be73 Digital
+
+===== TASK / FUNCTION NAMES =====
+    828 clk_changeDMA(): pDMASetting is NULL
+    850 clk_changeCPUAHB(): driver closed
+    8d8 clk_powerdown(): driver closed
+  2c804 SysClk_SetClk enter
+  2c82c SysClk_SetClk leave
+  2c874 ramdsk_getStorageObject()
+  2c890 ==============================SysInit_InitBLInfo
+  2ca84 KeyScanTsk()
+  2ca91 CommandTsk()
+  2ca9e PlaySoundTsk()
+  2caad UIFrameworkTsk()
+  2cabe UIBackgroundTsk()
+  2cad0 CalibrationTsk()
+  2cc1e FW code (%ld) is too large for current setting
+  2cd40 ^R[Signal=%d], [type=%d], [tsk=%d]
+  2cd7c ^R Floating Point Lib[FPL] exception, [tsk=%d]
+  2cdb0 ^R NULL Function Call -Err- [TaskID=%d@0x%08X]
+  2cde4 ^RSWI_NUM=0x%08X[TaskID=%d @0x%08X] for SCF DBG
+  2cf7c ^YSWI_NUM=0x%08X[TaskID=%d @0x%08X]
+  2cfc8 ^RUndefined Inst[TaskID=%d @0x%08X]
+  2cff4 MediaAudioPlayTsk()
+  2d008 MediaVideoPlayTsk()
+  2d01c MediaPlayTsk()
+  2d02c RecVideoTsk()
+  2d03c AviRecManagerTsk()
+  2d050 USBSICDEP3Tsk()
+  2d060 USBSICDTsk()
+  2d070 USBPccVideoTsk()
+  2d084 USBMSDC_StrgTsk()
+  2d098 USBSetupHalTsk()
+  2d0ac USBCtlStartTsk()
+  2d0c0 AFTsk2()
+  2d0cc AFTsk()
+  2d0d4 AWBTsk()
+  2d0e0 AETsk()
+  2d0e8 LensCtrlTsk()
+  2d0f8 PhotoDisplayTsk()
+  2d10c SieCapTsk()
+  2d118 ImgSliceTsk()
+  2d128 Photo3rdTsk()
+  2d138 Photo2ndTsk()
+  2d148 Photo1stTsk()
+  2d158 PlaybackTsk()
+  2d168 FWRotate_Tsk()
+  2d178 DispRotateTsk()
+  2d188 FsBackground_Task()
+  2d19c WavStudioTsk()
+  2d1ac RawEncTsk()
+  2d1b8 MediaRecCmdTsk()
+  2d1cc MediaRecFSTsk()
+  2d1dc MediaAudioEncTsk()
+  2d1f0 MediaVideoRecTsk()
+  2d204 MediaRecTsk()
+  2d214 User TSK Config Fail, Ker Tsk Cnt=%d and Cur Tsk Cnt=%d
+  2d250 User task ID=%d duplicated
+  2d270 Define user task [%ld, %s] error [%ld]
+  2d29c User FLG Config Fail, Ker Flg Cnt=%d and Cur Flg Cnt=%d
+  2d324 User SEM Config Fail, Ker Sem Cnt=%d and Cur Sem Cnt=%d
+  2d3ac User MBX Config Fail, Ker MBX Cnt=%d and Cur MBX Cnt=%d
+  2d430 User FPL Config Fail, Ker FPL Cnt=%d and Cur FPL Cnt=%d
+  2d590 *********AppInit_Close
+  2d5e4 *********PlaySound_Close
+  2d688 mmmmmKeyScan_DetBatteryInSysInit
+  2d788 VOLDET ERR: Can't open ADC channel for flash detection
+  2d7c4 VOLDET ERR: Can't open ADC channel for battery detection
+  2d8bc UserPS: PStore open section fail
+  2d8e4 UserPS: Error opening %s
+  2d9c4 SysGetDispRotateBuffSize() 0x%x
+  2d9e8 ^R[SysGetDispRotateAddr]: addr = 0x%x
+  2da10 OnExe_NumReset(), DirNum = %d, FileNum = %d
+  2dabc FS NOT INIT
+  2dac8 FS INIT OK
+  2db14 [SetFSStatus]%d
+  2db28 [GetFSStatus]%d
+  2df1c [Save_MenuInfo]:Open PStore failed
+  2df45 [0;32mgCurrentMenuInfo.reset_poweron = %d
+  2df9c [Init_MenuInfo][PStore Read sys param fail]
+  2dfec 1===========key user setting is on=============
+  2e040 2===========key user setting is on=============
+  2ed7d printProofSetupObjc
+  2eda2 proofSetup
+  2f40e MsgeTEXT
+  2f4ee 	topOutsetlong
+  2f504 leftOutsetlong
+  2f51a bottomOutsetlong
+  2f532 rightOutsetlong
+  35b7a printProofSetupObjc
+  35b9f proofSetup
+  3620b MsgeTEXT
+  362eb 	topOutsetlong
+  36301 leftOutsetlong
+  36317 bottomOutsetlong
+  3632f rightOutsetlong
+  3bc90 null task()
+  3bc9c InitTsk()
+  3bca6 FilesysTsk()
+  3bcb3 PrimaryTsk()
+  3bcc0 OSCOMM:>STD App %s[ID=%d] configure error[=%d]
+  3bda5 FLG_ID_USBTSK
+  3be59 FLG_ID_EP3TSK
+  3c290 ^Rrot task par error!
+  3c300 drv_init
+  3c450 Palette entry exceed the total palette size! uiStart=%d  uiNumber=%d
+  3c6a8 Set[%d] addr(0x%08x)~(0x%08x)
+  3c7a4 ^RPLL1 Pre-Divider(uiPreDiv) can only set 0x01!
+  3c7d8 ^RPLL1 must be disabled before been set!!!! PLL1 is OFF!!!!
+  3c818 ^RPLL1 configured frequency is out of range(300-700)!  uiLoopDiv=%d
+  3c8d4 ^RPLL2 must be disabled before been set!!!! PLL2 is OFF!!!!
+  3c944 ^RPLL2 must be disabled before pll_setPLL2Sspll
+  3c978 ^Rpll_setPLL2Sspll: should NOT be legacy mode
+  3c9a8 ^RPLL2 must be disabled before pll_setPLL2SpreadSpectrum
+  3c9e4 ^Rpll_setPLL2SpreadSpectrum: lower bound %d should between 426~618MHz
+  3ca2c ^Rpll_setPLL2SpreadSpectrum: upper bound %d should between 426~618MHz
+  3cac0 ^Rpll_setPLL2SpreadSpectrum: actual lower freq %d Hz is not equal to target %d Hz
+  3cb14 ^Rpll_setPLL2SpreadSpectrum: actual upper freq %d Hz is not equal to target %d Hz
+  3cb68 ^pll_setPLL2Fractional: target %d should between 426~618MHz
+  3cba8 ^pll_setPLL2Fractional: actual freq %d Hz is not equal to target %d Hz
+  3cc1c Non-supported Clk Rate offset! (%d)
+  3cd8c Target(%d) freq can not be divided with no remainder! Result is %dHz.
+  3cdd4 pll_setLDO(): ldoID out of range: 0x%lx
+  3ce00 pll_setLDO(): outVoltage out of range: 0x%lx
+  3ce30 pll_setLDOEn(): ldoID out of range: 0x%lx
+  3ce5c pll_getLDOEn(): ldoID out of range: 0x%lx
+  3cea8 RTC: trigger CSET when CSET isn't done
+  3cf34 RTC: Driver is not opened
+  3d080 ^Rpinmux_configNAND(): conflict with SPI
+  3d0ac ^Rpinmux_configNAND(): invalid config: 0x%lx
+  3d0dc ^Rpinmux_configSensor(): no bus width assigned: 0x%lx
+  3d114 ^Rpinmux_configScanner(): invalid bus width: 0x%lx
+  3d14c ^Rpinmux_configScanner(): PXCLK already active
+  3d180 ^Rpinmux_configScanner(): MCLK already active
+  3d1b0 ^Rpinmux_configI2C(): invalid config: 0x%lx
+  3d1e0 ^Rpinmux_configSIF(): invalid config: 0x%lx
+  3d210 ^Rpinmux_configUART(): DGPIO1 already assigned to STROBE: 0x%lx
+  3d254 ^Rpinmux_configUART(): PWM0 already assigned: 0x%lx
+  3d28c ^Rpinmux_configUART(): PWM1 already assigned: 0x%lx
+  3d2c4 ^Rpinmux_configUART(): SN_VD already assigned to VD: 0x%lx
+  3d304 ^Rpinmux_configUART(): SN_HD already assigned to HD: 0x%lx
+  3d344 ^Rpinmux_configUART(): invalid config: 0x%lx
+  3d374 ^Rpinmux_configPWM(): PWM0 already assigned: 0x%lx
+  3d3ac ^Rpinmux_configPWM(): DGPIO0 already assigned: 0x%lx
+  3d3e4 ^Rpinmux_configPWM(): PWM1 already assigned: 0x%lx
+  3d41c ^Rpinmux_configPWM(): PWM2 already assigned: 0x%lx
+  3d454 ^Rpinmux_configLCD(): invalid locate: 0x%lx
+  3d484 ^Rpinmux_configLCD2(): invalid locate: 0x%lx
+  3d4b4 ^Rpinmux_configTV(): invalid config: 0x%lx
+  3d4e4 ^Rpinmux_configHDMI(): invalid config: 0x%lx
+  3d608 ^Rpinmux: invalid primary LCD config: 0x%lx
+  3d664 ^Rpinmux: invalid storage LCD config: 0x%lx
+  3d978 ^Rpinmux_init(): SPI, NAND BOTH enabled
+  3d9a4 ^Rpinmux_init(): sensor, scanner BOTH enabled
+  3d9d4 ^Rpinmux_init(): pConfig context error
+  3da00 ^Gpinmux_setDispPinmux(%d): NOT need to handle TV/HDMI
+  3da3c usb_initFOTG200(): sw reset timeout
+  3da64  USB driver is not opened !
+  3da84  USB driver is already opened !
+  3daa8 usb_open(): not contact
+  3dac4 usb_open(): VBUS removed
+  3dae0 usb_open(): open AMBA DMA fail
+  3db04 ^Rusb_open(): USB NOT support AHB 160MHz
+  3dbf8 norps_setSectionHead:Out of section range %d
+  3df28 norps_setSectionHead:Fail in write section header
+  3e158 [Storage Error]Storage is processing, but FilesysTsk doesn't do any command
+  3e1e4 No open file
+  3e1f4 FST : GetFileTime2, Busy.
+  3e240 Set Segment Size is 16KB align %d 
+  3e268 Set Segment Size is Out of Range %d 
+  3e290 CMD: 0x%x ,Check FileSysInValidAbortCmd Used 
+  3e2e0 PS: Get access right fail
+  3e454 No more free section handle for open
+  3e4bc PS: PStore has not been init.
+  3e4dc PStore_OpenSection: Found Error Name
+  3e504 PS: Section has opened(Section Name%x) Retry:%d
+  3e538 PS: Section has opened(Section Name%x), and no more retry
+  3e6a8 PS: PStore has not opened yet.
+  3e708 PS: Section has not opened yet.(Section Name:%x) 
+  3e73c PS: Section was not opened for read operation.(Section Name:%x) 
+  3e780 PS: PStore has not been opened yet.
+  3e80c PS: Section has not been opened yet.(Section Name:%x) 
+  3e848 PS: Section was not opened for write operation.(Section Name:%x) 
+  3e8f0 Set PStore Error 0x%x 
+  3e928 Set PStore Out of range 0x%x , 0x%x 
+  3e9d4 ^R[JpegEncOnePic] jpeg_open() error
+  3ea64 ^R[JpegEncOnePic] User Defined Lineoffset is smaller than image width
+  3eaac ^R[JpegEncOnePic] User Defined Lineoffset is not word alignment
+  3eaf0 ^R[JpegEncOnePic] Error! DC Mode Setting
+  3ebc4 ^R[JpegEncOnePic] jpeg_close() error
+  3ebec [JpegWaitChannelDone] jpeg_close() error
+  3ed5c ^MGetF[%d]
+  3ed98 ^RJPG_ENC: [JpegGetDCOutConfig] Error! Frame Size = %d x %d, Panel Size = %d x %d
+  3edec ^RJPG_ENC: [JpegGetDCOutConfig] Parameter Error! YUVFormat = %x
+  3ee74 g_brcParam.TargetByte
+  3ef20 ^M gVidBrcMode=0x%x, gTargetFrameSize=%d, Default QF=%d, gBRCWeighting=%d/%d, gMaxValidFrameSize=%d
+  3f030 ^RJPG_ENC: [JpegEncVidConfig] Error! YUVFormat %d
+  3f0f0 ^R[JpegEncOneChannel] jpeg_open() error
+  3f11c ^R[JpegEncOneChannel] jpeg_setEncodeQTabHW() error
+  3f154 ^R[JpegEncOneChannel] jpeg_setFileFormatHW() error
+  3f18c ^R[JpegEncOneChannel] jpeg_setCmpStartAddr() error
+  3f1c4 ^R[JpegEncOneChannel] User Defined Lineoffset is smaller than image width
+  3f210 ^R[JpegEncOneChannel] User Defined Lineoffset is not word alignment
+  3f258 ^R[JpegEncOneChannel] jpeg_setEnableInt() error
+  3f2a0 ^R[JpegEncSetData]JPG_TARGET_SIZE_UPPER_BOUND parameter error!
+  3f2e0 ^R[JpegEncSetData]JPG_TARGET_SIZE_LOWER_BOUND parameter error!
+  3f320 ^R[JpegEncSetData]JPG_MAX_VALID_FRAME_SIZE_RATIO parameter error!
+  3f364 ^R[JpegEncSetData]JPG_BRC_WEIGHTING should NOT be greater than %d.
+  3f3a8 [JpegEncSetData]attribute error
+  3f3c8 [JpegEncGetData]attribute error
+  3f414 ^R[JpegEstimateBitRate] jpeg_open() error
+  3f440 ^R[JpegEstimateBitRate] jpeg_setCmpStartAddr() error
+  3f478 ^R[JpegEstimateBitRate] jpeg_setImgLineOffsetByte() error
+  3f4b4 ^R[JpegEstimateBitRate] jpeg_setEnableInt() error
+  3f52c ^RJPG_ENC: [JpegEstimateBitRate] Error! jpeg_close()
+  3f578 Performance Timer is already opened!
+  3f5a0 Can't Open the Performance Timer
+  40904 LENS_M: Lens_Module_Init
+  4093c Lens_Module_Init
+  40950 LENS_E: %s init part2 error!!
+  40970 Lens_Init
+  4097c LENS_E: %s: init wrong state = %d
+  40a3c Lens_Zoom_Stop
+  40a68 Lens_Zoom_GetBL
+  40adc Lens_Focus_GetBL
+  40b0c LensCtrlTsk
+  40b9c motorPSEUDO_init already
+  40bb8 SPI flash: get devInfo: driver not opened
+  40be4 SPI flash: get devInfo: Manufacture ID dosen't support. MFG ID:0x%lx, Device ID:0x%lx
+  40c3c SPI flash: close: wait ready timeout
+  40c64 SPI flash: eraseChip: driver not opened
+  40d58 SPI flash: eraseSector: driver not opened
+  40e50 SPI flash: program: driver not opened
+  40ef4 SPI flash: read: driver not opened
+  40f1c STD Tsk Config Fail, Ker Tsk Cnt=%d and Cur STD Tsk Cnt=%d
+  40f5c Define STD task [%ld, %s] error [%ld]
+  40f84 STD Flg Config Fail, Ker Flg Cnt=%d and Cur STD Flg Cnt=%d
+  41008 STD sem Config Fail, Ker Sem Cnt=%d and Cur Sem Cnt=%d
+  41090 STD MBX Config Fail, Ker MBX Cnt=%d and Cur MBX Cnt=%d
+  41114 STD FPL Config Fail, Ker FPL Cnt=%d and Cur FPL Cnt=%d
+  411ec Dev1 has not closed!
+  41204 SET_DEVICE no support! (%d)
+  4127c ^RPrevious dev1 has not closed!
+  413a4 Dev2 has not closed!
+  4145c ^RPrevious dev2 has not closed!
+  41644 SPI: open: lock fail
+  4165c SPI: open: pre set flag fail
+  4167c SPI: init: clock divider > 256: 0x%lx
+  416a4 SPI: init: clock divider <= 4: 0x%lx
+  416cc SPI: init: not support SPI slave mode
+  416f4 SPI: init: not CS active HIGH
+  41714 SPI: init: incorrect mode: 0x%lx
+  41738 SPI: init: incorrect pinmux: 0x%lx
+  41784 SPI: setTransferLen: incorrect length: 0x%lx
+  4188c SPI: starting address must be word aligment!!
+  41d0c [JPGDRV][jpeg_setImgLineOffsetByte] Error! YLOFS %d, ULOFS %d, VLOFS %d
+  41d58 [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X, YLOFS %d < ImageWidth %d
+  41db0 [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X, ULOFS %d < ImageWidth/2 %d
+  41e0c [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X, VLOFS %d < ImageWidth/2 %d
+  41e68 [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X
+  41fd0 [JPGDRV][jpeg_setRestartEOF] Error! Not find 0xFFDX
+  42008 [JPGDRV][jpeg_setDCOut] Error! DCYLineOffset %d, DCULineOffset %d, DCVLineOffset %d
+  42060 [JPGDRV][jpeg_setDCOut] Error! DCYLineOffset Update %d
+  4209c [JPGDRV][jpeg_setDCOut] Error! DCULineOffset Update %d
+  420d8 [JPGDRV][jpeg_setDCOut] Error! DCVLineOffset Update %d
+  42114 [JPGDRV][jpeg_setDCOut] Error! DCEnable %d
+  4242c ^R[ ime_getEngineInformation ] - Error - No such a case to get IME engine Informaion %d...
+  424e4 [ ime_cal_StripeWithSliceHeight ] - Doubt for IME Slice Height setting may be due to output size of vertical smaller than the Slice-Height
+  42574 ^R[ ime_setStripeInfo ] - Warning - IME ST_HN overflow ...
+  425b4 ^R[ ime_setStripeInfo ] - Warning - IME ST_HL overflow ...
+  425f4 ^R[ ime_setStripeInfo ] - Warning - IME ST_HM overflow ...
+  42634 ^R[ ime_setStripeInfo ] - Error - IME ST_VN error ...
+  4266c ^R[ ime_setStripeInfo ] - Error - IME ST_VL error ...
+  426a4 ^R[ ime_setStripeInfo ] - Error - IME ST_VN overflow ...
+  426e0 ^R[ ime_setStripeInfo ] - Error - IME ST_VL overflow ...
+  4271c ^R[ ime_setStripeInfo ] - Error - IME ST_VM overflow ...
+  42758 ^R[ ime_setInputImageInfo ] - Error - IPE direct to IME does not support YCC420 format ...
+  427b8 ^R[ IME Engine ] - Error - Horizontal stripe setting do not match with the width size of input image (multi-stripe mode) ...
+  42838 ^R[ IME Engine ] - Error - Vertical stripe setting do not match with the height size of input image (multi-stripe mode) ...
+  428b8 ^R[ IME Engine ] - Error - Horizontal stripe setting do not match with the width size of input image (single-stripe mode) ...
+  42938 ^R[ IME Engine ] - Error - Vertical stripe setting do not match with the height size of input image (single-stripe mode) ...
+  429b8 ^R[ IME Engine ] - Current stripe Setting Mode is STRIPE_AUTO_MODE ...
+  42a04 ^R[ IME Engine ] - Current stripe Setting Mode is STRIPE_USER_MODE, please apply API ime_setUserStripeInfo() for stripe setting ...
+  42a8c ^R[ ime_setInputLineoffsetInfo ] - Error - Input lineoffset of Y channel overflow, and please double check it
+  42afc ^R[ ime_setInputLineoffsetInfo ] - Error - Input lineoffset of Cb channel overflow, and please double check it
+  42b70 ^R[ ime_setInputLineoffsetInfo ] - Error - Input lineoffset of Cr channel overflow, and please double check it
+  42be4 ^R[ ime_setMode ] - Error - Input lineoffset of Y channel DO NOT the multiple of 4, and please double check it
+  42c58 ^R[ ime_setMode ] - Error - Input lineoffset of Cb channel DO NOT the multiple of 4, and please double check it
+  42ccc ^R[ ime_setMode ] - Error - Input lineoffset of Cr channel DO NOT the multiple of 4, and please double check it
+  42d40 ^R[ ime_setOutputDMAAddrInfo ] - Error - Output DMA address info NULL
+  42d88 ^R[ ime_setOutputDMAAddrInfo ] - Warning - Ouput DMA channel 0 address Cb and Cr LSB 2 bits must be the same !!!
+  42dfc ^R[ ime_setOutputDMAAddrInfo ] - Warning - Ouput DMA channel 1 address Cb and Cr LSB 2 bits must be the same !!!
+  42e70 ^R[ ime_setOutputDMAAddrInfo ] - Warning - Ouput DMA channel 2 address Cb and Cr LSB 2 bits must be the same !!!
+  42ee4 ^R[ ime_setOutputDMAAddrInfo ] - Warning - Ouput DMA channel 3 address Cb and Cr LSB 2 bits must be the same !!!
+  42f58 ^R[ ime_setOutputDMAAddrInfo ] - Warning - Ouput DMA channel 4 address Cb and Cr LSB 2 bits must be the same !!!
+  42fcc ^R[ ime_setOutputLineoffsetInfo ] - Error - Parameter NULL, and please double check it
+  43028 ^R[ ime_setOutputLineoffsetInfo ] - Error - Output lineoffset of Y channel overflow, and please double check it
+  4309c ^R[ ime_setOutputLineoffsetInfo ] - Error - Output lineoffset of Cb channel overflow, and please double check it
+  43110 ^R[ ime_setOutputLineoffsetInfo ] - Error - Output lineoffset of Cr channel overflow, and please double check it
+  43184 ^R[ ime_setMode ] - Error - Output lineoffset of Y channel DO NOT the multiple of 4, and please double check it
+  431f8 ^R[ ime_setMode ] - Error - Output lineoffset of Cb channel DO NOT the multiple of 4, and please double check it
+  4326c ^R[ ime_setMode ] - Error - Output lineoffset of Cr channel DO NOT the multiple of 4, and please double check it
+  432e0 ^R[ ime_setChangeIOImageInfo ] - Error - User horizontal scaling down rate overflow (setting value = %d) , and please double check it
+  43368 ^R[ ime_setChangeIOImageInfo ] - Error - User horizontal output size overflow (setting value = %d) , and please double check it
+  433ec ^R[ ime_setChangeIOImageInfo ] - Error - User vertical scaling down rate overflow (setting value = %d) , and please double check it
+  43474 ^R[ ime_setChangeIOImageInfo ] - Error - User vertical output size overflow (setting value = %d) , and please double check it
+  434f4 ^R[ ime_setScaleFilering ] - Error - Horizontal scale filtering parameter NULL
+  43548 ^R[ ime_setScaleFilering ] - Warning - Horizontal scale filtering coefficient overflow : %d, and replaced as max value %d
+  435c4 ^R[ ime_setScaleFilering ] - Warning - Vertical scale filtering coefficient overflow : %d, and replaced as max value %d
+  43674 ^R[ ime_setColorSpaceTransform ] - Error - Parameter NULL
+  436b0 ^R[ ime_setColorSpaceTransform ] - Error - Programable Parameters NULL
+  436fc ^R[ ime_setColorSpaceTransform ] - Warning - Coefficient value overflow : %d, and replaced as max value %d
+  4376c ^R[ ime_setChromaFilter ] - Warning - Horizontal average filter coefficient overflow : %d, and replaced as max value %d
+  437e8 ^R[ ime_setChromaFilter ] - Warning - Horizontal average filter threshold overflow : %d, and replaced as max value %d
+  43860 ^R[ ime_setCurveMappingLUT ] - Warning - Curve Mapping LUT value overflow LUT[%d] : %d, and replaced as max value %d
+  438d8 ^R[ ime_setCurveMappingParam ] - Error - Curve mapping parameter NULL
+  43920 ^R[ ime_setCurveMappingParam ] - Warning - Curve mapping center setting value overflow : %d, and replaced as default value 128
+  439a4 ^R[ ime_setCurveMappingParam ] - Warning - Curve mapping center setting value overflow : %d, and replaced as default value 128 ...
+  43a2c ^R[ ime_setFilmGrain ] - Warnging - File grain weighting value overflow : %d, and replaced as max value %d
+  43a9c ^R[ ime_setFilmGrain ] - Warnging - File grain initial value overflow : %d, and replaced as max value %d
+  43b08 ^R[ ime_setStart ] - Correct status : %d or %d
+  43b3c ^R[ ime_setStart ] - Current status : %d
+  43b68 ^R[ ime_setStart ] - State Machine error ...
+  43b98 ^R[ ime_setReset ] - Error - IME is in busy ...
+  43bcc ^R[ ime_setReset ] - Correct State : %d or %d
+  43bfc ^R[ ime_setReset ] - Current State : %d
+  43c28 ^R[ ime_setReset ] - State Machine Error ...
+  43c58 ^R[ime_open] - IME Re-opened...
+  43c7c ^R[ ime_open ] - Correct State : %d
+  43ca4 ^R[ ime_open ] - Current State : %d
+  43ccc ^R[ ime_open ] - IME State Machine Error ...
+  43d88 ^R[ ime_chgParam ] - Error - Color Space Transformation Parameters setting error ...
+  43de0 ^R[ ime_chgParam ] - Error - Chroma Filter Parameters setting error  ...
+  43fe8 ^R[ ime_setMode ] - Correct State : %d
+  44014 ^R[ ime_setMode ] - Current State : %d
+  44040 ^R[ ime_setMode ] - State Machine error ...
+  44070 ^R[ ime_setMode ] - Warning - Output path selection error, replacing as default. Please check, thank you...
+  440e0 ^R[ ime_setMode ] - Error - Slice Mode DO NOT support RGB888 packing format ...
+  44134 ^R[ ime_setMode ] - Error - Processing mode setting error, no such a mode : %d
+  44188 ^R[ ime_setMode ] - Error - If color space transform, the output path of IME can not be ONLY Y CHANNEL OUTPUT ...
+  44378 ^R[ ime_close ] - IME engine was already closed, can not close again ...
+  443c4 ^R[ ime_close ] - Correct State : %d or %d
+  443f4 ^R[ ime_close ] - Current State : %d
+  4441c ^R[ ime_close ] - State Machine Error ...
+  44448 ^R[ ime_getOutputDMAAddrInfo_P1 ] - Error - OPPB ID error
+  44484 ^R[ ime_getOutputPath1Add ] - Error - Get output buffer address error ...
+  ce90b %Benchmark : get buffer
+  cea72 sett
+  ced33 Lens Init
+  ced97 setup
+  cee07 ps init
+  ceedd Stop
+  cef18 0set
+  cef45 hset
+  cf57a <Set h
+  cf5d8 mGet_NVTCMD:
+  cf5f8 <KeyScanTsk 2222
+  cf9a0 ctask
+  cf9fc [AppInitAVI]: uiSensorRecordS
+  cfb18 @Open(%d) +++
+  cfb2f Close
+  cfc27 _Stop
+  cfc45 "OOM_CTRL_
+  cfccf _GetData]no this attribute
+  cfe10 REC STOP
+  cfe4a 4 PB_WAIT_INFINITE
+  d1cbe  FlowMovie_StartRec: Not yet,g_MovSelfTimerSec
+  d1cf7 wSysGetFlag(FL_DCF_FILE_ID)
+  d1d84 GetP
+  d1e5d `	`	 N N NReset
+  d1e8d `open file %s
+  d20c0 srtc_getPwrOnSource(
+  d210c pClose
+  d244f core_init fail
+  d2b12 t^GSET
+  d2b5f [0;32mDCF_Set
+  d31b5 COnOpen g_ui
+  d385f setdatel
+  f2f6a !Get dpfect pixel buffer error!!
+  f2f97 Pstore open to read FAIL
+  f328b MediaRecSetVAmemoryAddr: 
+  f32d4 iopen, changing parameter
+  f3319 ,start
+  f33c9 Hset Cutsec
+  f340e _open
+  f3416 XOpen( )
+  f34c9 Stop
+  f34d3 stop:READY
+  f3635 get: vidB
+  f3682 Ustop
+  f37fd TCmd task
+  f3810 CMD:
+  f3838 <CMD idle
+  f3860 ,SET
+  f39a1 uaud, vid close
+  f39e9 INEED SetInfo()
+  f3a2f pGetActVideo
+  f3a66 |ENC_SETINFO_ENCODEBUF a
+  f3ab4 hset FRAMERATE %d
+  f3b61 \_H264ENC_Init
+  f3c5b @GetAudioBufSize:valu
+  f3d85 ySetGPSData ADDR ZERO
+  f3ebe (cmdok
+  f3ec7 `FScmd endF
+  f403f  CANOT CLOSE
+  f40f0 setM
+  f4112 (EC_RESET
+  f41ed tGetTop
+  f4222 	 Please set TBR firstl
+  f43be SliceTsk_N
+  f43e8 4FLGSLICETSK1_FSTFAIL  222 
+  f4432 SIECAP TSK >Capture 
+  f4504 ~CMDOK
+  f4788 PLAYTASK
+  f4919 MOVREC_OPEN
+  f4981 ntsk -
+  f49b9 Fconfig
+  f49e8 	EFWCTRL
+  f4a29 =fwctrlBufidx
+  f4a6f oTsk
+  f4a7f 4AFTSK ERR:CAF
+  f4b06  Get
+  f4b22 XSN_GET:
+  f4b74 B_SetIMEIDE
+  f4b93 $offset
+  f4c0d 8 Task
+  f4d76 (set 
+  f4e68 ,set
+  f4f36 GetFocusedWindow()
+  f5000 GetRoot
+  f51b7 0Get 
+  f51f5 	PInit: 
+  f5348 (GetCapabilit
+  f5d11 VA set
+  f5d21 |setSat()
+  f5fc2 SetSpecial
+  f611f on get
+  f6217  Moving - Open Src
+  f6287 eSet A
+  f6347 \setLab
+  f6407 8Set
+  f643d LGetDCFNumCache
+  f66c2 	DOp_CheckCmd
+  f6700 _CLOSE:
+  f6757 NOVAUPccOpen: dis
+  f67ab USBPccSet
+  f6811 Tsk:
+  f685c Hg_fpSetPCC2CapRaw
+  f68bc Usicd_openN
+  f6a74 _Set
+  f6e04 Td, target SR:
+  f7040 getsieraw
+  f70ee fGet 
+  f7139 gets
+  f72fc Start
+  f7418 Stop
+  f742e /stop!
+  f75f0 )GetSubOutRGBinfo
+  f7675 tSetMode
+  f76fb _Init
+  f7860 AObj->uiCmd
+  f79cd zinit1
+  f7e4d 8GetCAResult
+  f7eb8 Llg_get
+  f7f56 DPOF_SetQty: d
+  f820d lget
+  f8375 wRSP_CONFIGURE_
+  f83a4 "XGET_CAPABILITY
+  f89a8 X%d: CMD=0x%x,St
+  f8ad8 (get
+  f8b21 <(CMD6)
+  f8b52 lget
+  f8b88 <CMD55
+  f8b90 \ACMD%d
+  f8bff Dopen: installed
+  f8c81  CMD8 ech
+  f8cb1  Get OCR tm
+  f8ce3  get/set 
+  f8e68 tcmd13
+  f8f7d _SD_STOP_TRANSMISSION
+  f8f98 8STOP
+  f933a hset
+  f93a8 FCMD20:		
+  f95e3 ,setEPinStall
+  f965e `getEP
+  f97cb 4fat_Get
+  f9bb1 4Set
+  f9bf9 8T_CMDSys
+  f9e6b tCF_GetOneTyp
+  fa39c 8set
+  fa417 4OM_get
+  fa4ba \linkInit:head< e
+  fa595 \:Set dateti
+  fa658 (OpenS
+  fa682 @_ALREADY_OPEN
+  fa80c :--GET_RES
+  fa896 d#SetCancelReq
+  fa932 	$set
+  fad03 HPBUFFER: ippbuf_SetBuf:
+  fb0da pDcout_TrigCtrl
+  fb11c 	PSet
+  fb14a <FOpen
+  fb1a7 tPCTRL_
+  fb217 8IPPctrl
+  fb267 Close2
+  fb3e6 ,GetIMEJPGAddr
+  fb575 lgetHisto
+  fb808 Set2
+  fbffb $N_SET_ALL
+  fdaaf HOpen/
+  fdc0a 4SetPrv
+  fdd90 @GetReg
+
+===== VERSION / BUILD =====
+     50 NT96220 0.46.00020110211(
+    850 clk_changeCPUAHB(): driver closed
+    8d8 clk_powerdown(): driver closed
+  2ce74 ^R[%s] ID=%d stack overflow!!
+  2db79 [0;32m	IsUpdateFW   	: %d
+  2dc1d [0;32m	BL Date	  	: %s
+  2dc3d [0;32m	BL Ver	  	: %s
+  2dcc8 UI_Validate_Storage: The 999DIR is existing!
+  2dcf8 UI_Validate_Storage: 999-9999 is existing!
+  2dd30 UI_Validate_Storage: The 999DIR is %s, no valid DCF folder id avaliable!
+  2dd94 UI_Validate_Storage: %s is READONLY.
+  2ddbc UI_Validate_Storage: STORAGE FULL!
+  2dde4 UI_Validate_Storage: MovRec_Disk2Second():%d !
+  2de18 UI_Validate_Storage: STORAGE ERR! - %s (0x%x)
+  2de48 UI_Validate_Storage: CARD LOCKED!
+  2de6c UI_Validate_Storage: STORAGE ERR! - %s (0x%x)   size: %ld 
+  2debc UI_Validate_Storage: Unknown storage check item 0x%x
+  2e184 2018:04:11 18:35:29
+  2f48f 	vertAlignenum
+  2f4a1 ESliceVertAlign
+  2f710 Copyright (c) 1998 Hewlett-Packard Company
+  2f748 sRGB IEC61966-2.1
+  2f765 sRGB IEC61966-2.1
+  2f887 .IEC 61966-2.1 Default RGB colour space - sRGB
+  2f8c0 .IEC 61966-2.1 Default RGB colour space - sRGB
+  2f90f ,Reference Viewing Condition in IEC61966-2.1
+  2f946 ,Reference Viewing Condition in IEC61966-2.1
+  30e64 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        ">
+  30ed3 	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  30f17 		<rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:DocumentID="F6289A1CCBAC5F40F082ECFF46207735" xmpMM:InstanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" xmpMM:OriginalDocumentID="F6289A1CCBAC5F40F082ECFF46207735" dc:format="image/jpeg" photoshop:ColorMode="3" xmp:CreateDate="2018-04-11T09:55:45+08:00" xmp:ModifyDate="2018-04-11T18:35:29+08:00" xmp:MetadataDate="2018-04-11T18:35:29+08:00">
+  311b1 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7AC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  3127f 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  313a3 					<rdf:li>F6289A1CCBAC5F40F082ECFF46207735</rdf:li>
+  31960                                                                                                     
+  32056 p''=
+  34f81 2018:04:11 18:35:29
+  3628c 	vertAlignenum
+  3629e ESliceVertAlign
+  3650d Copyright (c) 1998 Hewlett-Packard Company
+  36545 sRGB IEC61966-2.1
+  36562 sRGB IEC61966-2.1
+  36684 .IEC 61966-2.1 Default RGB colour space - sRGB
+  366bd .IEC 61966-2.1 Default RGB colour space - sRGB
+  3670c ,Reference Viewing Condition in IEC61966-2.1
+  36743 ,Reference Viewing Condition in IEC61966-2.1
+  37c61 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        ">
+  37cd0 	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  37d14 		<rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:DocumentID="F6289A1CCBAC5F40F082ECFF46207735" xmpMM:InstanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" xmpMM:OriginalDocumentID="F6289A1CCBAC5F40F082ECFF46207735" dc:format="image/jpeg" photoshop:ColorMode="3" xmp:CreateDate="2018-04-11T09:55:45+08:00" xmp:ModifyDate="2018-04-11T18:35:29+08:00" xmp:MetadataDate="2018-04-11T18:35:29+08:00">
+  37fae 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7AC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  3807c 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  381a0 					<rdf:li>F6289A1CCBAC5F40F082ECFF46207735</rdf:li>
+  3c3fc Horizontal Scaling down ratio over 2!  
+  3c428 Vertical Scaling down ratio over 2!  
+  3c690 Overwrite by %s(%d)
+  3c6c8 Mem Overwrite by %s
+  3cf34 RTC: Driver is not opened
+  3da64  USB driver is not opened !
+  3da84  USB driver is already opened !
+  3e2c0 PS: Release access right fail
+  3e998 ^BQF overflow,StdQ %d->%d
+  3ed1c ^R buffer overflow
+  3ed34 ^R BitStream overlap!!! BS=0x%x,F[%d]
+  3f094 ^RJPG_ENC: [JpegEncUpdateHDR] Error! YUVFormat %d
+  40bb8 SPI flash: get devInfo: driver not opened
+  40c64 SPI flash: eraseChip: driver not opened
+  40d58 SPI flash: eraseSector: driver not opened
+  40e50 SPI flash: program: driver not opened
+  40ef4 SPI flash: read: driver not opened
+  41908 SPI: readSingle: rx buffer is NULL
+  41930 SPI: writeReadSingle: rx buffer is NULL
+  41fa8 [JPGDRV] Error! slice buffer overflow
+  42008 [JPGDRV][jpeg_setDCOut] Error! DCYLineOffset %d, DCULineOffset %d, DCVLineOffset %d
+  42060 [JPGDRV][jpeg_setDCOut] Error! DCYLineOffset Update %d
+  4209c [JPGDRV][jpeg_setDCOut] Error! DCULineOffset Update %d
+  420d8 [JPGDRV][jpeg_setDCOut] Error! DCVLineOffset Update %d
+  422a0 ^RY channel overflow%s
+  422bc ^RCb channel overflow%s
+  422d8 ^RCr channel overflow%s
+  424e4 [ ime_cal_StripeWithSliceHeight ] - Doubt for IME Slice Height setting may be due to output size of vertical smaller than the Slice-Height
+  42574 ^R[ ime_setStripeInfo ] - Warning - IME ST_HN overflow ...
+  425b4 ^R[ ime_setStripeInfo ] - Warning - IME ST_HL overflow ...
+  425f4 ^R[ ime_setStripeInfo ] - Warning - IME ST_HM overflow ...
+  426a4 ^R[ ime_setStripeInfo ] - Error - IME ST_VN overflow ...
+  426e0 ^R[ ime_setStripeInfo ] - Error - IME ST_VL overflow ...
+  4271c ^R[ ime_setStripeInfo ] - Error - IME ST_VM overflow ...
+  42838 ^R[ IME Engine ] - Error - Vertical stripe setting do not match with the height size of input image (multi-stripe mode) ...
+  42938 ^R[ IME Engine ] - Error - Vertical stripe setting do not match with the height size of input image (single-stripe mode) ...
+  42a8c ^R[ ime_setInputLineoffsetInfo ] - Error - Input lineoffset of Y channel overflow, and please double check it
+  42afc ^R[ ime_setInputLineoffsetInfo ] - Error - Input lineoffset of Cb channel overflow, and please double check it
+  42b70 ^R[ ime_setInputLineoffsetInfo ] - Error - Input lineoffset of Cr channel overflow, and please double check it
+  43028 ^R[ ime_setOutputLineoffsetInfo ] - Error - Output lineoffset of Y channel overflow, and please double check it
+  4309c ^R[ ime_setOutputLineoffsetInfo ] - Error - Output lineoffset of Cb channel overflow, and please double check it
+  43110 ^R[ ime_setOutputLineoffsetInfo ] - Error - Output lineoffset of Cr channel overflow, and please double check it
+  432e0 ^R[ ime_setChangeIOImageInfo ] - Error - User horizontal scaling down rate overflow (setting value = %d) , and please double check it
+  43368 ^R[ ime_setChangeIOImageInfo ] - Error - User horizontal output size overflow (setting value = %d) , and please double check it
+  433ec ^R[ ime_setChangeIOImageInfo ] - Error - User vertical scaling down rate overflow (setting value = %d) , and please double check it
+  43474 ^R[ ime_setChangeIOImageInfo ] - Error - User vertical output size overflow (setting value = %d) , and please double check it
+  43548 ^R[ ime_setScaleFilering ] - Warning - Horizontal scale filtering coefficient overflow : %d, and replaced as max value %d
+  435c4 ^R[ ime_setScaleFilering ] - Warning - Vertical scale filtering coefficient overflow : %d, and replaced as max value %d
+  436fc ^R[ ime_setColorSpaceTransform ] - Warning - Coefficient value overflow : %d, and replaced as max value %d
+  4376c ^R[ ime_setChromaFilter ] - Warning - Horizontal average filter coefficient overflow : %d, and replaced as max value %d
+  437e8 ^R[ ime_setChromaFilter ] - Warning - Horizontal average filter threshold overflow : %d, and replaced as max value %d
+  43860 ^R[ ime_setCurveMappingLUT ] - Warning - Curve Mapping LUT value overflow LUT[%d] : %d, and replaced as max value %d
+  43920 ^R[ ime_setCurveMappingParam ] - Warning - Curve mapping center setting value overflow : %d, and replaced as default value 128
+  439a4 ^R[ ime_setCurveMappingParam ] - Warning - Curve mapping center setting value overflow : %d, and replaced as default value 128 ...
+  43a2c ^R[ ime_setFilmGrain ] - Warnging - File grain weighting value overflow : %d, and replaced as max value %d
+  43a9c ^R[ ime_setFilmGrain ] - Warnging - File grain initial value overflow : %d, and replaced as max value %d
+  449d4 GPS: version = 0x%X
+  45b11 Jul 13 2011, 17:06:53
+  cee26 pf update 
+  cf01c p  Firmware  build: %s
+  cf037   ver
+  cf078   Driver(COD)
+  cf0a9 >(c) 2011 Novatek Microelectronic Corp
+  cfe00 Zoverflow
+  d2017 AA:\
+  d2034 _gsensor
+  d2055 &.bi
+  d2628 iVer
+  d26d6 3Manf Date:		%.02d -
+  d3776 /Date
+  d385f setdatel
+  f30bc Cover Lens
+  f365c Hupdate header OK. audf
+  f41be Over M
+  f4284 j: over
+  f4878 very
+  f5398 (Date
+  f53ed %Jul 13 2011, 17:07:10
+  f5406 - Debug Module ver: %1d.%2d.%03d, build:
+  f769d <>>Cal_SaveRAWs
+  f76b7 HAe Converg
+  f78a9 ST2089
+  f7e27 Maaa_EstBlkAverBayerG
+  f7f29 2003/00/00/00:00:00
+  f817f %ficVersion
+  fa595 \:Set dateti
+  fa702 gver
+  fb8ac : 20130927 [NTK#RandyHo]  
+  fb8d4 0x_Date
+  fbdbf tOVERLAP (Y&Cb
+  fd87c "yet released by IF
+  fe117 eMay 31 2021 16:24:41
+ 119590 $$LISTB
+ 11959a INFOISFT5
+ 119898 O/.0
+ 120014 ]!7+B4!/,%
+ 120037 -F4r-*"
+ 120059 3i+9
+ 120077 0	2-)
+ 120112 =&v/
+ 120133 'v1~1
+ 120170 C"N+
+ 12032f 0-2e(
+ 12034c a)|2
+ 120371 /u$E
+ 120391 -X";
+ 120408 2")+
+ 12042d 4L/+$
+ 120449 &S.P5
+ 120509 .<5,-
+ 120527 ((0=4P+
+ 12054b 3m)v
+ 120565  N*O3u1
+ 120587 +;4n/
+ 120622 ="e*W,B'D
+ 12aefe Oct 08 2012, 14:40:01
+ 12b064 May 07 2018, 15:29:44
+ 12b589 Ver.
+ 12b594 T2001:07:01 12:00:00
+ 12c00b v102001
+
+===== REGION 0x2C000 =====
+0002c000: 4422a043 4c22a053 400411e3 0420a003  D".CL".S@.... ..
+0002c010: 400100ea 80c0a0e1 40c78ce2 fe045ce3  @.......@.....\.
+0002c020: 0ef0a021 600440e2 41c2a0e3 401401e2  ...!`.@.A...@...
+0002c030: 01c08ce1 b464ffea a1330ce0 010030e1  .....d...3....0.
+0002c040: 402f8243 0c0052e1 0c005331 0a00002a  @/.C..R...S1...*
+0002c050: 81c0b0e1 1900000a 80c0b0e1 820ba001  ................
+0002c060: 0ef0a001 00c08fe2 000100ea 20c4a0e1  ............ ...
+0002c070: 2104a0e1 0c10a0e1 acffffea 40c7a0e3  !...........@...
+0002c080: 80007ce1 81007c91 40c09fe5 78ffff8a  ..|...|.@...x...
+0002c090: ffffffea 40c7a0e3 80007ce1 81007c01  ....@.....|...|.
+0002c0a0: 820ba001 24c09f05 9764ff0a 81007ce1  ....$....d....|.
+0002c0b0: 0000a003 8004c013 820b80e1 0ef0a0e1  ................
+0002c0c0: 80c0b0e1 04c09f05 04c09f15 8e64ffea  .............d..
+0002c0d0: 04000004 04000008 01c090e1 0900004a  ...............J
+0002c0e0: 80087ce3 0100004a 010050e1 0ef0a0e1  ..|....J..P.....
+0002c0f0: 40c7a0e3 80007ce1 81007c31 0c00002a  @.....|...|1...*
+0002c100: 010050e1 0ef0a0e1 80087ce3 0200005a  ..P.......|....Z
+0002c110: 8cc0b0e1 00005111 0ef0a0e1 40c7a0e3  ......Q.....@...
+0002c120: 80007ce1 81007c31 0100002a 000051e1  ..|...|1...*..Q.
+0002c130: 0ef0a0e1 00c09fe5 3cfaffea 09001204  ........<.......
+0002c140: c02bb0e1 0034a0e1 80348313 0300004a  .+...4...4.....J
+0002c150: 9e2072e2 0900009a 3302a0e1 0ef0a0e1  . r.....3.......
+0002c160: cf0450e3 0500008a ff2012e2 8034c303  ..P...... ...4..
+0002c170: 0000a0e3 9e2072e2 330240e0 0ef0a0e1  ..... r.3.@.....
+0002c180: 1cc09fe5 8010a0e1 ff0451e3 40cb8c83  ..........Q.@...
+0002c190: 40ffff8a 5c64ff1a ffffffea 00c09fe5  @...\d..........
+0002c1a0: 5964ffea 48000204 000000bf ffff7fbf  Yd..H...........
+0002c1b0: 00000080 ffff7fbf c02bb0e1 0034a0e1  .........+...4..
+0002c1c0: 80348313 0300004a 9e2072e2 0600003a  .4.....J. r....:
+0002c1d0: 3302a0e1 0ef0a0e1 8010a0e1 7f0451e3  3.............Q.
+0002c1e0: 0100002a 0000a0e3 0ef0a0e1 1cc09fe5  ...*............
+0002c1f0: 8010a0e1 ff0451e3 40cb8c83 25ffff8a  ......Q.@...%...
+0002c200: 4164ff1a ffffffea 00c09fe5 3e64ffea  Ad..........>d..
+0002c210: 68000204 4024a0e3 020000ea 802410e2  h...@$.......$..
+0002c220: 00006012 402482e3 2018b0e1 80268212  ..`.@$.. ....&..
+0002c230: 0008b001 0ef0a001 ff0410e3 40268212  ............@&..
+0002c240: 0004a001 f00410e3 80278212 0002a001  .........'......
+0002c250: c00410e3 40278212 0001b001 80288242  ....@'.......(.B
+0002c260: 8000a051 801cb0e1 4004a2e0 04c1b013  ...Q....@.......
+0002c270: 0100c023 0ef0a0e1 01c090e1 0900004a  ...#...........J
+0002c280: 80087ce3 0100004a 010050e1 0ef0a0e1  ..|....J..P.....
+0002c290: 40c7a0e3 80007ce1 81007c31 0c00002a  @.....|...|1...*
+0002c2a0: 010050e1 0ef0a0e1 80087ce3 0200005a  ..P.......|....Z
+0002c2b0: 8cc0b0e1 00005111 0ef0a0e1 40c7a0e3  ......Q.....@...
+0002c2c0: 80007ce1 81007c31 0100002a 000051e1  ..|...|1...*..Q.
+0002c2d0: 0ef0a0e1 00c09fe5 d4f9ffea 09001304  ................
+0002c2e0: 01c090e1 0900004a 80087ce3 0100004a  .......J..|....J
+0002c2f0: 010050e1 0ef0a0e1 40c7a0e3 80007ce1  ..P.....@.....|.
+0002c300: 81007c31 0c00002a 010050e1 0ef0a0e1  ..|1...*..P.....
+0002c310: 80087ce3 0200005a 8cc0b0e1 00005111  ..|....Z......Q.
+0002c320: 0ef0a0e1 40c7a0e3 80007ce1 81007c31  ....@.....|...|1
+0002c330: 0100002a 000051e1 0ef0a0e1 00c09fe5  ...*..Q.........
+0002c340: baf9ffea 09001604 ffc8a0e3 a0231ce0  .............#..
+0002c350: a1331c10 0c003211 0c003311 2a00000a  .3....2...3.*...
+0002c360: 010030e1 402f8243 80c4a0e3 00048ce1  ..0.@/.C........
+0002c370: 01148ce1 032082e0 90c183e0 802842e2  ..... .......(B.
+0002c380: 00005ce3 01308313 40cf02e2 800453e3  ..\..0..@.....S.
+0002c390: 8330a031 4228a2e0 2304b0e1 820ba0e0  .0.1B(..#.......
+0002c3a0: 80c0ade0 7f001323 fc085213 0ef0a031  .......#..R....1
+0002c3b0: 0100c003 fc0852e3 0ef0a031 0c00005a  ......R....1...Z
+0002c3c0: 8010a0e1 401741e2 c00751e3 0ef0a031  ....@.A...Q....1
+0002c3d0: 600480e2 7f0013e3 ecc0b011 6cc1f001  `...........l...
+0002c3e0: d023a043 f023a053 ff0013e3 0320a003  .#.C.#.S..... ..
+0002c3f0: 480000ea 80c880e2 8cc0b0e1 0ef0a041  H..............A
+0002c400: 600440e2 c4c3a0e3 bf63ffea a1330ce0  `.@......c...3..
+0002c410: 010030e1 402f8243 0c0052e1 0c005331  ..0.@/.C..R...S1
+0002c420: 0500002a 80c0b0e1 81c0b011 820ba001  ...*............
+0002c430: 0ef0a001 c8c04fe2 0c0000ea 40c7a0e3  ......O.....@...
+0002c440: 80007ce1 81007c91 c1c3a0e3 88feff8a  ..|...|.........
+0002c450: ffffffea 80c0b0e1 81c0b011 ff208213  ............. ..
+0002c460: 820ba011 0ef0a011 c1c3a0e3 a663ffea  .............c..
+0002c470: 0004a0e1 0114a0e1 ff0812e3 1000001a  ................
+0002c480: 400b50e3 40294232 0008a031 ff0410e3  @.P.@)B2...1....
+0002c490: 802a4202 0004a001 f00410e3 402a4202  .*B.........@*B.
+0002c4a0: 0002a001 c00410e3 802b4202 0001b001  .........+B.....
+0002c4b0: 8000a051 402b8242 ff0813e3 80148113  ...Q@+.B........
+0002c4c0: 0cf0a011 800480e3 400b51e3 40394332  ........@.Q.@9C2
+0002c4d0: 0118a031 ff0411e3 803a4302 0114a001  ...1.....:C.....
+0002c4e0: f00411e3 403a4302 0112a001 c00411e3  ....@:C.........
+0002c4f0: 803b4302 0111b001 8110a051 403b8342  .;C........Q@;.B
+0002c500: 0cf0a0e1 10402de9 525cffeb 0010a0e3  .....@-.R\......
+0002c510: 001080e5 1080bde8 03002de9 0c502de9  ..........-..P-.
+0002c520: 4c5cffeb 0c50bde8 00c0a0e1 0300bde8  L\...P..........
+0002c530: 00109ce5 400711e3 80040012 0ef0a011  ....@...........
+0002c540: 800e11e3 4c00001a 803400e2 a03b83e1  ....L....4...;..
+0002c550: 403fc3e3 c13063e2 8014c3e3 170051e3  @?...0c.......Q.
+0002c560: 190000ca 203063e2 1013b0e1 203063e2  .... 0c..... 0c.
+0002c570: ff04c0e3 800880e3 3003a0e1 803403e2  ........0....4..
+0002c580: 030080e1 0c00000a 0130a0e1 00109ce5  .........0......
+0002c590: 081081e3 00108ce5 8310b0e1 0400003a  ...............:
+0002c5a0: 01008012 0200001a c23ff0e1 01008092  .........?......
+0002c5b0: 0100c033 40c482e3 5363ffea 02c0a0e1  ...3@...Sc......
+0002c5c0: 400412e3 5063ff1a 0ef0a0e1 660151e3  @...Pc......f.Q.
+0002c5d0: 00109ce5 081081e3 00108ce5 80040362  ...............b
+0002c5e0: 0400006a 8004b0e1 800403e2 010080e2  ...j............
+0002c5f0: 80041203 0100c003 40c4a0e3 4263ffea  ........@...Bc..
+0002c600: 03002de9 0c502de9 125cffeb 0c50bde8  ..-..P-..\...P..
+0002c610: 00c0a0e1 0300bde8 00109ce5 400711e3  ............@...
+0002c620: 80040012 0ef0a011 800e11e3 0ef0a001  ................
+0002c630: 801400e2 601481e3 ff0810e3 0004a001  ....`...........
+0002c640: 40164102 ff0810e3 0004a001 40164102  @.A.........@.A.
+0002c650: f00810e3 0002a001 80174102 c00810e3  ..........A.....
+0002c660: 0001a001 40174102 800810e3 8000a001  ....@.A.........
+0002c670: 80188112 8008c0e3 010080e1 80c582e3  ................
+0002c680: 360000ea 30209fe5 0210c1e1 0220c0e1  6...0 ....... ..
+0002c690: 03002de9 0c502de9 ee5bffeb 0c50bde8  ..-..P-..[...P..
+0002c6a0: 0030a0e1 0300bde8 000093e5 0220c0e1  .0........... ..
+0002c6b0: 012022e0 002083e5 0ef0a0e1 e0e03ffe  . ".. ........?.
+0002c6c0: 595dffea 0f300ce2 090053e3 0800a003  Y]...0....S.....
+0002c6d0: 2b00000a 080053e3 0ef0a011 40001c03  +.....S.....@...
+0002c6e0: 1600000a 400b1ce3 0b00001a 20001ce3  ....@....... ...
+0002c6f0: 0c00001a 10001ce3 0020a001 0120a011  ......... ... ..
+0002c700: 8004e003 8014e013 0000e013 800412e3  ................
+0002c710: 0000e011 0110e011 0ef0a0e1 0000a0e3  ................
+0002c720: 0010a0e3 0ef0a0e1 0000e0e3 0010e0e3  ................
+0002c730: 800412e3 0000e011 0110e011 0ef0a0e1  ................
+0002c740: 10001ce3 08009f05 08109f15 0000a013  ................
+0002c750: 0ef0a0e1 0000c07f 0000f87f 4f5fffea  ............O_..
+0002c760: 00502de9 00502de9 995effeb 0050bde8  .P-..P-..^...P..
+0002c770: 0050bde8 0f300ce2 090033e3 0ef0a011  .P...0....3.....
+0002c780: ffffffea 40091ce3 1a00000a f00a1ce3  ....@...........
+0002c790: 0600000a 080010e3 0100001a 020070e2  ..............p.
+0002c7a0: 0ef0a0e1 f01a0ce2 400a51e3 0ef0a0e1  ........@.Q.....
+0002c7b0: e014a0e3 801e11e0 c0158123 03002de9  ...........#..-.
+0002c7c0: 0c502de9 a35bffeb 0c50bde8 00c0a0e1  .P-..[...P......
+0002c7d0: 0300bde8 00309ce5 f034c3e3 013083e1  .....0...4...0..
+0002c7e0: 00308ce5 00200fe1 f024c2e3 012082e1  .0... ...$... ..
+0002c7f0: 02f028e1 0ef0a0e1 00081ce0 0100a013  ..(.............
+0002c800: 0ef0a0e1 53797343 6c6b5f53 6574436c  ....SysClk_SetCl
+0002c810: 6b20656e 7465720d 0a000000 4368616e  k enter.....Chan
+0002c820: 67652044 4d412025 640d0a00 53797343  ge DMA %d...SysC
+0002c830: 6c6b5f53 6574436c 6b206c65 6176650d  lk_SetClk leave.
+0002c840: 0a000000 01000000 4d454449 41005054  ........MEDIA.PT
+0002c850: 44430050 54444300 41564900 50544443  DC.PTDC.AVI.PTDC
+0002c860: 00000000 00505444 43005054 44430042  .....PTDC.PTDC.B
+0002c870: 494e0000 72616d64 736b5f67 65745374  IN..ramdsk_getSt
+0002c880: 6f726167 654f626a 65637428 290d0a00  orageObject()...
+0002c890: 3d3d3d3d 3d3d3d3d 3d3d3d3d 3d3d3d3d  ================
+0002c8a0: 3d3d3d3d 3d3d3d3d 3d3d3d3d 3d3d5379  ==============Sy
+0002c8b0: 73496e69 745f496e 6974424c 496e666f  sInit_InitBLInfo
+0002c8c0: 0a0d0000 63686563 6b206e75 6d203078  ....check num 0x
+0002c8d0: 25780d0a 00000000 25303264 25303264  %x......%02d%02d
+0002c8e0: 00000000 25642530 32642530 32640000  ....%d%02d%02d..
+0002c8f0: 47582077 696e2e77 3d25642c 2077696e  GX win.w=%d, win
+0002c900: 2e683d25 643b0a0d 00000000 47582062  .h=%d;......GX b
+0002c910: 75663d25 3038782c 2073697a 653d2564  uf=%08x, size=%d
+0002c920: 3b0a0d00 0a0d0000 53445f56 4f4c0000  ;.......SD_VOL..
+0002c930: 4e4f5641 54454b00 32326d63 38206973  NOVATEK.22mc8 is
+0002c940: 2025640d 0a000000 32326d63 34206973   %d.....22mc4 is
+0002c950: 2025640d 0a000000 32326d63 33206973   %d.....22mc3 is
+0002c960: 2025640d 0a000000 32326d63 32206973   %d.....22mc2 is
+0002c970: 2025640d 0a000000 32326d63 31206973   %d.....22mc1 is
+0002c980: 2025640d 0a000000 32326d63 30206973   %d.....22mc0 is
+0002c990: 2025640d 0a000000 6d633820 69732025   %d.....mc8 is %
+0002c9a0: 640d0a00 6d633420 69732025 640d0a00  d...mc4 is %d...
+0002c9b0: 6d633320 69732025 640d0a00 6d633220  mc3 is %d...mc2 
+0002c9c0: 69732025 640d0a00 6d633120 69732025  is %d...mc1 is %
+0002c9d0: 640d0a00 6d633020 69732025 640d0a00  d...mc0 is %d...
+0002c9e0: 3e3e3e3e 3e3e3e3e 20534452 414d2031  >>>>>>>> SDRAM 1
+0002c9f0: 364d4220 74797065 0a0d0000 3e3e3e3e  6MB type....>>>>
+0002ca00: 3e3e3e3e 20444452 49203136 4d422074  >>>> DDRI 16MB t
+0002ca10: 79706500 2a000000 3d3d3d3d 3d3d3d3d  ype.*...========
+0002ca20: 3d3d3d3d 3d3d3d3d 3d3d3d3d 3d3e2067  =============> g
+0002ca30: 43757272 656e744d 656e7549 6e666f2e  CurrentMenuInfo.
+0002ca40: 7265626f 6f745f66 6c61673a 25642c5f  reboot_flag:%d,_
+0002ca50: 5f4c494e 453a2564 0d0a0000 4c434420  _LINE:%d....LCD 
+0002ca60: 61667465 72207368 6f77206c 6f676f20  after show logo 
+0002ca70: 2c747572 6e206f66 66204c43 44200d0a  ,turn off LCD ..
+0002ca80: 00000000 4b657953 63616e54 736b2829  ....KeyScanTsk()
+0002ca90: 00436f6d 6d616e64 54736b28 2900506c  .CommandTsk().Pl
+0002caa0: 6179536f 756e6454 736b2829 00554946  aySoundTsk().UIF
+0002cab0: 72616d65 776f726b 54736b28 29005549  rameworkTsk().UI
+0002cac0: 4261636b 67726f75 6e645473 6b282900  BackgroundTsk().
+0002cad0: 43616c69 62726174 696f6e54 736b2829  CalibrationTsk()
+0002cae0: 00464c47 5f49445f 4b455900 464c475f  .FLG_ID_KEY.FLG_
+0002caf0: 49445f4b 45595f52 454c0046 4c475f49  ID_KEY_REL.FLG_I
+0002cb00: 445f4b45 595f434f 4e540046 4c475f49  D_KEY_CONT.FLG_I
+0002cb10: 445f4b45 595f4c4f 4e470046 4c475f49  D_KEY_LONG.FLG_I
+0002cb20: 445f534f 554e4400 464c475f 49445f46  D_SOUND.FLG_ID_F
+0002cb30: 52414d45 574f524b 0053454d 49445f46  RAMEWORK.SEMID_F
+0002cb40: 52414d45 574f524b 5f57494e 444f5700  RAMEWORK_WINDOW.
+0002cb50: 53454d49 445f4652 414d4557 4f524b5f  SEMID_FRAMEWORK_
+0002cb60: 44524157 0053454d 49445f55 49475241  DRAW.SEMID_UIGRA
+0002cb70: 50484943 004d4258 49445f53 59535f45  PHIC.MBXID_SYS_E
+0002cb80: 56454e54 004d4258 49445f42 4b475f45  VENT.MBXID_BKG_E
+0002cb90: 56454e54 00504f4f 4c5f4944 5f465441  VENT.POOL_ID_FTA
+0002cba0: 424c4500 504f4f4c 5f49445f 47580050  BLE.POOL_ID_GX.P
+0002cbb0: 4f4f4c5f 49445f44 45464543 545f5049  OOL_ID_DEFECT_PI
+0002cbc0: 58454c00 504f4f4c 5f49445f 45435300  XEL.POOL_ID_ECS.
+0002cbd0: 504f4f4c 5f49445f 4f534431 00504f4f  POOL_ID_OSD1.POO
+0002cbe0: 4c5f4944 5f4f5344 5f44554d 5000504f  L_ID_OSD_DUMP.PO
+0002cbf0: 4f4c5f49 445f4d53 44435645 4e444f52  OL_ID_MSDCVENDOR
+0002cc00: 00504f4f 4c5f4944 5f464200 504f4f4c  .POOL_ID_FB.POOL
+0002cc10: 5f49445f 43415054 55524500 0d0a4657  _ID_CAPTURE...FW
+0002cc20: 20636f64 65202825 6c642920 69732074   code (%ld) is t
+0002cc30: 6f6f206c 61726765 20666f72 20637572  oo large for cur
+0002cc40: 72656e74 20736574 74696e67 0d0a506c  rent setting..Pl
+0002cc50: 65617365 206d6f64 69667920 4652455f  ease modify FRE_
+0002cc60: 4d454d20 696e2053 79734366 672e680d  MEM in SysCfg.h.
+0002cc70: 0a000000 436f7079 50617274 54776f3a  ....CopyPartTwo:
+0002cc80: 20756944 65737441 64647265 7373203d   uiDestAddress =
+0002cc90: 20307825 3038782c 20726561 64207369   0x%08x, read si
+0002cca0: 7a65203d 20307825 3038780d 0a000000  ze = 0x%08x.....
+0002ccb0: 436f7079 50617274 54776f3a 2072656d  CopyPartTwo: rem
+0002ccc0: 61696e20 46572069 7320636f 6d707265  ain FW is compre
+0002ccd0: 73732070 61727420 31207369 7a65203d  ss part 1 size =
+0002cce0: 20307825 780d0a00 4f4b210a 0d000000   0x%x...OK!.....
+0002ccf0: 6465636f 6d707265 7373696e 672e2e2e  decompressing...
+0002cd00: 00000000 636f6d70 72657373 65642064  ....compressed d
+0002cd10: 61746120 73697a65 3d25640d 0a000000  ata size=%d.....
+0002cd20: 4f4b310a 0d000000 35000000 2a000000  OK1.....5...*...
+0002cd30: 25000000 04000000 0c000000 ff000000  %...............
+0002cd40: 5e525b53 69676e61 6c3d2564 5d2c205b  ^R[Signal=%d], [
+0002cd50: 74797065 3d25645d 2c205b74 736b3d25  type=%d], [tsk=%
+0002cd60: 645d0000 5e52203d 3e204469 76696465  d]..^R => Divide
+0002cd70: 20427920 5a65726f 0d0a0000 5e522046   By Zero....^R F
+0002cd80: 6c6f6174 696e6720 506f696e 74204c69  loating Point Li
+0002cd90: 625b4650 4c5d2065 78636570 74696f6e  b[FPL] exception
+0002cda0: 2c205b74 736b3d25 645d0d0a 00000000  , [tsk=%d]......
+0002cdb0: 5e52204e 554c4c20 46756e63 74696f6e  ^R NULL Function
+0002cdc0: 2043616c 6c202d45 72722d20 5b546173   Call -Err- [Tas
+0002cdd0: 6b49443d 25644030 78253038 585d0d0a  kID=%d@0x%08X]..
+0002cde0: 00000000 5e525357 495f4e55 4d3d3078  ....^RSWI_NUM=0x
+0002cdf0: 25303858 5b546173 6b49443d 25642040  %08X[TaskID=%d @
+0002ce00: 30782530 38585d20 666f7220 53434620  0x%08X] for SCF 
+0002ce10: 4442470d 0a000000 5e522121 21546572  DBG.....^R!!!Ter
+0002ce20: 6d696e61 7465205b 25735d20 616e6420  minate [%s] and 
+0002ce30: 69742068 6f6c6420 74686520 73656d5b  it hold the sem[
+0002ce40: 25735d0d 0a000000 5e525374 61636b20  %s].....^RStack 
+0002ce50: 746f7020 61646472 3d307825 3038582c  top addr=0x%08X,
+0002ce60: 2073697a 653d3078 25303858 28256429   size=0x%08X(%d)
+0002ce70: 0d0a0000 5e525b25 735d2049 443d2564  ....^R[%s] ID=%d
+0002ce80: 20737461 636b206f 76657266 6c6f7721   stack overflow!
+0002ce90: 210d0a00 5e525225 3032643d 30782530  !...^RR%02d=0x%0
+0002cea0: 38580d0a 00000000 30782530 38583a20  8X......0x%08X: 
+0002ceb0: 00000000 5e525b30 78253038 585d2000  ....^R[0x%08X] .
+0002cec0: 0d0a0000 5e524572 726f723a 44756d6d  ....^RError:Dumm
+0002ced0: 7920496e 74657272 7570742c 20507265  y Interrupt, Pre
+0002cee0: 76696f75 7320494e 54204e6f 3d252330  vious INT No=%#0
+0002cef0: 38582043 75727265 6e742049 4e54204e  8X Current INT N
+0002cf00: 6f3d2523 3038580d 0a000000 5e425761  o=%#08X.....^BWa
+0002cf10: 726e696e 673a5573 696e6720 7761695f  rning:Using wai_
+0002cf20: 73656d28 295b5365 6d5f4944 3d252330  sem()[Sem_ID=%#0
+0002cf30: 38585d20 696e2049 53525b25 23303858  8X] in ISR[%#08X
+0002cf40: 5d0d0a00 5e425761 726e696e 673a5573  ]...^BWarning:Us
+0002cf50: 696e6720 7761695f 666c6728 295b464c  ing wai_flg()[FL
+0002cf60: 475f4944 3d252330 38585d20 696e2049  G_ID=%#08X] in I
+0002cf70: 53525b25 23303858 5d0d0a00 5e595357  SR[%#08X]...^YSW
+0002cf80: 495f4e55 4d3d3078 25303858 5b546173  I_NUM=0x%08X[Tas
+0002cf90: 6b49443d 25642040 30782530 38585d0d  kID=%d @0x%08X].
+0002cfa0: 0a000000 5e595225 3032643d 30782530  ....^YR%02d=0x%0
+0002cfb0: 38580d0a 00000000 5e595350 53523d30  8X......^YSPSR=0
+0002cfc0: 78253038 580d0a00 5e52556e 64656669  x%08X...^RUndefi
+0002cfd0: 6e656420 496e7374 5b546173 6b49443d  ned Inst[TaskID=
+0002cfe0: 25642040 30782530 38585d0d 0a000000  %d @0x%08X].....
+0002cff0: 43000000 4d656469 61417564 696f506c  C...MediaAudioPl
+0002d000: 61795473 6b282900 4d656469 61566964  ayTsk().MediaVid
+0002d010: 656f506c 61795473 6b282900 4d656469  eoPlayTsk().Medi
+0002d020: 61506c61 7954736b 28290000 52656356  aPlayTsk()..RecV
+0002d030: 6964656f 54736b28 29000000 41766952  ideoTsk()...AviR
+0002d040: 65634d61 6e616765 7254736b 28290000  ecManagerTsk()..
+0002d050: 55534253 49434445 50335473 6b282900  USBSICDEP3Tsk().
+0002d060: 55534253 49434454 736b2829 00000000  USBSICDTsk()....
+0002d070: 55534250 63635669 64656f54 736b2829  USBPccVideoTsk()
+0002d080: 00000000 5553424d 5344435f 53747267  ....USBMSDC_Strg
+0002d090: 54736b28 29000000 55534253 65747570  Tsk()...USBSetup
+0002d0a0: 48616c54 736b2829 00000000 55534243  HalTsk()....USBC
+0002d0b0: 746c5374 61727454 736b2829 00000000  tlStartTsk()....
+0002d0c0: 41465473 6b322829 00000000 41465473  AFTsk2()....AFTs
+0002d0d0: 6b282900 41574254 736b2829 00000000  k().AWBTsk()....
+0002d0e0: 41455473 6b282900 4c656e73 4374726c  AETsk().LensCtrl
+0002d0f0: 54736b28 29000000 50686f74 6f446973  Tsk()...PhotoDis
+0002d100: 706c6179 54736b28 29000000 53696543  playTsk()...SieC
+0002d110: 61705473 6b282900 496d6753 6c696365  apTsk().ImgSlice
+0002d120: 54736b28 29000000 50686f74 6f337264  Tsk()...Photo3rd
+0002d130: 54736b28 29000000 50686f74 6f326e64  Tsk()...Photo2nd
+0002d140: 54736b28 29000000 50686f74 6f317374  Tsk()...Photo1st
+0002d150: 54736b28 29000000 506c6179 6261636b  Tsk()...Playback
+0002d160: 54736b28 29000000 4657526f 74617465  Tsk()...FWRotate
+0002d170: 5f54736b 28290000 44697370 526f7461  _Tsk()..DispRota
+0002d180: 74655473 6b282900 46734261 636b6772  teTsk().FsBackgr
+0002d190: 6f756e64 5f546173 6b282900 57617653  ound_Task().WavS
+0002d1a0: 74756469 6f54736b 28290000 52617745  tudioTsk()..RawE
+0002d1b0: 6e635473 6b282900 4d656469 61526563  ncTsk().MediaRec
+0002d1c0: 436d6454 736b2829 00000000 4d656469  CmdTsk()....Medi
+0002d1d0: 61526563 46535473 6b282900 4d656469  aRecFSTsk().Medi
+0002d1e0: 61417564 696f456e 6354736b 28290000  aAudioEncTsk()..
+0002d1f0: 4d656469 61566964 656f5265 6354736b  MediaVideoRecTsk
+0002d200: 28290000 4d656469 61526563 54736b28  ()..MediaRecTsk(
+0002d210: 29000000 55736572 2054534b 20436f6e  )...User TSK Con
+0002d220: 66696720 4661696c 2c204b65 72205473  fig Fail, Ker Ts
+0002d230: 6b20436e 743d2564 20616e64 20437572  k Cnt=%d and Cur
+0002d240: 2054736b 20436e74 3d25640d 0a000000   Tsk Cnt=%d.....
+0002d250: 55736572 20746173 6b204944 3d256420  User task ID=%d 
+0002d260: 6475706c 69636174 65640d0a 00000000  duplicated......
+0002d270: 44656669 6e652075 73657220 7461736b  Define user task
+0002d280: 205b256c 642c2025 735d2065 72726f72   [%ld, %s] error
+0002d290: 205b256c 645d0d0a 00000000 55736572   [%ld]......User
+0002d2a0: 20464c47 20436f6e 66696720 4661696c   FLG Config Fail
+0002d2b0: 2c204b65 7220466c 6720436e 743d2564  , Ker Flg Cnt=%d
+0002d2c0: 20616e64 20437572 20466c67 20436e74   and Cur Flg Cnt
+0002d2d0: 3d25640d 0a000000 55736572 20666c61  =%d.....User fla
+0002d2e0: 67204944 3d256420 6475706c 69636174  g ID=%d duplicat
+0002d2f0: 65640d0a 00000000 44656669 6e652075  ed......Define u
+0002d300: 73657220 666c6167 205b256c 642c2025  ser flag [%ld, %
+0002d310: 735d2065 72726f72 205b256c 645d0d0a  s] error [%ld]..
+0002d320: 00000000 55736572 2053454d 20436f6e  ....User SEM Con
+0002d330: 66696720 4661696c 2c204b65 72205365  fig Fail, Ker Se
+0002d340: 6d20436e 743d2564 20616e64 20437572  m Cnt=%d and Cur
+0002d350: 2053656d 20436e74 3d25640d 0a000000   Sem Cnt=%d.....
+0002d360: 55736572 2053454d 2049443d 25642064  User SEM ID=%d d
+0002d370: 75706c69 63617465 640d0a00 44656669  uplicated...Defi
+0002d380: 6e652075 73657220 73656d61 70686f72  ne user semaphor
+0002d390: 65205b25 6c642c20 25735d20 6572726f  e [%ld, %s] erro
+0002d3a0: 72205b25 6c645d0d 0a000000 55736572  r [%ld].....User
+0002d3b0: 204d4258 20436f6e 66696720 4661696c   MBX Config Fail
+0002d3c0: 2c204b65 72204d42 5820436e 743d2564  , Ker MBX Cnt=%d
+0002d3d0: 20616e64 20437572 204d4258 20436e74   and Cur MBX Cnt
+0002d3e0: 3d25640d 0a000000 55736572 204d4258  =%d.....User MBX
+0002d3f0: 2049443d 25642064 75706c69 63617465   ID=%d duplicate
+0002d400: 640d0a00 44656669 6e652075 73657220  d...Define user 
+0002d410: 6d61696c 626f7820 5b256c64 2c202573  mailbox [%ld, %s
+0002d420: 5d206572 726f7220 5b256c64 5d0d0a00  ] error [%ld]...
+0002d430: 55736572 2046504c 20436f6e 66696720  User FPL Config 
+0002d440: 4661696c 2c204b65 72204650 4c20436e  Fail, Ker FPL Cn
+0002d450: 743d2564 20616e64 20437572 2046504c  t=%d and Cur FPL
+0002d460: 20436e74 3d25640d 0a000000 55736572   Cnt=%d.....User
+0002d470: 204d656d 706f6f6c 2049443d 25642064   Mempool ID=%d d
+0002d480: 75706c69 63617465 640d0a00 55736572  uplicated...User
+0002d490: 204d656d 6f727920 506f6f6c 205b256c   Memory Pool [%l
+0002d4a0: 642c2025 735d2073 697a6520 5b307825  d, %s] size [0x%
+0002d4b0: 585d2069 736e2774 20333220 62797465  X] isn't 32 byte
+0002d4c0: 7320616c 69676e6d 656e740d 0a000000  s alignment.....
+0002d4d0: 55736572 204d656d 6f727920 506f6f6c  User Memory Pool
+0002d4e0: 205b256c 642c2025 735d2073 697a6520   [%ld, %s] size 
+0002d4f0: 5b307825 585d2069 736e2774 206c6567  [0x%X] isn't leg
+0002d500: 616c0d0a 00000000 44656669 6e652075  al......Define u
+0002d510: 73657220 66697865 64206d65 6d6f7279  ser fixed memory
+0002d520: 20706f6f 6c205b25 6c642c20 25735d20   pool [%ld, %s] 
+0002d530: 6572726f 72205b25 6c645d0d 0a000000  error [%ld].....
+0002d540: 2a2a2a2a 2a2a2a2a 2a4b6579 5363616e  *********KeyScan
+0002d550: 5f506f77 65726f66 66466c6f 770d0a00  _PoweroffFlow...
+0002d560: 205b7465 78745d67 43757272 656e744d   [text]gCurrentM
+0002d570: 656e7549 6e666f2e 7061726b 696e676d  enuInfo.parkingm
+0002d580: 6f64655f 666c6167 3d25640d 0a000000  ode_flag=%d.....
+0002d590: 2a2a2a2a 2a2a2a2a 2a417070 496e6974  *********AppInit
+0002d5a0: 5f436c6f 73650d0a 00000000 2a2a2a2a  _Close......****
+0002d5b0: 2a2a2a2a 2a536176 655f4d65 6e75496e  *****Save_MenuIn
+0002d5c0: 666f0d0a 00000000 2a2a2a2a 2a2a2a2a  fo......********
+0002d5d0: 2a727463 5f706f77 65726f66 66505752  *rtc_poweroffPWR
+0002d5e0: 0d0a0000 2a2a2a2a 2a2a2a2a 2a506c61  ....*********Pla
+0002d5f0: 79536f75 6e645f43 6c6f7365 0d0a0000  ySound_Close....
+0002d600: 2a000000 2a2a2a2a 2a2a2a2a 2a627574  *...*********but
+0002d610: 746f6e20 70777220 70726573 7365640d  ton pwr pressed.
+0002d620: 0a000000 2a2a2a2a 2a2a2a2a 2a4b6579  ....*********Key
+0002d630: 5363616e 5f4c6f77 42617474 65727950  Scan_LowBatteryP
+0002d640: 6f776572 6f666646 6c6f770d 0a000000  oweroffFlow.....
+0002d650: 31313d3d 3d3d3d3d 3d3d3d3d 3d3d3d3d  11==============
+0002d660: 3d3d3d3d 3d3d3d3e 20506f77 65724f6e  =======> PowerOn
+0002d670: 20616e64 204f4646 205f5f4c 494e453a   and OFF __LINE:
+0002d680: 25640d0a 00000000 6d6d6d6d 6d4b6579  %d......mmmmmKey
+0002d690: 5363616e 5f446574 42617474 65727949  Scan_DetBatteryI
+0002d6a0: 6e537973 496e6974 0d0a0000 5549466c  nSysInit....UIFl
+0002d6b0: 6f77576e 6457726e 4d736700 1b5b3337  owWndWrnMsg..[37
+0002d6c0: 6d43484b 3a202564 2c202573 1b5b306d  mCHK: %d, %s.[0m
+0002d6d0: 0d0a0000 4b657953 63616e5f 456e6162  ....KeyScan_Enab
+0002d6e0: 6c654c45 44546f67 676c6500 413a5c4d  leLEDToggle.A:\M
+0002d6f0: 544e3232 302e7478 74000000 4e424456  TN220.txt...NBDV
+0002d700: 52313232 2d2d412d 5230362e 32004e45  R122--A-R06.2.NE
+0002d710: 58544241 5345004e 42445652 31313200  XTBASE.NBDVR112.
+0002d720: 00000000 01000000 01000000 01000000  ................
+0002d730: 02000000 00000000 03000000 d0030000  ................
+0002d740: 04000000 00000000 05000000 01000000  ................
+0002d750: 06000000 00000000 07000000 01000000  ................
+0002d760: 08000000 00000000 09000000 00000010  ................
+0002d770: 0a000000 00000000 0b000000 00000010  ................
+0002d780: 0c000000 44000004 564f4c44 45542045  ....D...VOLDET E
+0002d790: 52523a20 43616e27 74206f70 656e2041  RR: Can't open A
+0002d7a0: 44432063 68616e6e 656c2066 6f722066  DC channel for f
+0002d7b0: 6c617368 20646574 65637469 6f6e0d0a  lash detection..
+0002d7c0: 00000000 564f4c44 45542045 52523a20  ....VOLDET ERR: 
+0002d7d0: 43616e27 74206f70 656e2041 44432063  Can't open ADC c
+0002d7e0: 68616e6e 656c2066 6f722062 61747465  hannel for batte
+0002d7f0: 72792064 65746563 74696f6e 0d0a0000  ry detection....
+0002d800: 55736572 50533a20 5053746f 72652072  UserPS: PStore r
+0002d810: 65616420 556e6963 6f646520 666f6e74  ead Unicode font
+0002d820: 20646174 61207369 7a652066 61696c0d   data size fail.
+0002d830: 0a000000 55736572 50533a20 476f7474  ....UserPS: Gott
+0002d840: 61207265 61642055 6e69636f 64652066  a read Unicode f
+0002d850: 6f6e7420 64617461 2073697a 65203d20  ont data size = 
+0002d860: 256c640d 0a000000 55736572 50533a20  %ld.....UserPS: 
+0002d870: 466f6e74 20646174 61207369 7a652074  Font data size t
+0002d880: 6f6f206c 61726765 210d0a00 55736572  oo large!...User
+0002d890: 50533a20 5053746f 72652072 65616420  PS: PStore read 
+0002d8a0: 556e6963 6f646520 666f6e74 20646174  Unicode font dat
+0002d8b0: 61206661 696c0d0a 00000000 55736572  a fail......User
+0002d8c0: 50533a20 5053746f 7265206f 70656e20  PS: PStore open 
+0002d8d0: 73656374 696f6e20 6661696c 0d0a0000  section fail....
+0002d8e0: 52000000 55736572 50533a20 4572726f  R...UserPS: Erro
+0002d8f0: 72206f70 656e696e 67202573 0d0a0000  r opening %s....
+0002d900: 55736572 50533a20 46696c65 2073697a  UserPS: File siz
+0002d910: 65203d20 256c640d 0a000000 55736572  e = %ld.....User
+0002d920: 50533a20 46696c65 2073697a 6520746f  PS: File size to
+0002d930: 6f206c61 72676521 0d0a0000 55736572  o large!....User
+0002d940: 50533a20 476f7474 61207772 69746520  PS: Gotta write 
+0002d950: 66696c65 2073697a 65203d20 256c640d  file size = %ld.
+0002d960: 0a000000 55736572 50533a20 5053746f  ....UserPS: PSto
+0002d970: 72652077 72697465 20556e69 636f6465  re write Unicode
+0002d980: 20666f6e 74206461 74612066 61696c0d   font data fail.
+0002d990: 0a000000 4d454449 41000000 00000000  ....MEDIA.......
+0002d9a0: 00000000 00000000 00000000 50544443  ............PTDC
+0002d9b0: 00000000 00000000 00000000 00000000  ................
+0002d9c0: 00000000 53797347 65744469 7370526f  ....SysGetDispRo
+0002d9d0: 74617465 42756666 53697a65 28292030  tateBuffSize() 0
+0002d9e0: 7825780d 0a000000 5e525b53 79734765  x%x.....^R[SysGe
+0002d9f0: 74446973 70526f74 61746541 6464725d  tDispRotateAddr]
+0002da00: 3a206164 6472203d 20307825 780d0a00  : addr = 0x%x...
+0002da10: 4f6e4578 655f4e75 6d526573 65742829  OnExe_NumReset()
+0002da20: 2c204469 724e756d 203d2025 642c2046  , DirNum = %d, F
+0002da30: 696c654e 756d203d 2025640d 0a000000  ileNum = %d.....
+0002da40: 25303264 25303264 00000000 25642530  %02d%02d....%d%0
+0002da50: 32642530 32640000 55495379 7374656d  2d%02d..UISystem
+0002da60: 4f626a3a 20556e6b 6e6f776e 20637572  Obj: Unknown cur
+0002da70: 72656e74 20445343 206d6f64 65203078  rent DSC mode 0x
+0002da80: 25780d0a 00000000 55495379 7374656d  %x......UISystem
+0002da90: 4f626a3a 20556e6b 6e6f776e 20636861  Obj: Unknown cha
+0002daa0: 6e676520 74797065 20307825 780d0a00  nge type 0x%x...
+0002dab0: 55495379 7374656d 4f626a00 4653204e  UISystemObj.FS N
+0002dac0: 4f542049 4e495400 46532049 4e495420  OT INIT.FS INIT 
+0002dad0: 4f4b0046 5320554e 464f524d 41545445  OK.FS UNFORMATTE
+0002dae0: 44004653 20554e4b 4e4f574e 20464f52  D.FS UNKNOWN FOR
+0002daf0: 4d415400 46532044 49534b20 4552524f  MAT.FS DISK ERRO
+0002db00: 52000000 20202020 20202020 20000000  R...         ...
+0002db10: 20000000 5b536574 46535374 61747573   ...[SetFSStatus
+0002db20: 5d25640d 0a000000 5b476574 46535374  ]%d.....[GetFSSt
+0002db30: 61747573 5d25640d 0a000000 1b5b303b  atus]%d......[0;
+0002db40: 33336d3d 3d3d3d3d 3d3d3d3d 3d3d3d3d  33m=============
+0002db50: 3d3d3d3d 3d3d3d3d 3d3d3d3d 3d3d3d3d  ================
+0002db60: 3d3d3d3d 3d3d3d3d 3d3d3d3d 3d3d3d3d  ================
+0002db70: 3d0d0a1b 5b6d0000 1b5b303b 33326d09  =...[m...[0;32m.
+0002db80: 49735570 64617465 46572020 20093a20  IsUpdateFW   .: 
+0002db90: 25640d0a 1b5b6d00 1b5b303b 33326d09  %d...[m..[0;32m.
+0002dba0: 53746f72 61676520 496e7420 20093a20  Storage Int  .: 
+0002dbb0: 25730d0a 1b5b6d00 1b5b303b 33326d09  %s...[m..[0;32m.
+0002dbc0: 4452414d 2053697a 65202020 20093a20  DRAM Size    .: 
+0002dbd0: 25734d62 0d0a1b5b 6d000000 1b5b303b  %sMb...[m....[0;
+0002dbe0: 33326d09 4452414d 20547970 65202020  32m.DRAM Type   
+0002dbf0: 20093a20 25730d0a 1b5b6d00 1b5b303b   .: %s...[m..[0;
+0002dc00: 33326d09 424c2054 696d6509 2020093a  32m.BL Time.  .:
+0002dc10: 2025730d 0a1b5b6d 00000000 1b5b303b   %s...[m.....[0;
+0002dc20: 33326d09 424c2044 61746509 2020093a  32m.BL Date.  .:
+0002dc30: 2025730d 0a1b5b6d 00000000 1b5b303b   %s...[m.....[0;
+0002dc40: 33326d09 424c2056 65720920 20093a20  32m.BL Ver.  .: 
+0002dc50: 25730d0a 1b5b6d00 1b5b303b 33326d09  %s...[m..[0;32m.
+0002dc60: 46575420 4e616d65 0920203a 2025730d  FWT Name.  : %s.
+0002dc70: 0a1b5b6d 00000000 1b5b303b 33326d09  ..[m.....[0;32m.
+0002dc80: 4657204e 616d6509 2020093a 2025730d  FW Name.  .: %s.
+0002dc90: 0a1b5b6d 00000000 1b5b303b 33326d09  ..[m.....[0;32m.
+0002dca0: 424c204e 616d6509 20093a20 25730d0a  BL Name. .: %s..
+0002dcb0: 1b5b6d00 09426f6f 746c6f61 64657220  .[m..Bootloader 
+0002dcc0: 496e666f 0d0a0000 55495f56 616c6964  Info....UI_Valid
+0002dcd0: 6174655f 53746f72 6167653a 20546865  ate_Storage: The
+0002dce0: 20393939 44495220 69732065 78697374   999DIR is exist
+0002dcf0: 696e6721 0d0a0000 55495f56 616c6964  ing!....UI_Valid
+0002dd00: 6174655f 53746f72 6167653a 20393939  ate_Storage: 999
+0002dd10: 2d393939 39206973 20657869 7374696e  -9999 is existin
+0002dd20: 67210d0a 00000000 4d454449 41000000  g!......MEDIA...
+0002dd30: 55495f56 616c6964 6174655f 53746f72  UI_Validate_Stor
+0002dd40: 6167653a 20546865 20393939 44495220  age: The 999DIR 
+0002dd50: 69732025 732c206e 6f207661 6c696420  is %s, no valid 
+0002dd60: 44434620 666f6c64 65722069 64206176  DCF folder id av
+0002dd70: 616c6961 626c6521 0d0a0000 25732533  aliable!....%s%3
+0002dd80: 64257300 00000000 413a5c44 43494d5c  d%s.....A:\DCIM\
+0002dd90: 00000000 55495f56 616c6964 6174655f  ....UI_Validate_
+0002dda0: 53746f72 6167653a 20257320 69732052  Storage: %s is R
+0002ddb0: 4541444f 4e4c592e 0d0a0000 55495f56  EADONLY.....UI_V
+0002ddc0: 616c6964 6174655f 53746f72 6167653a  alidate_Storage:
+0002ddd0: 2053544f 52414745 2046554c 4c210d0a   STORAGE FULL!..
+0002dde0: 00000000 55495f56 616c6964 6174655f  ....UI_Validate_
+0002ddf0: 53746f72 6167653a 204d6f76 5265635f  Storage: MovRec_
+0002de00: 4469736b 32536563 6f6e6428 293a2564  Disk2Second():%d
+0002de10: 20210d0a 00000000 55495f56 616c6964   !......UI_Valid
+0002de20: 6174655f 53746f72 6167653a 2053544f  ate_Storage: STO
+0002de30: 52414745 20455252 21202d20 25732028  RAGE ERR! - %s (
+0002de40: 30782578 290d0a00 55495f56 616c6964  0x%x)...UI_Valid
+0002de50: 6174655f 53746f72 6167653a 20434152  ate_Storage: CAR
+0002de60: 44204c4f 434b4544 210d0a00 55495f56  D LOCKED!...UI_V
+0002de70: 616c6964 6174655f 53746f72 6167653a  alidate_Storage:
+0002de80: 2053544f 52414745 20455252 21202d20   STORAGE ERR! - 
+0002de90: 25732028 30782578 29202020 73697a65  %s (0x%x)   size
+0002dea0: 3a20256c 64200d0a 00000000 5e527364  : %ld ......^Rsd
+0002deb0: 436c6173 733a2564 0d0a0000 55495f56  Class:%d....UI_V
+0002dec0: 616c6964 6174655f 53746f72 6167653a  alidate_Storage:
+0002ded0: 20556e6b 6e6f776e 2073746f 72616765   Unknown storage
+0002dee0: 20636865 636b2069 74656d20 30782578   check item 0x%x
+0002def0: 0d0a0000 5b536176 655f4d65 6e75496e  ....[Save_MenuIn
+0002df00: 666f5d3a 57726974 65205053 746f7265  fo]:Write PStore
+0002df10: 20666169 6c65640d 0a000000 5b536176   failed.....[Sav
+0002df20: 655f4d65 6e75496e 666f5d3a 4f70656e  e_MenuInfo]:Open
+0002df30: 20505374 6f726520 6661696c 65640d0a   PStore failed..
+0002df40: 00000000 1b5b303b 33326d67 43757272  .....[0;32mgCurr
+0002df50: 656e744d 656e7549 6e666f2e 72657365  entMenuInfo.rese
+0002df60: 745f706f 7765726f 6e203d20 25640d0a  t_poweron = %d..
+0002df70: 1b5b6d00 20746865 20726573 756c7420  .[m. the result 
+0002df80: 69732075 69537973 466c6167 5b25645d  is uiSysFlag[%d]
+0002df90: 203d2025 6420200d 0a000000 5b496e69   = %d  .....[Ini
+0002dfa0: 745f4d65 6e75496e 666f5d5b 5053746f  t_MenuInfo][PSto
+0002dfb0: 72652052 65616420 73797320 70617261  re Read sys para
+0002dfc0: 6d206661 696c5d0d 0a000000 3d3d3d3d  m fail].....====
+0002dfd0: 3d3d3d3d 3d3d3d33 33333d3d 3d3d3d3d  =======333======
+0002dfe0: 3d3d3d3d 3d3d3d0d 0a000000 313d3d3d  =======.....1===
+0002dff0: 3d3d3d3d 3d3d3d3d 6b657920 75736572  ========key user
+0002e000: 20736574 74696e67 20697320 6f6e3d3d   setting is on==
+0002e010: 3d3d3d3d 3d3d3d3d 3d3d3d0d 0a000000  ===========.....
+0002e020: 3d3d3d3d 3d3d3d3d 3d3d3d32 32323d3d  ===========222==
+0002e030: 3d3d3d3d 3d3d3d3d 3d3d3d0d 0a000000  ===========.....
+0002e040: 323d3d3d 3d3d3d3d 3d3d3d3d 6b657920  2===========key 
+0002e050: 75736572 20736574 74696e67 20697320  user setting is 
+0002e060: 6f6e3d3d 3d3d3d3d 3d3d3d3d 3d3d3d0d  on=============.
+0002e070: 0a000000 3d3d3d3d 3d3d3d3d 3d3d3d34  ....===========4
+0002e080: 34343d3d 3d3d3d3d 3d3d3d3d 3d3d3d0d  44=============.
+0002e090: 0a000000 ffd8ffe0 00104a46 49460001  ..........JFIF..
+0002e0a0: 0101012c 012c0000 ffe10c02 45786966  ...,.,......Exif
+0002e0b0: 00004d4d 002a0000 0008000c 01000003  ..MM.*..........
+0002e0c0: 00000001 0b400000 01010003 00000001  .....@..........
+0002e0d0: 06400000 01020003 00000003 0000009e  .@..............
+0002e0e0: 01060003 00000001 00020000 01120003  ................
+0002e0f0: 00000001 00010000 01150003 00000001  ................
+0002e100: 00030000 011a0005 00000001 000000a4  ................
+0002e110: 011b0005 00000001 000000ac 01280003  .............(..
+0002e120: 00000001 00020000 01310002 0000001e  .........1......
+0002e130: 000000b4 01320002 00000014 000000d2  .....2..........
+0002e140: 87690004 00000001 000000e6 0000011e  .i..............
+0002e150: 00080008 0008002d c6c00000 2710002d  .......-....'..-
+0002e160: c6c00000 27104164 6f626520 50686f74  ....'.Adobe Phot
+0002e170: 6f73686f 70204353 36202857 696e646f  oshop CS6 (Windo
+0002e180: 77732900 32303138 3a30343a 31312031  ws).2018:04:11 1
+0002e190: 383a3335 3a323900 00049000 00070000  8:35:29.........
+0002e1a0: 00043032 3231a001 00030000 0001ffff  ..0221..........
+0002e1b0: 0000a002 00040000 00010000 0140a003  .............@..
+0002e1c0: 00040000 00010000 00f00000 00000000  ................
+0002e1d0: 00060103 00030000 00010006 0000011a  ................
+0002e1e0: 00050000 00010000 016c011b 00050000  .........l......
+0002e1f0: 00010000 01740128 00030000 00010002  .....t.(........
+0002e200: 00000201 00040000 00010000 017c0202  .............|..
+0002e210: 00040000 00010000 0a7d0000 00000000  .........}......
+0002e220: 00480000 00010000 00480000 0001ffd8  .H.......H......
+0002e230: ffdb0043 00080606 07060508 07070709  ...C............
+0002e240: 09080a0c 140d0c0b 0b0c1912 130f141d  ................
+0002e250: 1a1f1e1d 1a1c1c20 242e2720 222c231c  ....... $.' ",#.
+0002e260: 1c283729 2c303134 34341f27 393d3832  .(7),01444.'9=82
+0002e270: 3c2e3334 32ffdb00 43010909 090c0b0c  <.342...C.......
+0002e280: 180d0d18 32211c21 32323232 32323232  ....2!.!22222222
+0002e290: 32323232 32323232 32323232 32323232  2222222222222222
+0002e2a0: 32323232 32323232 32323232 32323232  2222222222222222
+0002e2b0: 32323232 32323232 3232ffc0 00110800  2222222222......
+0002e2c0: 7800a003 01210002 11010311 01ffc400  x....!..........
+0002e2d0: 1f000001 05010101 01010100 00000000  ................
+0002e2e0: 00000001 02030405 06070809 0a0bffc4  ................
+0002e2f0: 00b51000 02010303 02040305 05040400  ................
+0002e300: 00017d01 02030004 11051221 31410613  ..}........!1A..
+0002e310: 51610722 71143281 91a10823 42b1c115  Qa."q.2....#B...
+0002e320: 52d1f024 33627282 090a1617 18191a25  R..$3br........%
+0002e330: 26272829 2a343536 3738393a 43444546  &'()*456789:CDEF
+0002e340: 4748494a 53545556 5758595a 63646566  GHIJSTUVWXYZcdef
+0002e350: 6768696a 73747576 7778797a 83848586  ghijstuvwxyz....
+0002e360: 8788898a 92939495 96979899 9aa2a3a4  ................
+0002e370: a5a6a7a8 a9aab2b3 b4b5b6b7 b8b9bac2  ................
+0002e380: c3c4c5c6 c7c8c9ca d2d3d4d5 d6d7d8d9  ................
+0002e390: dae1e2e3 e4e5e6e7 e8e9eaf1 f2f3f4f5  ................
+0002e3a0: f6f7f8f9 faffc400 1f010003 01010101  ................
+0002e3b0: 01010101 01000000 00000001 02030405  ................
+0002e3c0: 06070809 0a0bffc4 00b51100 02010204  ................
+0002e3d0: 04030407 05040400 01027700 01020311  ..........w.....
+0002e3e0: 04052131 06124151 07617113 22328108  ..!1..AQ.aq."2..
+0002e3f0: 144291a1 b1c10923 3352f015 6272d10a  .B.....#3R..br..
+0002e400: 162434e1 25f11718 191a2627 28292a35  .$4.%.....&'()*5
+0002e410: 36373839 3a434445 46474849 4a535455  6789:CDEFGHIJSTU
+0002e420: 56575859 5a636465 66676869 6a737475  VWXYZcdefghijstu
+0002e430: 76777879 7a828384 85868788 898a9293  vwxyz...........
+0002e440: 94959697 98999aa2 a3a4a5a6 a7a8a9aa  ................
+0002e450: b2b3b4b5 b6b7b8b9 bac2c3c4 c5c6c7c8  ................
+0002e460: c9cad2d3 d4d5d6d7 d8d9dae2 e3e4e5e6  ................
+0002e470: e7e8e9ea f2f3f4f5 f6f7f8f9 faffda00  ................
+0002e480: 0c030100 02110311 003f00aa 4d309c57  .........?..M0.W
+0002e490: dea3f378 2236351b 1ad11d94 e246c6a3  ...x"65......F..
+0002e4a0: 26b447a7 46246c69 84e7e956 8f5e8c74  &.G.F$li...V.^.t
+0002e4b0: 12909a67 6c50949d 699d3042 75a4a66f  ...glP..i.0Bu..o
+0002e4c0: 14148683 a2284a29 9d114252 f4a0da28  .....(J)..BR...(
+0002e4d0: e809a8d8 d7123f1a 82236351 b1ad11df  ......?..#cQ....
+0002e4e0: 4a2464d4 64d5a3d5 a10184d3 6acf569a  J$d.d.......j.V.
+0002e4f0: b2034da0 e98a109a 4aa3a628 434506f0  ..M.....J..(CE..
+0002e500: 414d341d 1141494c de285a4e b41b451b  AM4..AIL.(ZN..E.
+0002e510: cc6a3635 c68fc769 c48d8d46 c6b447a3  .j65...i...F..G.
+0002e520: 46246c6a 326ad1eb d0888690 d51e8450  F$lj2j.........P
+0002e530: 869a4d34 74c50945 3378a128 a0e88a10  ..M4t..E3x.(....
+0002e540: 9a4a0e88 a0a4eb4c da2809a2 8368a36d  .J.....L.(...h.m
+0002e550: 8d46c6b9 523f20a5 12326a36 3568f528  .F..R? ..2j65h.(
+0002e560: c08c9a6e 6acf5e8c 6c84a426 99d71421  ...nj.^.l..&...!
+0002e570: 3494ce98 a129299b c50521a0 e88a128a  4....))...!.....
+0002e580: 67445094 1e28368a 0a0d06d1 46c1351b  gDP..(6.....F.5.
+0002e590: 1ae647e4 94a246c6 a3635a23 d6a10184  ..G...F..cZ#....
+0002e5a0: d2551ea4 16821349 41d31427 5a4aa3a2  .U.....IA..'ZJ..
+0002e5b0: 284a2837 82109a4a 0e88a0a4 a66f141d  (J(7...J.....o..
+0002e5c0: 28a0da28 0d20a0d9 23598d46 4d608fca  (..(. ..#Y.FM`..
+0002e5d0: a8c48c9a 613568f5 e8446d14 cef8a1b4  ....a5h..Dm.....
+0002e5e0: 84e699d1 04252533 78a0a283 a2286d14  .....%%3x....(m.
+0002e5f0: ce88a0a4 a0da283a d141b450 94b41b23  ......(:.A.P...#
+0002e600: 498d46c6 b147e614 22464d3a 189ee278  I.F..G.."FM:...x
+0002e610: e0897749 2305551d c93802a9 b495d9eb  ..wI#.U..8......
+0002e620: 528d91dc eb9f0bef 348d1a6b f86fd6e9  R.......4..k.o..
+0002e630: a11b9e25 8769dbdc 83939c53 ac3e174f  ...%.i.....S.>.O
+0002e640: 7b616171 26a6b0c9 7681fcaf 233b0119  {aaq&...v...#;..
+0002e650: e4eefa7e 26bc4fed b87b2f69 cbaded6b  ...~&.O..{/i...k
+0002e660: f95efb1d 69588aeb e1f69b67 34915c78  .^..iX.....g4.\x
+0002e670: a228de3f be0d9b71 f8eeaa7a 4781edb5  .(.?...q...zG...
+0002e680: f8af8697 ae4735cd ab3010bc 1b3cc00f  .....G5..0...<..
+0002e690: cac0ee3c 1f5c715a c734a9ec dd5952b4  ...<.\qZ.4...YR.
+0002e6a0: 55baf7f9 1b45d896 5f00da69 d142bad7  U....E.._..i.B..
+0002e6b0: 892d34fb b91379b7 31ef2a3e a187f9f5  .-4...y.1.*>....
+0002e6c0: ab56ff00 0d6c6eb4 c935187c 5103d9c7  .V...ln..5.|Q...
+0002e6d0: 92f30b63 b463aff1 54cf37a8 a2a6a8be  ...c.c..T.7.....
+0002e6e0: 56ec9df7 edd0d14d ad6c3ecb e18da6a3  V......M.l>.....
+0002e6f0: 62f7b67e 258e7b64 ce644b42 470327f8  b..~%.{d.dKBG.'.
+0002e700: b9a8ee3e 1784d126 d4e1d711 a28e3690  ...>...&......6.
+0002e710: 09ad5a1c e3d771c8 e9e951fd b5253e59  ..Z...q...Q..%>Y
+0002e720: 52b6b6df afa58d55 7b3b5834 8f851797  R......U{;X4....
+0002e730: fa6c1737 9a8a58cb 30cac0d0 ee603a8c  .l.7..X.0....`:.
+0002e740: fcc39c73 8ed5069d f0ca7bbb 2b9bbb9d  ...s......{.+...
+0002e750: 523b6860 9a488e21 3231d8c5 49201e39  R;h`.H.!21..I .9
+0002e760: 1d39aa79 dc2f2e58 5ececb5d f7fbb634  .9.y./.X^..]...4
+0002e770: 58a4af64 427c13a2 2c8b1b78 c2057638  X..dB|..,..x..v8
+0002e780: 556b3604 9fa16ad0 bff85b6d a6f97f6c  Uk6...j...[m...l
+0002e790: f1247179 99db9b46 39c75e8d ef4e59bd  .$qy...F9.^..NY.
+0002e7a0: 58c94654 5ddedaff 00c034fa d49349c3  X.FT].....4...I.
+0002e7b0: 7f3390f1 069163a3 dc450d9e ac9a8165  .3....c..E.....e
+0002e7c0: 2642b098 fcb3d81c 93cd6357 ad42a4aa  &B........cW.B..
+0002e7d0: 5353946c df43d1a4 dca29b56 1690d6c6  SS.l.C.....V....
+0002e7e0: e8d026a3 635923f3 8a101b5d 0f82becf  ..&.cY#....]....
+0002e7f0: 17896dee ee919e2b 5ccbb559 012dfc3f  ..m....+\..Y.-.?
+0002e800: 7980ebcf e158e2af ec2696f6 67a70477  y....X...&..g..w
+0002e810: d6de2dbd 5f15de4f 3c01f479 e30891fd  ..-._..O<..y....
+0002e820: a212c854 75c6fc72 49cf3dc7 a56baf8c  ...Tu..rI.=..k..
+0002e830: 2c05d994 dbcc1163 091812c1 c7393ff2  ,......c.....9?.
+0002e840: d3d97f2a f97ad80b b5ecdf45 d25becfa  ...*.z.....E.[..
+0002e850: 1ba32ef3 54b0beb7 9ade7d47 5a686652  ....T.....}GZhfR
+0002e860: af189ed0 02a7a8eb 9c565db5 c69be18b  .........V].....
+0002e870: 5964f0d6 9cd36a32 fcbe7df5 cc3f22fa  Yd....j2..}..?".
+0002e880: 0daffa71 f5e315d1 4e955e4f 62ed183d  ...q....N.^Ob..=
+0002e890: eca57fc5 1a24f626 f11e8707 8e3493ab  .....$.&.....4..
+0002e8a0: 69f1a45a ddb20171 6eaeadbf 8e990704  i..Z...qn.......
+0002e8b0: fa1efd0f 4e29ea37 bff16f6d bc3da5c0  ....N).7..om.=..
+0002e8c0: 5652104e d2cd1203 cee6fe3c f2debdab  VR.N.......<....
+0002e8d0: 4a32738c 28cdff00 0e57d9ea ba74348e  J2s.(....W...t4.
+0002e8e0: b64fa335 f4bd5ac3 4ff09db6 8c8d7b6d  .O.5..Z.O.....{m
+0002e8f0: 224637cd 6d35b86d f9dcd825 cf539edd  "F7.m5.m...%.S..
+0002e900: 2b4a1f13 6949611d a5cc5777 aa8436fb  +J..iIa...Ww..6.
+0002e910: a96ddd98 83904fcf 8c83ed5c 9570b567  .m....O....\.p.g
+0002e920: 26d5aedb 77b4aff9 03a727b7 ea678f1a  &...w.....'..g..
+0002e930: 493eb70c f71a1422 1859d639 c5fc4644  I>.....".Y.9..FD
+0002e940: 53dc2eec 64f19e6a 2379a4a6 a175796b  S...d..j#y...uyk
+0002e950: 79adda35 cc865923 82eed821 63d4ed2c  y..5..Y#...!c..,
+0002e960: 6b45849d 2d20d493 56f7a32e f7d2cbf1  kE..- ..V.......
+0002e970: 3454dc76 d7d532e5 ef89ac2f 3ec16f2d  4T.v..2..../>.o-
+0002e980: 9cd3c56f 2a4af34d 35befdc9 c82007ea  ...o*J.M5.... ..
+0002e990: 4819e9c6 6a5bcf13 5a5dcc24 4bbd56d8  H...j[..Z].$K.V.
+0002e9a0: 05c6c826 b50bf5f9 989cfe35 92c15456  ...&.......5..TV
+0002e9b0: d9ad746a 56d7e40a 8cb4d9fd e78beb57  ..tjV..........W
+0002e9c0: 497bad5e dcc6f33a 4b3332b4 c417619e  I{.^...:K32...a.
+0002e9d0: a71c67e9 c551afb0 a71e5828 be88f769  ..g..Q....X(...i
+0002e9e0: ab4520a0 559b22e3 1a61359a 3f3fa31d  .E .U."..a5.??..
+0002e9f0: 04a434ce d8a1293a d33a2284 a4a66f14  ..4...):.:"...o.
+0002ea00: 68e89aed ff0087f5 05bcd3e6 d920e194  h............ ..
+0002ea10: f2ae3d18 77156bc4 badda6bf 78b7d1e9  ..=.w.k.....x...
+0002ea20: e2ceedc7 fa46c937 2487fbc0 6383ebd6  .....F.7$...c...
+0002ea30: b95e197d 61578bb3 b59f9a36 8c3dee64  .^.}aW.....6.=.d
+0002ea40: 61515d67 54509474 a0da2828 a0da2805  aQ]gTP.t..((..(.
+0002ea50: 141aa128 a0d522ec b1bc6d87 520d4759  ...(.."...m.R.GY
+0002ea60: a77d4f81 a128ce0a 50774c0d 2533ae28  .}O..(..PwL.%3.(
+0002ea70: 6939a4aa 3a6284a2 837820a6 d0744505  i9..:b...x ..tE.
+0002ea80: 14cde282 93ad06d1 414941bc 50b49d68  ........AIA.P..h
+0002ea90: 34485a4a 0d11d2b2 86186008 f422aa4d  4HZJ......`..".M
+0002eaa0: a7ab7311 da7d0f22 b8a13716 7e2397e6  ..s..}."..7.~#..
+0002eab0: 13c24fbc 5eebf55e 7f994258 6488e1d4  ..O.^..^..BXd...
+0002eac0: 8f43daa2 26ba934d 5d1f7587 a90ad055  .C..&..M].u....U
+0002ead0: 29bba625 2551d714 14507445 084d2507  )..%%Q...PtE.M%.
+0002eae0: 44505253 368a0345 06d14252 d06c84a5  DPRS6..E..BR.l..
+0002eaf0: e941a444 a2834474 d4579e7e 00210181  .A.D..Dt.W.~.!..
+0002eb00: 04020f50 6a9cfa7c 6f968cec 6f4ea2ae  ...Pj..|o...oN..
+0002eb10: 137167a3 97663530 752eb58b dd7f9799  .qg..f50u.......
+0002eb20: 9f2c1242 7e7538f5 ed51575a 69aba3f4  .,.B~u8..QWZi...
+0002eb30: 2c2d6a75 e9aa94dd d30a434c ed8a128a  ,-ju......CL....
+0002eb40: 67445094 1e28368a 0a4341b4 50b4941a  gDP..(6..CA.P...
+0002eb50: a1692834 414505a3 a6a2bcf3 f9fc2909  .i(4AE........).
+0002eb60: a016e44d d083d2a9 4d691b64 a7ca7dba  ...M....Mi.d..}.
+0002eb70: 56b09347 b39663aa 612a5e3a a7baefff  V..G..c.a*^:....
+0002eb80: 0004a724 4f1f51c7 a8a8aba9 3b9fa261  ...$O.Q.....;..a
+0002eb90: 6bd3af4d 54a6ee82 9299db14 2f4a4a0d  k..MT......./JJ.
+0002eba0: a2829283 6485a4a0 d222f5a5 08c7da82  ....d...."......
+0002ebb0: 2b6269d0 5efbd7b0 a100eb4e c63a523c  +bi.^......N.:R<
+0002ebc0: 7af8d9d6 d365d8e8 68ae03f2 00a6b531  z....e..h......1
+0002ebd0: c7722635 0b1ab89d b451131a ad244adc  .r&5.....Q...$J.
+0002ebe0: 8e0fb56d 1763e8f2 dc44f0f2 e68edd57  ...m.c...D.....W
+0002ebf0: 72bb215f a536b53e de8558d5 8a9443ad  r.!_.6.>..X...C.
+0002ec00: 14cea8a1 294027a0 cd068e4a 2b9a4ec8  ....)@'....J+.N.
+0002ec10: 70898f5e 29e2251d 79a96cf2 7119afd9  p..^).%.y.l.q...
+0002ec20: a1f7ff00 90ec01d0 628c523c ae772776  ........b.R<.w'v
+0002ec30: f5131498 a668a474 145709f9 80531a99  .....h.t.W...S..
+0002ec40: 51dc858d 44c6b489 df4510b1 a898d6a8  Q...D....E......
+0002ec50: f6f0c88c 9a89941a d11f4983 9ca9bba1  ..........I.....
+0002ec60: 163763f2 a93f4a95 6d1cfde2 07eb4392  .7c..?J.m.....C.
+0002ec70: 476e2f39 c3e1636d e5d97ebd bf32416c  Gn/9..cm..~..2Al
+0002ec80: 8bdb27de 9db31d06 2a39ae7c dd7ccab6  ..'.....*9.|.|..
+0002ec90: 2a57a8f4 edd0695a 4c114caa 756e2525  *W....iZL.L.un%%
+0002eca0: 33a6320a 4c5068a4 7fffd900 ffed215e  3.2.LPh.......!^
+0002ecb0: 50686f74 6f73686f 7020332e 30003842  Photoshop 3.0.8B
+0002ecc0: 494d0404 00000000 000f1c01 5a00031b  IM..........Z...
+0002ecd0: 25471c02 00000200 00003842 494d0425  %G........8BIM.%
+0002ece0: 00000000 0010cdcf fa7da8c7 be090570  .........}.....p
+0002ecf0: 76aeaf05 c34e3842 494d043a 00000000  v....N8BIM.:....
+0002ed00: 00d70000 00100000 00010000 0000000b  ................
+0002ed10: 7072696e 744f7574 70757400 00000500  printOutput.....
+0002ed20: 00000050 73745362 6f6f6c01 00000000  ...PstSbool.....
+0002ed30: 496e7465 656e756d 00000000 496e7465  Inteenum....Inte
+0002ed40: 00000000 496d6720 0000000f 7072696e  ....Img ....prin
+0002ed50: 74536978 7465656e 42697462 6f6f6c00  tSixteenBitbool.
+0002ed60: 0000000b 7072696e 7465724e 616d6554  ....printerNameT
+0002ed70: 45585400 00000100 00000000 0f707269  EXT..........pri
+0002ed80: 6e745072 6f6f6653 65747570 4f626a63  ntProofSetupObjc
+0002ed90: 00000005 68216837 8bbe7f6e 00000000  ....h!h7...n....
+0002eda0: 000a7072 6f6f6653 65747570 00000001  ..proofSetup....
+0002edb0: 00000000 426c746e 656e756d 0000000c  ....Bltnenum....
+0002edc0: 6275696c 74696e50 726f6f66 00000009  builtinProof....
+0002edd0: 70726f6f 66434d59 4b003842 494d043b  proofCMYK.8BIM.;
+0002ede0: 00000000 022d0000 00100000 00010000  .....-..........
+0002edf0: 00000012 7072696e 744f7574 7075744f  ....printOutputO
+0002ee00: 7074696f 6e730000 00170000 00004370  ptions........Cp
+0002ee10: 746e626f 6f6c0000 00000043 6c627262  tnbool.....Clbrb
+0002ee20: 6f6f6c00 00000000 5267734d 626f6f6c  ool.....RgsMbool
+0002ee30: 00000000 0043726e 43626f6f 6c000000  .....CrnCbool...
+0002ee40: 0000436e 7443626f 6f6c0000 0000004c  ..CntCbool.....L
+0002ee50: 626c7362 6f6f6c00 00000000 4e677476  blsbool.....Ngtv
+0002ee60: 626f6f6c 00000000 00456d6c 44626f6f  bool.....EmlDboo
+0002ee70: 6c000000 0000496e 7472626f 6f6c0000  l.....Intrbool..
+0002ee80: 00000042 636b674f 626a6300 00000100  ...BckgObjc.....
+0002ee90: 00000000 00524742 43000000 03000000  .....RGBC.......
+0002eea0: 00526420 20646f75 62406fe0 00000000  .Rd  doub@o.....
+0002eeb0: 00000000 0047726e 20646f75 62406fe0  .....Grn doub@o.
+0002eec0: 00000000 00000000 00426c20 20646f75  .........Bl  dou
+0002eed0: 62406fe0 00000000 00000000 00427264  b@o..........Brd
+0002eee0: 54556e74 4623526c 74000000 00000000  TUntF#Rlt.......
+0002eef0: 00000000 00426c64 20556e74 4623526c  .....Bld UntF#Rl
+0002ef00: 74000000 00000000 00000000 0052736c  t............Rsl
+0002ef10: 74556e74 46235078 6c4072c0 00000000  tUntF#Pxl@r.....
+0002ef20: 00000000 0a766563 746f7244 61746162  .....vectorDatab
+0002ef30: 6f6f6c01 00000000 50675073 656e756d  ool.....PgPsenum
+0002ef40: 00000000 50675073 00000000 50675043  ....PgPs....PgPC
+0002ef50: 00000000 4c656674 556e7446 23526c74  ....LeftUntF#Rlt
+0002ef60: 00000000 00000000 00000000 546f7020  ............Top 
+0002ef70: 556e7446 23526c74 00000000 00000000  UntF#Rlt........
+0002ef80: 00000000 53636c20 556e7446 23507263  ....Scl UntF#Prc
+0002ef90: 40590000 00000000 00000010 63726f70  @Y..........crop
+0002efa0: 5768656e 5072696e 74696e67 626f6f6c  WhenPrintingbool
+0002efb0: 00000000 0e63726f 70526563 74426f74  .....cropRectBot
+0002efc0: 746f6d6c 6f6e6700 00000000 00000c63  tomlong........c
+0002efd0: 726f7052 6563744c 6566746c 6f6e6700  ropRectLeftlong.
+0002efe0: 00000000 00000d63 726f7052 65637452  .......cropRectR
+0002eff0: 69676874 6c6f6e67 00000000 0000000b  ightlong........
+0002f000: 63726f70 52656374 546f706c 6f6e6700  cropRectToplong.
+0002f010: 00000000 3842494d 03ed0000 00000010  ....8BIM........
+0002f020: 012c0000 00010002 012c0000 00010002  .,.......,......
+0002f030: 3842494d 04260000 0000000e 00000000  8BIM.&..........
+0002f040: 00000000 00003f80 00003842 494d040d  ......?...8BIM..
+0002f050: 00000000 00040000 001e3842 494d0419  ..........8BIM..
+0002f060: 00000000 00040000 001e3842 494d03f3  ..........8BIM..
+0002f070: 00000000 00090000 00000000 00000100  ................
+0002f080: 3842494d 27100000 0000000a 00010000  8BIM'...........
+0002f090: 00000000 00023842 494d03f5 00000000  ......8BIM......
+0002f0a0: 0048002f 66660001 006c6666 00060000  .H./ff...lff....
+0002f0b0: 00000001 002f6666 000100a1 999a0006  ...../ff........
+0002f0c0: 00000000 00010032 00000001 005a0000  .......2.....Z..
+0002f0d0: 00060000 00000001 00350000 0001002d  .........5.....-
+0002f0e0: 00000006 00000000 00013842 494d03f8  ..........8BIM..
+0002f0f0: 00000000 00700000 ffffffff ffffffff  .....p..........
+0002f100: ffffffff ffffffff ffffffff ffff03e8  ................
+0002f110: 00000000 ffffffff ffffffff ffffffff  ................
+0002f120: ffffffff ffffffff ffff03e8 00000000  ................
+0002f130: ffffffff ffffffff ffffffff ffffffff  ................
+0002f140: ffffffff ffff03e8 00000000 ffffffff  ................
+0002f150: ffffffff ffffffff ffffffff ffffffff  ................
+0002f160: ffff03e8 00003842 494d0400 00000000  ......8BIM......
+0002f170: 00020005 3842494d 04020000 0000000c  ....8BIM........
+0002f180: 00000000 00000000 00000000 3842494d  ............8BIM
+0002f190: 04300000 00000006 01010101 01013842  .0............8B
+0002f1a0: 494d042d 00000000 000a0002 00000001  IM.-............
+0002f1b0: 00000004 3842494d 04080000 00000010  ....8BIM........
+0002f1c0: 00000001 00000240 00000240 00000000  .......@...@....
+0002f1d0: 3842494d 041e0000 00000004 00000000  8BIM............
+0002f1e0: 3842494d 041a0000 00000359 00000006  8BIM.......Y....
+0002f1f0: 00000000 00000000 000000f0 00000140  ...............@
+0002f200: 00000012 00510051 56fe7247 00320030  .....Q.QV.rG.2.0
+0002f210: 00310038 00300034 00310031 00300039  .1.8.0.4.1.1.0.9
+0002f220: 00350035 00340033 00000001 00000000  .5.5.4.3........
+0002f230: 00000000 00000000 00000000 00000001  ................
+0002f240: 00000000 00000000 00000140 000000f0  ...........@....
+0002f250: 00000000 00000000 00000000 00000000  ................
+0002f260: 01000000 00000000 00000000 00000000  ................
+0002f270: 00000000 10000000 01000000 0000006e  ...............n
+0002f280: 756c6c00 00000200 00000662 6f756e64  ull........bound
+0002f290: 734f626a 63000000 01000000 00000052  sObjc..........R
+0002f2a0: 63743100 00000400 00000054 6f70206c  ct1........Top l
+0002f2b0: 6f6e6700 00000000 0000004c 6566746c  ong........Leftl
+0002f2c0: 6f6e6700 00000000 00000042 746f6d6c  ong........Btoml
+0002f2d0: 6f6e6700 0000f000 00000052 6768746c  ong........Rghtl
+0002f2e0: 6f6e6700 00014000 00000673 6c696365  ong...@....slice
+0002f2f0: 73566c4c 73000000 014f626a 63000000  sVlLs....Objc...
+0002f300: 01000000 00000573 6c696365 00000012  .......slice....
+0002f310: 00000007 736c6963 6549446c 6f6e6700  ....sliceIDlong.
+0002f320: 00000000 00000767 726f7570 49446c6f  .......groupIDlo
+0002f330: 6e670000 00000000 00066f72 6967696e  ng........origin
+0002f340: 656e756d 0000000c 45536c69 63654f72  enum....ESliceOr
+0002f350: 6967696e 0000000d 6175746f 47656e65  igin....autoGene
+0002f360: 72617465 64000000 00547970 65656e75  rated....Typeenu
+0002f370: 6d000000 0a45536c 69636554 79706500  m....ESliceType.
+0002f380: 00000049 6d672000 00000662 6f756e64  ...Img ....bound
+0002f390: 734f626a 63000000 01000000 00000052  sObjc..........R
+0002f3a0: 63743100 00000400 00000054 6f70206c  ct1........Top l
+0002f3b0: 6f6e6700 00000000 0000004c 6566746c  ong........Leftl
+0002f3c0: 6f6e6700 00000000 00000042 746f6d6c  ong........Btoml
+0002f3d0: 6f6e6700 0000f000 00000052 6768746c  ong........Rghtl
+0002f3e0: 6f6e6700 00014000 00000375 726c5445  ong...@....urlTE
+0002f3f0: 58540000 00010000 00000000 6e756c6c  XT..........null
+0002f400: 54455854 00000001 00000000 00004d73  TEXT..........Ms
+0002f410: 67655445 58540000 00010000 00000006  geTEXT..........
+0002f420: 616c7454 61675445 58540000 00010000  altTagTEXT......
+0002f430: 0000000e 63656c6c 54657874 49734854  ....cellTextIsHT
+0002f440: 4d4c626f 6f6c0100 00000863 656c6c54  MLbool.....cellT
+0002f450: 65787454 45585400 00000100 00000000  extTEXT.........
+0002f460: 09686f72 7a416c69 676e656e 756d0000  .horzAlignenum..
+0002f470: 000f4553 6c696365 486f727a 416c6967  ..ESliceHorzAlig
+0002f480: 6e000000 07646566 61756c74 00000009  n....default....
+0002f490: 76657274 416c6967 6e656e75 6d000000  vertAlignenum...
+0002f4a0: 0f45536c 69636556 65727441 6c69676e  .ESliceVertAlign
+0002f4b0: 00000007 64656661 756c7400 00000b62  ....default....b
+0002f4c0: 67436f6c 6f725479 7065656e 756d0000  gColorTypeenum..
+0002f4d0: 00114553 6c696365 4247436f 6c6f7254  ..ESliceBGColorT
+0002f4e0: 79706500 0000004e 6f6e6500 00000974  ype....None....t
+0002f4f0: 6f704f75 74736574 6c6f6e67 00000000  opOutsetlong....
+0002f500: 0000000a 6c656674 4f757473 65746c6f  ....leftOutsetlo
+0002f510: 6e670000 00000000 000c626f 74746f6d  ng........bottom
+0002f520: 4f757473 65746c6f 6e670000 00000000  Outsetlong......
+0002f530: 000b7269 6768744f 75747365 746c6f6e  ..rightOutsetlon
+0002f540: 67000000 00003842 494d0428 00000000  g.....8BIM.(....
+0002f550: 000c0000 00023ff0 00000000 00003842  ......?.......8B
+0002f560: 494d0411 00000000 00010100 3842494d  IM..........8BIM
+0002f570: 04140000 00000004 0000000f 3842494d  ............8BIM
+0002f580: 040c0000 000016ce 00000001 000000a0  ................
+0002f590: 00000078 000001e0 0000e100 000016b2  ...x............
+0002f5a0: 00180001 ffd8ffe2 0c584943 435f5052  .........XICC_PR
+0002f5b0: 4f46494c 45000101 00000c48 4c696e6f  OFILE......HLino
+0002f5c0: 02100000 6d6e7472 52474220 58595a20  ....mntrRGB XYZ 
+0002f5d0: 07ce0002 00090006 00310000 61637370  .........1..acsp
+0002f5e0: 4d534654 00000000 49454320 73524742  MSFT....IEC sRGB
+0002f5f0: 00000000 00000000 00000000 0000f6d6  ................
+0002f600: 00010000 0000d32d 48502020 00000000  .......-HP  ....
+0002f610: 00000000 00000000 00000000 00000000  ................
+0002f620: 00000000 00000000 00000000 00000000  ................
+0002f630: 00000000 00000000 00000011 63707274  ............cprt
+0002f640: 00000150 00000033 64657363 00000184  ...P...3desc....
+0002f650: 0000006c 77747074 000001f0 00000014  ...lwtpt........
+0002f660: 626b7074 00000204 00000014 7258595a  bkpt........rXYZ
+0002f670: 00000218 00000014 6758595a 0000022c  ........gXYZ...,
+0002f680: 00000014 6258595a 00000240 00000014  ....bXYZ...@....
+0002f690: 646d6e64 00000254 00000070 646d6464  dmnd...T...pdmdd
+0002f6a0: 000002c4 00000088 76756564 0000034c  ........vued...L
+0002f6b0: 00000086 76696577 000003d4 00000024  ....view.......$
+0002f6c0: 6c756d69 000003f8 00000014 6d656173  lumi........meas
+0002f6d0: 0000040c 00000024 74656368 00000430  .......$tech...0
+0002f6e0: 0000000c 72545243 0000043c 0000080c  ....rTRC...<....
+0002f6f0: 67545243 0000043c 0000080c 62545243  gTRC...<....bTRC
+0002f700: 0000043c 0000080c 74657874 00000000  ...<....text....
+0002f710: 436f7079 72696768 74202863 29203139  Copyright (c) 19
+0002f720: 39382048 65776c65 74742d50 61636b61  98 Hewlett-Packa
+0002f730: 72642043 6f6d7061 6e790000 64657363  rd Company..desc
+0002f740: 00000000 00000012 73524742 20494543  ........sRGB IEC
+0002f750: 36313936 362d322e 31000000 00000000  61966-2.1.......
+0002f760: 00000000 12735247 42204945 43363139  .....sRGB IEC619
+0002f770: 36362d32 2e310000 00000000 00000000  66-2.1..........
+0002f780: 00000000 00000000 00000000 00000000  ................
+0002f790: 00000000 00000000 00000000 00000000  ................
+0002f7a0: 00000000 00000000 58595a20 00000000  ........XYZ ....
+0002f7b0: 0000f351 00010000 000116cc 58595a20  ...Q........XYZ 
+0002f7c0: 00000000 00000000 00000000 00000000  ................
+0002f7d0: 58595a20 00000000 00006fa2 000038f5  XYZ ......o...8.
+0002f7e0: 00000390 58595a20 00000000 00006299  ....XYZ ......b.
+0002f7f0: 0000b785 000018da 58595a20 00000000  ........XYZ ....
+0002f800: 000024a0 00000f84 0000b6cf 64657363  ..$.........desc
+0002f810: 00000000 00000016 49454320 68747470  ........IEC http
+0002f820: 3a2f2f77 77772e69 65632e63 68000000  ://www.iec.ch...
+0002f830: 00000000 00000000 16494543 20687474  .........IEC htt
+0002f840: 703a2f2f 7777772e 6965632e 63680000  p://www.iec.ch..
+0002f850: 00000000 00000000 00000000 00000000  ................
+0002f860: 00000000 00000000 00000000 00000000  ................
+0002f870: 00000000 00000000 00000000 64657363  ............desc
+0002f880: 00000000 0000002e 49454320 36313936  ........IEC 6196
+0002f890: 362d322e 31204465 6661756c 74205247  6-2.1 Default RG
+0002f8a0: 4220636f 6c6f7572 20737061 6365202d  B colour space -
+0002f8b0: 20735247 42000000 00000000 00000000   sRGB...........
+0002f8c0: 2e494543 20363139 36362d32 2e312044  .IEC 61966-2.1 D
+0002f8d0: 65666175 6c742052 47422063 6f6c6f75  efault RGB colou
+0002f8e0: 72207370 61636520 2d207352 47420000  r space - sRGB..
+0002f8f0: 00000000 00000000 00000000 00000000  ................
+0002f900: 00000000 64657363 00000000 0000002c  ....desc.......,
+0002f910: 52656665 72656e63 65205669 6577696e  Reference Viewin
+0002f920: 6720436f 6e646974 696f6e20 696e2049  g Condition in I
+0002f930: 45433631 3936362d 322e3100 00000000  EC61966-2.1.....
+0002f940: 00000000 00002c52 65666572 656e6365  ......,Reference
+0002f950: 20566965 77696e67 20436f6e 64697469   Viewing Conditi
+0002f960: 6f6e2069 6e204945 43363139 36362d32  on in IEC61966-2
+0002f970: 2e310000 00000000 00000000 00000000  .1..............
+0002f980: 00000000 00000000 00000000 76696577  ............view
+0002f990: 00000000 0013a4fe 00145f2e 0010cf14  .........._.....
+0002f9a0: 0003edcc 0004130b 00035c9e 00000001  ..........\.....
+0002f9b0: 58595a20 00000000 004c0956 00500000  XYZ .....L.V.P..
+0002f9c0: 00571fe7 6d656173 00000000 00000001  .W..meas........
+0002f9d0: 00000000 00000000 00000000 00000000  ................
+0002f9e0: 0000028f 00000002 73696720 00000000  ........sig ....
+0002f9f0: 43525420 63757276 00000000 00000400  CRT curv........
+0002fa00: 00000005 000a000f 00140019 001e0023  ...............#
+0002fa10: 0028002d 00320037 003b0040 0045004a  .(.-.2.7.;.@.E.J
+0002fa20: 004f0054 0059005e 00630068 006d0072  .O.T.Y.^.c.h.m.r
+0002fa30: 0077007c 00810086 008b0090 0095009a  .w.|............
+0002fa40: 009f00a4 00a900ae 00b200b7 00bc00c1  ................
+0002fa50: 00c600cb 00d000d5 00db00e0 00e500eb  ................
+0002fa60: 00f000f6 00fb0101 0107010d 01130119  ................
+0002fa70: 011f0125 012b0132 0138013e 0145014c  ...%.+.2.8.>.E.L
+0002fa80: 01520159 01600167 016e0175 017c0183  .R.Y.`.g.n.u.|..
+0002fa90: 018b0192 019a01a1 01a901b1 01b901c1  ................
+0002faa0: 01c901d1 01d901e1 01e901f2 01fa0203  ................
+0002fab0: 020c0214 021d0226 022f0238 0241024b  .......&./.8.A.K
+0002fac0: 0254025d 02670271 027a0284 028e0298  .T.].g.q.z......
+0002fad0: 02a202ac 02b602c1 02cb02d5 02e002eb  ................
+0002fae0: 02f50300 030b0316 0321032d 03380343  .........!.-.8.C
+0002faf0: 034f035a 03660372 037e038a 039603a2  .O.Z.f.r.~......
+0002fb00: 03ae03ba 03c703d3 03e003ec 03f90406  ................
+0002fb10: 04130420 042d043b 04480455 04630471  ... .-.;.H.U.c.q
+0002fb20: 047e048c 049a04a8 04b604c4 04d304e1  .~..............
+0002fb30: 04f004fe 050d051c 052b053a 05490558  .........+.:.I.X
+0002fb40: 05670577 05860596 05a605b5 05c505d5  .g.w............
+0002fb50: 05e505f6 06060616 06270637 06480659  .........'.7.H.Y
+0002fb60: 066a067b 068c069d 06af06c0 06d106e3  .j.{............
+0002fb70: 06f50707 0719072b 073d074f 07610774  .......+.=.O.a.t
+0002fb80: 07860799 07ac07bf 07d207e5 07f8080b  ................
+0002fb90: 081f0832 0846085a 086e0882 089608aa  ...2.F.Z.n......
+0002fba0: 08be08d2 08e708fb 09100925 093a094f  ...........%.:.O
+0002fbb0: 09640979 098f09a4 09ba09cf 09e509fb  .d.y............
+0002fbc0: 0a110a27 0a3d0a54 0a6a0a81 0a980aae  ...'.=.T.j......
+0002fbd0: 0ac50adc 0af30b0b 0b220b39 0b510b69  .........".9.Q.i
+0002fbe0: 0b800b98 0bb00bc8 0be10bf9 0c120c2a  ...............*
+0002fbf0: 0c430c5c 0c750c8e 0ca70cc0 0cd90cf3  .C.\.u..........
+0002fc00: 0d0d0d26 0d400d5a 0d740d8e 0da90dc3  ...&.@.Z.t......
+0002fc10: 0dde0df8 0e130e2e 0e490e64 0e7f0e9b  .........I.d....
+0002fc20: 0eb60ed2 0eee0f09 0f250f41 0f5e0f7a  .........%.A.^.z
+0002fc30: 0f960fb3 0fcf0fec 10091026 10431061  ...........&.C.a
+0002fc40: 107e109b 10b910d7 10f51113 1131114f  .~...........1.O
+0002fc50: 116d118c 11aa11c9 11e81207 12261245  .m...........&.E
+0002fc60: 12641284 12a312c3 12e31303 13231343  .d...........#.C
+0002fc70: 13631383 13a413c5 13e51406 14271449  .c...........'.I
+0002fc80: 146a148b 14ad14ce 14f01512 15341556  .j...........4.V
+0002fc90: 1578159b 15bd15e0 16031626 1649166c  .x.........&.I.l
+0002fca0: 168f16b2 16d616fa 171d1741 17651789  ...........A.e..
+0002fcb0: 17ae17d2 17f7181b 18401865 188a18af  .........@.e....
+0002fcc0: 18d518fa 19201945 196b1991 19b719dd  ..... .E.k......
+0002fcd0: 1a041a2a 1a511a77 1a9e1ac5 1aec1b14  ...*.Q.w........
+0002fce0: 1b3b1b63 1b8a1bb2 1bda1c02 1c2a1c52  .;.c.........*.R
+0002fcf0: 1c7b1ca3 1ccc1cf5 1d1e1d47 1d701d99  .{.........G.p..
+0002fd00: 1dc31dec 1e161e40 1e6a1e94 1ebe1ee9  .......@.j......
+0002fd10: 1f131f3e 1f691f94 1fbf1fea 20152041  ...>.i...... . A
+0002fd20: 206c2098 20c420f0 211c2148 217521a1   l . . .!.!H!u!.
+0002fd30: 21ce21fb 22272255 228222af 22dd230a  !.!."'"U".".".#.
+0002fd40: 23382366 239423c2 23f0241f 244d247c  #8#f#.#.#.$.$M$|
+0002fd50: 24ab24da 25092538 25682597 25c725f7  $.$.%.%8%h%.%.%.
+0002fd60: 26272657 268726b7 26e82718 2749277a  &'&W&.&.&.'.'I'z
+0002fd70: 27ab27dc 280d283f 287128a2 28d42906  '.'.(.(?(q(.(.).
+0002fd80: 2938296b 299d29d0 2a022a35 2a682a9b  )8)k).).*.*5*h*.
+0002fd90: 2acf2b02 2b362b69 2b9d2bd1 2c052c39  *.+.+6+i+.+.,.,9
+0002fda0: 2c6e2ca2 2cd72d0c 2d412d76 2dab2de1  ,n,.,.-.-A-v-.-.
+0002fdb0: 2e162e4c 2e822eb7 2eee2f24 2f5a2f91  ...L....../$/Z/.
+0002fdc0: 2fc72ffe 3035306c 30a430db 3112314a  /./.050l0.0.1.1J
+0002fdd0: 318231ba 31f2322a 3263329b 32d4330d  1.1.1.2*2c2.2.3.
+0002fde0: 3346337f 33b833f1 342b3465 349e34d8  3F3.3.3.4+4e4.4.
+0002fdf0: 3513354d 358735c2 35fd3637 367236ae  5.5M5.5.5.676r6.
+0002fe00: 36e93724 3760379c 37d73814 3850388c  6.7$7`7.7.8.8P8.
+0002fe10: 38c83905 3942397f 39bc39f9 3a363a74  8.9.9B9.9.9.:6:t
+0002fe20: 3ab23aef 3b2d3b6b 3baa3be8 3c273c65  :.:.;-;k;.;.<'<e
+0002fe30: 3ca43ce3 3d223d61 3da13de0 3e203e60  <.<.="=a=.=.> >`
+0002fe40: 3ea03ee0 3f213f61 3fa23fe2 40234064  >.>.?!?a?.?.@#@d
+0002fe50: 40a640e7 4129416a 41ac41ee 42304272  @.@.A)AjA.A.B0Br
+0002fe60: 42b542f7 433a437d 43c04403 4447448a  B.B.C:C}C.D.DGD.
+0002fe70: 44ce4512 4555459a 45de4622 466746ab  D.E.EUE.E.F"FgF.
+0002fe80: 46f04735 477b47c0 4805484b 489148d7  F.G5G{G.H.HKH.H.
+0002fe90: 491d4963 49a949f0 4a374a7d 4ac44b0c  I.IcI.I.J7J}J.K.
+0002fea0: 4b534b9a 4be24c2a 4c724cba 4d024d4a  KSK.K.L*LrL.M.MJ
+0002feb0: 4d934ddc 4e254e6e 4eb74f00 4f494f93  M.M.N%NnN.O.OIO.
+0002fec0: 4fdd5027 507150bb 51065150 519b51e6  O.P'PqP.Q.QPQ.Q.
+0002fed0: 5231527c 52c75313 535f53aa 53f65442  R1R|R.S.S_S.S.TB
+0002fee0: 548f54db 55285575 55c2560f 565c56a9  T.T.U(UuU.V.V\V.
+0002fef0: 56f75744 579257e0 582f587d 58cb591a  V.WDW.W.X/X}X.Y.
+0002ff00: 596959b8 5a075a56 5aa65af5 5b455b95  YiY.Z.ZVZ.Z.[E[.
+0002ff10: 5be55c35 5c865cd6 5d275d78 5dc95e1a  [.\5\.\.]']x].^.
+0002ff20: 5e6c5ebd 5f0f5f61 5fb36005 605760aa  ^l^._._a_.`.`W`.
+0002ff30: 60fc614f 61a261f5 6249629c 62f06343  `.aOa.a.bIb.b.cC
+0002ff40: 639763eb 64406494 64e9653d 659265e7  c.c.d@d.d.e=e.e.
+0002ff50: 663d6692 66e8673d 679367e9 683f6896  f=f.f.g=g.g.h?h.
+0002ff60: 68ec6943 699a69f1 6a486a9f 6af76b4f  h.iCi.i.jHj.j.kO
+0002ff70: 6ba76bff 6c576caf 6d086d60 6db96e12  k.k.lWl.m.m`m.n.
+0002ff80: 6e6b6ec4 6f1e6f78 6fd1702b 708670e0  nkn.o.oxo.p+p.p.
+0002ff90: 713a7195 71f0724b 72a67301 735d73b8  q:q.q.rKr.s.s]s.
+0002ffa0: 74147470 74cc7528 758575e1 763e769b  t.tpt.u(u.u.v>v.
+0002ffb0: 76f87756 77b37811 786e78cc 792a7989  v.wVw.x.xnx.y*y.
+0002ffc0: 79e77a46 7aa57b04 7b637bc2 7c217c81  y.zFz.{.{c{.|!|.
+0002ffd0: 7ce17d41 7da17e01 7e627ec2 7f237f84  |.}A}.~.~b~..#..
+0002ffe0: 7fe58047 80a8810a 816b81cd 82308292  ...G.....k...0..
+0002fff0: 82f48357 83ba841d 848084e3 854785ab  ...W.........G..
+
+===== REGION 0xD000 =====
+0000d000: c45500eb 0700a0e3 000084e5 077200eb  .U...........r..
+0000d010: 040094e5 08e08fe2 081090e5 0300a0e3  ................
+0000d020: 01f0a0e1 080094e5 08e08fe2 801090e5  ................
+0000d030: 0500a0e1 01f0a0e1 080094e5 04e08fe2  ................
+0000d040: 900090e5 00f0a0e1 651300eb 080094e5  ........e.......
+0000d050: 08e08fe2 801090e5 0200a0e3 01f0a0e1  ................
+0000d060: ac5500eb 0200a0e3 000084e5 ef7100eb  .U...........q..
+0000d070: 0010a0e3 0000a0e3 320100eb 0000a0e3  ........2.......
+0000d080: 3880bde8 c4bd2500 70402de9 a4509fe5  8.....%.p@-..P..
+0000d090: 0060a0e1 000095e5 0140a0e1 020050e3  .`.......@....P.
+0000d0a0: 0500000a 0020a0e1 90009fe5 88109fe5  ..... ..........
+0000d0b0: b11e00eb 0300e0e3 7080bde8 080095e5  ........p.......
+0000d0c0: 04e08fe2 580090e5 00f0a0e1 040050e1  ....X.........P.
+0000d0d0: 0300e0b3 7080bdb8 0010a0e3 0100a0e3  ....p...........
+0000d0e0: 180100eb 8b5500eb 0600a0e3 000085e5  .....U..........
+0000d0f0: ce7100eb 040095e5 08e08fe2 081090e5  .q..............
+0000d100: 0200a0e3 01f0a0e1 080095e5 0410a0e1  ................
+0000d110: 482090e5 0600a0e1 0fe0a0e1 02f0a0e1  H ..............
+0000d120: 7c5500eb 0200a0e3 000085e5 bf7100eb  |U...........q..
+0000d130: 0000a0e3 7080bde8 c4bd2500 880a0400  ....p.....%.....
+0000d140: 4c0a0400 f8402de9 a8509fe5 0060a0e1  L....@-..P...`..
+0000d150: 000095e5 0170a0e1 0240a0e1 020050e3  .....p...@....P.
+0000d160: 0500000a 0020a0e1 90009fe5 88109fe5  ..... ..........
+0000d170: 811e00eb 0300e0e3 f880bde8 080095e5  ................
+0000d180: 04e08fe2 580090e5 00f0a0e1 040050e1  ....X.........P.
+0000d190: 0300e0b3 f880bdb8 0610a0e1 0100a0e3  ................
+0000d1a0: e80000eb 5b5500eb 0600a0e3 000085e5  ....[U..........
+0000d1b0: 9e7100eb 040095e5 08e08fe2 081090e5  .q..............
+0000d1c0: 0200a0e3 01f0a0e1 080095e5 0410a0e1  ................
+0000d1d0: 482090e5 0700a0e1 0fe0a0e1 02f0a0e1  H ..............
+0000d1e0: 4c5500eb 0200a0e3 000085e5 8f7100eb  LU...........q..
+0000d1f0: 0000a0e3 f880bde8 c4bd2500 9c0a0400  ..........%.....
+0000d200: 4c0a0400 18109fe5 000091e5 000050e3  L.............P.
+0000d210: 08009115 54009015 00f08012 0300e003  ....T...........
+0000d220: 0ef0a0e1 c4bd2500 18309fe5 002093e5  ......%..0... ..
+0000d230: 000052e3 08209315 64209215 00f08212  ..R.. ..d ......
+0000d240: 0300e003 0ef0a0e1 c4bd2500 0010a0e1  ..........%.....
+0000d250: 0700a0e3 8bffffea 04009fe5 000090e5  ................
+0000d260: 0ef0a0e1 bcbd2500 70402de9 ac419fe5  ......%.p@-..A..
+0000d270: 001094e5 000051e3 0300e003 7080bd08  ......Q.....p...
+0000d280: 000050e3 1600000a 94619fe5 0250a0e3  ..P......a...P..
+0000d290: 010050e3 2700000a 020050e3 5900001a  ..P.'.....P.Y...
+0000d2a0: 0010a0e3 0100a0e3 a60000eb 040094e5  ................
+0000d2b0: 08e08fe2 081090e5 0500a0e3 01f0a0e1  ................
+0000d2c0: 080094e5 04e08fe2 4c0090e5 00f0a0e1  ........L.......
+0000d2d0: 105500eb 005084e5 547100eb 0000a0e3  .U...P..Tq......
+0000d2e0: 7080bde8 040051e3 0000a003 7080bd08  p.....Q.....p...
+0000d2f0: 0010a0e3 0100a0e3 920000eb 055500eb  .............U..
+0000d300: 0400a0e3 000084e5 487100eb 040094e5  ........Hq......
+0000d310: 08e08fe2 081090e5 0500a0e3 01f0a0e1  ................
+0000d320: 080094e5 04e08fe2 080090e5 00f0a0e1  ................
+0000d330: 0000a0e3 7080bde8 080094e5 04e08fe2  ....p...........
+0000d340: 0c0090e5 00f0a0e1 000050e3 2100001a  ..........P.!...
+0000d350: 040094e5 08e08fe2 081090e5 0400a0e3  ................
+0000d360: 01f0a0e1 080094e5 08e08fe2 8c1090e5  ................
+0000d370: 0100a0e3 01f0a0e1 1e00a0e3 981200eb  ................
+0000d380: 080094e5 08e08fe2 8c1090e5 0200a0e3  ................
+0000d390: 01f0a0e1 040094e5 08e08fe2 081090e5  ................
+0000d3a0: 0200a0e3 01f0a0e1 080094e5 04e08fe2  ................
+0000d3b0: 4c0090e5 00f0a0e1 d65400eb 005084e5  L........T...P..
+0000d3c0: 1a7100eb 0010a0e3 0000a0e3 5d0000eb  .q..........]...
+0000d3d0: 0000a0e3 7080bde8 0610a0e1 44009fe5  ....p.......D...
+0000d3e0: e51d00eb cb5400eb 0300a0e3 000084e5  .....T..........
+0000d3f0: 0e7100eb 0010a0e3 0000a0e3 510000eb  .q..........Q...
+0000d400: 0300e0e3 7080bde8 0020a0e1 18009fe5  ....p.... ......
+0000d410: 0610a0e1 d81d00eb 0300e0e3 7080bde8  ............p...
+0000d420: c4bd2500 70090400 50090400 7c090400  ..%.p...P...|...
+0000d430: 04009fe5 000090e5 0ef0a0e1 c4bd2500  ..............%.
+0000d440: f0402de9 0040a0e1 e4009fe5 14d04de2  .@-..@........M.
+0000d450: 0160a0e1 0250a0e1 c71d00eb 000054e3  .`...P........T.
+0000d460: 00005613 00005513 0400001a c4109fe5  ..V...U.........
+0000d470: c4009fe5 c01d00eb 14d08de2 f080bde8  ................
+0000d480: a45400eb b4709fe5 0100a0e3 000087e5  .T...p..........
+0000d490: e67000eb 600087e9 001095e5 0400a0e1  .p..`...........
+0000d4a0: 0fe0a0e1 01f0a0e1 080097e5 041097e5  ................
+0000d4b0: 002090e5 0400a0e1 0fe0a0e1 02f0a0e1  . ..............
+0000d4c0: 400094e5 14e08fe2 000050e3 70109f15  @.........P.p...
+0000d4d0: 00008115 080097e5 040090e5 00f0a0e1  ................
+0000d4e0: 000050e3 0300000a 8a5400eb 0200a0e3  ..P......T......
+0000d4f0: 000087e5 cd7000eb 81feffeb 04008de2  .....p..........
+0000d500: 0010a0e3 0020a0e3 0030a0e3 0040a0e3  ..... ...0...@..
+0000d510: 1e0080e8 08508de5 04608de5 85feffeb  .....P...`......
+0000d520: 0010a0e3 0100a0e3 060000eb 14d08de2  ................
+0000d530: f080bde8 04090400 3c090400 20090400  ........<... ...
+0000d540: c4bd2500 bcbd2500 14309fe5 002093e5  ..%...%..0... ..
+0000d550: 000052e3 04209315 04209215 00f08212  ..R.. ... ......
+0000d560: 0ef0a0e1 c4bd2500 38402de9 ac409fe5  ......%.8@-..@..
+0000d570: 0050a0e1 000094e5 000050e3 0300e003  .P........P.....
+0000d580: 3880bd08 080094e5 04e08fe2 040090e5  8...............
+0000d590: 00f0a0e1 000050e3 0000a013 3880bd18  ......P.....8...
+0000d5a0: 000094e5 090050e3 0000a003 3880bd08  ......P.....8...
+0000d5b0: 6c009fe5 701d00eb 0010a0e3 0100a0e3  l...p...........
+0000d5c0: e0ffffeb 535400eb 0900a0e3 000084e5  ....ST..........
+0000d5d0: 967000eb 040094e5 08e08fe2 081090e5  .p..............
+0000d5e0: 0500a0e3 01f0a0e1 080094e5 08e08fe2  ................
+0000d5f0: 2c1090e5 0500a0e1 01f0a0e1 455400eb  ,...........ET..
+0000d600: 0100a0e3 000084e5 887000eb 0010a0e3  .........p......
+0000d610: 0000a0e3 cbffffeb 0000a0e3 3880bde8  ............8...
+0000d620: c4bd2500 a0090400 10402de9 24409fe5  ..%......@-.$@..
+0000d630: 0ce08fe2 040094e5 081090e5 0400a0e3  ................
+0000d640: 01f0a0e1 080094e5 8c1090e5 1040bde8  .............@..
+0000d650: 0200a0e3 00f081e2 c4bd2500 70402de9  ..........%.p@-.
+0000d660: 04419fe5 0060a0e1 000094e5 08d04de2  .A...`........M.
+0000d670: 020050e3 0300e013 08d08d12 0150a0e1  ..P..........P..
+0000d680: 7080bd18 0310a0e3 0100a0e3 adffffeb  p...............
+0000d690: 205400eb 0800a0e3 000084e5 637000eb   T..........cp..
+0000d6a0: 040094e5 08e08fe2 081090e5 0400a0e3  ................
+0000d6b0: 01f0a0e1 080094e5 08e08fe2 8c1090e5  ................
+0000d6c0: 0600a0e1 01f0a0e1 010050e3 1f00000a  ..........P.....
+0000d6d0: 080094e5 000055e3 900090e5 1300000a  ......U.........
+0000d6e0: 0fe0a0e1 00f0a0e1 0050a0e1 04008de2  .........P......
+0000d6f0: 78109fe5 db6d00eb 000050e3 0700001a  x....m....P.....
+0000d700: 851085e0 851361e0 8111a0e1 0130a0e3  ......a......0..
+0000d710: 5020a0e3 04009de5 f76c00eb 0b0000ea  P .......l......
+0000d720: 401ea0e3 1900a0e3 7a6800eb 070000ea  @.......zh......
+0000d730: 0fe0a0e1 00f0a0e1 a91100eb 080094e5  ................
+0000d740: 08e08fe2 8c1090e5 0200a0e3 01f0a0e1  ................
+0000d750: f05300eb 0200a0e3 000084e5 337000eb  .S..........3p..
+0000d760: 0000a0e3 08d08de2 7080bde8 c4bd2500  ........p.....%.
+0000d770: 28d60000 14209fe5 001092e5 000051e3  (.... ........Q.
+0000d780: 08109215 38109115 00f08112 0ef0a0e1  ....8...........
+0000d790: c4bd2500 18109fe5 000091e5 000050e3  ..%...........P.
+0000d7a0: 08009115 24009015 00f08012 0300e003  ....$...........
+0000d7b0: 0ef0a0e1 c4bd2500 18109fe5 000091e5  ......%.........
+0000d7c0: 000050e3 08009115 20009015 00f08012  ..P..... .......
+0000d7d0: 0300e003 0ef0a0e1 c4bd2500 38402de9  ..........%.8@-.
+0000d7e0: 84409fe5 0050a0e1 000094e5 010050e3  .@...P........P.
+0000d7f0: 02005013 0500000a 0020a0e1 70009fe5  ..P...... ..p...
+0000d800: 68109fe5 dc1c00eb 0300e0e3 3880bde8  h...........8...
+0000d810: 0010a0e3 0100a0e3 4affffeb bd5300eb  ........J....S..
+0000d820: 0500a0e3 000084e5 007000eb 040094e5  .........p......
+0000d830: 08e08fe2 081090e5 0100a0e3 01f0a0e1  ................
+0000d840: 080094e5 08e08fe2 301090e5 0500a0e1  ........0.......
+0000d850: 01f0a0e1 af5300eb 0200a0e3 000084e5  .....S..........
+0000d860: f26f00eb 0000a0e3 3880bde8 c4bd2500  .o......8.....%.
+0000d870: dc090400 c0090400 10402de9 70409fe5  .........@-.p@..
+0000d880: 000094e5 020050e3 05005013 0500000a  ......P...P.....
+0000d890: 0020a0e1 60009fe5 58109fe5 b61c00eb  . ..`...X.......
+0000d8a0: 0300e0e3 1080bde8 0010a0e3 0100a0e3  ................
+0000d8b0: 24ffffeb 975300eb 0500a0e3 000084e5  $....S..........
+0000d8c0: da6f00eb 040094e5 08e08fe2 081090e5  .o..............
+0000d8d0: 0100a0e3 01f0a0e1 080094e5 08e08fe2  ................
+0000d8e0: 141090e5 0000a0e3 01f0a0e1 0000a0e3  ................
+0000d8f0: 1080bde8 c4bd2500 fc090400 c0090400  ......%.........
+0000d900: 10402de9 70409fe5 000094e5 020050e3  .@-.p@........P.
+0000d910: 05005013 0500000a 0020a0e1 60009fe5  ..P...... ..`...
+0000d920: 58109fe5 941c00eb 0300e0e3 1080bde8  X...............
+0000d930: 0010a0e3 0100a0e3 02ffffeb 755300eb  ............uS..
+0000d940: 0500a0e3 000084e5 b86f00eb 040094e5  .........o......
+0000d950: 08e08fe2 081090e5 0100a0e3 01f0a0e1  ................
+0000d960: 080094e5 08e08fe2 141090e5 0100a0e3  ................
+0000d970: 01f0a0e1 0000a0e3 1080bde8 c4bd2500  ..............%.
+0000d980: 1c0a0400 c0090400 38402de9 84509fe5  ........8@-..P..
+0000d990: 000095e5 020050e3 0000a003 3880bd08  ......P.....8...
+0000d9a0: 050050e3 06005013 0500000a 0020a0e1  ..P...P...... ..
+0000d9b0: 68009fe5 60109fe5 6f1c00eb 0300e0e3  h...`...o.......
+0000d9c0: 3880bde8 080095e5 04e08fe2 100090e5  8...............
+0000d9d0: 00f0a0e1 0040a0e1 4e5300eb 0200a0e3  .....@..NS......
+0000d9e0: 000085e5 916f00eb 0010a0e3 0000a0e3  .....o..........
+0000d9f0: d4feffeb 080095e5 04e08fe2 240090e5  ............$...
+0000da00: 00f0a0e1 040050e1 000054a3 0300e0d3  ......P...T.....
+0000da10: 0400a0c1 3880bde8 c4bd2500 3c0a0400  ....8.....%.<...
+0000da20: c0090400 08402de9 d3deffeb 1000a0e3  .....@-.........
+0000da30: dcdeffeb aadfffeb ccdeffeb 3000a0e3  ............0...
+0000da40: d0deffeb 0840bde8 a2dfffea 00009fe5  .....@..........
+0000da50: 0ef0a0e1 fd6d0000 00009fe5 0ef0a0e1  .....m..........
+0000da60: fd6d0000 f8432de9 9c739fe5 0000d7e5  .m...C-..s......
+0000da70: 010080e2 0000c7e5 90239fe5 90139fe5  .........#......
+0000da80: 0000a0e3 001182e7 010080e2 410050e3  ............A.P.
+0000da90: fbffff3a 7c039fe5 040080e5 000080e5  ...:|...........
+0000daa0: 0010a0e3 0810c0e5 0810a0e3 0910c0e5  ................
+0000dab0: 64139fe5 140041e2 040081e5 000081e5  d.....A.........
+0000dac0: 44139fe5 54039fe5 040081e5 0210a0e3  D...T...........
+0000dad0: 2310c0e5 48039fe5 001090e5 2f0051e3  #...H......./.Q.
+0000dae0: 0300008a 2f20a0e3 38039fe5 0e1c00eb  ..../ ..8.......
+0000daf0: feffffea 3d5100eb 2c839fe5 2c939fe5  ....=Q..,...,...
+0000db00: 2c639fe5 0040a0e3 045286e0 0500a0e1  ,c...@...R......
+0000db10: 3a3400eb 000050e3 0600000a 041286e0  :4....P.........
+0000db20: 0c2091e5 0030a0e1 08039fe5 0412d6e7  . ...0..........
+0000db30: fd1b00eb feffffea b200d5e1 000050e3  ..............P.
+0000db40: 08009515 00808015 0412d6e7 0c0095e5  ................
+0000db50: 014084e2 040054e3 010189e7 e9ffff3a  .@....T........:
+0000db60: fcf5ffeb d0029fe5 001090e5 1f0051e3  ..............Q.
+0000db70: 0300008a 1f20a0e3 c0029fe5 ea1b00eb  ..... ..........
+0000db80: feffffea b75000eb b4529fe5 b4629fe5  .....P...R...b..
+0000db90: 0040a0e3 8401d6e7 001195e7 000051e3  .@............Q.
+0000dba0: 0300000a 0010a0e1 9c029fe5 de1b00eb  ................
+0000dbb0: feffffea 953300eb 000050e3 0600000a  .....3....P.....
+0000dbc0: 841186e0 042091e5 0030a0e1 7c029fe5  ..... ...0..|...
+0000dbd0: 8411d6e7 d41b00eb feffffea 840186e0  ................
+0000dbe0: 8411d6e7 040090e5 014084e2 1f0054e3  .........@....T.
+0000dbf0: 010185e7 e6ffff3a 54029fe5 001090e5  .......:T.......
+0000dc00: 270051e3 0300008a 2720a0e3 44029fe5  '.Q.....' ..D...
+0000dc10: c51b00eb feffffea dc5000eb 38629fe5  .........P..8b..
+0000dc20: 38829fe5 0040a0e3 8401d8e7 000196e7  8....@..........
+0000dc30: 000050e3 0300000a 8411d8e7 20029fe5  ..P......... ...
+0000dc40: b91b00eb feffffea 845188e0 0500a0e1  .........Q......
+0000dc50: cc3300eb 000050e3 0600000a 841188e0  .3....P.........
+0000dc60: 042091e5 0030a0e1 f8019fe5 8411d8e7  . ...0..........
+0000dc70: ad1b00eb feffffea 8411d8e7 040095e5  ................
+0000dc80: 014084e2 270054e3 010186e7 e5ffff3a  .@..'.T........:
+0000dc90: d4019fe5 001090e5 020051e3 0300008a  ..........Q.....
+0000dca0: 0220a0e3 c4019fe5 9f1b00eb feffffea  . ..............
+0000dcb0: 855000eb 575000eb b4519fe5 b4619fe5  .P..WP...Q...a..
+0000dcc0: 0040a0e3 8401d6e7 001195e7 000051e3  .@............Q.
+0000dcd0: 0300000a 0010a0e1 9c019fe5 921b00eb  ................
+0000dce0: feffffea 5e3300eb 000050e3 0600000a  ....^3....P.....
+0000dcf0: 841186e0 042091e5 0030a0e1 7c019fe5  ..... ...0..|...
+0000dd00: 8411d6e7 881b00eb feffffea 840186e0  ................
+0000dd10: 8411d6e7 040090e5 014084e2 020054e3  .........@....T.
+0000dd20: 010185e7 e6ffff3a 54019fe5 001090e5  .......:T.......
+0000dd30: 030051e3 0300008a 0320a0e3 44019fe5  ..Q...... ..D...
+0000dd40: 791b00eb feffffea 775000eb 38619fe5  y.......wP..8a..
+0000dd50: 38819fe5 0040a0e3 040298e7 000196e7  8....@..........
+0000dd60: 000050e3 0300000a 041298e7 20019fe5  ..P......... ...
+0000dd70: 6d1b00eb feffffea 045288e0 040095e5  m........R......
+0000dd80: 1f0010e3 0600000a 040288e0 043090e5  .............0..
+0000dd90: 0c2095e5 041298e7 f8009fe5 621b00eb  . ..........b...
+0000dda0: feffffea 0500a0e1 403300eb 000050e3  ........@3....P.
+0000ddb0: 0600000a 041288e0 0c2091e5 0030a0e1  ......... ...0..
+0000ddc0: d4009fe5 041298e7 571b00eb feffffea  ........W.......
+0000ddd0: 041298e7 0c0095e5 014084e2 030054e3  .........@....T.
+0000dde0: 010186e7 dbffff3a 99f7ffeb 0000d7e5  .......:........
+0000ddf0: 010040e2 0000c7e5 0100a0e3 d46a00eb  ..@..........j..
+0000de00: 000050e3 0000e013 f883bde8 5cd82500  ..P.........\.%.
+0000de10: 78d82500 104e0000 6cd82500 64d82500  x.%..N..l.%.d.%.
+0000de20: 98582300 c8540400 1c0f0400 efbeadde  .X#..T..........
+0000de30: f80d2500 d8510400 5c0f0400 cc540400  ..%..Q..\....T..
+0000de40: 840f0400 f8362500 f0540400 c40f0400  .....6%..T......
+0000de50: e00f0400 d0540400 08100400 f8372500  .....T.......7%.
+0000de60: e8550400 44100400 60100400 d4540400  .U..D...`....T..
+0000de70: 90100400 f8392500 20570400 cc100400  .....9%. W......
+0000de80: e8100400 d8540400 14110400 183a2500  .....T.......:%.
+0000de90: 30570400 50110400 70110400 b4110400  0W..P...p.......
+0000dea0: 08402de9 274800eb 0840bde8 ecfeffea  .@-.'H...@......
+0000deb0: 08402de9 0d00a0e1 827703eb 10009fe5  .@-......w......
+0000dec0: 002090e5 00109de5 08009fe5 2a1b00eb  . ..........*...
+0000ded0: 0880bde8 f8742300 b0cd0200 f8432de9  .....t#......C-.
+0000dee0: 0040b0e1 0000d0e5 3c519fe5 0070a0e3  .@......<Q...p..
+0000def0: 00718517 0510e003 00118507 0000d4e5  .q..............
+0000df00: 0390e0e3 24819fe5 2f0050e3 00718537  ....$.../.P..q.7
+0000df10: 00918527 b210d4e1 0000e0e3 000051e3  ...'..........Q.
+0000df20: 0010d4e5 01718517 01018507 081094e5  .....q..........
+0000df30: 000051e3 0000d415 0010d405 00718517  ..Q..........q..
+0000df40: 01018507 040094e5 000050e3 0000d415  ..........P.....
+0000df50: 0010d405 00718517 0200e003 01018507  .....q..........
+0000df60: 0000d4e5 0012d8e7 000051e3 00718507  ..........Q..q..
+0000df70: 0110e013 00118517 0000d4e5 0002c8e7  ................
+0000df80: 0010d4e5 0100d4e5 011288e0 0100c1e5  ................
+0000df90: 0010d4e5 b200d4e1 011288e0 b200c1e1  ................
+0000dfa0: 0010d4e5 080094e5 011288e0 080081e5  ................
+0000dfb0: 0010d4e5 040094e5 011288e0 040081e5  ................
+0000dfc0: 0000d4e5 000288e0 0c3300eb 0060b0e1  .........3...`..
+0000dfd0: 0000d4e5 0200000a 009185e7 50509fe5  ............PP..
+0000dfe0: 0b0000ea 007185e7 0000d4e5 000288e0  .....q..........
+0000dff0: b210d0e1 000051e3 38109f15 08009015  ......Q.8.......
+
+===== REGION 0xF6000 =====
+000f6000: cf 5d 49 4d 41 47 20 42 53 af 06 81 84 10 af 0b  .]IMAG BS.......
+000f6010: de 5b 63 61 6c 63 af 06 83 31 af 0c df 44 20 72  .[calc...1...D r
+000f6020: 65 af 08 83 48 af 0c 17 af 07 83 38 53 4f 4d 45  e...H......8SOME
+000f6030: 54 48 49 4e 47 af 0b 81 8a 4f af 14 14 af 14 14  THING....O......
+000f6040: af 06 e0 54 3a 2d 45 52 2d 20 af 06 98 00 af 05  ...T:-ER- ......
+000f6050: bf 68 af 05 e6 61 af 08 18 af 0e 8f 2c af 05 de  .h...a......,...
+000f6060: 60 af 07 81 8a 34 af 06 20 af 05 b6 53 68 61 73  `....4.. ...Shas
+000f6070: 20 62 65 65 6e af 07 8e 37 af 06 9e 56 72 69 af   been...7...Vri.
+000f6080: 07 f9 7f af 04 2c af 07 81 a1 37 af 09 eb 03 00  .....,....7.....
+000f6090: 57 41 52 4e 3a 66 73 5f 66 af 04 33 28 29 af 09  WARN:fs_f..3()..
+000f60a0: a7 43 af 05 fd 39 af 07 81 8e 20 af 0c 20 af 05  .C...9.... .. ..
+000f60b0: b3 6b 64 6f 65 73 6e 27 af 07 a4 25 3a af 0d 33  .kdoesn'...%:..3
+000f60c0: 6f af 08 ce 1c 0d 0a 00 0a af 08 81 1d 5a 65 72  o............Zer
+000f60d0: 6f af 05 8d 2a 73 73 af 0c 81 a5 24 af 09 20 54  o...*ss....$.. T
+000f60e0: 72 79 20 74 af 09 22 af 07 87 2e 65 af 06 e0 47  ry t.."....e...G
+000f60f0: af 06 31 af 05 81 3c 73 65 af 06 81 88 2f af 09  ..1...<se..../..
+000f6100: 91 49 6f 72 af 08 82 24 af 08 3c af 06 a6 0d 63  .Ior...$..<....c
+000f6110: af 06 81 87 2c af 0b 23 af 05 24 af 06 81 19 6f  ....,..#..$....o
+000f6120: 6e 20 67 65 74 af 05 bc 70 69 6e 75 65 6f 75 73  n get...pinueous
+000f6130: af 08 30 af 05 9c 54 53 3a 20 41 af 07 81 2a 65  ..0...TS: A...*e
+000f6140: 63 74 af 05 d2 1f 74 75 72 6e af 10 4c 45 52 af  ct....turn..LER.
+000f6150: 04 49 6c af 0a 6d af 07 eb 6c af 0a c5 09 af 05  .Il..m...l......
+000f6160: 82 1d af 07 f0 78 52 2d af 07 81 63 64 af 06 81  .....xR-...cd...
+000f6170: a0 23 af 05 9d 28 af 05 de 04 af 08 d2 51 af 04  .#...(.......Q..
+000f6180: 54 44 65 af 05 f9 13 72 46 41 54 af 07 81 b0 52  TDe....rFAT....R
+000f6190: af 05 18 64 65 6c af 08 d7 4f 45 6e 74 72 79 20  ...del...OEntry 
+000f61a0: 45 52 2c 00 72 af 07 ed 08 52 65 6e 61 6d af 06  ER,.r....Renam..
+000f61b0: d4 6e 2c 20 62 65 63 af 05 8c 6d 25 73 af 05 84  .n, bec...m%s...
+000f61c0: 0b af 05 81 02 65 64 2e 20 0d 0a 00 66 73 5f 72  .....ed. ...fs_r
+000f61d0: af 05 2b af 07 38 af 08 83 53 af 04 2c af 0c ee  ..+..8...S..,...
+000f61e0: 54 af 0d 50 af 08 83 68 af 08 95 5a 6c 6f 6e 67  T..P...h...Zlong
+000f61f0: 20 af 04 20 af 07 e8 74 32 5d af 09 57 af 05 52   .. ...t2]..W..R
+000f6200: af 07 af 03 69 72 af 06 81 28 af 08 58 af 11 28  ....ir...(..X..(
+000f6210: 66 af 06 c6 52 af 08 20 4d 6f 76 69 6e 67 20 2d  f...R.. Moving -
+000f6220: 20 4f 70 65 6e 20 53 72 63 af 05 95 66 af 07 e5   Open Src...f...
+000f6230: 2c af 08 1c af 04 17 af 05 83 7d 69 af 06 81 a3  ,.........}i....
+000f6240: 5a af 05 82 3f af 07 ea 64 af 0c 28 af 05 44 44  Z...?...d..(..DD
+000f6250: 73 74 af 14 44 57 af 05 d7 1a af 04 1d 44 49 52  st..DW.......DIR
+000f6260: 45 4e 54 52 59 af 09 26 af 09 24 af 05 c6 6a af  ENTRY..&..$...j.
+000f6270: 08 81 8b 6e 20 4c 69 6e 6b af 12 24 53 74 6f 72  ...n Link..$Stor
+000f6280: 65 20 46 41 54 af 0a 65 53 65 74 20 41 af 05 d1  e FAT..eSet A...
+000f6290: 38 af 07 82 3c 69 af 06 87 06 af 08 81 8d 28 00  8...<i........(.
+000f62a0: 00 00 00 5c 00 00 00 64 69 72 af 05 84 57 79 af  ...\...dir...Wy.
+000f62b0: 05 82 48 af 0a 96 5e 2e 00 00 00 2e 2e 00 00 25  ..H...^........%
+000f62c0: 73 25 73 af 08 85 08 50 61 74 68 af 08 81 94 0d  s%s....Path.....
+000f62d0: af 05 94 0f 20 28 25 64 20 63 68 61 72 73 29 af  .... (%d chars).
+000f62e0: 08 81 a5 62 63 68 65 64 21 0a 0d af 0a 30 3a 20  ...bched!....0: 
+000f62f0: af 04 43 af 05 c8 00 af 2d 44 af 07 cc 3c af 05  ..C.....-D...<..
+000f6300: 9a 2c af 0a 81 b5 64 64 69 72 20 25 af 07 81 b7  .,....ddir %....
+000f6310: 1f af 05 98 74 af 04 54 66 73 5f 72 6d 64 69 72  ....t..Tfs_rmdir
+000f6320: 28 29 af 06 bb 75 af 27 81 23 af 39 3c af 07 81  ()...u.'.#.9<...
+000f6330: 60 af 05 88 2b 6e 6f af 06 f2 37 af 07 89 70 6e  `...+no...7...pn
+000f6340: 64 af 07 8a 09 af 07 5c 73 65 74 4c 61 62 af 08  d......\setLab..
+000f6350: f6 0a af 0b 89 68 41 3a 5c af 09 44 54 72 75 6e  .....hA:\..DTrun
+000f6360: 63 61 74 65 af 05 8a 50 af 06 81 a1 35 af 06 83  cate...P....5...
+000f6370: 6f af 07 89 18 af 11 28 6e 43 6c 75 af 07 82 05  o......(nClu....
+000f6380: af 04 23 46 73 af 0a c9 7b 5f 49 53 52 af 08 f9  ..#Fs...{_ISR...
+000f6390: 2d 6d 75 6c 69 74 20 65 6e af 06 88 0e af 04 48  -mulit en......H
+000f63a0: 5f 42 41 43 4b 47 52 4f 55 4e 44 5f 45 3a af 0d  _BACKGROUND_E:..
+000f63b0: 38 af 07 35 3a 53 65 6d af 0c 9a 64 af 25 34 af  8..5:Sem...d.%4.
+000f63c0: 06 ca 54 6e af 08 c9 0b 46 53 54 20 3a af 06 f8  ..Tn....FST :...
+000f63d0: 7c af 06 10 69 6c 65 73 79 73 52 65 73 74 6f 72  |...ilesysRestor
+000f63e0: 65 52 65 af 06 81 b3 64 49 6e 66 6f 3a af 07 81  eRe....dInfo:...
+000f63f0: b2 1f 20 77 6f 72 6b 69 6e 67 af 05 83 60 af 05  .. working...`..
+000f6400: fb 7f 21 0d 0a af 08 38 53 65 74 af 05 86 29 4e  ..!....8Set...)N
+000f6410: 65 78 af 07 c4 77 af 07 fb 4e 6f 75 74 af 06 98  ex...w...Nout...
+000f6420: 13 20 2c 75 73 65 20 4d 61 af 07 f8 0c af 06 81  . ,use Ma.......
+000f6430: 00 af 06 81 af 55 af 08 81 ad 34 af 07 4c 47 65  .....U....4..LGe
+000f6440: 74 44 43 46 4e 75 6d 43 61 63 68 65 af 04 45 2c  tDCFNumCache..E,
+000f6450: 25 64 20 af 08 d7 69 66 69 6c 65 21 20 66 72 6f  %d ...ifile! fro
+000f6460: 6d 20 31 30 30 20 2c 20 af 06 81 83 61 af 07 b0  m 100 , ....a...
+000f6470: 14 00 af 05 b8 18 42 6f 72 64 65 72 5f 4d 3a 20  ......Border_M: 
+000f6480: 53 65 af 06 bf 67 af 06 12 af 05 fe 48 af 0a 20  Se...g......H.. 
+000f6490: 45 af 05 dd 0e af 07 ae 79 41 63 71 75 69 72 65  E.......yAcquire
+000f64a0: 20 46 af 0a 81 95 50 af 12 2c af 07 ea 49 af 07   F....P..,...I..
+000f64b0: 33 66 6f 72 af 06 b9 08 20 af 09 5f af 10 81 00  3for.... .._....
+000f64c0: af 05 e3 5f af 06 f1 50 72 20 44 af 07 af 78 af  ..._...Pr D...x.
+000f64d0: 0f 58 af 05 24 af 07 cb 4d af 05 d2 6f af 19 24  .X..$...M...o..$
+000f64e0: 69 7a af 07 e5 6f af 08 fe 40 af 0f 81 20 74 20  iz...o...@... t 
+000f64f0: af 08 a0 35 af 06 a5 00 af 06 81 8b 74 af 05 2d  ...5........t..-
+000f6500: af 24 81 4c 50 72 65 76 69 65 77 af 20 81 54 4e  .$.LPreview. .TN
+000f6510: 6f af 09 2a 53 63 61 6c af 06 81 b3 0f af 0f 24  o..*Scal.......$
+000f6520: af 0f 21 af 07 f3 20 af 12 28 af 0e 83 20 af 09  ..!... ..(... ..
+000f6530: 82 22 af 11 74 af 0c 0f af 05 d1 63 af 0e 83 56  ."..t......c...V
+000f6540: af 2d 30 af 15 83 08 af 10 34 61 70 51 75 69 63  .-0......4apQuic
+000f6550: 6b af 10 67 af 2f 34 af 0a 81 51 af 20 81 20 43  k..g./4...Q. . C
+000f6560: 72 af 06 81 ae 09 af 24 28 af 08 56 01 00 af 06  r......$(..V....
+000f6570: 82 fb 6c 10 00 af 06 82 f0 1c af 06 8a 72 4a 50  ..l..........rJP
+000f6580: 47 af 07 98 35 af 05 bd 1c 70 65 67 44 65 63 af  G...5....pegDec.
+000f6590: 05 e1 1f af 07 e1 0f af 09 88 3a 6a 70 67 af 0f  ..........:jpg..
+000f65a0: 81 b4 7f af 09 81 ba 2a af 06 e7 70 43 41 4c 45  .......*...pCALE
+000f65b0: af 05 16 79 af 0b f3 58 af 06 94 7c 20 5e 52 20  ...y...X...| ^R 
+000f65c0: 4e 4f 54 20 45 4e 4f 55 47 48 af 0a 81 a3 24 72  NOT ENOUGH....$r
+000f65d0: 61 77 af 09 d8 1e af 08 81 81 08 af 0c f5 68 af  aw............h.
+000f65e0: 04 24 af 07 81 a0 48 72 61 77 af 07 81 b3 43 67  .$....Hraw....Cg
+000f65f0: 4d 6a 70 67 56 69 64 4d 61 78 59 49 af 05 d4 7d  MjpgVidMaxYI...}
+000f6600: af 08 81 91 7f af 06 a1 4c af 2f 30 4a 50 47 20  ........L./0JPG 
+000f6610: 44 45 43 4f 44 45 20 45 4e 44 af 0e f6 01 af 07  DECODE END......
+000f6620: f7 7c 6a 70 67 45 72 af 08 ee 5d af 05 fe 28 af  .|jpgEr...]...(.
+000f6630: 07 19 af 07 f7 77 af 0d 14 af 06 b9 6b 20 af 06  .....w......k ..
+000f6640: b0 74 54 50 5f 45 3a af 04 06 41 64 64 4f 62 6a  .tTP_E:...AddObj
+000f6650: 54 6f 53 49 43 44 4c 69 73 74 3a af 05 8f 44 77  ToSICDList:...Dw
+000f6660: 61 6e 74 65 af 04 19 48 af 05 8c 68 af 09 81 9f  ante...H...h....
+000f6670: 42 0a 0d af 0c 3c 52 65 67 af 06 cc 5b 43 62 3a  B....<Reg...[Cb:
+000f6680: af 05 b3 1b af 05 db 38 af 1b 20 32 af 10 20 74  .......8.. 2.. t
+000f6690: 72 69 76 65 5f af 04 7c 42 6c 6f 63 6b 5f 43 62  rive_..|Block_Cb
+000f66a0: 5f 42 79 5f 55 70 70 65 72 5f 4c 61 79 65 72 3a  _By_Upper_Layer:
+000f66b0: 28 af 05 39 29 66 69 6c af 05 92 45 3d af 06 8f  (..9)fil...E=...
+000f66c0: 61 af 09 44 4f 70 5f 43 68 65 63 6b 43 6d 64 af  a..DOp_CheckCmd.
+000f66d0: 06 81 3a af 07 8e 56 af 05 9d 06 af 06 d7 45 4d  ..:...V.......EM
+000f66e0: 53 44 43 3a af 05 af 41 6f 73 74 20 4e 6f 20 52  SDC:...Aost No R
+000f66f0: 65 73 70 6f 6e 73 65 0d 0a 00 55 53 42 af 04 1f  esponse...USB...
+000f6700: 5f 43 4c 4f 53 45 3a af 07 a1 17 69 73 af 06 81  _CLOSE:....is...
+000f6710: ab 13 af 07 82 58 af 08 24 63 68 67 53 74 72 67  .....X..$chgStrg
+000f6720: af 06 fb 50 28 29 af 08 9f 0c 75 73 af 07 98 6f  ...P()....us...o
+000f6730: 64 65 74 af 05 8f 35 20 4c 55 4e af 08 9b 5c af  det...5 LUN...\.
+000f6740: 17 3c af 08 e8 60 4c 75 6e 20 af 06 da 34 af 07  .<...`Lun ...4..
+000f6750: 81 a7 26 1c 00 00 00 4e 4f 56 41 55 50 63 63 4f  ..&....NOVAUPccO
+000f6760: 70 65 6e 3a 20 64 69 73 af 05 a5 63 55 56 43 2c  pen: dis...cUVC,
+000f6770: af 07 f2 78 20 43 41 af 06 a2 17 42 75 6c 6b 4f  ...x CA....BulkO
+000f6780: af 05 a8 7a af 0a 30 af 07 23 af 05 2f af 08 3c  ...z..0..#../..<
+000f6790: af 12 30 50 43 af 19 82 13 00 af 09 4b af 06 9a  ..0PC.......K...
+000f67a0: 79 69 6d af 08 81 94 30 0a 0d 00 55 53 42 50 63  yim....0...USBPc
+000f67b0: 63 53 65 74 af 05 e0 47 52 61 74 af 05 c9 43 74  cSet...GRat...Ct
+000f67c0: af 06 f7 30 af 04 0f af 06 b1 0a af 08 82 38 af  ...0..........8.
+000f67d0: 06 2c af 05 87 7e af 06 bb 54 af 04 2c 4f 75 74  .,...~...T..,Out
+000f67e0: af 04 0d af 06 ce 01 af 15 2c af 07 c9 1e af 06  .........,......
+000f67f0: 2f af 08 c9 2b af 09 2d 50 43 43 af 07 81 bb 6a  /...+..-PCC....j
+000f6800: 67 af 0a 81 95 51 af 0b 99 24 af 06 4c af 05 ac  g....Q...$..L...
+000f6810: 1b 54 73 6b 3a af 10 70 2c 20 75 69 4f 75 74 57  .Tsk:..p, uiOutW
+000f6820: 69 64 74 68 af 0d 12 48 65 af 05 c1 39 af 09 68  idth...He...9..h
+000f6830: af 10 48 af 05 8d 3d af 06 dc 76 65 64 af 08 78  ..H...=...ved..x
+000f6840: af 05 88 26 af 07 f4 6c 43 43 af 05 89 36 af 05  ...&...lCC...6..
+000f6850: 83 5b 3f 3f 3f af 08 81 84 65 af 10 48 67 5f 66  .[???....e..Hg_f
+000f6860: 70 53 65 74 50 43 43 32 43 61 70 52 61 77 af 08  pSetPCC2CapRaw..
+000f6870: dc 26 af 07 84 35 af 0e 20 3a 20 75 69 41 64 64  .&...5.. : uiAdd
+000f6880: 72 4a 70 67 af 0b 81 ca 49 53 69 7a 65 af 0c 12  rJpg....ISize...
+000f6890: af 05 df 50 af 1d 68 af 0e 65 af 07 a4 09 72 65  ...P..h..e....re
+000f68a0: 67 69 af 05 97 6d 52 45 51 af 06 91 0d 30 78 32  gi...mREQ....0x2
+000f68b0: 31 20 74 6f 20 30 78 46 46 0d 0a 00 55 73 69 63  1 to 0xFF...Usic
+000f68c0: 64 5f 6f 70 65 6e 4e af 05 81 77 46 49 46 4f af  d_openN...wFIFO.
+000f68d0: 04 6c 5b 55 53 42 53 49 43 44 5f af 05 dc 1c 43  .l[USBSICD_....C
+000f68e0: af 07 81 94 48 5d 75 af 06 e3 47 af 0a 81 99 38  ....H]u...G....8
+000f68f0: af 06 40 4f 70 65 af 07 d5 14 af 0a 10 3a 20 72  ..@Ope.......: r
+000f6900: 65 2d af 05 84 62 75 73 62 af 04 16 af 06 82 2c  e-...busb......,
+000f6910: af 09 20 af 05 84 73 3a 20 73 74 6f 72 61 67 65  .. ...s: storage
+000f6920: 20 6f af 06 81 82 46 af 0b 81 ac 30 62 65 af 07   o....F....0be..
+000f6930: 81 50 af 0e 58 20 4f 4b af 07 df 3c af 06 14 af  .P..X OK...<....
+000f6940: 05 8c 6f af 0b 5c 69 6e 69 af 06 90 4b af 06 10  ..o..\ini...K...
+000f6950: 54 73 6b af 04 0e 54 68 65 af 07 81 8d 0b af 07  Tsk...The.......
+000f6960: 88 40 af 0a 81 c3 54 73 61 6d 65 20 61 73 20 74  .@....Tsame as t
+000f6970: 68 65 20 75 69 4c af 06 1f af 09 87 60 af 05 54  he uiL......`..T
+000f6980: af 06 e7 56 6e 44 61 74 61 af 05 89 47 28 29 af  ...VnData...G().
+000f6990: 06 91 47 79 65 74 20 69 6d 70 6c 65 6d 65 6e 74  ..Gyet implement
+000f69a0: af 13 34 4d 61 73 73 af 09 35 3a 20 49 af 08 e4  ..4Mass..5: I...
+000f69b0: 5c af 0a e1 6d 2e af 07 81 a6 0c af 0d 68 af 2a  \...m........h.*
+000f69c0: 37 00 af 05 cb 61 af 06 83 15 af 10 81 8f 5b af  7....a........[.
+000f69d0: 06 8e 1c af 04 20 af 08 87 7d af 16 23 00 57 41  ..... ...}..#.WA
+000f69e0: 56 57 af 0a f0 7d af 09 64 af 0b 1c 55 af 09 f7  VW...}..d...U...
+000f69f0: 42 af 0a f3 40 62 af 05 96 6a 64 af 0a a7 67 af  B...@b...jd...g.
+000f6a00: 0c 30 af 08 b4 5a 20 41 44 50 43 4d af 13 f2 11  .0...Z ADPCM....
+000f6a10: af 0e 74 57 41 56 af 07 9e 01 6e 66 6f af 0b 20  ..tWAV....nfo.. 
+000f6a20: af 0e f1 19 af 11 81 9e 18 af 05 a3 44 af 04 28  ............D..(
+000f6a30: af 06 9d 7d af 06 90 58 61 74 20 50 6f af 0e c7  ...}...Xat Po...
+000f6a40: 08 af 06 81 14 af 0d 81 9c 31 61 6e af 08 81 b7  .........1an....
+000f6a50: 17 af 0e f1 5d 57 41 56 52 3a 20 49 af 05 a0 1b  ....]WAVR: I....
+000f6a60: 61 20 af 0e 81 1e af 0a 20 af 07 86 5e 63 61 6c  a ...... ...^cal
+000f6a70: 6c af 04 1e 5f 53 65 74 af 06 81 2b af 06 81 9f  l..._Set...+....
+000f6a80: 42 28 29 20 74 6f af 05 a3 53 af 08 81 9f 0e 69  B() to...S.....i
+000f6a90: 72 af 07 a2 30 af 06 40 43 af 05 fe 18 af 05 86  r...0..@C.......
+000f6aa0: 1d af 07 59 af 1c 78 af 06 81 9c 2e af 08 3c af  ...Y..x.......<.
+000f6ab0: 05 f3 12 af 18 81 6b 00 6e 6f 6e 65 00 69 6e 20  ......k.none.in 
+000f6ac0: 32 20 6f 75 74 00 73 6c 69 64 65 69 6e 20 6c 65  2 out.slidein le
+000f6ad0: 66 74 20 32 20 72 69 67 68 af 0a 15 af 05 0e 20  ft 2 righ...... 
+000f6ae0: 32 af 05 1d 00 70 75 73 68 20 75 70 20 32 20 64  2....push up 2 d
+000f6af0: 6f 77 6e af 06 0f af 04 0a 20 32 20 75 70 af 09  own...... 2 up..
+000f6b00: 33 70 65 72 66 65 63 74 20 66 69 78 af 14 14 56  3perfect fix...V
+000f6b10: 00 66 61 64 af 07 81 aa 09 20 63 68 65 63 6b 65  .fad..... checke
+000f6b20: 72 af 07 f3 3a af 05 96 66 af 05 9c 3f af 0c 11  r...:...f...?...
+000f6b30: af 06 9b 32 af 0d 23 78 69 74 00 af 06 b2 40 af  ...2..#xit....@.
+000f6b40: 0a 81 0e af 10 43 20 32 6e 64 20 73 74 61 67 65  .....C 2nd stage
+000f6b50: 00 52 49 46 46 20 2d 3e 20 61 76 69 af 09 87 00  .RIFF -> avi....
+000f6b60: 6e 6f 74 20 af 08 18 af 06 81 88 2a af 06 1a 33  not .......*...3
+000f6b70: 66 30 30 20 af 05 c0 00 58 31 af 08 a9 23 af 08  f00 ....X1...#..
+000f6b80: 81 89 37 af 07 aa 08 3e af 0b a7 05 af 0d 93 10  ..7....>........
+000f6b90: 31 73 af 08 81 90 24 af 09 81 8a 47 af 08 81 bb  1s....$....G....
+000f6ba0: 64 73 3a af 07 f7 28 af 08 8e 1f 64 21 af 05 88  ds:...(....d!...
+000f6bb0: 1d af 09 ba 5d af 07 81 8f 4c 73 3a af 05 f7 59  ....]....Ls:...Y
+000f6bc0: 50 65 72 53 af 06 b3 0a af 17 2b 00 41 56 49 20  PerS......+.AVI 
+000f6bd0: 64 75 72 af 06 94 2d 73 65 63 2c af 04 7a 46 52  dur...-sec,..zFR
+000f6be0: 3d 25 af 07 e9 35 52 49 46 46 af 0d fb 48 49 46  =%...5RIFF...HIF
+000f6bf0: 46 2b af 0a 81 b6 2d af 06 c4 4c 49 53 54 af 10  F+....-...LIST..
+000f6c00: 81 af 0d af 08 81 94 20 af 05 83 1a 20 49 44 af  ....... .... ID.
+000f6c10: 11 81 8d 70 af 04 1c 62 52 65 61 64 46 69 6c 65  ...p...bReadFile
+000f6c20: 3d af 06 8a 7d af 0c 81 93 30 21 21 20 62 75 66  =...}....0!! buf
+000f6c30: 3d 30 af 07 16 4e 65 65 af 06 f8 1c af 06 81 b5  =0...Nee........
+000f6c40: 20 af 05 86 0e 4d 6f 76 af 04 41 4c 69 62 5f af   ....Mov..ALib_.
+000f6c50: 0a 81 bc 5a af 07 81 9f 31 21 0d 0a 00 41 75 64  ...Z....1!...Aud
+000f6c60: af 0b 81 d7 11 3d af 09 96 71 41 56 49 3a 70 72  .....=...qAVI:pr
+000f6c70: 65 76 20 69 af 05 b9 46 af 09 81 c6 05 af 04 18  ev i...F........
+000f6c80: 6e 65 78 74 af 10 18 af 09 81 10 af 09 81 ca 5c  next...........\
+000f6c90: af 06 89 16 6c 61 72 67 af 08 81 cd 5d af 0c 83  ....larg....]...
+000f6ca0: 7c 48 57 20 af 13 83 43 af 0c 81 8c 09 af 06 81  |HW ...C........
+000f6cb0: 68 af 04 25 6a 75 6e 6b af 06 81 8d 13 af 0b 81  h..%junk........
+000f6cc0: b8 04 5b 25 64 5d af 09 39 58 2c af 09 38 af 07  ..[%d]..9X,..8..
+000f6cd0: d2 44 af 06 95 0f af 08 25 af 0a 81 92 73 af 06  .D......%....s..
+000f6ce0: b8 74 af 0e 81 8d 5c 45 52 52 52 21 21 21 20 af  .t....\ERRR!!! .
+000f6cf0: 07 81 80 42 2c 20 32 af 08 09 33 af 0e 81 94 54  ...B, 2...3....T
+000f6d00: af 1f 74 af 05 8d 50 56 66 3d af 08 92 64 af 08  ..t...PVf=...d..
+000f6d10: 82 14 af 07 89 1e 64 af 08 f8 73 66 74 65 72 af  ......d...sfter.
+000f6d20: 0a 81 98 15 69 af 06 b3 3d 0d 0a 00 af 05 a4 6d  ....i...=......m
+000f6d30: 62 75 66 20 61 af 05 b8 7b af 08 82 0f af 0d 81  buf a...{.......
+000f6d40: 2c 52 af 09 81 8d 10 af 07 81 c3 73 af 0e 73 00  ,R.........s..s.
+000f6d50: af 0a ef 36 af 06 b4 17 af 05 aa 14 25 64 af 06  ...6........%d..
+000f6d60: 81 bb 4d af 09 81 da 6d af 09 81 c3 64 af 06 82  ..M....m....d...
+000f6d70: 22 af 07 86 6d 62 72 65 61 6b 21 21 00 01 02 05  "...mbreak!!....
+000f6d80: 07 09 0c 04 07 af 0c 81 ae 14 af 0c 0c 01 01 01  ................
+000f6d90: af 09 0f 01 af 0b 0e 01 af 0b 0e af 07 0a af 05  ................
+000f6da0: 05 af 18 3c 28 30 29 00 25 63 af 06 81 e6 10 af  ...<(0).%c......
+000f6db0: 06 c1 12 64 af 05 c2 1e af 0e bf 11 af 08 b6 20  ...d........... 
+000f6dc0: af 08 e5 1a 69 6d 75 6d 20 72 65 2d af 09 8d 44  ....imum re-...D
+000f6dd0: 6f 6e af 05 82 36 af 08 8d 12 af 08 c2 2c 61 75  on...6.......,au
+000f6de0: 64 5f af 08 81 9d 04 3a 20 4f 4e 4c 59 af 07 bd  d_.....: ONLY...
+000f6df0: 41 af 0e 8d 7e af 07 b9 7c 5e 52 09 52 65 af 09  A...~...|^R.Re..
+000f6e00: 19 af 06 97 54 64 2c 20 74 61 72 67 65 74 20 53  ....Td, target S
+000f6e10: 52 3a af 0a 28 43 75 72 72 65 6e af 0b 15 af 0c  R:..(Curren.....
+000f6e20: c3 38 af 0b 45 52 61 74 69 6f 2c 20 54 af 06 43  .8..ERatio, T..C
+000f6e30: 25 64 2c af 05 96 5e af 07 c3 4d af 04 0b af 0c  %d,...^...M.....
+000f6e40: c4 03 af 0b 81 d5 53 74 af 06 81 a8 56 af 06 c0  ......St....V...
+000f6e50: 58 21 af 05 d7 04 af 09 54 af 07 81 ad 12 af 0d  X!......T.......
+000f6e60: 81 ad 0d 00 af 07 81 e8 14 af 07 81 80 20 af 06  ............. ..
+000f6e70: 94 61 af 05 8f 02 0d 0a 00 6d 69 73 73 af 05 c2  .a.......miss...
+000f6e80: 61 79 6e 74 61 78 3a af 06 81 ed 04 20 0d 0a 20  ayntax:..... .. 
+000f6e90: 00 00 af 05 38 af 06 81 cc 70 af 06 34 52 65 61  ....8....p..4Rea
+000f6ea0: af 05 81 1d af 05 8d 52 52 65 67 5b 25 78 2c 20  .......RReg[%x, 
+000f6eb0: 25 78 af 05 c5 62 61 65 20 6c 6f 63 6b 00 41 45  %x...bae lock.AE
+000f6ec0: af 05 08 af 05 83 17 61 65 af 07 81 8c 4b 00 00  .......ae....K..
+000f6ed0: af 04 18 af 06 0c af 07 83 31 61 77 62 af 06 31  .........1awb..1
+000f6ee0: af 07 81 e7 08 af 0b 1b af 05 1c af 08 39 af 04  .............9..
+000f6ef0: 1c af 0c 39 61 77 62 6d 73 67 20 af 08 08 af 09  ...9awbmsg .....
+000f6f00: e9 74 25 64 00 00 61 65 af 05 1b af 04 6c 4d 53  .t%d..ae.....lMS
+000f6f10: 47 af 06 1a 62 61 64 20 63 af 07 f8 74 6f 72 20  G...bad c...tor 
+000f6f20: 69 af 10 92 35 73 af 07 ba 14 64 70 20 6f 6c 64  i...5s....dp old
+000f6f30: 00 af 05 0c 69 6e 66 6f 72 00 af 06 0c 64 70 20  ....infor....dp 
+000f6f40: 74 68 00 00 00 63 68 72 6f 6d 61 af 08 08 20 66  th...chroma... f
+000f6f50: 69 6c 74 65 72 20 74 65 73 74 af 06 98 56 63 68  ilter test...Vch
+000f6f60: 6b 73 69 65 20 69 6f af 07 be 50 4f 55 54 af 06  ksie io...POUT..
+000f6f70: d8 1e 77 20 20 20 3d 20 af 08 d2 77 af 06 1c 42  ..w   = ...w...B
+000f6f80: 20 20 20 78 2c 79 2c 77 2c 68 af 06 1c 2c 25 64     x,y,w,h...,%d
+000f6f90: 2c af 05 06 af 05 25 af 04 24 43 52 50 af 21 24  ,.....%..$CRP.!$
+000f6fa0: 41 43 54 af 21 24 56 44 48 44 20 73 2c 73 2c 74  ACT.!$VDHD s,s,t
+000f6fb0: 2c 74 af 18 24 50 68 61 73 65 20 20 68 2c 76 2c  ,t..$Phase  h,v,
+000f6fc0: 64 af 0c 24 af 04 21 af 04 20 49 6e 76 20 20 af  d..$..!.. Inv  .
+000f6fd0: 05 20 af 08 81 4c af 08 3e 00 00 64 72 61 77 63  . ...L..>..drawc
+000f6fe0: 61 af 06 08 76 af 04 08 6d 61 70 72 6f 74 af 06  a...v...maprot..
+000f6ff0: d3 04 af 06 ab 2d 78 20 25 78 af 08 18 65 63 af  .....-x %x...ec.
+
+===== REGION 0x12B000 =====
+0012b000: b0 c4 22 00 78 c4 22 00 1c a8 af 08 95 6c af 04  ..".x."......l..
+0012b010: 04 af 06 08 55 49 20 56 31 2e 32 2e 32 00 00 00  ....UI V1.2.2...
+0012b020: 4e 6f 76 61 74 65 6b 20 43 6f 6d 70 61 6e 79 af  Novatek Company.
+0012b030: 2e 83 71 af 09 3d 61 6d 65 72 61 af 2f 84 2e 31  ..q..=amera./..1
+0012b040: 2e af 1f 83 8a 07 af 1f 3d af 3a 3e 41 42 43 44  ........=.:>ABCD
+0012b050: 30 31 32 33 34 35 36 af 18 85 cc 0f af 1d 7a af  0123456.......z.
+0012b060: 04 7d 37 00 4d 61 79 20 30 37 20 32 30 31 38 2c  .}7.May 07 2018,
+0012b070: 20 31 35 3a 32 39 3a 34 34 00 38 39 1d af 06 84   15:29:44.89....
+0012b080: ca 56 39 1d 00 40 00 00 00 45 39 1d 00 80 00 00  .V9..@...E9.....
+0012b090: 00 4a 39 1d af 05 85 35 4f af 04 08 02 00 00 55  .J9....5O......U
+0012b0a0: af 04 08 04 00 00 5c af 04 08 00 01 00 62 af 05  ......\......b..
+0012b0b0: 08 02 00 65 af 05 08 04 00 68 af 07 48 71 af 07  ...e.....h..Hq..
+0012b0c0: 48 76 39 1d af 05 86 24 7e 39 1d af 05 85 78 86  Hv9....$~9....x.
+0012b0d0: af 07 38 8d af 05 08 08 00 94 af 07 40 9a af 05  ..8.........@...
+0012b0e0: 08 10 00 9f af 05 08 20 00 a4 af 05 08 40 00 a9  ....... .....@..
+0012b0f0: af 07 58 01 00 00 01 28 69 25 00 00 c4 0f 00 9c  ..X....(i%......
+0012b100: c5 0f 00 a0 c4 0f 00 5c c3 0f 00 ec c2 0f 00 40  .......\.......@
+0012b110: c4 0f 00 28 c3 af 0c fd 0a af 10 a3 39 10 01 ff  ...(........9...
+0012b120: af 07 82 7d 2e 30 30 38 00 4a 61 6e 20 30 33 af  ...}.008.Jan 03.
+0012b130: 08 87 68 30 3a 33 36 3a 30 39 af 08 1f 30 af 12  ..h0:36:09...0..
+0012b140: 88 07 31 3a 35 33 af 0b 89 5c ff d8 ff db 00 84  ..1:53...\......
+0012b150: 00 01 01 01 01 af 04 04 af 07 07 02 af 06 06 02  ................
+0012b160: 03 02 02 03 03 03 03 03 03 04 03 03 05 05 04 03  ................
+0012b170: 04 04 af 04 0c 06 04 04 05 05 06 06 07 04 05 08  ................
+0012b180: 08 08 07 09 06 07 07 07 af 06 35 02 04 02 02 04  ..........5.....
+0012b190: 06 04 03 04 06 0b 08 04 04 08 0a 0a 0a 0a af 04  ................
+0012b1a0: 04 af 04 04 0b 0b 0b 0b af 04 04 af 08 08 af 06  ................
+0012b1b0: 06 0c 0c 0c 0c af 04 04 0c 0c ff c0 00 11 08 00  ................
+0012b1c0: 78 00 a0 03 01 21 00 02 11 01 03 11 01 ff c4 01  x....!..........
+0012b1d0: a2 00 00 01 05 af 06 81 13 af 09 8a 7d 02 03 04  ............}...
+0012b1e0: 05 06 07 08 09 0a 0b 10 00 02 01 03 03 02 04 03  ................
+0012b1f0: 05 05 04 04 00 00 01 7d 01 02 03 00 04 11 05 12  .......}........
+0012b200: 21 31 41 06 13 51 61 07 22 71 14 32 81 91 a1 08  !1A..Qa."q.2....
+0012b210: 23 42 b1 c1 15 52 d1 f0 24 33 62 72 82 09 0a 16  #B...R..$3br....
+0012b220: 17 18 19 1a 25 26 27 28 29 2a 34 35 36 37 38 39  ....%&'()*456789
+0012b230: 3a af 08 84 aa 58 af 08 84 aa 50 63 64 65 66 67  :....X....Pcdefg
+0012b240: 68 69 6a 73 74 75 76 77 78 79 7a 83 84 85 86 87  hijstuvwxyz.....
+0012b250: 88 89 8a 92 93 94 95 96 97 98 99 9a a2 a3 a4 a5  ................
+0012b260: a6 a7 a8 a9 aa b2 b3 b4 b5 b6 b7 b8 b9 ba c2 c3  ................
+0012b270: c4 c5 c6 c7 c8 c9 ca d2 d3 d4 d5 d6 d7 d8 d9 da  ................
+0012b280: e1 e2 e3 e4 e5 e6 e7 e8 e9 ea f1 f2 f3 f4 f5 f6  ................
+0012b290: f7 f8 f9 fa 01 00 03 af 09 82 65 af 11 81 50 11  ..........e...P.
+0012b2a0: 00 02 01 02 04 04 03 04 07 05 04 04 00 01 02 77  ...............w
+0012b2b0: af 04 1d 11 04 05 21 31 06 12 41 51 07 61 71 13  ......!1..AQ.aq.
+0012b2c0: 22 32 81 08 14 42 91 a1 b1 c1 09 23 33 52 f0 15  "2...B.....#3R..
+0012b2d0: 62 72 d1 0a 16 24 34 e1 25 f1 17 18 19 1a af 05  br...$4.%.......
+0012b2e0: 81 52 af 26 81 51 82 af 35 81 52 af 09 81 51 af  .R.&.Q..5.R...Q.
+0012b2f0: 09 81 50 ff dd 00 04 00 00 ff da 00 0c 03 01 00  ..P.............
+0012b300: 02 11 03 11 00 3f af 06 84 58 0e 01 02 af 05 86  .....?...X......
+0012b310: 24 6c b2 af 0a 8e 64 0f 01 02 af 05 d1 38 7c af  $l....d......8|.
+0012b320: 0b 14 10 af 07 28 9c af 0b 14 12 01 03 af 0d 8f  .....(..........
+0012b330: 0c af 04 08 1a 01 05 af 05 08 ac af 0b 28 1b af  .............(..
+0012b340: 07 14 b4 af 0b 14 28 af 07 3c af 0c 85 83 14 31  ......(..<.....1
+0012b350: 01 02 af 05 87 48 bc af 0b 28 32 01 02 af 05 ae  .....H...(2.....
+0012b360: 48 d0 af 0b 14 13 02 af 12 3c 69 87 af 05 87 30  H........<i....0
+0012b370: af 0d 8f 7c 25 88 af 0e 14 03 00 00 00 9a 82 af  ...|%...........
+0012b380: 06 81 0c f0 af 07 50 af 04 14 9d af 07 14 f8 af  ......P.........
+0012b390: 0b 14 22 88 af 0e 64 af 04 14 27 af 07 14 af 08  .."...d...'.....
+0012b3a0: ab 74 03 af 05 9f 29 07 af 06 83 b4 4c 32 32 af  .t....).....L22.
+0012b3b0: 05 8a 65 03 af 04 04 90 af 0e 81 34 03 00 00 00  ..e........4....
+0012b3c0: 04 af 13 14 01 91 af 06 3c 01 02 af 06 81 b4 2a  ........<......*
+0012b3d0: af 05 14 92 0a af 06 81 34 b3 af 0a 28 02 92 af  ........4...(...
+0012b3e0: 06 81 20 08 af 0b 14 03 af 07 28 10 af 0b 14 04  .. .......(.....
+0012b3f0: af 07 14 18 af 0b 14 05 af 07 3c 20 af 0b 14 07  ..........< ....
+0012b400: 92 af 12 81 5c 08 af 07 14 af 08 82 30 af 04 14  ....\.......0...
+0012b410: 09 af 07 14 af 0c 82 40 0a af 07 50 28 af 0b 50  .......@...P(..P
+0012b420: 86 92 07 af 05 83 38 f4 85 af 06 81 b0 1e af 04  ......8.........
+0012b430: 14 7c 92 af 06 95 36 30 af 0b 28 00 a0 af 07 82  .|....60..(.....
+0012b440: 2c 31 af 06 8d 11 af 05 81 70 a0 af 12 78 02 af  ,1.......p...x..
+0012b450: 07 14 af 08 84 f1 66 af 05 81 70 af 07 14 78 af  ......f...p...x.
+0012b460: 0b 14 05 a0 af 12 83 60 17 a2 af 12 81 5c 00 a3  .......`.....\..
+0012b470: af 06 84 eb 7e af 08 81 b7 10 af 05 78 a4 af 12  ....~.......x...
+0012b480: 81 5c 02 af 13 14 03 af 13 14 06 af 13 14 0a af  .\..............
+0012b490: 0f 14 af 06 b0 24 01 af 05 81 70 02 af 07 81 0d  .....$....p.....
+0012b4a0: af 04 14 01 00 02 af 05 81 1c 4e af 0b 28 02 00  ..........N..(..
+0012b4b0: 05 af 05 44 74 af 07 82 2c af 04 14 03 af 07 28  ...Dt...,......(
+0012b4c0: 45 af 0b 28 04 af 07 28 8c af 0b 28 05 00 01 af  E..(...(...(....
+0012b4d0: 11 78 06 af 05 16 00 00 a4 af 0b 28 07 af 07 3c  .x.........(...<
+0012b4e0: ac af 0b 14 1d 00 02 af 05 d9 30 e4 af 0b 85 14  ..........0.....
+0012b4f0: af 14 85 50 af 14 83 4c af 38 83 24 af 05 85 70  ...P...L.8.$...p
+0012b500: 00 02 af 05 08 52 39 af 06 82 f7 52 af 05 82 24  .....R9....R...$
+0012b510: 00 af 0e 84 1c 02 af 04 40 af 07 88 24 06 af 0b  ........@...$...
+0012b520: b2 0c af 10 88 60 af 04 14 af 10 88 60 02 af 13  .....`......`...
+0012b530: 88 60 af 05 b2 48 02 af 0e 81 0c 02 af 05 83 1c  .`...H..........
+0012b540: af 06 14 84 af 07 81 d6 65 4e 54 4e 54 af 09 b3  ........eNTNT...
+0012b550: 40 20 20 20 af 04 04 af 06 06 00 00 4e 4f 56 41  @   ........NOVA
+0012b560: 54 45 4b 20 44 49 47 49 54 41 4c 20 43 41 4d 45  TEK DIGITAL CAME
+0012b570: 52 41 af 0a 21 4e 54 4b 39 36 36 33 30 af 08 10  RA..!NTK96630...
+0012b580: b4 af 08 81 da 30 af 07 08 56 65 72 2e af 08 8f  .....0...Ver....
+0012b590: 71 56 af 07 54 32 30 30 31 3a 30 37 3a 30 31 20  qV..T2001:07:01 
+0012b5a0: 31 32 3a 30 30 3a 30 30 af 0b 14 af 06 38 1e 00  12:00:00.....8..
+0012b5b0: 00 00 1c af 07 97 4c af 08 81 f8 7c af 04 14 af  ......L....|....
+0012b5c0: 04 10 64 af 0b 89 10 af 04 10 af 08 18 af 08 08  ..d.............
+0012b5d0: 36 31 30 31 af 06 8e 3d af 08 93 46 af 0a 0a af  6101...=...F....
+0012b5e0: 14 14 af 0f 14 af 18 85 84 50 af 10 10 af 20 20  .........P....  
+0012b5f0: af 0d 10 04 0c 08 00 90 0a 08 00 00 11 08 00 bc  ................
+0012b600: 06 08 00 38 11 08 00 80 06 08 00 04 03 02 af 05  ...8............
+0012b610: 8e 6e af 05 83 60 37 af 06 89 4c 6c 24 af 06 08  .n...`7...Ll$...
+0012b620: d0 af 07 10 a8 1f af 06 08 e4 34 af 06 08 30 35  ..........4...05
+0012b630: af 06 08 e0 2b af 06 08 c8 2e af 06 08 24 31 af  ....+........$1.
+0012b640: 06 08 08 af 07 10 74 36 af 07 30 20 af 06 08 a0  ......t6..0 ....
+0012b650: 3a af 06 08 d4 38 af 06 08 af 08 70 64 23 af 0e  :....8.....pd#..
+0012b660: 10 af 08 08 af 10 10 b8 25 af 06 08 14 29 af 07  ........%....)..
+0012b670: 08 3f af 26 38 50 33 af 0a 10 06 af 07 9b 40 af  .?.&8P3.......@.
+0012b680: 0c 8a 00 4b af 07 83 3c 64 af 07 14 af 0c 85 40  ...K...<d......@
+0012b690: af 08 9c 10 08 af 08 9c 3e 31 00 4a 75 6e 20 31  ........>1.Jun 1
+0012b6a0: 32 af 08 94 37 38 3a 34 34 3a 34 af 05 86 55 af  2...78:44:4...U.
+0012b6b0: 05 9b 70 af 06 85 ce 38 af 06 b4 04 bf 0a 00 70  ..p....8.......p
+0012b6c0: 5a 1d af 06 83 a6 54 ce 0a 00 75 5a 1d af 06 54  Z.....T...uZ...T
+0012b6d0: de 0a 00 7e 5a 1d af 05 87 2c 84 f0 0a 00 93 5a  ...~Z....,.....Z
+0012b6e0: 1d af 05 68 f0 d6 0a 00 a8 5a 1d af 05 40 3c d3  ...h.....Z...@<.
+0012b6f0: 0a 00 b7 5a 1d af 05 81 30 80 e1 0a 00 c6 5a 1d  ...Z....0.....Z.
+0012b700: af 05 a1 14 88 e8 0a 00 da 5a af 06 96 6c 2c c2  .........Z...l,.
+0012b710: 0a 00 ef 5a 1d af 05 f6 36 34 c9 0a 00 02 5b 1d  ...Z....64....[.
+0012b720: af 05 85 00 08 c6 0a 00 13 5b 1d 00 0b 00 00 00  .........[......
+0012b730: 30 ca 0a 00 25 5b 1d af 05 88 74 94 da 0a 00 35  0...%[....t....5
+0012b740: 5b 1d af 05 a1 28 b4 c9 0a 00 45 5b 1d af 09 85  [....(....E[....
+0012b750: 82 10 af 05 05 0f 0f 0f 0f 0f af 0d 12 af 0d 1c  ................
+0012b760: 0e 0e 0e 0e 0e af 15 22 af 05 1c 0d 0d 0d 0d 0d  ......."........
+0012b770: af 05 22 af 12 1d 0d 0d 0d af 05 95 4b af 05 22  ..".........K.."
+0012b780: af 0d 21 0f 0f 0e af 05 1c af 08 95 74 0d 0d af  ..!.........t...
+0012b790: 0c 20 af 04 3b af 05 1c af 08 96 29 0c 0c af 04  . ..;......)....
+0012b7a0: 41 af 0b 3c af 04 1e 0a 0a 09 09 09 09 09 af 04  A..<............
+0012b7b0: 21 af 04 20 af 08 40 af 04 1e af 06 1d 08 08 08  !.. ..@.........
+0012b7c0: 08 08 af 07 21 0d af 07 3f af 06 3c af 05 1d 07  ....!...?..<....
+0012b7d0: 07 07 07 07 af 05 21 af 06 40 af 09 3d af 04 1e  ......!..@..=...
+0012b7e0: 07 07 06 06 06 06 06 07 07 af 06 20 af 06 1f af  ........... ....
+0012b7f0: 07 5b af 06 1e 05 af 05 97 72 af 05 95 27 af 07  .[.......r...'..
+0012b800: 20 af 07 3d af 04 1e 05 05 04 af 05 98 13 af 06   ..=............
+0012b810: 20 af 0f 1f 06 05 af 06 98 36 af 08 95 66 af 05   ........6...f..
+0012b820: 1f af 0a 1e 06 05 04 03 02 02 af 05 96 05 af 0a  ................
+0012b830: 20 af 0c 3d 03 02 02 01 af 06 20 af 17 1f 01 af   ..=...... .....
+0012b840: 0c 96 44 af 2d 3e af 15 7c af 1f 81 3a af 25 81  ..D.->..|...:.%.
+0012b850: 78 af 1a 82 36 af 1f 82 74 af 20 83 32 af 1f 83  x...6...t. .2...
+0012b860: 70 af 20 84 2e af 1f 84 6c af 20 85 2a af 20 85  p. .....l. .*. .
+0012b870: 68 af 20 86 26 af 21 86 64 af 21 87 22 af 07 1f  h. .&.!.d.!."...
+0012b880: af 1e 87 40 af 1e 87 3f af 1e 87 3e af 1e 87 3d  ...@...?...>...=
+0012b890: af 1e 87 3c af 1e 87 3b af 1e 87 3a af 1e 87 39  ...<...;...:...9
+0012b8a0: af 1e 87 38 af 1d 87 37 af 1e 87 36 af 1e 87 35  ...8...7...6...5
+0012b8b0: af 1e 87 34 af 1c 87 33 01 af 1d 87 13 af 1a 1e  ...4...3........
+0012b8c0: af 14 5a af 1e 81 16 af 24 81 52 af 19 82 0e af  ..Z.....$.R.....
+0012b8d0: 1e 82 4a af 1f 83 06 af 1e 83 42 af 1f 83 7e af  ..J.......B...~.
+0012b8e0: 1e 84 3a af 1f 84 76 af 1f 85 32 af 1f 85 6e af  ..:...v...2...n.
+0012b8f0: 20 86 2a af 16 86 66 00 00 00 30 af 05 a5 4e 30   .*...f...0...N0
+0012b900: 00 31 00 32 00 33 00 34 00 35 00 36 00 37 00 38  .1.2.3.4.5.6.7.8
+0012b910: 00 39 00 2e 00 2b 00 2d 00 2a 00 70 00 6c 00 68  .9...+.-.*.p.l.h
+0012b920: af 05 ac 36 63 00 64 00 69 00 6f 00 75 00 78 00  ...6c.d.i.o.u.x.
+0012b930: 58 00 66 00 73 af 05 c0 44 65 00 78 00 74 00 3a  X.f.s...De.x.t.:
+0012b940: 00 70 00 69 af 05 91 0a af 0a 12 af 10 10 74 00  .p.i..........t.
+0012b950: 61 00 62 00 6c 00 65 af 0d 16 00 00 69 00 6d 00  a.b.l.e.....i.m.
+0012b960: 61 00 67 00 65 af 0e 0e af 0b 54 af 0c 14 af 12  a.g.e.....T.....
+0012b970: 12 af 04 0a 70 af 05 2c af 06 84 d3 5a af 0c 1c  ....p..,....Z...
+0012b980: 6b 00 65 00 79 00 63 00 6f 00 6c 00 6f 00 72 af  k.e.y.c.o.l.o.r.
+0012b990: 0f 1e af 16 81 12 66 00 6f 00 6e 00 74 af 14 14  ......f.o.n.t...
+0012b9a0: 00 73 00 74 00 79 af 19 32 73 00 69 00 7a af 13  .s.t.y..2s.i.z..
+0012b9b0: 1c 72 00 65 af 0b 81 04 31 af 1f 20 32 af 1f 20  .r.e....1.. 2.. 
+0012b9c0: 33 af 0d 20 6c 00 61 00 79 af 05 83 16 af 0e 81  3.. l.a.y.......
+0012b9d0: 32 61 00 6c 00 69 00 67 00 6e af 0f 2e 69 00 6e  2a.l.i.g.n...i.n
+0012b9e0: 00 65 00 68 00 65 af 05 1e 68 af 0f 36 6c 00 65  .e.h.e...h..6l.e
+0012b9f0: 00 74 af 05 10 72 00 73 00 70 af 05 b5 70 af 0e  .t...r.s.p...p..
+0012ba00: 81 50 af 04 40 64 00 65 af 07 81 70 af 0a 22 00  .P..@d.e...p..".
+0012ba10: 00 50 b1 0d 00 14 b2 0d 00 7c b2 0d 00 20 b2 0d  .P.......|... ..
+0012ba20: 00 80 b1 0d af 09 85 f8 48 af 09 95 38 7d af 12  ........H...8}..
+0012ba30: b0 58 af 14 d7 6c af 09 9b 6d af 05 f6 28 97 ff  .X...l...m...(..
+0012ba40: 5b 02 5b 02 97 ff af 07 af 30 af 07 18 10 00 88  [.[......0......
+0012ba50: ff 32 03 71 01 bd ff 06 00 06 00 bd ff 71 01 32  .2.q.........q.2
+0012ba60: 03 88 ff af 07 b1 3e af 09 24 90 ff 88 03 02 01  ......>..$......
+0012ba70: d1 ff 03 af 0d 48 03 00 d1 ff 02 01 88 03 90 af  .....H..........
+0012ba80: 0f 30 0e 00 a6 ff c9 03 9d 00 e4 ff 01 af 0d 60  .0.............`
+0012ba90: af 0c 3c af 0c 6c 01 00 e4 ff 9d 00 c9 03 a6 ff  ..<..l..........
+0012baa0: 0e af 0d 84 85 14 af 0c 99 44 af 10 a5 78 af 0c  .........D...x..
+0012bab0: 9c 58 af 0a b1 02 af 12 82 14 02 af 07 82 3c af  .X............<.
+0012bac0: 05 96 1c af 07 08 af 14 82 23 af 0c b3 7c af 08  .........#...|..
+0012bad0: 98 08 af 0c 82 54 af 0c 20 af 11 74 12 80 0d 80  .....T.. ..t....
+0012bae0: 11 20 0d 40 11 f0 0c c0 0f d0 0b a0 0f b8 0b 40  . .@...........@
+0012baf0: 0e b0 0a 80 0d 20 0a c0 0c 90 09 40 0e 00 08 00  ..... .....@....
+0012bb00: 0c 00 09 20 0b 58 08 80 0a e0 07 20 0a 98 07 00  ... .X..... ....
+0012bb10: 0a 80 07 80 09 20 07 e0 08 a8 06 c0 08 90 06 00  ..... ..........
+0012bb20: 08 00 06 40 07 70 05 80 06 e0 04 80 07 38 04 40  ...@.p.......8.@
+0012bb30: 06 b0 04 80 05 20 04 00 05 c0 03 40 04 30 03 80  ..... .....@.0..
+0012bb40: 03 a0 02 00 03 40 02 80 02 e0 01 40 02 b0 01 af  .....@.....@....
+0012bb50: 04 24 60 5d 55 32 0b af 07 81 54 ff 00 00 00 4d  .$`]U2....T....M
+0012bb60: 4d af 05 b5 07 08 00 0e 00 fe af 07 9f 79 af 06  M............y..
+0012bb70: 81 4e af 0a 0c af 06 a2 21 af 06 0c 02 af 09 81  .N......!.......
+0012bb80: ab 4d b6 01 03 af 07 c7 29 01 00 00 01 06 af 07  .M......).......
+0012bb90: 0c 02 00 00 01 11 af 05 30 af 04 10 bc 01 15 af  ........0.......
+0012bba0: 07 18 03 00 00 01 16 af 0b 48 17 af 09 24 c8 01  .........H...$..
+0012bbb0: 1a af 07 a2 75 00 00 d4 01 1b af 09 0c dc 01 1c  ....u...........
+0012bbc0: af 0b 54 28 af 0a 0c af 07 85 5b 08 af 05 83 1b  ..T(......[.....
+0012bbd0: af 17 81 b7 73 01 2c af 06 46 af 08 08 af 16 81  ....s.,..F......
+0012bbe0: b1 38 af 3c b8 1c af 34 40 c0 ec 04 00 c8 ea 04  .8.<...4@.......
+0012bbf0: 00 d8 e5 04 00 c0 e5 04 00 f4 ea 04 00 a0 e2 04  ................
+0012bc00: 00 6c ec 04 00 10 e7 04 00 74 e0 04 af 05 b8 24  .l.......t.....$
+0012bc10: 90 43 07 00 38 43 07 00 a8 47 07 00 f8 4a 07 00  .C..8C...G...J..
+0012bc20: 64 49 07 00 f0 45 07 00 30 42 af 06 a3 64 64 72  dI...E..0B...ddr
+0012bc30: af 06 9c 24 67 72 af 06 9c 20 6e 72 af 06 9c 1c  ...$gr... nr....
+0012bc40: 75 72 af 06 9c 18 7c 72 1d af 05 83 5c 83 72 af  ur....|r....\.r.
+0012bc50: 06 83 98 02 8b af 07 30 92 af 07 30 99 af 0b 20  .......0...0... 
+0012bc60: af 08 83 9b 24 af 08 08 af 08 08 24 00 00 00 2c  ....$......$...,
+0012bc70: af 07 8d 28 33 00 00 af 05 8c 22 41 af 07 a5 6c  ...(3....."A...l
+0012bc80: 48 00 00 00 4f 00 00 00 56 00 00 00 5a 00 00 00  H...O...V...Z...
+0012bc90: 5d af 07 9e 0c 6b 00 00 af 05 89 76 72 af 05 f0  ]....k.....vr...
+0012bca0: 32 00 af 05 b4 28 83 00 00 00 87 af 07 84 f2 10  2....(..........
+0012bcb0: 95 af 07 84 e4 14 9c 00 00 00 a3 00 00 00 fc ec  ................
+0012bcc0: 06 00 d0 e3 06 00 f0 e5 af 06 a4 3e af 06 84 da  ...........>....
+0012bcd0: 4c 8f af 05 a0 60 f4 b3 af 06 bd 2c 88 b3 af 06  L....`.....,....
+0012bce0: 81 cd 58 af 04 10 20 00 00 00 08 b4 af 06 b8 6c  ..X... ........l
+0012bcf0: a0 b3 af 06 b8 5c 90 b3 af 0a 86 56 28 00 00 00  .....\.....V(...
+0012bd00: 7c b8 0c 00 29 00 00 00 18 b9 af 06 ba 0c d4 b8  |...)...........
+0012bd10: 0c 00 2c 00 00 10 44 b8 af 07 ba 14 b9 af 06 38  ..,...D........8
+0012bd20: 1c b6 af 0e 38 6c c1 af 06 38 38 c2 af 06 b9 3c  ....8l...88....<
+0012bd30: d0 bd af 06 40 f4 c1 af 06 40 34 c1 af 06 40 bc  ....@....@4...@.
+0012bd40: c2 af 06 40 d8 bd af 0a 40 01 00 00 00 cc c6 0c  ...@....@.......
+0012bd50: af 05 48 68 c6 af 06 48 e0 c6 af 07 ba 4c c3 af  ..Hh...H.....L..
+0012bd60: 07 bb 1c c3 af 0f bb 0c c9 af 06 ba 44 b0 c8 af  ............D...
+0012bd70: 07 bb 0c c9 af 06 81 58 9c c8 af 06 ba 44 04 c9  .......X.....D..
+0012bd80: af 06 38 af 04 20 af 05 ba 44 c8 af 0e 70 e0 cf  ..8.. ...D...p..
+0012bd90: af 06 82 20 c8 cf af 06 82 20 b4 cf af 06 28 d0  ... ..... ....(.
+0012bda0: af 0b ba 5c 01 03 03 02 40 af 05 87 42 af 08 b5  ...\....@...B...
+0012bdb0: 0b 02 02 02 02 af 05 94 32 03 03 af 07 94 3a af  ........2.....:.
+0012bdc0: 08 94 42 af 07 08 af 07 18 af 07 28 af 07 37 af  ..B........(..7.
+0012bdd0: 08 91 37 af 04 78 6b 00 00 af 05 91 00 7b 00 00  ..7..xk......{..
+0012bde0: 00 84 af 07 84 f5 5c 98 00 00 00 a2 af 05 eb 5a  ......\........Z
+0012bdf0: af 06 84 e7 5c c8 af 05 a7 7c 04 00 5c b1 04 00  ....\....|..\...
+0012be00: fc b0 04 00 1c b1 04 00 9c b1 04 00 3c b1 04 00  ............<...
+0012be10: 7c b1 04 00 bc b1 04 00 5b 48 44 52 5d 00 5b 4a  |.......[HDR].[J
+0012be20: 4f 42 5d 00 30 31 2e 31 30 00 47 45 4e 20 52 45  OB].01.10.GEN RE
+0012be30: 56 af 05 08 43 52 54 00 50 52 54 20 54 59 50 00  V...CRT.PRT TYP.
+0012be40: 49 4d 47 20 46 4d 54 af 05 08 53 52 43 00 43 46  IMG FMT...SRC.CF
+0012be50: 47 20 44 53 43 00 41 54 52 20 44 54 4d af 05 28  G DSC.ATR DTM..(
+0012be60: 50 49 44 3d 25 30 33 64 00 00 af 05 0f 51 54 59  PID=%03d.....QTY
+0012be70: af 08 0f 44 69 67 69 74 61 6c af 1e bb 53 04 af  ...Digital...S..
+0012be80: 06 8b 69 af 0c 8b 20 ff af 08 85 10 af 0b 81 7c  ..i... ........|
+0012be90: 02 00 10 00 1b 00 10 af 05 89 07 10 00 19 af 07  ................
+0012bea0: 0a 20 00 39 00 20 af 05 ac 46 20 00 33 af 05 0a  . .9. ...F .3...
+0012beb0: 08 00 20 00 27 af 09 0a 5f af 05 0a 10 af 0a 0a  .. .'..._.......
+0012bec0: 00 3f 00 e1 af 05 0a 20 00 3f 00 e3 af 05 0a 80  .?..... .?......
+0012bed0: af 05 0a 40 af 07 0a 00 20 40 00 12 18 ff af 07  ...@.... @......
+0012bee0: 0a 1a 10 af 08 0a 22 00 af 08 0a 2c af 0d 81 e5  ......"....,....
+0012bef0: 38 af 09 8a 57 36 6e 01 af 09 a8 0e 6c dc 02 af  8...W6n.....l...
+0012bf00: 08 0c 53 59 53 54 45 4d 49 44 00 56 4f 4c 55 4d  ..SYSTEMID.VOLUM
+0012bf10: 45 31 af 06 a9 56 00 00 e0 0f 10 00 68 11 10 00  E1...V......h...
+0012bf20: fc 12 10 00 a0 11 10 00 14 11 10 00 84 11 10 00  ................
+0012bf30: 00 12 10 00 94 13 10 00 a4 11 10 00 90 13 10 00  ................
+0012bf40: 60 11 10 00 64 11 10 00 50 11 10 00 54 11 10 00  `...d...P...T...
+0012bf50: 6c 14 10 00 f8 12 10 00 30 11 10 00 58 11 10 00  l.......0...X...
+0012bf60: 4c 11 10 00 5c 11 10 af 05 c1 7c af 07 ba 6e 80  L...\.....|...n.
+0012bf70: 58 b0 0a 00 8c ab 0a 00 e8 b1 0a 00 6c b3 af 06  X...........l...
+0012bf80: 08 fc b1 0a 00 0c ae af 06 0c c0 ad 0a 00 50 b2  ..............P.
+0012bf90: 0a 00 c4 af 00 0a 00 4c b6 af 06 14 af 04 04 af  .......L........
+0012bfa0: 08 08 21 a0 0f af 0d 8f 44 af 08 a6 5c 08 af 07  ..!.....D...\...
+0012bfb0: a6 38 af 06 85 87 6a 00 00 42 52 43 5f 44 45 42  .8....j..BRC_DEB
+0012bfc0: 55 47 5f 4c 45 56 45 4c 5f 44 49 53 41 42 4c 45  UG_LEVEL_DISABLE
+0012bfd0: af 11 18 53 49 4d 50 4c 45 af 12 30 46 55 4c 4c  ...SIMPLE..0FULL
+0012bfe0: 00 af 07 48 43 4f 4d 42 49 4e 45 44 5f 59 55 56  ...HCOMBINED_YUV
+0012bff0: 34 32 30 af 13 14 32 af 05 14 53 45 50 45 52 41  420...2...SEPERA
+
+===== REGION 0xFD000 =====
+000fd000: e0 1e e2 1e e2 1e e4 1e e4 1e e6 1e e6 1e e8 1e  ................
+000fd010: e8 1e ea 1e ea 1e ec 1e ec 1e ee 1e ee 1e f0 1e  ................
+000fd020: f0 1e f2 1e f2 1e f4 1e f4 1e f6 1e f6 1e f8 1e  ................
+000fd030: f8 1e fa 1e fb 1e fc 1e fd 1e fe 1e ff 1e 08 1f  ................
+000fd040: 09 1f 0a 1f 0b 1f 0c 1f 0d 1f 0e 1f 0f 1f af 10  ................
+000fd050: 10 18 1f 19 1f 1a 1f 1b 1f 1c 1f 1d 1f 16 1f 17  ................
+000fd060: af 0d 10 1e 1f 1f 1f 28 1f 29 1f 2a 1f 2b 1f 2c  .......(.).*.+.,
+000fd070: 1f 2d 1f 2e 1f 2f af 10 10 1f 38 1f 39 1f 3a 1f  .-.../....8.9.:.
+000fd080: 3b 1f 3c 1f 3d 1f 3e 1f 3f af 10 10 1f 48 1f 49  ;.<.=.>.?....H.I
+000fd090: 1f 4a 1f 4b 1f 4c 1f 4d 1f 46 1f 47 af 0d 10 4e  .J.K.L.M.F.G...N
+000fd0a0: 1f 4f 1f 50 1f 59 1f 52 1f 5b 1f 54 1f 5d 1f 56  .O.P.Y.R.[.T.].V
+000fd0b0: 1f 5f 1f 58 1f 59 1f 5a 1f 5b 1f 5c 1f 5d 1f 5e  ._.X.Y.Z.[.\.].^
+000fd0c0: 1f 5f 1f 68 1f 69 1f 6a 1f 6b 1f 6c 1f 6d 1f 6e  ._.h.i.j.k.l.m.n
+000fd0d0: 1f 6f af 10 10 1f ba 1f bb 1f c8 1f c9 1f ca 1f  .o..............
+000fd0e0: cb 1f da 1f db 1f f8 1f f9 1f ea 1f eb 1f fa 1f  ................
+000fd0f0: fb 1f 7e 1f 7f 1f 88 1f 89 1f 8a 1f 8b 1f 8c 1f  ..~.............
+000fd100: 8d 1f 8e 1f 8f af 10 10 1f 98 1f 99 1f 9a 1f 9b  ................
+000fd110: 1f 9c 1f 9d 1f 9e 1f 9f af 10 10 1f a8 1f a9 1f  ................
+000fd120: aa 1f ab 1f ac 1f ad 1f ae 1f af 00 af 10 10 1f  ................
+000fd130: b8 1f b9 1f b2 1f bc 1f b4 1f b5 1f b6 1f b7 af  ................
+000fd140: 05 10 ba 1f bb 1f bc 1f bd 1f be 1f bf 1f c0 1f  ................
+000fd150: c1 1f c2 1f c3 1f c4 1f c5 1f c6 1f c7 af 09 81  ................
+000fd160: 2c c3 1f cd 1f ce 1f cf 1f d8 1f d9 1f d2 1f d3  ,...............
+000fd170: 1f d4 1f d5 1f d6 1f d7 af 05 10 da 1f db 1f dc  ................
+000fd180: 1f dd 1f de 1f df 1f e8 1f e9 1f e2 1f e3 1f e4  ................
+000fd190: 1f ec 1f e6 1f e7 af 05 10 ea 1f eb 1f ec 1f ed  ................
+000fd1a0: 1f ee 1f ef 1f f0 1f f1 1f f2 1f f3 1f f4 1f f5  ................
+000fd1b0: 1f f6 1f f7 af 05 82 00 fa 1f fb 1f f3 1f fd 1f  ................
+000fd1c0: fe 1f ff 1f 00 20 01 20 02 20 03 20 04 20 05 20  ..... . . . . . 
+000fd1d0: 06 20 07 20 08 20 09 20 0a 20 0b 20 0c 20 0d 20  . . . . . . . . 
+000fd1e0: 0e 20 0f 20 10 20 11 20 12 20 13 20 14 20 15 20  . . . . . . . . 
+000fd1f0: 16 20 17 20 18 20 19 20 1a 20 1b 20 1c 20 1d 20  . . . . . . . . 
+000fd200: 1e 20 1f 20 20 20 21 20 22 20 23 20 24 20 25 20  . .   ! " # $ % 
+000fd210: 26 20 27 20 28 20 29 20 2a 20 2b 20 2c 20 2d 20  & ' ( ) * + , - 
+000fd220: 2e 20 2f 20 30 20 31 20 32 20 33 20 34 20 35 20  . / 0 1 2 3 4 5 
+000fd230: 36 20 37 20 38 20 39 20 3a 20 3b 20 3c 20 3d 20  6 7 8 9 : ; < = 
+000fd240: 3e 20 3f 20 40 20 41 20 42 20 43 20 44 20 45 20  > ? @ A B C D E 
+000fd250: 46 20 47 20 48 20 49 20 4a 20 4b 20 4c 20 4d 20  F G H I J K L M 
+000fd260: 4e 20 4f 20 50 20 51 20 52 20 53 20 54 20 55 20  N O P Q R S T U 
+000fd270: 56 20 57 20 58 20 59 20 5a 20 5b 20 5c 20 5d 20  V W X Y Z [ \ ] 
+000fd280: 5e 20 5f 20 60 20 61 20 62 20 63 20 64 20 65 20  ^ _ ` a b c d e 
+000fd290: 66 20 67 20 68 20 69 20 6a 20 6b 20 6c 20 6d 20  f g h i j k l m 
+000fd2a0: 6e 20 6f 20 70 20 71 20 72 20 73 20 74 20 75 20  n o p q r s t u 
+000fd2b0: 76 20 77 20 78 20 79 20 7a 20 7b 20 7c 20 7d 20  v w x y z { | } 
+000fd2c0: 7e 20 7f 20 80 20 81 20 82 20 83 20 84 20 85 20  ~ . . . . . . . 
+000fd2d0: 86 20 87 20 88 20 89 20 8a 20 8b 20 8c 20 8d 20  . . . . . . . . 
+000fd2e0: 8e 20 8f 20 90 20 91 20 92 20 93 20 94 20 95 20  . . . . . . . . 
+000fd2f0: 96 20 97 20 98 20 99 20 9a 20 9b 20 9c 20 9d 20  . . . . . . . . 
+000fd300: 9e 20 9f 20 a0 20 a1 20 a2 20 a3 20 a4 20 a5 20  . . . . . . . . 
+000fd310: a6 20 a7 20 a8 20 a9 20 aa 20 ab 20 ac 20 ad 20  . . . . . . . . 
+000fd320: ae 20 af 00 20 b0 20 b1 20 b2 20 b3 20 b4 20 b5  . .. . . . . . .
+000fd330: 20 b6 20 b7 20 b8 20 b9 20 ba 20 bb 20 bc 20 bd   . . . . . . . .
+000fd340: 20 be 20 bf 20 c0 20 c1 20 c2 20 c3 20 c4 20 c5   . . . . . . . .
+000fd350: 20 c6 20 c7 20 c8 20 c9 20 ca 20 cb 20 cc 20 cd   . . . . . . . .
+000fd360: 20 ce 20 cf 20 d0 20 d1 20 d2 20 d3 20 d4 20 d5   . . . . . . . .
+000fd370: 20 d6 20 d7 20 d8 20 d9 20 da 20 db 20 dc 20 dd   . . . . . . . .
+000fd380: 20 de 20 df 20 e0 20 e1 20 e2 20 e3 20 e4 20 e5   . . . . . . . .
+000fd390: 20 e6 20 e7 20 e8 20 e9 20 ea 20 eb 20 ec 20 ed   . . . . . . . .
+000fd3a0: 20 ee 20 ef 20 f0 20 f1 20 f2 20 f3 20 f4 20 f5   . . . . . . . .
+000fd3b0: 20 f6 20 f7 20 f8 20 f9 20 fa 20 fb 20 fc 20 fd   . . . . . . . .
+000fd3c0: 20 fe 20 ff 20 00 21 01 21 02 21 03 21 04 21 05   . . .!.!.!.!.!.
+000fd3d0: 21 06 21 07 21 08 21 09 21 0a 21 0b 21 0c 21 0d  !.!.!.!.!.!.!.!.
+000fd3e0: 21 0e 21 0f 21 10 21 11 21 12 21 13 21 14 21 15  !.!.!.!.!.!.!.!.
+000fd3f0: 21 16 21 17 21 18 21 19 21 1a 21 1b 21 1c 21 1d  !.!.!.!.!.!.!.!.
+000fd400: 21 1e 21 1f 21 20 21 21 21 22 21 23 21 24 21 25  !.!.! !!!"!#!$!%
+000fd410: 21 26 21 27 21 28 21 29 21 2a 21 2b 21 2c 21 2d  !&!'!(!)!*!+!,!-
+000fd420: 21 2e 21 2f 21 30 21 31 21 32 21 33 21 34 21 35  !.!/!0!1!2!3!4!5
+000fd430: 21 36 21 37 21 38 21 39 21 3a 21 3b 21 3c 21 3d  !6!7!8!9!:!;!<!=
+000fd440: 21 3e 21 3f 21 40 21 41 21 42 21 43 21 44 21 45  !>!?!@!A!B!C!D!E
+000fd450: 21 46 21 47 21 48 21 49 21 4a 21 4b 21 4c 21 4d  !F!G!H!I!J!K!L!M
+000fd460: 21 32 21 4f 21 50 21 51 21 52 21 53 21 54 21 55  !2!O!P!Q!R!S!T!U
+000fd470: 21 56 21 57 21 58 21 59 21 5a 21 5b 21 5c 21 5d  !V!W!X!Y!Z![!\!]
+000fd480: 21 5e 21 5f 21 60 21 61 21 62 21 63 21 64 21 65  !^!_!`!a!b!c!d!e
+000fd490: 21 66 21 67 21 68 21 69 21 6a 21 6b 21 6c 21 6d  !f!g!h!i!j!k!l!m
+000fd4a0: 21 6e 21 6f af 20 20 21 80 21 81 21 82 21 83 21  !n!o.  !.!.!.!.!
+000fd4b0: 83 21 ff ff 4b 03 b6 24 b7 24 b8 24 b9 24 ba 24  .!..K..$.$.$.$.$
+000fd4c0: bb 24 bc 24 bd 24 be 24 bf 24 c0 24 c1 24 c2 24  .$.$.$.$.$.$.$.$
+000fd4d0: c3 24 c4 24 c5 24 c6 24 c7 24 c8 24 c9 24 ca 24  .$.$.$.$.$.$.$.$
+000fd4e0: cb 24 cc 24 cd 24 ce 24 cf 24 ff ff 46 07 00 2c  .$.$.$.$.$..F..,
+000fd4f0: 01 2c 02 2c 03 2c 04 2c 05 2c 06 2c 07 2c 08 2c  .,.,.,.,.,.,.,.,
+000fd500: 09 2c 0a 2c 0b 2c 0c 2c 0d 2c 0e 2c 0f 2c 10 2c  .,.,.,.,.,.,.,.,
+000fd510: 11 2c 12 2c 13 2c 14 2c 15 2c 16 2c 17 2c 18 2c  .,.,.,.,.,.,.,.,
+000fd520: 19 2c 1a 2c 1b 2c 1c 2c 1d 2c 1e 2c 1f 2c 20 2c  .,.,.,.,.,.,., ,
+000fd530: 21 2c 22 2c 23 2c 24 2c 25 2c 26 2c 27 2c 28 2c  !,",#,$,%,&,',(,
+000fd540: 29 2c 2a 2c 2b 2c 2c 2c 2d 2c 2e 2c 5f 2c 60 2c  ),*,+,,,-,.,_,`,
+000fd550: 60 2c 62 2c 63 2c 64 2c 65 2c 66 2c 67 2c 67 2c  `,b,c,d,e,f,g,g,
+000fd560: 69 2c 69 2c 6b 2c 6b 2c 6d 2c 6e 2c 6f 2c 70 2c  i,i,k,k,m,n,o,p,
+000fd570: 71 2c 72 2c 73 2c 74 2c 75 2c 75 2c 77 2c 78 2c  q,r,s,t,u,u,w,x,
+000fd580: 79 2c 7a 2c 7b 2c 7c 2c 7d 2c 7e 2c 7f 2c 80 2c  y,z,{,|,},~,.,.,
+000fd590: 80 2c 82 2c 82 2c 84 2c 84 2c 86 2c 86 2c 88 2c  .,.,.,.,.,.,.,.,
+000fd5a0: 88 2c 8a 2c 8a 2c 8c 2c 8c 2c 8e 2c 8e 2c 90 2c  .,.,.,.,.,.,.,.,
+000fd5b0: 90 2c 92 2c 92 2c 94 2c 94 2c 96 2c 96 2c 98 2c  .,.,.,.,.,.,.,.,
+000fd5c0: 98 2c 9a 2c 9a 2c 9c 2c 9c 2c 9e 2c 9e 2c a0 2c  .,.,.,.,.,.,.,.,
+000fd5d0: a0 2c a2 2c a2 2c a4 2c a4 2c a6 2c a6 2c a8 2c  .,.,.,.,.,.,.,.,
+000fd5e0: a8 2c aa 2c aa 2c ac 2c ac 2c ae 2c ae 2c b0 2c  .,.,.,.,.,.,.,.,
+000fd5f0: b0 2c b2 2c b2 2c b4 2c b4 2c b6 2c b6 2c b8 2c  .,.,.,.,.,.,.,.,
+000fd600: b8 2c ba 2c ba 2c bc 2c bc 2c be 2c be 2c c0 2c  .,.,.,.,.,.,.,.,
+000fd610: c0 2c c2 2c c2 2c c4 2c c4 2c c6 2c c6 2c c8 2c  .,.,.,.,.,.,.,.,
+000fd620: c8 2c ca 2c ca 2c cc 2c cc 2c ce 2c ce 2c d0 2c  .,.,.,.,.,.,.,.,
+000fd630: d0 2c d2 2c d2 2c d4 2c d4 2c d6 2c d6 2c d8 2c  .,.,.,.,.,.,.,.,
+000fd640: d8 2c da 2c da 2c dc 2c dc 2c de 2c de 2c e0 2c  .,.,.,.,.,.,.,.,
+000fd650: e0 2c e2 2c e2 2c e4 2c e5 2c e6 2c e7 2c e8 2c  .,.,.,.,.,.,.,.,
+000fd660: e9 2c ea 2c eb 2c ec 2c ed 2c ee 2c ef 2c f0 2c  .,.,.,.,.,.,.,.,
+000fd670: f1 2c f2 2c f3 2c f4 2c f5 2c f6 2c f7 2c f8 2c  .,.,.,.,.,.,.,.,
+000fd680: f9 2c fa 2c fb 2c fc 2c fd 2c fe 2c ff 2c a0 10  .,.,.,.,.,.,.,..
+000fd690: a1 10 a2 10 a3 10 a4 10 a5 10 a6 10 a7 10 a8 10  ................
+000fd6a0: a9 10 aa 10 ab 10 ac 10 ad 10 ae 10 af 00 10 b0  ................
+000fd6b0: 10 b1 10 b2 10 b3 10 b4 10 b5 10 b6 10 b7 10 b8  ................
+000fd6c0: 10 b9 10 ba 10 bb 10 bc 10 bd 10 be 10 bf 10 c0  ................
+000fd6d0: 10 c1 10 c2 10 c3 10 c4 10 c5 10 ff ff 1b d2 21  ...............!
+000fd6e0: ff 22 ff 23 ff 24 ff 25 ff 26 ff 27 ff 28 ff 29  .".#.$.%.&.'.(.)
+000fd6f0: ff 2a ff 2b ff 2c ff 2d ff 2e ff 2f ff 30 ff 31  .*.+.,.-.../.0.1
+000fd700: ff 32 ff 33 ff 34 ff 35 ff 36 ff 37 ff 38 ff 39  .2.3.4.5.6.7.8.9
+000fd710: ff 3a ff 5b ff 5c ff 5d ff 5e ff 5f ff 60 ff 61  .:.[.\.].^._.`.a
+000fd720: ff 62 ff 63 ff 64 ff 65 ff 66 ff 67 ff 68 ff 69  .b.c.d.e.f.g.h.i
+000fd730: ff 6a ff 6b ff 6c ff 6d ff 6e ff 6f ff 70 ff 71  .j.k.l.m.n.o.p.q
+000fd740: ff 72 ff 73 ff 74 ff 75 ff 76 ff 77 ff 78 ff 79  .r.s.t.u.v.w.x.y
+000fd750: ff 7a ff 7b ff 7c ff 7d ff 7e ff 7f ff 80 ff 81  .z.{.|.}.~......
+000fd760: ff 82 ff 83 ff 84 ff 85 ff 86 ff 87 ff 88 ff 89  ................
+000fd770: ff 8a ff 8b ff 8c ff 8d ff 8e ff 8f ff 90 ff 91  ................
+000fd780: ff 92 ff 93 ff 94 ff 95 ff 96 ff 97 ff 98 ff 99  ................
+000fd790: ff 9a ff 9b ff 9c ff 9d ff 9e ff 9f ff a0 ff a1  ................
+000fd7a0: ff a2 ff a3 ff a4 ff a5 ff a6 ff a7 ff a8 ff a9  ................
+000fd7b0: ff aa ff ab ff ac ff ad ff ae ff af 00 ff b0 ff  ................
+000fd7c0: b1 ff b2 ff b3 ff b4 ff b5 ff b6 ff b7 ff b8 ff  ................
+000fd7d0: b9 ff ba ff bb ff bc ff bd ff be ff bf ff c0 ff  ................
+000fd7e0: c1 ff c2 ff c3 ff c4 ff c5 ff c6 ff c7 ff c8 ff  ................
+000fd7f0: c9 ff ca ff cb ff cc ff cd ff ce ff cf ff d0 ff  ................
+000fd800: d1 ff d2 ff d3 ff d4 ff d5 ff d6 ff d7 ff d8 ff  ................
+000fd810: d9 ff da ff db ff dc ff dd ff de ff df ff e0 ff  ................
+000fd820: e1 ff e2 ff e3 ff e4 ff e5 ff e6 ff e7 ff e8 ff  ................
+000fd830: e9 ff ea ff eb ff ec ff ed ff ee ff ef ff f0 ff  ................
+000fd840: f1 ff f2 ff f3 ff f4 ff f5 ff f6 ff f7 ff f8 ff  ................
+000fd850: f9 ff fa ff fb ff fc ff fd ff fe ff ff ff 46 7e  ..............F~
+000fd860: 0c 0a 99 33 21 40 90 c8 fa 6d 38 9c 4b a2 cc 16  ...3!@...m8.K...
+000fd870: 00 00 0d d3 19 e6 53 52 41 af 08 f9 22 79 65 74  ......SRA..."yet
+000fd880: 20 72 65 6c 65 61 73 65 64 20 62 79 20 49 46 af   released by IF.
+000fd890: 08 82 85 08 52 41 af 2d 81 f7 70 af 1b 54 53 49  ....RA.-..p..TSI
+000fd8a0: af 07 54 45 78 69 66 af 08 83 f2 06 af 06 84 c7  ..TExif.........
+000fd8b0: 26 25 64 21 21 00 00 6d 61 6b 65 72 4e 6f 74 65  &%d!!..makerNote
+000fd8c0: 20 50 af 08 83 c7 17 78 21 0d 0a 00 75 73 65 72   P.....x!...user
+000fd8d0: 63 af 07 c0 0c af 0e 1a 00 00 20 47 af 06 82 e5  c......... G....
+000fd8e0: 10 af 07 81 c3 43 af 05 c0 08 af 06 14 4c 61 74  .....C.......Lat
+000fd8f0: 52 65 66 20 3d 20 25 63 0d 0a af 0a 14 53 65 63  Ref = %c.....Sec
+000fd900: 5b 25 64 2f 25 64 af 06 84 87 1d af 09 18 4d 69  [%d/%d........Mi
+000fd910: 6e af 15 18 48 6f 75 72 af 0b 19 af 09 18 af 09  n...Hour........
+000fd920: 83 c8 3a af 06 de 21 af 07 18 6f 6e af 12 74 6f  ..:...!...on..to
+000fd930: 6e af 16 74 6f 6e af 16 74 6f 6e af 16 74 6f 6e  n..ton..ton..ton
+000fd940: af 0f 74 52 65 61 64 af 06 82 4c 53 4f 49 20 6d  ..tRead...LSOI m
+000fd950: 61 72 6b af 12 c3 24 af 0a 24 45 af 14 24 20 6e  ark...$..$E..$ n
+000fd960: 6f 20 41 50 50 af 06 82 8d 7d af 26 2c af 06 c9  o APP....}.&,...
+000fd970: 38 af 0b 2c af 08 c3 67 af 07 c6 64 64 61 74 61  8..,...g...ddata
+000fd980: 2f af 07 81 ca 60 af 09 b9 42 af 09 85 8d 48 af  /....`...B....H.
+000fd990: 09 82 d9 40 47 50 53 af 05 36 af 08 c1 16 af 07  ...@GPS..6......
+000fd9a0: bd 7c af 08 58 af 09 84 e0 1b af 0a 83 6b af 05  .|..X........k..
+000fd9b0: e5 10 af 07 82 fd 78 af 08 84 04 0a 0d 00 00 00  ......x.........
+000fd9c0: af 07 c6 63 af 0a 83 cc 06 af 13 84 d8 34 4d af  ...c.........4M.
+000fd9d0: 08 84 5c 2c 20 62 75 af 06 83 8b 78 af 06 37 af  ..\, bu....x..7.
+000fd9e0: 07 bb 18 75 73 65 72 20 af 08 84 65 25 73 af 09  ...user ...e%s..
+000fd9f0: 81 c9 70 42 65 6e 63 68 6d 61 72 6b 20 3a af 06  ..pBenchmark :..
+000fda00: 81 f0 2a af 06 81 8b 77 af 08 83 ef 4c 46 53 5f  ..*....w....LFS_
+000fda10: 53 50 44 2e 54 53 54 00 00 00 57 af 08 81 e9 64  SPD.TST...W....d
+000fda20: af 08 81 f5 40 af 06 85 a5 50 af 06 e5 50 af 06  ....@....P...P..
+000fda30: 81 c8 30 af 06 81 b6 15 0d 0a 00 af 06 81 e5 1e  ..0.............
+000fda40: af 09 0f 00 52 af 04 40 af 05 14 54 69 6d af 06  ....R..@...Tim..
+000fda50: 3d 6d 73 2c 20 af 06 82 8b 08 af 06 85 ae 00 af  =ms, ...........
+000fda60: 04 4c 2f af 07 84 fd 4f af 06 83 c7 08 af 0a 3f  .L/....O.......?
+000fda70: af 06 10 54 69 6d af 07 81 8a 2e af 1f 3c 6d 6f  ...Tim.......<mo
+000fda80: 76 af 0b 7d af 07 10 af 0b 79 af 08 84 9b 54 00  v..}.....y....T.
+000fda90: af 0d 82 00 45 6e 64 af 09 81 7e af 05 5d 54 65  ....End...~..]Te
+000fdaa0: 73 74 af 09 82 18 28 49 6e 63 6c 75 af 08 c8 48  st....(Inclu...H
+000fdab0: 4f 70 65 6e 2f af 06 84 e6 77 74 69 6d 65 29 af  Open/....wtime).
+000fdac0: 0b 82 37 af 14 3c 45 78 af 27 3c af 06 81 df 04  ..7..<Ex.'<.....
+000fdad0: 47 af 07 83 fb 02 af 0e 83 f5 3c af 0a 81 e0 0c  G.........<.....
+000fdae0: af 06 81 ba 4b af 08 81 e0 56 af 0b e8 3c 4e 6f  ....K....V...<No
+000fdaf0: 20 70 4e 61 6e 64 53 74 72 af 06 bf 65 4d 54 50   pNandStr...eMTP
+000fdb00: 5f 45 3a af 04 06 af 09 81 c1 42 46 72 69 65 6e  _E:.......BFrien
+000fdb10: 64 6c 79 4e 61 6d 65 3a af 06 83 cc 5c af 07 84  dlyName:....\...
+000fdb20: b1 78 73 74 72 69 6e 67 af 08 81 d0 3d 32 35 35  .xstring....=255
+000fdb30: af 07 83 db 14 69 6e 64 6f 77 73 00 44 69 67 69  .....indows.Digi
+000fdb40: 74 61 6c 43 61 6d 65 72 61 af 0d 5c af 06 ed 57  talCamera..\...W
+000fdb50: af 06 bd 4f 50 72 6f 70 4c 69 73 74 af 1e 81 c1  ...OPropList....
+000fdb60: 19 af 0a 81 c1 7c 45 78 69 66 af 06 82 8b 4f 78  .....|Exif....Ox
+000fdb70: 69 66 3a af 0c 81 c2 48 af 08 83 8c 10 af 08 81  if:....H........
+000fdb80: e8 7c 41 3a 5c af 07 83 81 18 af 07 83 bf 5c af  .|A:\.........\.
+000fdb90: 07 81 e3 78 00 00 00 00 40 40 af 0c 81 b7 46 af  ...x....@@....F.
+000fdba0: 0d 81 c3 04 54 46 af 08 ff 7c 4f 62 6a af 07 83  ....TF...|Obj...
+000fdbb0: 97 4d af 15 81 c0 75 af 28 34 af 06 82 7e af 08  .M....u.(4...~..
+000fdbc0: 84 d3 73 af 07 81 bb 6f 21 00 00 5e 52 5b 4a 70  ..s....o!..^R[Jp
+000fdbd0: 65 67 53 af 06 81 c5 69 af 06 c5 51 5d af 08 81  egS....i...Q]...
+000fdbe0: dd 53 59 55 56 af 07 82 de 00 af 09 85 ad 0f af  .SYUV...........
+000fdbf0: 0a 30 af 06 81 b6 74 4d 6f 64 65 af 09 30 af 0a  .0....tMode..0..
+000fdc00: 13 af 0e 85 ad 40 af 0b 81 88 34 53 65 74 50 72  .....@....4SetPr
+000fdc10: 76 af 06 c3 12 af 08 84 8b 08 53 49 45 5f 53 4c  v.........SIE_SL
+000fdc20: 49 43 45 5f 4d 4f 44 45 af 10 81 8a 43 32 2d 70  ICE_MODE....C2-p
+000fdc30: 69 6e 67 70 70 af 08 83 d2 1e af 0d f7 30 af 55  ingpp........0.U
+000fdc40: 83 bc 30 af 18 f2 60 af 15 83 ba 64 0d 0a af 20  ..0...`....d... 
+000fdc50: 83 ba 64 af 07 81 8b 74 af 16 f7 2c af 18 83 b9  ..d....t...,....
+000fdc60: 54 af 54 81 82 68 96 af 07 81 f2 24 bc 00 00 00  T.T..h.....$....
+000fdc70: 68 00 00 00 af 07 81 b2 48 af 09 81 b8 54 97 af  h.......H....T..
+000fdc80: 07 08 15 af 07 08 17 00 00 00 25 00 00 00 18 af  ..........%.....
+000fdc90: 07 f7 24 19 af 07 18 1a 00 00 00 ca af 07 f8 08  ..$.............
+000fdca0: af 04 58 32 00 00 00 07 af 07 f7 4c af 04 20 99  ..X2.......L.. .
+000fdcb0: af 07 08 9a af 07 08 57 af 07 08 58 af 07 e2 78  .......W...X...x
+000fdcc0: 59 af 07 50 4c 00 00 00 13 00 00 00 4b 00 00 00  Y..PL.......K...
+000fdcd0: 36 00 00 00 3d af 07 83 8d 54 3e af 07 5c 4e 00  6...=....T>..\N.
+000fdce0: 00 00 55 00 00 00 4f af 07 08 50 af 07 08 51 af  ..U...O...P...Q.
+000fdcf0: 07 08 24 af 07 08 25 00 00 00 48 00 00 00 26 00  ..$...%...H...&.
+000fdd00: 00 00 92 af 07 83 fe 4c af 04 64 5d af 07 78 af  .......L..d]..x.
+000fdd10: 08 81 da 26 2a 00 00 00 9b 00 00 00 2b 00 00 00  ...&*.......+...
+000fdd20: 06 af 07 83 a7 4c af 08 87 2c 00 af 07 82 1c 81  .....L...,......
+000fdd30: af 07 81 14 af 07 dd 4f 00 40 af 07 81 de 64 07  .......O.@....d.
+000fdd40: 00 00 00 5f af 07 82 0c 69 af 07 fa 0c 65 af 07  ..._....i....e..
+000fdd50: 54 68 af 07 82 08 39 af 07 81 db 52 4d af 07 83  Th....9....RM...
+000fdd60: c3 48 c1 af 07 83 c3 70 af 04 24 98 af 07 83 00  .H.....p..$.....
+000fdd70: 01 00 00 00 6d af 0b fa 50 af 08 83 ff 7c 5a af  ....m...P....|Z.
+000fdd80: 13 81 30 af 12 f0 3c af 07 82 cc 10 29 af 09 f0  ..0...<.....)...
+000fdd90: 40 47 65 74 52 65 67 af 07 83 8b 1c af 0a 14 53  @GetReg........S
+000fdda0: 69 af 12 14 44 61 74 61 af 06 15 41 46 44 52 56  i...Data...AFDRV
+000fddb0: 20 4d 53 47 3a af 09 f9 46 3d 20 25 64 3b 20 af   MSG:...F= %d; .
+000fddc0: 08 81 86 79 20 2c 53 74 65 70 af 09 c2 7a 4c 65  ...y ,Step...zLe
+000fddd0: 6e 73 3a 20 53 af 05 d2 7e 4e 65 61 72 3a 25 6c  ns: S...~Near:%l
+000fdde0: 64 20 46 af 06 08 af 07 84 e1 04 73 6b 09 3a 20  d F........sk.: 
+000fddf0: 4f 5a 6f 6f 6d 49 64 78 af 05 20 44 af 09 0d 64  OZoomIdx.. D...d
+000fde00: 20 43 75 72 af 08 17 af 07 f7 41 30 78 af 0f 3c   Cur......A0x..<
+000fde10: 77 af 05 92 77 5d 3a 20 af 04 25 0d 0a af 09 18  w...w]: ..%.....
+000fde20: 53 74 65 70 af 05 8e 01 56 41 af 05 1c af 08 83  Step....VA......
+000fde30: ce 00 56 61 72 69 af 06 96 00 46 50 af 08 83 fd  ..Vari....FP....
+000fde40: 71 af 08 d6 40 af 05 d8 78 70 65 61 6b 0d 0a af  q...@...xpeak...
+000fde50: 06 85 98 34 5f 50 72 65 46 af 04 09 46 6c 6f 77  ...4_PreF...Flow
+000fde60: af 07 ce 66 0d 0a 00 43 6f 6c 75 6d 6e af 05 cb  ...f...Column...
+000fde70: 7e af 05 81 1c 52 6f 77 af 09 0d af 04 4a 59 5f  ~....Row.....JY_
+000fde80: af 06 dd 3e 5f 42 61 63 6b af 05 22 af 09 12 af  ...>_Back.."....
+000fde90: 05 4e af 08 28 57 69 64 74 68 4d 61 69 6e af 09  .N..(WidthMain..
+000fdea0: 16 20 49 53 4f af 0d 11 af 0a 85 aa 1c 20 af 08  . ISO........ ..
+000fdeb0: 83 ad 06 af 04 27 af 08 83 ad 04 25 6c 64 20 af  .....'.....%ld .
+000fdec0: 08 83 ad 02 af 06 2e 4e 6f af 06 2e 59 20 20 09  .......No...Y  .
+000fded0: 3a 20 af 06 83 ad 08 7c af 07 90 00 af 08 83 ad  : .....|........
+000fdee0: 08 50 72 65 af 09 20 5b 50 42 5f 46 69 6c 65 4c  .Pre.. [PB_FileL
+000fdef0: 6f 63 6b 5d af 12 83 e9 28 af 09 d6 00 af 0b 81  ock]....(.......
+000fdf00: f7 02 4e 47 af 07 84 ea 6c af 11 18 32 af 0a 18  ..NG....l...2...
+000fdf10: 52 45 2d af 07 81 d8 16 45 52 52 af 07 84 f6 51  RE-.....ERR....Q
+000fdf20: af 11 18 af 07 84 f5 7d af 06 82 b6 52 af 07 84  .......}....R...
+000fdf30: 8e 73 af 07 84 87 01 af 09 84 eb 0c af 04 1d 0d  .s..............
+000fdf40: 0a af 06 81 fb 20 79 73 af 07 c8 45 4e 4f 54 af  ..... ys...ENOT.
+000fdf50: 07 83 f7 0a 67 70 af 06 d9 72 31 73 74 af 06 85  ....gp...r1st...
+000fdf60: 8d 7f 75 6e 63 af 0c 85 b8 69 af 04 74 4e 4f 4e  ..unc....i..tNON
+000fdf70: af 09 83 a6 68 69 6c 65 af 08 82 ea 70 af 0f 84  ....hile....p...
+000fdf80: e5 0c af 1a 84 e5 2c 42 49 af 06 83 9d 4c af 0c  ......,BI....L..
+000fdf90: 84 e5 00 af 06 94 1c af 0b 83 ff 15 af 0b 30 af  ..............0.
+000fdfa0: 05 1c af 06 65 2f af 0b 81 aa 35 af 0a d1 78 50  ....e/....5...xP
+000fdfb0: 42 5f 4a 70 67 42 52 43 af 07 d4 46 5d 20 4f 72  B_JpgBRC...F] Or
+000fdfc0: 69 67 69 6e 61 6c 20 42 af 07 84 fb 4a af 13 24  iginal B....J..$
+000fdfd0: 51 46 af 05 86 4a af 08 22 af 06 6c af 06 24 af  QF...J.."..l..$.
+000fdfe0: 0e 83 14 43 72 6f 70 af 0c e1 5e af 0d 14 20 2d  ...Crop...^... -
+000fdff0: 20 52 af 06 81 fd 21 42 55 46 af 07 85 c0 40 af   R....!BUF....@.
