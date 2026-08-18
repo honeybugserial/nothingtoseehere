@@ -1,0 +1,12 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+188564        0x2E094         JPEG image data, JFIF standard 1.01
+188594        0x2E0B2         TIFF image data, big-endian, offset of first image directory: 8
+194320        0x2F710         Copyright string: "Copyright (c) 1998 Hewlett-Packard Company"
+216721        0x34E91         JPEG image data, JFIF standard 1.01
+216751        0x34EAF         TIFF image data, big-endian, offset of first image directory: 8
+222477        0x3650D         Copyright string: "Copyright (c) 1998 Hewlett-Packard Company"
+1119666       0x1115B2        MySQL ISAM index file Version 1
+1229739       0x12C3AB        JPEG image data, EXIF standard
+

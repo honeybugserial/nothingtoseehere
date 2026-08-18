@@ -1,0 +1,171 @@
+     50 NT96220 0.46.00020110211(
+    850 clk_changeCPUAHB(): driver closed
+    8d8 clk_powerdown(): driver closed
+  2ce74 ^R[%s] ID=%d stack overflow!!
+  2db79 [0;32m	IsUpdateFW   	: %d
+  2dc1d [0;32m	BL Date	  	: %s
+  2dc3d [0;32m	BL Ver	  	: %s
+  2dcc8 UI_Validate_Storage: The 999DIR is existing!
+  2dcf8 UI_Validate_Storage: 999-9999 is existing!
+  2dd30 UI_Validate_Storage: The 999DIR is %s, no valid DCF folder id avaliable!
+  2dd94 UI_Validate_Storage: %s is READONLY.
+  2ddbc UI_Validate_Storage: STORAGE FULL!
+  2dde4 UI_Validate_Storage: MovRec_Disk2Second():%d !
+  2de18 UI_Validate_Storage: STORAGE ERR! - %s (0x%x)
+  2de48 UI_Validate_Storage: CARD LOCKED!
+  2de6c UI_Validate_Storage: STORAGE ERR! - %s (0x%x)   size: %ld 
+  2debc UI_Validate_Storage: Unknown storage check item 0x%x
+  2e184 2018:04:11 18:35:29
+  2f48f 	vertAlignenum
+  2f4a1 ESliceVertAlign
+  2f710 Copyright (c) 1998 Hewlett-Packard Company
+  2f748 sRGB IEC61966-2.1
+  2f765 sRGB IEC61966-2.1
+  2f887 .IEC 61966-2.1 Default RGB colour space - sRGB
+  2f8c0 .IEC 61966-2.1 Default RGB colour space - sRGB
+  2f90f ,Reference Viewing Condition in IEC61966-2.1
+  2f946 ,Reference Viewing Condition in IEC61966-2.1
+  30e64 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        ">
+  30ed3 	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  30f17 		<rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:DocumentID="F6289A1CCBAC5F40F082ECFF46207735" xmpMM:InstanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" xmpMM:OriginalDocumentID="F6289A1CCBAC5F40F082ECFF46207735" dc:format="image/jpeg" photoshop:ColorMode="3" xmp:CreateDate="2018-04-11T09:55:45+08:00" xmp:ModifyDate="2018-04-11T18:35:29+08:00" xmp:MetadataDate="2018-04-11T18:35:29+08:00">
+  311b1 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7AC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  3127f 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  313a3 					<rdf:li>F6289A1CCBAC5F40F082ECFF46207735</rdf:li>
+  31960                                                                                                     
+  32056 p''=
+  34f81 2018:04:11 18:35:29
+  3628c 	vertAlignenum
+  3629e ESliceVertAlign
+  3650d Copyright (c) 1998 Hewlett-Packard Company
+  36545 sRGB IEC61966-2.1
+  36562 sRGB IEC61966-2.1
+  36684 .IEC 61966-2.1 Default RGB colour space - sRGB
+  366bd .IEC 61966-2.1 Default RGB colour space - sRGB
+  3670c ,Reference Viewing Condition in IEC61966-2.1
+  36743 ,Reference Viewing Condition in IEC61966-2.1
+  37c61 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        ">
+  37cd0 	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  37d14 		<rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:DocumentID="F6289A1CCBAC5F40F082ECFF46207735" xmpMM:InstanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" xmpMM:OriginalDocumentID="F6289A1CCBAC5F40F082ECFF46207735" dc:format="image/jpeg" photoshop:ColorMode="3" xmp:CreateDate="2018-04-11T09:55:45+08:00" xmp:ModifyDate="2018-04-11T18:35:29+08:00" xmp:MetadataDate="2018-04-11T18:35:29+08:00">
+  37fae 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7AC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  3807c 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  381a0 					<rdf:li>F6289A1CCBAC5F40F082ECFF46207735</rdf:li>
+  3c3fc Horizontal Scaling down ratio over 2!  
+  3c428 Vertical Scaling down ratio over 2!  
+  3c690 Overwrite by %s(%d)
+  3c6c8 Mem Overwrite by %s
+  3cf34 RTC: Driver is not opened
+  3da64  USB driver is not opened !
+  3da84  USB driver is already opened !
+  3e2c0 PS: Release access right fail
+  3e998 ^BQF overflow,StdQ %d->%d
+  3ed1c ^R buffer overflow
+  3ed34 ^R BitStream overlap!!! BS=0x%x,F[%d]
+  3f094 ^RJPG_ENC: [JpegEncUpdateHDR] Error! YUVFormat %d
+  40bb8 SPI flash: get devInfo: driver not opened
+  40c64 SPI flash: eraseChip: driver not opened
+  40d58 SPI flash: eraseSector: driver not opened
+  40e50 SPI flash: program: driver not opened
+  40ef4 SPI flash: read: driver not opened
+  41908 SPI: readSingle: rx buffer is NULL
+  41930 SPI: writeReadSingle: rx buffer is NULL
+  41fa8 [JPGDRV] Error! slice buffer overflow
+  42008 [JPGDRV][jpeg_setDCOut] Error! DCYLineOffset %d, DCULineOffset %d, DCVLineOffset %d
+  42060 [JPGDRV][jpeg_setDCOut] Error! DCYLineOffset Update %d
+  4209c [JPGDRV][jpeg_setDCOut] Error! DCULineOffset Update %d
+  420d8 [JPGDRV][jpeg_setDCOut] Error! DCVLineOffset Update %d
+  422a0 ^RY channel overflow%s
+  422bc ^RCb channel overflow%s
+  422d8 ^RCr channel overflow%s
+  424e4 [ ime_cal_StripeWithSliceHeight ] - Doubt for IME Slice Height setting may be due to output size of vertical smaller than the Slice-Height
+  42574 ^R[ ime_setStripeInfo ] - Warning - IME ST_HN overflow ...
+  425b4 ^R[ ime_setStripeInfo ] - Warning - IME ST_HL overflow ...
+  425f4 ^R[ ime_setStripeInfo ] - Warning - IME ST_HM overflow ...
+  426a4 ^R[ ime_setStripeInfo ] - Error - IME ST_VN overflow ...
+  426e0 ^R[ ime_setStripeInfo ] - Error - IME ST_VL overflow ...
+  4271c ^R[ ime_setStripeInfo ] - Error - IME ST_VM overflow ...
+  42838 ^R[ IME Engine ] - Error - Vertical stripe setting do not match with the height size of input image (multi-stripe mode) ...
+  42938 ^R[ IME Engine ] - Error - Vertical stripe setting do not match with the height size of input image (single-stripe mode) ...
+  42a8c ^R[ ime_setInputLineoffsetInfo ] - Error - Input lineoffset of Y channel overflow, and please double check it
+  42afc ^R[ ime_setInputLineoffsetInfo ] - Error - Input lineoffset of Cb channel overflow, and please double check it
+  42b70 ^R[ ime_setInputLineoffsetInfo ] - Error - Input lineoffset of Cr channel overflow, and please double check it
+  43028 ^R[ ime_setOutputLineoffsetInfo ] - Error - Output lineoffset of Y channel overflow, and please double check it
+  4309c ^R[ ime_setOutputLineoffsetInfo ] - Error - Output lineoffset of Cb channel overflow, and please double check it
+  43110 ^R[ ime_setOutputLineoffsetInfo ] - Error - Output lineoffset of Cr channel overflow, and please double check it
+  432e0 ^R[ ime_setChangeIOImageInfo ] - Error - User horizontal scaling down rate overflow (setting value = %d) , and please double check it
+  43368 ^R[ ime_setChangeIOImageInfo ] - Error - User horizontal output size overflow (setting value = %d) , and please double check it
+  433ec ^R[ ime_setChangeIOImageInfo ] - Error - User vertical scaling down rate overflow (setting value = %d) , and please double check it
+  43474 ^R[ ime_setChangeIOImageInfo ] - Error - User vertical output size overflow (setting value = %d) , and please double check it
+  43548 ^R[ ime_setScaleFilering ] - Warning - Horizontal scale filtering coefficient overflow : %d, and replaced as max value %d
+  435c4 ^R[ ime_setScaleFilering ] - Warning - Vertical scale filtering coefficient overflow : %d, and replaced as max value %d
+  436fc ^R[ ime_setColorSpaceTransform ] - Warning - Coefficient value overflow : %d, and replaced as max value %d
+  4376c ^R[ ime_setChromaFilter ] - Warning - Horizontal average filter coefficient overflow : %d, and replaced as max value %d
+  437e8 ^R[ ime_setChromaFilter ] - Warning - Horizontal average filter threshold overflow : %d, and replaced as max value %d
+  43860 ^R[ ime_setCurveMappingLUT ] - Warning - Curve Mapping LUT value overflow LUT[%d] : %d, and replaced as max value %d
+  43920 ^R[ ime_setCurveMappingParam ] - Warning - Curve mapping center setting value overflow : %d, and replaced as default value 128
+  439a4 ^R[ ime_setCurveMappingParam ] - Warning - Curve mapping center setting value overflow : %d, and replaced as default value 128 ...
+  43a2c ^R[ ime_setFilmGrain ] - Warnging - File grain weighting value overflow : %d, and replaced as max value %d
+  43a9c ^R[ ime_setFilmGrain ] - Warnging - File grain initial value overflow : %d, and replaced as max value %d
+  449d4 GPS: version = 0x%X
+  45b11 Jul 13 2011, 17:06:53
+  cee26 pf update 
+  cf01c p  Firmware  build: %s
+  cf037   ver
+  cf078   Driver(COD)
+  cf0a9 >(c) 2011 Novatek Microelectronic Corp
+  cfe00 Zoverflow
+  d2017 AA:\
+  d2034 _gsensor
+  d2055 &.bi
+  d2628 iVer
+  d26d6 3Manf Date:		%.02d -
+  d3776 /Date
+  d385f setdatel
+  f30bc Cover Lens
+  f365c Hupdate header OK. audf
+  f41be Over M
+  f4284 j: over
+  f4878 very
+  f5398 (Date
+  f53ed %Jul 13 2011, 17:07:10
+  f5406 - Debug Module ver: %1d.%2d.%03d, build:
+  f769d <>>Cal_SaveRAWs
+  f76b7 HAe Converg
+  f78a9 ST2089
+  f7e27 Maaa_EstBlkAverBayerG
+  f7f29 2003/00/00/00:00:00
+  f817f %ficVersion
+  fa595 \:Set dateti
+  fa702 gver
+  fb8ac : 20130927 [NTK#RandyHo]  
+  fb8d4 0x_Date
+  fbdbf tOVERLAP (Y&Cb
+  fd87c "yet released by IF
+  fe117 eMay 31 2021 16:24:41
+ 119590 $$LISTB
+ 11959a INFOISFT5
+ 119898 O/.0
+ 120014 ]!7+B4!/,%
+ 120037 -F4r-*"
+ 120059 3i+9
+ 120077 0	2-)
+ 120112 =&v/
+ 120133 'v1~1
+ 120170 C"N+
+ 12032f 0-2e(
+ 12034c a)|2
+ 120371 /u$E
+ 120391 -X";
+ 120408 2")+
+ 12042d 4L/+$
+ 120449 &S.P5
+ 120509 .<5,-
+ 120527 ((0=4P+
+ 12054b 3m)v
+ 120565  N*O3u1
+ 120587 +;4n/
+ 120622 ="e*W,B'D
+ 12aefe Oct 08 2012, 14:40:01
+ 12b064 May 07 2018, 15:29:44
+ 12b589 Ver.
+ 12b594 T2001:07:01 12:00:00
+ 12c00b v102001

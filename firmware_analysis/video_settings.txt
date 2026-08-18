@@ -1,0 +1,234 @@
+  2caad UIFrameworkTsk()
+  2cae1 FLG_ID_KEY
+  2caec FLG_ID_KEY_REL
+  2cb28 FLG_ID_FRAMEWORK
+  2cb39 SEMID_FRAMEWORK_WINDOW
+  2cb50 SEMID_FRAMEWORK_DRAW
+  2cb75 MBXID_SYS_EVENT
+  2cb85 MBXID_BKG_EVENT
+  2cec4 ^RError:Dummy Interrupt, Previous INT No=%#08X Current INT No=%#08X
+  2d008 MediaVideoPlayTsk()
+  2d02c RecVideoTsk()
+  2d070 USBPccVideoTsk()
+  2d0d4 AWBTsk()
+  2d0e0 AETsk()
+  2d0f8 PhotoDisplayTsk()
+  2d128 Photo3rdTsk()
+  2d138 Photo2ndTsk()
+  2d148 Photo1stTsk()
+  2d1f0 MediaVideoRecTsk()
+  2d560  [text]gCurrentMenuInfo.parkingmode_flag=%d
+  2dae2 FS UNKNOWN FORMAT
+  2e166 Adobe Photoshop CS6 (Windows)
+  2eae0 DPRS6
+  2eb51 i(4AE
+  2ecae !^Photoshop 3.0
+  2f4a1 ESliceVertAlign
+  30dae LCntlong
+  30f17 		<rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:DocumentID="F6289A1CCBAC5F40F082ECFF46207735" xmpMM:InstanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" xmpMM:OriginalDocumentID="F6289A1CCBAC5F40F082ECFF46207735" dc:format="image/jpeg" photoshop:ColorMode="3" xmp:CreateDate="2018-04-11T09:55:45+08:00" xmp:ModifyDate="2018-04-11T18:35:29+08:00" xmp:MetadataDate="2018-04-11T18:35:29+08:00">
+  311b1 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7AC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  3127f 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  31372 			<photoshop:DocumentAncestors>
+  313eb 			</photoshop:DocumentAncestors>
+  3347e J$]6EV
+  34f63 Adobe Photoshop CS6 (Windows)
+  3594e i(4AE
+  35aab !^Photoshop 3.0
+  3629e ESliceVertAlign
+  376ae }/cY
+  37ae7 null
+  37d14 		<rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:DocumentID="F6289A1CCBAC5F40F082ECFF46207735" xmpMM:InstanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" xmpMM:OriginalDocumentID="F6289A1CCBAC5F40F082ECFF46207735" dc:format="image/jpeg" photoshop:ColorMode="3" xmp:CreateDate="2018-04-11T09:55:45+08:00" xmp:ModifyDate="2018-04-11T18:35:29+08:00" xmp:MetadataDate="2018-04-11T18:35:29+08:00">
+  37fae 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7AC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  3807c 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  3816f 			<photoshop:DocumentAncestors>
+  381e8 			</photoshop:DocumentAncestors>
+  3a27b J$]6EV
+  3ae27 viAW
+  3ae52 d#6x
+  3ae7a @?ZF'
+  3aea7 p(nr
+  3bd36 FLG_ID_PHOTO
+  3be15 FLG_ID_PHOTODISPLAY
+  3be29 FLG_ID_PHOTODIS
+  3c1b8 MENU_DRAW_IMAGE_TABLE ,plz assign table
+  3c378 Unsupported Video1 format %d
+  3c818 ^RPLL1 configured frequency is out of range(300-700)!  uiLoopDiv=%d
+  3d0dc ^Rpinmux_configSensor(): no bus width assigned: 0x%lx
+  3dae0 usb_open(): open AMBA DMA fail
+  3e9fc ^RJPG_ENC: ^R[JpegEncOnePic] Error! VAEstCtl not support
+  3ea64 ^R[JpegEncOnePic] User Defined Lineoffset is smaller than image width
+  3ec94 ^R Unnormal situration! Skip Frame %d Size=%d
+  3ed98 ^RJPG_ENC: [JpegGetDCOutConfig] Error! Frame Size = %d x %d, Panel Size = %d x %d
+  3eecc ^MgFrameWidth=%d, gFrameHeight=%d
+  3ef20 ^M gVidBrcMode=0x%x, gTargetFrameSize=%d, Default QF=%d, gBRCWeighting=%d/%d, gMaxValidFrameSize=%d
+  3f094 ^RJPG_ENC: [JpegEncUpdateHDR] Error! YUVFormat %d
+  3f1c4 ^R[JpegEncOneChannel] User Defined Lineoffset is smaller than image width
+  3f320 ^R[JpegEncSetData]JPG_MAX_VALID_FRAME_SIZE_RATIO parameter error!
+  3f3e8 ^R[JpegEstimateBitRate] BRC not enabled!
+  3f414 ^R[JpegEstimateBitRate] jpeg_open() error
+  3f440 ^R[JpegEstimateBitRate] jpeg_setCmpStartAddr() error
+  3f478 ^R[JpegEstimateBitRate] jpeg_setImgLineOffsetByte() error
+  3f4b4 ^R[JpegEstimateBitRate] jpeg_setEnableInt() error
+  3f4e8 ^RJPG_ENC: [JpegEstimateBitRate] Error! No Frame End Interrupt
+  3f52c ^RJPG_ENC: [JpegEstimateBitRate] Error! jpeg_close()
+  3f61c Error dispdev_RegRead Op!
+  3f638 DispDev NO valid rotate!
+  408c8 ^RNo support Video Format!
+  40bb8 SPI flash: get devInfo: driver not opened
+  40be4 SPI flash: get devInfo: Manufacture ID dosen't support. MFG ID:0x%lx, Device ID:0x%lx
+  411ec Dev1 has not closed!
+  41204 SET_DEVICE no support! (%d)
+  41224 ^RDISPLAYDEV No Support!(%d)
+  4127c ^RPrevious dev1 has not closed!
+  412b0 Non of DISP1 DEV (%d)
+  412c8 ^MCant chg obj of act dev!
+  41388 ^RDISPDEV No Support!(%d)
+  413a4 Dev2 has not closed!
+  413bc ^RDISDEVPCTL2 No Support!(%d)
+  4145c ^RPrevious dev2 has not closed!
+  41490 Non of DISP2 DEV (%d)
+  41570 ^RDISPDEV2 No Support!(%d)
+  41d58 [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X, YLOFS %d < ImageWidth %d
+  41db0 [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X, ULOFS %d < ImageWidth/2 %d
+  41e0c [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X, VLOFS %d < ImageWidth/2 %d
+  42758 ^R[ ime_setInputImageInfo ] - Error - IPE direct to IME does not support YCC420 format ...
+  427b8 ^R[ IME Engine ] - Error - Horizontal stripe setting do not match with the width size of input image (multi-stripe mode) ...
+  42838 ^R[ IME Engine ] - Error - Vertical stripe setting do not match with the height size of input image (multi-stripe mode) ...
+  428b8 ^R[ IME Engine ] - Error - Horizontal stripe setting do not match with the width size of input image (single-stripe mode) ...
+  42938 ^R[ IME Engine ] - Error - Vertical stripe setting do not match with the height size of input image (single-stripe mode) ...
+  432e0 ^R[ ime_setChangeIOImageInfo ] - Error - User horizontal scaling down rate overflow (setting value = %d) , and please double check it
+  43368 ^R[ ime_setChangeIOImageInfo ] - Error - User horizontal output size overflow (setting value = %d) , and please double check it
+  433ec ^R[ ime_setChangeIOImageInfo ] - Error - User vertical scaling down rate overflow (setting value = %d) , and please double check it
+  43474 ^R[ ime_setChangeIOImageInfo ] - Error - User vertical output size overflow (setting value = %d) , and please double check it
+  43eac ^R[ ime_chgParam ] - Error - Change Input/Output Image Size Parameters NULL...
+  44378 ^R[ ime_close ] - IME engine was already closed, can not close again ...
+  44d18 Sunday
+  44d1f xxxMonday
+  44d29 xxxTuesday
+  44d34 xxWednesday
+  44d40 Thursday
+  44d49 xFriday
+  44d51 xxxSaturday
+  4a653 AVI LISThdrl
+  6fa61 AVI strlLISThdrl
+  7b9ae 462H
+  aae6a RIFFdata
+  aae7a WAVEfmt T
+  aae86 fact
+  ce8ae rec 
+  cea23 opy iso
+  ceabb  AWB
+  ceae3 delaychain
+  ced80 |photo
+  cefae *... 
+  cf6c1 TP:Event=%d, X=%03d, Y
+  cf6f4 <debug text> gbFlagScreenSaveIsOff
+  cf9fc [AppInitAVI]: uiSensorRecordS
+  cfada %video resolu
+  cfaea :%dx
+  cfd79 0Codec = MEDIAPLAY_VIDEO_MJPG
+  cfdae %s: out of string
+  d1e27 usICN_EV
+  d1ed0 aetCurrRecUnlock  LINE
+  d1f0d #$app_parking_
+  d2034 _gsensor
+  d2601 FWRevisio
+  d27a1 AVideo Menu
+  d27b8 A720P
+  d28ae High
+  d2a36 tDevice Sound
+  d2ace ImageCB]: ALGMSG_QVSTAR
+  d2aec (PREVIEWSTABLE
+  d2bc6 &PNL_FDFrame
+  d2c19 nevt
+  d2cb8 DISO
+  d2dd0  Sharpness
+  d2ea9 1080P
+  d30a3 ~PanLoop
+  d3117 Eevent
+  f2ddf Gsensor_Test
+  f2e84 $ParkingMode
+  f2f49 A:\AWBGS.txt
+  f3003 hRgain
+  f31f4 0bitrate control not enable..! BytesPerSecond is zero
+  f350e g, resolution must
+  f38ca t, no video in saveQueu
+  f3a2f pGetActVideo
+  f3a82  VIDEO
+  f3ab4 hset FRAMERATE %d
+  f3ad3 #SaveVF
+  f3ae8 newVidP
+  f3de6 OK, hdr
+  f3f16 hdrlavih8
+  f4177 RECORD
+  f4751 hThis, jumplevel
+  f48d6 Z HDR
+  f4934 IPHOTO
+  f4b1a 8Image
+  f4e76 7Ux_PostEvent: Mailbox ID incorrect
+  f4edc Sevent_i
+  f50a9 AddNotifyDevice
+  f5ae2 aSensor
+  f5aef tF_CH0
+  f6503 LPreview
+  f685c Hg_fpSetPCC2CapRaw
+  f6ae5 push up 2 down
+  f6c69 qAVI:prev i
+  f6eb5 bae lock
+  f6ed9 1awb
+  f6ef3 9awbmsg 
+  f74ae Qitdepth
+  f76b7 HAe Converg
+  f76c5 @(WaitAe
+  f76d4 xCAL_AE
+  f77b4 $AWB
+  f7a5a p_ISOG
+  f7a92 <CapEV_
+  f7aee W		:
+  f7e7d i^RAEALG: AEAlg_all
+  f7e99 c AeCurv
+  f7f96 PREV
+  f7f9d No REV
+  f80ca Idebug-leve
+  f83c6 &0DEVICE
+  f8720  GFI
+  f8ae6 xwitch
+  f9ae2 FS: %s
+  fa01c #Level
+  fa249 Pvideo
+  fa2f9  MAKEVA
+  fa35a 2Frame
+  fa9e9 vdispdev
+  fadae ,JPG
+  fae1e $   
+  fae27 nail :
+  fae58 PLC_BUF
+  fae71 8^R 8m
+  fae80 IFE YCC
+  fae8e ,buf is
+  faea9 ,Cap_MinCase
+  faeca 4RAW
+  faedb TAlphaBl
+  faef6 DieRaw
+  fb3b2 oEven
+  fb4ae  retry: %d,
+  fb873 (Cap AE
+  fb91f u  ISO
+  fb929  AWB
+  fb989 tAE IsoCompens
+  fb9a9 Real Gain
+  fbac8 6AE_
+  fbad0 .ISO_
+  fbde8 image
+  fc04d @[HDRL] 
+  fc1ff Uhae
+  fdaed <No pNandStr
+  fdea1  ISO
+  fdfae xPB_JpgBRC
+ 125aec (Ta!
+ 12aec2 CRAS
+ 12aef5 2.00.002
+ 12aefe Oct 08 2012, 14:40:01
+ 12be18 [HDR]
+ 12be2a GEN REV
+ 12bfb9 BRC_DEBUG_LEVEL_DISABLE

@@ -1,0 +1,509 @@
+    828 clk_changeDMA(): pDMASetting is NULL
+    850 clk_changeCPUAHB(): driver closed
+    8d8 clk_powerdown(): driver closed
+  2c804 SysClk_SetClk enter
+  2c82c SysClk_SetClk leave
+  2c874 ramdsk_getStorageObject()
+  2c890 ==============================SysInit_InitBLInfo
+  2ca84 KeyScanTsk()
+  2ca91 CommandTsk()
+  2ca9e PlaySoundTsk()
+  2caad UIFrameworkTsk()
+  2cabe UIBackgroundTsk()
+  2cad0 CalibrationTsk()
+  2cc1e FW code (%ld) is too large for current setting
+  2cd40 ^R[Signal=%d], [type=%d], [tsk=%d]
+  2cd7c ^R Floating Point Lib[FPL] exception, [tsk=%d]
+  2cdb0 ^R NULL Function Call -Err- [TaskID=%d@0x%08X]
+  2cde4 ^RSWI_NUM=0x%08X[TaskID=%d @0x%08X] for SCF DBG
+  2cf7c ^YSWI_NUM=0x%08X[TaskID=%d @0x%08X]
+  2cfc8 ^RUndefined Inst[TaskID=%d @0x%08X]
+  2cff4 MediaAudioPlayTsk()
+  2d008 MediaVideoPlayTsk()
+  2d01c MediaPlayTsk()
+  2d02c RecVideoTsk()
+  2d03c AviRecManagerTsk()
+  2d050 USBSICDEP3Tsk()
+  2d060 USBSICDTsk()
+  2d070 USBPccVideoTsk()
+  2d084 USBMSDC_StrgTsk()
+  2d098 USBSetupHalTsk()
+  2d0ac USBCtlStartTsk()
+  2d0c0 AFTsk2()
+  2d0cc AFTsk()
+  2d0d4 AWBTsk()
+  2d0e0 AETsk()
+  2d0e8 LensCtrlTsk()
+  2d0f8 PhotoDisplayTsk()
+  2d10c SieCapTsk()
+  2d118 ImgSliceTsk()
+  2d128 Photo3rdTsk()
+  2d138 Photo2ndTsk()
+  2d148 Photo1stTsk()
+  2d158 PlaybackTsk()
+  2d168 FWRotate_Tsk()
+  2d178 DispRotateTsk()
+  2d188 FsBackground_Task()
+  2d19c WavStudioTsk()
+  2d1ac RawEncTsk()
+  2d1b8 MediaRecCmdTsk()
+  2d1cc MediaRecFSTsk()
+  2d1dc MediaAudioEncTsk()
+  2d1f0 MediaVideoRecTsk()
+  2d204 MediaRecTsk()
+  2d214 User TSK Config Fail, Ker Tsk Cnt=%d and Cur Tsk Cnt=%d
+  2d250 User task ID=%d duplicated
+  2d270 Define user task [%ld, %s] error [%ld]
+  2d29c User FLG Config Fail, Ker Flg Cnt=%d and Cur Flg Cnt=%d
+  2d324 User SEM Config Fail, Ker Sem Cnt=%d and Cur Sem Cnt=%d
+  2d3ac User MBX Config Fail, Ker MBX Cnt=%d and Cur MBX Cnt=%d
+  2d430 User FPL Config Fail, Ker FPL Cnt=%d and Cur FPL Cnt=%d
+  2d590 *********AppInit_Close
+  2d5e4 *********PlaySound_Close
+  2d688 mmmmmKeyScan_DetBatteryInSysInit
+  2d788 VOLDET ERR: Can't open ADC channel for flash detection
+  2d7c4 VOLDET ERR: Can't open ADC channel for battery detection
+  2d8bc UserPS: PStore open section fail
+  2d8e4 UserPS: Error opening %s
+  2d9c4 SysGetDispRotateBuffSize() 0x%x
+  2d9e8 ^R[SysGetDispRotateAddr]: addr = 0x%x
+  2da10 OnExe_NumReset(), DirNum = %d, FileNum = %d
+  2dabc FS NOT INIT
+  2dac8 FS INIT OK
+  2db14 [SetFSStatus]%d
+  2db28 [GetFSStatus]%d
+  2df1c [Save_MenuInfo]:Open PStore failed
+  2df45 [0;32mgCurrentMenuInfo.reset_poweron = %d
+  2df9c [Init_MenuInfo][PStore Read sys param fail]
+  2dfec 1===========key user setting is on=============
+  2e040 2===========key user setting is on=============
+  2ed7d printProofSetupObjc
+  2eda2 proofSetup
+  2f40e MsgeTEXT
+  2f4ee 	topOutsetlong
+  2f504 leftOutsetlong
+  2f51a bottomOutsetlong
+  2f532 rightOutsetlong
+  35b7a printProofSetupObjc
+  35b9f proofSetup
+  3620b MsgeTEXT
+  362eb 	topOutsetlong
+  36301 leftOutsetlong
+  36317 bottomOutsetlong
+  3632f rightOutsetlong
+  3bc90 null task()
+  3bc9c InitTsk()
+  3bca6 FilesysTsk()
+  3bcb3 PrimaryTsk()
+  3bcc0 OSCOMM:>STD App %s[ID=%d] configure error[=%d]
+  3bda5 FLG_ID_USBTSK
+  3be59 FLG_ID_EP3TSK
+  3c290 ^Rrot task par error!
+  3c300 drv_init
+  3c450 Palette entry exceed the total palette size! uiStart=%d  uiNumber=%d
+  3c6a8 Set[%d] addr(0x%08x)~(0x%08x)
+  3c7a4 ^RPLL1 Pre-Divider(uiPreDiv) can only set 0x01!
+  3c7d8 ^RPLL1 must be disabled before been set!!!! PLL1 is OFF!!!!
+  3c818 ^RPLL1 configured frequency is out of range(300-700)!  uiLoopDiv=%d
+  3c8d4 ^RPLL2 must be disabled before been set!!!! PLL2 is OFF!!!!
+  3c944 ^RPLL2 must be disabled before pll_setPLL2Sspll
+  3c978 ^Rpll_setPLL2Sspll: should NOT be legacy mode
+  3c9a8 ^RPLL2 must be disabled before pll_setPLL2SpreadSpectrum
+  3c9e4 ^Rpll_setPLL2SpreadSpectrum: lower bound %d should between 426~618MHz
+  3ca2c ^Rpll_setPLL2SpreadSpectrum: upper bound %d should between 426~618MHz
+  3cac0 ^Rpll_setPLL2SpreadSpectrum: actual lower freq %d Hz is not equal to target %d Hz
+  3cb14 ^Rpll_setPLL2SpreadSpectrum: actual upper freq %d Hz is not equal to target %d Hz
+  3cb68 ^pll_setPLL2Fractional: target %d should between 426~618MHz
+  3cba8 ^pll_setPLL2Fractional: actual freq %d Hz is not equal to target %d Hz
+  3cc1c Non-supported Clk Rate offset! (%d)
+  3cd8c Target(%d) freq can not be divided with no remainder! Result is %dHz.
+  3cdd4 pll_setLDO(): ldoID out of range: 0x%lx
+  3ce00 pll_setLDO(): outVoltage out of range: 0x%lx
+  3ce30 pll_setLDOEn(): ldoID out of range: 0x%lx
+  3ce5c pll_getLDOEn(): ldoID out of range: 0x%lx
+  3cea8 RTC: trigger CSET when CSET isn't done
+  3cf34 RTC: Driver is not opened
+  3d080 ^Rpinmux_configNAND(): conflict with SPI
+  3d0ac ^Rpinmux_configNAND(): invalid config: 0x%lx
+  3d0dc ^Rpinmux_configSensor(): no bus width assigned: 0x%lx
+  3d114 ^Rpinmux_configScanner(): invalid bus width: 0x%lx
+  3d14c ^Rpinmux_configScanner(): PXCLK already active
+  3d180 ^Rpinmux_configScanner(): MCLK already active
+  3d1b0 ^Rpinmux_configI2C(): invalid config: 0x%lx
+  3d1e0 ^Rpinmux_configSIF(): invalid config: 0x%lx
+  3d210 ^Rpinmux_configUART(): DGPIO1 already assigned to STROBE: 0x%lx
+  3d254 ^Rpinmux_configUART(): PWM0 already assigned: 0x%lx
+  3d28c ^Rpinmux_configUART(): PWM1 already assigned: 0x%lx
+  3d2c4 ^Rpinmux_configUART(): SN_VD already assigned to VD: 0x%lx
+  3d304 ^Rpinmux_configUART(): SN_HD already assigned to HD: 0x%lx
+  3d344 ^Rpinmux_configUART(): invalid config: 0x%lx
+  3d374 ^Rpinmux_configPWM(): PWM0 already assigned: 0x%lx
+  3d3ac ^Rpinmux_configPWM(): DGPIO0 already assigned: 0x%lx
+  3d3e4 ^Rpinmux_configPWM(): PWM1 already assigned: 0x%lx
+  3d41c ^Rpinmux_configPWM(): PWM2 already assigned: 0x%lx
+  3d454 ^Rpinmux_configLCD(): invalid locate: 0x%lx
+  3d484 ^Rpinmux_configLCD2(): invalid locate: 0x%lx
+  3d4b4 ^Rpinmux_configTV(): invalid config: 0x%lx
+  3d4e4 ^Rpinmux_configHDMI(): invalid config: 0x%lx
+  3d608 ^Rpinmux: invalid primary LCD config: 0x%lx
+  3d664 ^Rpinmux: invalid storage LCD config: 0x%lx
+  3d978 ^Rpinmux_init(): SPI, NAND BOTH enabled
+  3d9a4 ^Rpinmux_init(): sensor, scanner BOTH enabled
+  3d9d4 ^Rpinmux_init(): pConfig context error
+  3da00 ^Gpinmux_setDispPinmux(%d): NOT need to handle TV/HDMI
+  3da3c usb_initFOTG200(): sw reset timeout
+  3da64  USB driver is not opened !
+  3da84  USB driver is already opened !
+  3daa8 usb_open(): not contact
+  3dac4 usb_open(): VBUS removed
+  3dae0 usb_open(): open AMBA DMA fail
+  3db04 ^Rusb_open(): USB NOT support AHB 160MHz
+  3dbf8 norps_setSectionHead:Out of section range %d
+  3df28 norps_setSectionHead:Fail in write section header
+  3e158 [Storage Error]Storage is processing, but FilesysTsk doesn't do any command
+  3e1e4 No open file
+  3e1f4 FST : GetFileTime2, Busy.
+  3e240 Set Segment Size is 16KB align %d 
+  3e268 Set Segment Size is Out of Range %d 
+  3e290 CMD: 0x%x ,Check FileSysInValidAbortCmd Used 
+  3e2e0 PS: Get access right fail
+  3e454 No more free section handle for open
+  3e4bc PS: PStore has not been init.
+  3e4dc PStore_OpenSection: Found Error Name
+  3e504 PS: Section has opened(Section Name%x) Retry:%d
+  3e538 PS: Section has opened(Section Name%x), and no more retry
+  3e6a8 PS: PStore has not opened yet.
+  3e708 PS: Section has not opened yet.(Section Name:%x) 
+  3e73c PS: Section was not opened for read operation.(Section Name:%x) 
+  3e780 PS: PStore has not been opened yet.
+  3e80c PS: Section has not been opened yet.(Section Name:%x) 
+  3e848 PS: Section was not opened for write operation.(Section Name:%x) 
+  3e8f0 Set PStore Error 0x%x 
+  3e928 Set PStore Out of range 0x%x , 0x%x 
+  3e9d4 ^R[JpegEncOnePic] jpeg_open() error
+  3ea64 ^R[JpegEncOnePic] User Defined Lineoffset is smaller than image width
+  3eaac ^R[JpegEncOnePic] User Defined Lineoffset is not word alignment
+  3eaf0 ^R[JpegEncOnePic] Error! DC Mode Setting
+  3ebc4 ^R[JpegEncOnePic] jpeg_close() error
+  3ebec [JpegWaitChannelDone] jpeg_close() error
+  3ed5c ^MGetF[%d]
+  3ed98 ^RJPG_ENC: [JpegGetDCOutConfig] Error! Frame Size = %d x %d, Panel Size = %d x %d
+  3edec ^RJPG_ENC: [JpegGetDCOutConfig] Parameter Error! YUVFormat = %x
+  3ee74 g_brcParam.TargetByte
+  3ef20 ^M gVidBrcMode=0x%x, gTargetFrameSize=%d, Default QF=%d, gBRCWeighting=%d/%d, gMaxValidFrameSize=%d
+  3f030 ^RJPG_ENC: [JpegEncVidConfig] Error! YUVFormat %d
+  3f0f0 ^R[JpegEncOneChannel] jpeg_open() error
+  3f11c ^R[JpegEncOneChannel] jpeg_setEncodeQTabHW() error
+  3f154 ^R[JpegEncOneChannel] jpeg_setFileFormatHW() error
+  3f18c ^R[JpegEncOneChannel] jpeg_setCmpStartAddr() error
+  3f1c4 ^R[JpegEncOneChannel] User Defined Lineoffset is smaller than image width
+  3f210 ^R[JpegEncOneChannel] User Defined Lineoffset is not word alignment
+  3f258 ^R[JpegEncOneChannel] jpeg_setEnableInt() error
+  3f2a0 ^R[JpegEncSetData]JPG_TARGET_SIZE_UPPER_BOUND parameter error!
+  3f2e0 ^R[JpegEncSetData]JPG_TARGET_SIZE_LOWER_BOUND parameter error!
+  3f320 ^R[JpegEncSetData]JPG_MAX_VALID_FRAME_SIZE_RATIO parameter error!
+  3f364 ^R[JpegEncSetData]JPG_BRC_WEIGHTING should NOT be greater than %d.
+  3f3a8 [JpegEncSetData]attribute error
+  3f3c8 [JpegEncGetData]attribute error
+  3f414 ^R[JpegEstimateBitRate] jpeg_open() error
+  3f440 ^R[JpegEstimateBitRate] jpeg_setCmpStartAddr() error
+  3f478 ^R[JpegEstimateBitRate] jpeg_setImgLineOffsetByte() error
+  3f4b4 ^R[JpegEstimateBitRate] jpeg_setEnableInt() error
+  3f52c ^RJPG_ENC: [JpegEstimateBitRate] Error! jpeg_close()
+  3f578 Performance Timer is already opened!
+  3f5a0 Can't Open the Performance Timer
+  40904 LENS_M: Lens_Module_Init
+  4093c Lens_Module_Init
+  40950 LENS_E: %s init part2 error!!
+  40970 Lens_Init
+  4097c LENS_E: %s: init wrong state = %d
+  40a3c Lens_Zoom_Stop
+  40a68 Lens_Zoom_GetBL
+  40adc Lens_Focus_GetBL
+  40b0c LensCtrlTsk
+  40b9c motorPSEUDO_init already
+  40bb8 SPI flash: get devInfo: driver not opened
+  40be4 SPI flash: get devInfo: Manufacture ID dosen't support. MFG ID:0x%lx, Device ID:0x%lx
+  40c3c SPI flash: close: wait ready timeout
+  40c64 SPI flash: eraseChip: driver not opened
+  40d58 SPI flash: eraseSector: driver not opened
+  40e50 SPI flash: program: driver not opened
+  40ef4 SPI flash: read: driver not opened
+  40f1c STD Tsk Config Fail, Ker Tsk Cnt=%d and Cur STD Tsk Cnt=%d
+  40f5c Define STD task [%ld, %s] error [%ld]
+  40f84 STD Flg Config Fail, Ker Flg Cnt=%d and Cur STD Flg Cnt=%d
+  41008 STD sem Config Fail, Ker Sem Cnt=%d and Cur Sem Cnt=%d
+  41090 STD MBX Config Fail, Ker MBX Cnt=%d and Cur MBX Cnt=%d
+  41114 STD FPL Config Fail, Ker FPL Cnt=%d and Cur FPL Cnt=%d
+  411ec Dev1 has not closed!
+  41204 SET_DEVICE no support! (%d)
+  4127c ^RPrevious dev1 has not closed!
+  413a4 Dev2 has not closed!
+  4145c ^RPrevious dev2 has not closed!
+  41644 SPI: open: lock fail
+  4165c SPI: open: pre set flag fail
+  4167c SPI: init: clock divider > 256: 0x%lx
+  416a4 SPI: init: clock divider <= 4: 0x%lx
+  416cc SPI: init: not support SPI slave mode
+  416f4 SPI: init: not CS active HIGH
+  41714 SPI: init: incorrect mode: 0x%lx
+  41738 SPI: init: incorrect pinmux: 0x%lx
+  41784 SPI: setTransferLen: incorrect length: 0x%lx
+  4188c SPI: starting address must be word aligment!!
+  41d0c [JPGDRV][jpeg_setImgLineOffsetByte] Error! YLOFS %d, ULOFS %d, VLOFS %d
+  41d58 [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X, YLOFS %d < ImageWidth %d
+  41db0 [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X, ULOFS %d < ImageWidth/2 %d
+  41e0c [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X, VLOFS %d < ImageWidth/2 %d
+  41e68 [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X
+  41fd0 [JPGDRV][jpeg_setRestartEOF] Error! Not find 0xFFDX
+  42008 [JPGDRV][jpeg_setDCOut] Error! DCYLineOffset %d, DCULineOffset %d, DCVLineOffset %d
+  42060 [JPGDRV][jpeg_setDCOut] Error! DCYLineOffset Update %d
+  4209c [JPGDRV][jpeg_setDCOut] Error! DCULineOffset Update %d
+  420d8 [JPGDRV][jpeg_setDCOut] Error! DCVLineOffset Update %d
+  42114 [JPGDRV][jpeg_setDCOut] Error! DCEnable %d
+  4242c ^R[ ime_getEngineInformation ] - Error - No such a case to get IME engine Informaion %d...
+  424e4 [ ime_cal_StripeWithSliceHeight ] - Doubt for IME Slice Height setting may be due to output size of vertical smaller than the Slice-Height
+  42574 ^R[ ime_setStripeInfo ] - Warning - IME ST_HN overflow ...
+  425b4 ^R[ ime_setStripeInfo ] - Warning - IME ST_HL overflow ...
+  425f4 ^R[ ime_setStripeInfo ] - Warning - IME ST_HM overflow ...
+  42634 ^R[ ime_setStripeInfo ] - Error - IME ST_VN error ...
+  4266c ^R[ ime_setStripeInfo ] - Error - IME ST_VL error ...
+  426a4 ^R[ ime_setStripeInfo ] - Error - IME ST_VN overflow ...
+  426e0 ^R[ ime_setStripeInfo ] - Error - IME ST_VL overflow ...
+  4271c ^R[ ime_setStripeInfo ] - Error - IME ST_VM overflow ...
+  42758 ^R[ ime_setInputImageInfo ] - Error - IPE direct to IME does not support YCC420 format ...
+  427b8 ^R[ IME Engine ] - Error - Horizontal stripe setting do not match with the width size of input image (multi-stripe mode) ...
+  42838 ^R[ IME Engine ] - Error - Vertical stripe setting do not match with the height size of input image (multi-stripe mode) ...
+  428b8 ^R[ IME Engine ] - Error - Horizontal stripe setting do not match with the width size of input image (single-stripe mode) ...
+  42938 ^R[ IME Engine ] - Error - Vertical stripe setting do not match with the height size of input image (single-stripe mode) ...
+  429b8 ^R[ IME Engine ] - Current stripe Setting Mode is STRIPE_AUTO_MODE ...
+  42a04 ^R[ IME Engine ] - Current stripe Setting Mode is STRIPE_USER_MODE, please apply API ime_setUserStripeInfo() for stripe setting ...
+  42a8c ^R[ ime_setInputLineoffsetInfo ] - Error - Input lineoffset of Y channel overflow, and please double check it
+  42afc ^R[ ime_setInputLineoffsetInfo ] - Error - Input lineoffset of Cb channel overflow, and please double check it
+  42b70 ^R[ ime_setInputLineoffsetInfo ] - Error - Input lineoffset of Cr channel overflow, and please double check it
+  42be4 ^R[ ime_setMode ] - Error - Input lineoffset of Y channel DO NOT the multiple of 4, and please double check it
+  42c58 ^R[ ime_setMode ] - Error - Input lineoffset of Cb channel DO NOT the multiple of 4, and please double check it
+  42ccc ^R[ ime_setMode ] - Error - Input lineoffset of Cr channel DO NOT the multiple of 4, and please double check it
+  42d40 ^R[ ime_setOutputDMAAddrInfo ] - Error - Output DMA address info NULL
+  42d88 ^R[ ime_setOutputDMAAddrInfo ] - Warning - Ouput DMA channel 0 address Cb and Cr LSB 2 bits must be the same !!!
+  42dfc ^R[ ime_setOutputDMAAddrInfo ] - Warning - Ouput DMA channel 1 address Cb and Cr LSB 2 bits must be the same !!!
+  42e70 ^R[ ime_setOutputDMAAddrInfo ] - Warning - Ouput DMA channel 2 address Cb and Cr LSB 2 bits must be the same !!!
+  42ee4 ^R[ ime_setOutputDMAAddrInfo ] - Warning - Ouput DMA channel 3 address Cb and Cr LSB 2 bits must be the same !!!
+  42f58 ^R[ ime_setOutputDMAAddrInfo ] - Warning - Ouput DMA channel 4 address Cb and Cr LSB 2 bits must be the same !!!
+  42fcc ^R[ ime_setOutputLineoffsetInfo ] - Error - Parameter NULL, and please double check it
+  43028 ^R[ ime_setOutputLineoffsetInfo ] - Error - Output lineoffset of Y channel overflow, and please double check it
+  4309c ^R[ ime_setOutputLineoffsetInfo ] - Error - Output lineoffset of Cb channel overflow, and please double check it
+  43110 ^R[ ime_setOutputLineoffsetInfo ] - Error - Output lineoffset of Cr channel overflow, and please double check it
+  43184 ^R[ ime_setMode ] - Error - Output lineoffset of Y channel DO NOT the multiple of 4, and please double check it
+  431f8 ^R[ ime_setMode ] - Error - Output lineoffset of Cb channel DO NOT the multiple of 4, and please double check it
+  4326c ^R[ ime_setMode ] - Error - Output lineoffset of Cr channel DO NOT the multiple of 4, and please double check it
+  432e0 ^R[ ime_setChangeIOImageInfo ] - Error - User horizontal scaling down rate overflow (setting value = %d) , and please double check it
+  43368 ^R[ ime_setChangeIOImageInfo ] - Error - User horizontal output size overflow (setting value = %d) , and please double check it
+  433ec ^R[ ime_setChangeIOImageInfo ] - Error - User vertical scaling down rate overflow (setting value = %d) , and please double check it
+  43474 ^R[ ime_setChangeIOImageInfo ] - Error - User vertical output size overflow (setting value = %d) , and please double check it
+  434f4 ^R[ ime_setScaleFilering ] - Error - Horizontal scale filtering parameter NULL
+  43548 ^R[ ime_setScaleFilering ] - Warning - Horizontal scale filtering coefficient overflow : %d, and replaced as max value %d
+  435c4 ^R[ ime_setScaleFilering ] - Warning - Vertical scale filtering coefficient overflow : %d, and replaced as max value %d
+  43674 ^R[ ime_setColorSpaceTransform ] - Error - Parameter NULL
+  436b0 ^R[ ime_setColorSpaceTransform ] - Error - Programable Parameters NULL
+  436fc ^R[ ime_setColorSpaceTransform ] - Warning - Coefficient value overflow : %d, and replaced as max value %d
+  4376c ^R[ ime_setChromaFilter ] - Warning - Horizontal average filter coefficient overflow : %d, and replaced as max value %d
+  437e8 ^R[ ime_setChromaFilter ] - Warning - Horizontal average filter threshold overflow : %d, and replaced as max value %d
+  43860 ^R[ ime_setCurveMappingLUT ] - Warning - Curve Mapping LUT value overflow LUT[%d] : %d, and replaced as max value %d
+  438d8 ^R[ ime_setCurveMappingParam ] - Error - Curve mapping parameter NULL
+  43920 ^R[ ime_setCurveMappingParam ] - Warning - Curve mapping center setting value overflow : %d, and replaced as default value 128
+  439a4 ^R[ ime_setCurveMappingParam ] - Warning - Curve mapping center setting value overflow : %d, and replaced as default value 128 ...
+  43a2c ^R[ ime_setFilmGrain ] - Warnging - File grain weighting value overflow : %d, and replaced as max value %d
+  43a9c ^R[ ime_setFilmGrain ] - Warnging - File grain initial value overflow : %d, and replaced as max value %d
+  43b08 ^R[ ime_setStart ] - Correct status : %d or %d
+  43b3c ^R[ ime_setStart ] - Current status : %d
+  43b68 ^R[ ime_setStart ] - State Machine error ...
+  43b98 ^R[ ime_setReset ] - Error - IME is in busy ...
+  43bcc ^R[ ime_setReset ] - Correct State : %d or %d
+  43bfc ^R[ ime_setReset ] - Current State : %d
+  43c28 ^R[ ime_setReset ] - State Machine Error ...
+  43c58 ^R[ime_open] - IME Re-opened...
+  43c7c ^R[ ime_open ] - Correct State : %d
+  43ca4 ^R[ ime_open ] - Current State : %d
+  43ccc ^R[ ime_open ] - IME State Machine Error ...
+  43d88 ^R[ ime_chgParam ] - Error - Color Space Transformation Parameters setting error ...
+  43de0 ^R[ ime_chgParam ] - Error - Chroma Filter Parameters setting error  ...
+  43fe8 ^R[ ime_setMode ] - Correct State : %d
+  44014 ^R[ ime_setMode ] - Current State : %d
+  44040 ^R[ ime_setMode ] - State Machine error ...
+  44070 ^R[ ime_setMode ] - Warning - Output path selection error, replacing as default. Please check, thank you...
+  440e0 ^R[ ime_setMode ] - Error - Slice Mode DO NOT support RGB888 packing format ...
+  44134 ^R[ ime_setMode ] - Error - Processing mode setting error, no such a mode : %d
+  44188 ^R[ ime_setMode ] - Error - If color space transform, the output path of IME can not be ONLY Y CHANNEL OUTPUT ...
+  44378 ^R[ ime_close ] - IME engine was already closed, can not close again ...
+  443c4 ^R[ ime_close ] - Correct State : %d or %d
+  443f4 ^R[ ime_close ] - Current State : %d
+  4441c ^R[ ime_close ] - State Machine Error ...
+  44448 ^R[ ime_getOutputDMAAddrInfo_P1 ] - Error - OPPB ID error
+  44484 ^R[ ime_getOutputPath1Add ] - Error - Get output buffer address error ...
+  ce90b %Benchmark : get buffer
+  cea72 sett
+  ced33 Lens Init
+  ced97 setup
+  cee07 ps init
+  ceedd Stop
+  cef18 0set
+  cef45 hset
+  cf57a <Set h
+  cf5d8 mGet_NVTCMD:
+  cf5f8 <KeyScanTsk 2222
+  cf9a0 ctask
+  cf9fc [AppInitAVI]: uiSensorRecordS
+  cfb18 @Open(%d) +++
+  cfb2f Close
+  cfc27 _Stop
+  cfc45 "OOM_CTRL_
+  cfccf _GetData]no this attribute
+  cfe10 REC STOP
+  cfe4a 4 PB_WAIT_INFINITE
+  d1cbe  FlowMovie_StartRec: Not yet,g_MovSelfTimerSec
+  d1cf7 wSysGetFlag(FL_DCF_FILE_ID)
+  d1d84 GetP
+  d1e5d `	`	 N N NReset
+  d1e8d `open file %s
+  d20c0 srtc_getPwrOnSource(
+  d210c pClose
+  d244f core_init fail
+  d2b12 t^GSET
+  d2b5f [0;32mDCF_Set
+  d31b5 COnOpen g_ui
+  d385f setdatel
+  f2f6a !Get dpfect pixel buffer error!!
+  f2f97 Pstore open to read FAIL
+  f328b MediaRecSetVAmemoryAddr: 
+  f32d4 iopen, changing parameter
+  f3319 ,start
+  f33c9 Hset Cutsec
+  f340e _open
+  f3416 XOpen( )
+  f34c9 Stop
+  f34d3 stop:READY
+  f3635 get: vidB
+  f3682 Ustop
+  f37fd TCmd task
+  f3810 CMD:
+  f3838 <CMD idle
+  f3860 ,SET
+  f39a1 uaud, vid close
+  f39e9 INEED SetInfo()
+  f3a2f pGetActVideo
+  f3a66 |ENC_SETINFO_ENCODEBUF a
+  f3ab4 hset FRAMERATE %d
+  f3b61 \_H264ENC_Init
+  f3c5b @GetAudioBufSize:valu
+  f3d85 ySetGPSData ADDR ZERO
+  f3ebe (cmdok
+  f3ec7 `FScmd endF
+  f403f  CANOT CLOSE
+  f40f0 setM
+  f4112 (EC_RESET
+  f41ed tGetTop
+  f4222 	 Please set TBR firstl
+  f43be SliceTsk_N
+  f43e8 4FLGSLICETSK1_FSTFAIL  222 
+  f4432 SIECAP TSK >Capture 
+  f4504 ~CMDOK
+  f4788 PLAYTASK
+  f4919 MOVREC_OPEN
+  f4981 ntsk -
+  f49b9 Fconfig
+  f49e8 	EFWCTRL
+  f4a29 =fwctrlBufidx
+  f4a6f oTsk
+  f4a7f 4AFTSK ERR:CAF
+  f4b06  Get
+  f4b22 XSN_GET:
+  f4b74 B_SetIMEIDE
+  f4b93 $offset
+  f4c0d 8 Task
+  f4d76 (set 
+  f4e68 ,set
+  f4f36 GetFocusedWindow()
+  f5000 GetRoot
+  f51b7 0Get 
+  f51f5 	PInit: 
+  f5348 (GetCapabilit
+  f5d11 VA set
+  f5d21 |setSat()
+  f5fc2 SetSpecial
+  f611f on get
+  f6217  Moving - Open Src
+  f6287 eSet A
+  f6347 \setLab
+  f6407 8Set
+  f643d LGetDCFNumCache
+  f66c2 	DOp_CheckCmd
+  f6700 _CLOSE:
+  f6757 NOVAUPccOpen: dis
+  f67ab USBPccSet
+  f6811 Tsk:
+  f685c Hg_fpSetPCC2CapRaw
+  f68bc Usicd_openN
+  f6a74 _Set
+  f6e04 Td, target SR:
+  f7040 getsieraw
+  f70ee fGet 
+  f7139 gets
+  f72fc Start
+  f7418 Stop
+  f742e /stop!
+  f75f0 )GetSubOutRGBinfo
+  f7675 tSetMode
+  f76fb _Init
+  f7860 AObj->uiCmd
+  f79cd zinit1
+  f7e4d 8GetCAResult
+  f7eb8 Llg_get
+  f7f56 DPOF_SetQty: d
+  f820d lget
+  f8375 wRSP_CONFIGURE_
+  f83a4 "XGET_CAPABILITY
+  f89a8 X%d: CMD=0x%x,St
+  f8ad8 (get
+  f8b21 <(CMD6)
+  f8b52 lget
+  f8b88 <CMD55
+  f8b90 \ACMD%d
+  f8bff Dopen: installed
+  f8c81  CMD8 ech
+  f8cb1  Get OCR tm
+  f8ce3  get/set 
+  f8e68 tcmd13
+  f8f7d _SD_STOP_TRANSMISSION
+  f8f98 8STOP
+  f933a hset
+  f93a8 FCMD20:		
+  f95e3 ,setEPinStall
+  f965e `getEP
+  f97cb 4fat_Get
+  f9bb1 4Set
+  f9bf9 8T_CMDSys
+  f9e6b tCF_GetOneTyp
+  fa39c 8set
+  fa417 4OM_get
+  fa4ba \linkInit:head< e
+  fa595 \:Set dateti
+  fa658 (OpenS
+  fa682 @_ALREADY_OPEN
+  fa80c :--GET_RES
+  fa896 d#SetCancelReq
+  fa932 	$set
+  fad03 HPBUFFER: ippbuf_SetBuf:
+  fb0da pDcout_TrigCtrl
+  fb11c 	PSet
+  fb14a <FOpen
+  fb1a7 tPCTRL_
+  fb217 8IPPctrl
+  fb267 Close2
+  fb3e6 ,GetIMEJPGAddr
+  fb575 lgetHisto
+  fb808 Set2
+  fbffb $N_SET_ALL
+  fdaaf HOpen/
+  fdc0a 4SetPrv
+  fdd90 @GetReg

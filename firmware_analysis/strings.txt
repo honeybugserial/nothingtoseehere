@@ -1,0 +1,4656 @@
+     50 NT96220 0.46.00020110211(
+     9c ZZZZ
+    7fc ZZZZclk_changeDMA(): invalid clock: 0x%lx
+    828 clk_changeDMA(): pDMASetting is NULL
+    850 clk_changeCPUAHB(): driver closed
+    874 clk_changeCPUAHB(): invalid clock. CPU: 0x%lx, AHB: 0x%lx
+    8b0 clk_changeAPB(): invalid clock: 0x%lx
+    8d8 clk_powerdown(): driver closed
+    b4b Z 0b
+   1417 (  R"
+   14c2 `BA02
+   23a4 0123456789ABCDEF
+   23bc 0123456789abcdef
+   3896 @2  
+   48f1 `F0'H
+   4b45 (R '
+   4be1 (R '
+   4c81 (R '
+   4d5b ~}|{zyxwvvutsrqqponnmllkjjihhgffeddccbaa``__^^]]\\[[ZZYYXXWWVVUUUTTSSRRRQQPPPOOONNMMMLLLKKKJJJIIIHHHGGGGFFFEEEDDDDCCCCBBBBAAA
+   8e74 SYSPt
+   ff14 SYSP
+  10fc3 :  B
+  1169c SYSP
+  125c0 UFNT
+  12748 UFNTd
+  17545 09@=
+  17572 b@p@-
+  26a82 \" `
+  26f3e U#<PE"
+  2a586 A"_k
+  2a71d 4#Bs
+  2af9f ~}|{zyxwvvutsrqqponnmllkjjihhgffeddccbaa``__^^]]\\[[ZZYYXXWWVVUUUTTSSRRRQQPPPOOONNMMMLLLKKKJJJIIIHHHGGGGFFFEEEDDDDCCCCBBBBAAA
+  2b1df J@	|
+  2b1fc @	sS
+  2b25f J@	|
+  2b27c @	sS
+  2b7db :  R
+  2bbd7 1 0c
+  2c484 @)B2
+  2c4cc @9C2
+  2c804 SysClk_SetClk enter
+  2c81c Change DMA %d
+  2c82c SysClk_SetClk leave
+  2c848 MEDIA
+  2c84e PTDC
+  2c853 PTDC
+  2c85c PTDC
+  2c865 PTDC
+  2c86a PTDC
+  2c874 ramdsk_getStorageObject()
+  2c890 ==============================SysInit_InitBLInfo
+  2c8c4 check num 0x%x
+  2c8d8 %02d%02d
+  2c8e4 %d%02d%02d
+  2c8f0 GX win.w=%d, win.h=%d;
+  2c90c GX buf=%08x, size=%d;
+  2c928 SD_VOL
+  2c930 NOVATEK
+  2c938 22mc8 is %d
+  2c948 22mc4 is %d
+  2c958 22mc3 is %d
+  2c968 22mc2 is %d
+  2c978 22mc1 is %d
+  2c988 22mc0 is %d
+  2c998 mc8 is %d
+  2c9a4 mc4 is %d
+  2c9b0 mc3 is %d
+  2c9bc mc2 is %d
+  2c9c8 mc1 is %d
+  2c9d4 mc0 is %d
+  2c9e0 >>>>>>>> SDRAM 16MB type
+  2c9fc >>>>>>>> DDRI 16MB type
+  2ca18 =====================> gCurrentMenuInfo.reboot_flag:%d,__LINE:%d
+  2ca5c LCD after show logo ,turn off LCD 
+  2ca84 KeyScanTsk()
+  2ca91 CommandTsk()
+  2ca9e PlaySoundTsk()
+  2caad UIFrameworkTsk()
+  2cabe UIBackgroundTsk()
+  2cad0 CalibrationTsk()
+  2cae1 FLG_ID_KEY
+  2caec FLG_ID_KEY_REL
+  2cafb FLG_ID_KEY_CONT
+  2cb0b FLG_ID_KEY_LONG
+  2cb1b FLG_ID_SOUND
+  2cb28 FLG_ID_FRAMEWORK
+  2cb39 SEMID_FRAMEWORK_WINDOW
+  2cb50 SEMID_FRAMEWORK_DRAW
+  2cb65 SEMID_UIGRAPHIC
+  2cb75 MBXID_SYS_EVENT
+  2cb85 MBXID_BKG_EVENT
+  2cb95 POOL_ID_FTABLE
+  2cba4 POOL_ID_GX
+  2cbaf POOL_ID_DEFECT_PIXEL
+  2cbc4 POOL_ID_ECS
+  2cbd0 POOL_ID_OSD1
+  2cbdd POOL_ID_OSD_DUMP
+  2cbee POOL_ID_MSDCVENDOR
+  2cc01 POOL_ID_FB
+  2cc0c POOL_ID_CAPTURE
+  2cc1e FW code (%ld) is too large for current setting
+  2cc4e Please modify FRE_MEM in SysCfg.h
+  2cc74 CopyPartTwo: uiDestAddress = 0x%08x, read size = 0x%08x
+  2ccb0 CopyPartTwo: remain FW is compress part 1 size = 0x%x
+  2ccf0 decompressing...
+  2cd04 compressed data size=%d
+  2cd40 ^R[Signal=%d], [type=%d], [tsk=%d]
+  2cd64 ^R => Divide By Zero
+  2cd7c ^R Floating Point Lib[FPL] exception, [tsk=%d]
+  2cdb0 ^R NULL Function Call -Err- [TaskID=%d@0x%08X]
+  2cde4 ^RSWI_NUM=0x%08X[TaskID=%d @0x%08X] for SCF DBG
+  2ce18 ^R!!!Terminate [%s] and it hold the sem[%s]
+  2ce48 ^RStack top addr=0x%08X, size=0x%08X(%d)
+  2ce74 ^R[%s] ID=%d stack overflow!!
+  2ce94 ^RR%02d=0x%08X
+  2cea8 0x%08X: 
+  2ceb4 ^R[0x%08X] 
+  2cec4 ^RError:Dummy Interrupt, Previous INT No=%#08X Current INT No=%#08X
+  2cf0c ^BWarning:Using wai_sem()[Sem_ID=%#08X] in ISR[%#08X]
+  2cf44 ^BWarning:Using wai_flg()[FLG_ID=%#08X] in ISR[%#08X]
+  2cf7c ^YSWI_NUM=0x%08X[TaskID=%d @0x%08X]
+  2cfa4 ^YR%02d=0x%08X
+  2cfb8 ^YSPSR=0x%08X
+  2cfc8 ^RUndefined Inst[TaskID=%d @0x%08X]
+  2cff4 MediaAudioPlayTsk()
+  2d008 MediaVideoPlayTsk()
+  2d01c MediaPlayTsk()
+  2d02c RecVideoTsk()
+  2d03c AviRecManagerTsk()
+  2d050 USBSICDEP3Tsk()
+  2d060 USBSICDTsk()
+  2d070 USBPccVideoTsk()
+  2d084 USBMSDC_StrgTsk()
+  2d098 USBSetupHalTsk()
+  2d0ac USBCtlStartTsk()
+  2d0c0 AFTsk2()
+  2d0cc AFTsk()
+  2d0d4 AWBTsk()
+  2d0e0 AETsk()
+  2d0e8 LensCtrlTsk()
+  2d0f8 PhotoDisplayTsk()
+  2d10c SieCapTsk()
+  2d118 ImgSliceTsk()
+  2d128 Photo3rdTsk()
+  2d138 Photo2ndTsk()
+  2d148 Photo1stTsk()
+  2d158 PlaybackTsk()
+  2d168 FWRotate_Tsk()
+  2d178 DispRotateTsk()
+  2d188 FsBackground_Task()
+  2d19c WavStudioTsk()
+  2d1ac RawEncTsk()
+  2d1b8 MediaRecCmdTsk()
+  2d1cc MediaRecFSTsk()
+  2d1dc MediaAudioEncTsk()
+  2d1f0 MediaVideoRecTsk()
+  2d204 MediaRecTsk()
+  2d214 User TSK Config Fail, Ker Tsk Cnt=%d and Cur Tsk Cnt=%d
+  2d250 User task ID=%d duplicated
+  2d270 Define user task [%ld, %s] error [%ld]
+  2d29c User FLG Config Fail, Ker Flg Cnt=%d and Cur Flg Cnt=%d
+  2d2d8 User flag ID=%d duplicated
+  2d2f8 Define user flag [%ld, %s] error [%ld]
+  2d324 User SEM Config Fail, Ker Sem Cnt=%d and Cur Sem Cnt=%d
+  2d360 User SEM ID=%d duplicated
+  2d37c Define user semaphore [%ld, %s] error [%ld]
+  2d3ac User MBX Config Fail, Ker MBX Cnt=%d and Cur MBX Cnt=%d
+  2d3e8 User MBX ID=%d duplicated
+  2d404 Define user mailbox [%ld, %s] error [%ld]
+  2d430 User FPL Config Fail, Ker FPL Cnt=%d and Cur FPL Cnt=%d
+  2d46c User Mempool ID=%d duplicated
+  2d48c User Memory Pool [%ld, %s] size [0x%X] isn't 32 bytes alignment
+  2d4d0 User Memory Pool [%ld, %s] size [0x%X] isn't legal
+  2d508 Define user fixed memory pool [%ld, %s] error [%ld]
+  2d540 *********KeyScan_PoweroffFlow
+  2d560  [text]gCurrentMenuInfo.parkingmode_flag=%d
+  2d590 *********AppInit_Close
+  2d5ac *********Save_MenuInfo
+  2d5c8 *********rtc_poweroffPWR
+  2d5e4 *********PlaySound_Close
+  2d604 *********button pwr pressed
+  2d624 *********KeyScan_LowBatteryPoweroffFlow
+  2d650 11=====================> PowerOn and OFF __LINE:%d
+  2d688 mmmmmKeyScan_DetBatteryInSysInit
+  2d6ac UIFlowWndWrnMsg
+  2d6bd [37mCHK: %d, %s
+  2d6d4 KeyScan_EnableLEDToggle
+  2d6ec A:\MTN220.txt
+  2d6fc NBDVR122--A-R06.2
+  2d70e NEXTBASE
+  2d717 NBDVR112
+  2d788 VOLDET ERR: Can't open ADC channel for flash detection
+  2d7c4 VOLDET ERR: Can't open ADC channel for battery detection
+  2d800 UserPS: PStore read Unicode font data size fail
+  2d834 UserPS: Gotta read Unicode font data size = %ld
+  2d868 UserPS: Font data size too large!
+  2d88c UserPS: PStore read Unicode font data fail
+  2d8bc UserPS: PStore open section fail
+  2d8e4 UserPS: Error opening %s
+  2d900 UserPS: File size = %ld
+  2d91c UserPS: File size too large!
+  2d93c UserPS: Gotta write file size = %ld
+  2d964 UserPS: PStore write Unicode font data fail
+  2d994 MEDIA
+  2d9ac PTDC
+  2d9c4 SysGetDispRotateBuffSize() 0x%x
+  2d9e8 ^R[SysGetDispRotateAddr]: addr = 0x%x
+  2da10 OnExe_NumReset(), DirNum = %d, FileNum = %d
+  2da40 %02d%02d
+  2da4c %d%02d%02d
+  2da58 UISystemObj: Unknown current DSC mode 0x%x
+  2da88 UISystemObj: Unknown change type 0x%x
+  2dab0 UISystemObj
+  2dabc FS NOT INIT
+  2dac8 FS INIT OK
+  2dad3 FS UNFORMATTED
+  2dae2 FS UNKNOWN FORMAT
+  2daf4 FS DISK ERROR
+  2db04          
+  2db14 [SetFSStatus]%d
+  2db28 [GetFSStatus]%d
+  2db3d [0;33m==============================================
+  2db79 [0;32m	IsUpdateFW   	: %d
+  2db99 [0;32m	Storage Int  	: %s
+  2dbb9 [0;32m	DRAM Size    	: %sMb
+  2dbdd [0;32m	DRAM Type    	: %s
+  2dbfd [0;32m	BL Time	  	: %s
+  2dc1d [0;32m	BL Date	  	: %s
+  2dc3d [0;32m	BL Ver	  	: %s
+  2dc59 [0;32m	FWT Name	  : %s
+  2dc79 [0;32m	FW Name	  	: %s
+  2dc99 [0;32m	BL Name	 	: %s
+  2dcb4 	Bootloader Info
+  2dcc8 UI_Validate_Storage: The 999DIR is existing!
+  2dcf8 UI_Validate_Storage: 999-9999 is existing!
+  2dd28 MEDIA
+  2dd30 UI_Validate_Storage: The 999DIR is %s, no valid DCF folder id avaliable!
+  2dd7c %s%3d%s
+  2dd88 A:\DCIM\
+  2dd94 UI_Validate_Storage: %s is READONLY.
+  2ddbc UI_Validate_Storage: STORAGE FULL!
+  2dde4 UI_Validate_Storage: MovRec_Disk2Second():%d !
+  2de18 UI_Validate_Storage: STORAGE ERR! - %s (0x%x)
+  2de48 UI_Validate_Storage: CARD LOCKED!
+  2de6c UI_Validate_Storage: STORAGE ERR! - %s (0x%x)   size: %ld 
+  2deac ^RsdClass:%d
+  2debc UI_Validate_Storage: Unknown storage check item 0x%x
+  2def4 [Save_MenuInfo]:Write PStore failed
+  2df1c [Save_MenuInfo]:Open PStore failed
+  2df45 [0;32mgCurrentMenuInfo.reset_poweron = %d
+  2df74  the result is uiSysFlag[%d] = %d  
+  2df9c [Init_MenuInfo][PStore Read sys param fail]
+  2dfcc ===========333=============
+  2dfec 1===========key user setting is on=============
+  2e020 ===========222=============
+  2e040 2===========key user setting is on=============
+  2e074 ===========444=============
+  2e09a JFIF
+  2e0ac Exif
+  2e166 Adobe Photoshop CS6 (Windows)
+  2e184 2018:04:11 18:35:29
+  2e1a2 0221
+  2e257  $.' ",#
+  2e261 (7),01444
+  2e26b '9=82<.342
+  2e287 !22222222222222222222222222222222222222222222222222
+  2e323 $3br
+  2e32f %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+  2e3f6 	#3R
+  2e40a &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+  2e493 x"65
+  2e4a4 F$li
+  2e520 F$lj2j
+  2e536 	E3x
+  2e559 2j65h
+  2e5b0 (J(7
+  2e5e5 %%3x
+  2e608 "FM:
+  2e63f O{aaq&
+  2e6f9 dKBG
+  2e71d %>YR
+  2e727 U{;X4
+  2e750 R;h`
+  2e765 /.X^
+  2e77e v8Uk6
+  2e85a }GZhfR
+  2e8ee {m"F7
+  2e94d uyky
+  2e9c7 :K32
+  2ea3f daQ]gTP
+  2ea8f h4HZJ
+  2eae0 DPRS6
+  2eb15 f50u.
+  2eb23 B~u8
+  2eb29 QWZi
+  2eb30 ,-ju
+  2eb51 i(4AE
+  2eb78 a*^:
+  2ebbd :R<z
+  2ec70 Gn/9
+  2ec9c un%%3
+  2ecae !^Photoshop 3.0
+  2ecbe 8BIM
+  2ecda 8BIM
+  2ecf5 N8BIM
+  2ed10 printOutput
+  2ed23 PstSbool
+  2ed30 Inteenum
+  2ed3c Inte
+  2ed44 Img 
+  2ed4c printSixteenBitbool
+  2ed64 printerNameTEXT
+  2ed7d printProofSetupObjc
+  2ed94 h!h7
+  2eda2 proofSetup
+  2edb4 Bltnenum
+  2edc0 builtinProof
+  2edcf 	proofCMYK
+  2edda 8BIM
+  2edf4 printOutputOptions
+  2ee0e Cptnbool
+  2ee1b Clbrbool
+  2ee28 RgsMbool
+  2ee35 CrnCbool
+  2ee42 CntCbool
+  2ee4f Lblsbool
+  2ee5c Ngtvbool
+  2ee69 EmlDbool
+  2ee76 Intrbool
+  2ee83 BckgObjc
+  2ee95 RGBC
+  2eea1 Rd  doub@o
+  2eeb5 Grn doub@o
+  2eec9 Bl  doub@o
+  2eedd BrdTUntF#Rlt
+  2eef5 Bld UntF#Rlt
+  2ef0d RsltUntF#Pxl@r
+  2ef25 vectorDatabool
+  2ef38 PgPsenum
+  2ef44 PgPs
+  2ef4c PgPC
+  2ef54 LeftUntF#Rlt
+  2ef6c Top UntF#Rlt
+  2ef84 Scl UntF#Prc@Y
+  2ef9c cropWhenPrintingbool
+  2efb5 cropRectBottomlong
+  2efcf cropRectLeftlong
+  2efe7 cropRectRightlong
+  2f000 cropRectToplong
+  2f014 8BIM
+  2f030 8BIM
+  2f04a 8BIM
+  2f05a 8BIM
+  2f06a 8BIM
+  2f080 8BIM'
+  2f096 8BIM
+  2f0ea 8BIM
+  2f166 8BIM
+  2f174 8BIM
+  2f18c 8BIM
+  2f19e 8BIM
+  2f1b4 8BIM
+  2f1d0 8BIM
+  2f1e0 8BIM
+  2f27f null
+  2f28b boundsObjc
+  2f29f Rct1
+  2f2ab Top long
+  2f2bb Leftlong
+  2f2cb Btomlong
+  2f2db Rghtlong
+  2f2eb slicesVlLs
+  2f2f9 Objc
+  2f307 slice
+  2f314 sliceIDlong
+  2f327 groupIDlong
+  2f33a originenum
+  2f348 ESliceOrigin
+  2f358 autoGenerated
+  2f369 Typeenum
+  2f375 ESliceType
+  2f383 Img 
+  2f38b boundsObjc
+  2f39f Rct1
+  2f3ab Top long
+  2f3bb Leftlong
+  2f3cb Btomlong
+  2f3db Rghtlong
+  2f3eb urlTEXT
+  2f3fc nullTEXT
+  2f40e MsgeTEXT
+  2f420 altTagTEXT
+  2f434 cellTextIsHTMLbool
+  2f44b cellTextTEXT
+  2f460 	horzAlignenum
+  2f472 ESliceHorzAlign
+  2f485 default
+  2f48f 	vertAlignenum
+  2f4a1 ESliceVertAlign
+  2f4b4 default
+  2f4bf bgColorTypeenum
+  2f4d2 ESliceBGColorType
+  2f4e7 None
+  2f4ee 	topOutsetlong
+  2f504 leftOutsetlong
+  2f51a bottomOutsetlong
+  2f532 rightOutsetlong
+  2f546 8BIM
+  2f55e 8BIM
+  2f56c 8BIM
+  2f57c 8BIM
+  2f5a9 XICC_PROFILE
+  2f5bb HLino
+  2f5c4 mntrRGB XYZ 
+  2f5dc acspMSFT
+  2f5e8 IEC sRGB
+  2f607 -HP  
+  2f63c cprt
+  2f647 3desc
+  2f653 lwtpt
+  2f660 bkpt
+  2f66c rXYZ
+  2f678 gXYZ
+  2f684 bXYZ
+  2f690 dmnd
+  2f69b pdmdd
+  2f6a8 vued
+  2f6b4 view
+  2f6bf $lumi
+  2f6cc meas
+  2f6d7 $tech
+  2f6e4 rTRC
+  2f6f0 gTRC
+  2f6fc bTRC
+  2f708 text
+  2f710 Copyright (c) 1998 Hewlett-Packard Company
+  2f73c desc
+  2f748 sRGB IEC61966-2.1
+  2f765 sRGB IEC61966-2.1
+  2f7a8 XYZ 
+  2f7bc XYZ 
+  2f7d0 XYZ 
+  2f7e4 XYZ 
+  2f7f8 XYZ 
+  2f80c desc
+  2f818 IEC http://www.iec.ch
+  2f839 IEC http://www.iec.ch
+  2f87c desc
+  2f887 .IEC 61966-2.1 Default RGB colour space - sRGB
+  2f8c0 .IEC 61966-2.1 Default RGB colour space - sRGB
+  2f904 desc
+  2f90f ,Reference Viewing Condition in IEC61966-2.1
+  2f946 ,Reference Viewing Condition in IEC61966-2.1
+  2f98c view
+  2f9b0 XYZ 
+  2f9c4 meas
+  2f9e8 sig 
+  2f9f0 CRT curv
+  2fbaa 	%	:	O	d	y	
+  2fd1e  A l 
+  2fd2a !H!u!
+  2fd34 "'"U"
+  2fd40 #8#f#
+  2fd4c $M$|$
+  2fd54 %	%8%h%
+  2fd60 &'&W&
+  2fd6c 'I'z'
+  2fd76 (?(q(
+  2fd80 )8)k)
+  2fd8a *5*h*
+  2fd94 +6+i+
+  2fd9e ,9,n,
+  2fda8 -A-v-
+  2fdba /$/Z/
+  2fdc4 050l0
+  2fdd6 2*2c2
+  2fde8 4+4e4
+  2fdfa 676r6
+  2fe02 7$7`7
+  2fe1c :6:t:
+  2fe24 ;-;k;
+  2fe2c <'<e<
+  2fe34 ="=a=
+  2fe3c > >`>
+  2fe44 ?!?a?
+  2fe4c @#@d@
+  2fe54 A)AjA
+  2fe5c B0BrB
+  2fe64 C:C}C
+  2fe7a F"FgF
+  2fe82 G5G{G
+  2fe98 J7J}J
+  2fea6 L*LrL
+  2feb4 N%NnN
+  2fec2 P'PqP
+  2fed0 R1R|R
+  2fee4 U(UuU
+  2fef8 X/X}X
+  2ff18 ]']x]
+  30204 Adobe_CM
+  30212 Adobe
+  30329 b34r
+  30371 7GWgw
+  30398 AQaq"
+  303c9 dEU6te
+  303f3 '7GWgw
+  30419 P%9*
+  30425 JrT	N
+  30464 @y\pX
+  30478 QNt1c
+  30484 LJE2L
+  30496 )2I$
+  304f6 Q%v 9Xq
+  3053b Mw="
+  305d7 ~^(M
+  30625 uGSxsl
+  30689 qK=B
+  306cf YI}v?o
+  306f1 [n=a
+  3078c f&F6NsXwz
+  307ea r32s
+  307f3 TKju
+  308b1 }/cY
+  3093e HB<D
+  309a1 M2VYb
+  309b0 <UktsbX
+  309d2 p}V;
+  309e3 TS&{p
+  30a89 }7xr
+  30ac2 BBQ;J'
+  30b4c >d)'-#
+  30ba8 BMys
+  30c25 uqs}
+  30c45 IpI$
+  30c56 8BIM
+  30cb8 8BIM
+  30cc4 maniIRFR
+  30cd0 8BIMAnDs
+  30cea null
+  30cf6 AFStlong
+  30d06 FrInVlLs
+  30d12 Objc
+  30d20 null
+  30d2c FrIDlong5
+  30d3c FrGAdoub@>
+  30d50 FStsVlLs
+  30d5c Objc
+  30d6a null
+  30d76 FsIDlong
+  30d86 AFrmlong
+  30d96 FsFrVlLs
+  30da2 long5
+  30dae LCntlong
+  30dbc 8BIMRoll
+  30dd0 8BIM
+  30ddc mfri
+  30df8 8BIM
+  30e10 http://ns.adobe.com/xap/1.0/
+  30e2d <?xpacket begin="
+  30e41 " id="W5M0MpCehiHzreSzNTczkc9d"?>
+  30e64 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        ">
+  30ed3 	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  30f17 		<rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:DocumentID="F6289A1CCBAC5F40F082ECFF46207735" xmpMM:InstanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" xmpMM:OriginalDocumentID="F6289A1CCBAC5F40F082ECFF46207735" dc:format="image/jpeg" photoshop:ColorMode="3" xmp:CreateDate="2018-04-11T09:55:45+08:00" xmp:ModifyDate="2018-04-11T18:35:29+08:00" xmp:MetadataDate="2018-04-11T18:35:29+08:00">
+  3118e 			<xmpMM:History>
+  311a2 				<rdf:Seq>
+  311b1 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7AC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  3127f 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  3134d 				</rdf:Seq>
+  3135d 			</xmpMM:History>
+  31372 			<photoshop:DocumentAncestors>
+  31394 				<rdf:Bag>
+  313a3 					<rdf:li>F6289A1CCBAC5F40F082ECFF46207735</rdf:li>
+  313db 				</rdf:Bag>
+  313eb 			</photoshop:DocumentAncestors>
+  3140e 		</rdf:Description>
+  31424 	</rdf:RDF>
+  31431 </x:xmpmeta>
+  3143f                                                                                                     
+  314a4                                                                                                     
+  31509                                                                                                     
+  3156e                                                                                                     
+  315d3                                                                                                     
+  31638                                                                                                     
+  3169d                                                                                                     
+  31702                                                                                                     
+  31767                                                                                                     
+  317cc                                                                                                     
+  31831                                                                                                     
+  31896                                                                                                     
+  318fb                                                                                                     
+  31960                                                                                                     
+  319c5                                                                                                     
+  31a2a                                                                                                     
+  31a8f                                                                                                     
+  31af4                                                                                                     
+  31b59                                                                                                     
+  31bbe                                                               <?xpacket end='w'?>
+  31d02 $3br
+  31d0e %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+  31dd5 	#3R
+  31de9 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+  31e79 N3PJ
+  31ec2 WT"{xj;
+  31f1c W c=
+  31f5a :T,w
+  31f71 k[@v
+  31fcf pqA;
+  31fe6 zc9'
+  3204e 	<`qVw
+  32056 p''=
+  3205b M'4d
+  320ef WT"}
+  32132 WDb}
+  32213 ;S=I
+  3221a y=h'
+  3223b *bHq
+  32287 }iTw=M-
+  3228f u8[Q	
+  32298 rNOz
+  322e8 n$pEW
+  323a4 S=:4
+  323e3 ``P[n8
+  323ea <PHQ
+  32446 I=M+7@
+  3247a 0xPF{
+  32547 4Zj2Y
+  32582 Z$}^
+  325cd T28a
+  325ed pp?ZnI
+  32623 IAbi~
+  32665 4p2H
+  32674 jF8]
+  32692 Fij6b
+  3278c JN=9
+  327cc Z$zt
+  327e1 {zRPz4
+  3288d y<S;iS
+  328ca :iIs
+  328f8 1$WD"}
+  32937 Ux#&
+  329ac M%\Q
+  329e5 {zRt
+  32a45 )	*	$n==
+  32afb =RHk
+  32b17 $WDQ
+  32b9c v?`x5
+  32ba7 Zl0^
+  32c50 cqXZxG8
+  32c61 r;kv
+  32ccf $rOz
+  32d66 )VQnj
+  32d6c 7#i9E
+  32d84 <p:SI
+  32e52 K#aU
+  32ef0 vU*uekFUR
+  32f32 ]f+w
+  32f65 _P<B
+  32fd2 XgiR0'q
+  32ffb "Hb|
+  3301a ogorZ'
+  33144 j'u>!
+  33167 ]($jX
+  331e4 <7o`
+  33257 W<`R*
+  3328f ^V*v
+  332e1 7ZxF
+  3334b {8h.d
+  33391 A{c6$
+  33411 2R{_
+  33460 }KHY
+  3346f ^7]55
+  3347e J$]6EV
+  33508 ^%I$
+  3353e E}N[
+  335ec [2O4
+  33622 9UiVvK
+  33641 ixk[
+  33698 zmln4
+  336f5 ]m{I&
+  33706 <%EN
+  3374a `msSU?
+  33851 ;YhZ
+  33859 !m6Ge\
+  338fb #;Cc
+  33934 p.q<d
+  33943 F)5f
+  3397a "	22
+  33a31 +]rJ
+  33ac0 ak*1P
+  33ad9 5!N|
+  33b05 !q'BJ
+  33c3a p67	I
+  33cd6 c(B)
+  33d0f R18'
+  33d9b EFOV<
+  33df9 ?JG9
+  33ebc Hee<
+  33ed1 5MGJ
+  33efc Os^g
+  3402a viAW
+  34055 d#6x
+  3407d @?ZF'
+  340aa p(nr
+  34182 ``SL
+  341a8 A rii
+  341b9 OSF;
+  34276 rI TeOrw
+  34298 	,gxg
+  342d0 *9_i
+  342f2 SFp2{R3
+  34317 Q@.y
+  3432a dzp(=:4
+  34365 NF(''
+  3438c prOA
+  343e4 p=sN
+  343fd Iu:i
+  34452 Vn$O
+  34594 sTz4i
+  3461b <sI#
+  346bf y5Vv
+  34700 =28opz
+  34811 8XN@
+  34857 p)'cJ
+  34861 ^J1][I}
+  3495e *y[$
+  34976 ''5R
+  349be zUi\a
+  34a37 #0PI
+  34a6d ``U'c
+  34b16 QZ-.
+  34b7c JG]<K!hH
+  34b94 M*px
+  34bb6 lr2H
+  34bc7 Ug8?Z
+  34c13 `)lA+
+  34c19 ,O UI
+  34c89 \[:v
+  34e38 `U&z
+  34e50 m#$`
+  34e5e qA@q
+  34e66 O PPc<
+  34e97 JFIF
+  34ea9 Exif
+  34f63 Adobe Photoshop CS6 (Windows)
+  34f81 2018:04:11 18:35:29
+  34f9f 0221
+  35054  $.' ",#
+  3505e (7),01444
+  35068 '9=82<.342
+  35084 !22222222222222222222222222222222222222222222222222
+  35120 $3br
+  3512c %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+  351f3 	#3R
+  35207 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+  35290 x"65
+  352a1 F$li
+  3531d F$lj2j
+  35333 	E3x
+  35356 2j65h
+  353ad (J(7
+  353e2 %%3x
+  35405 "FM:
+  3543c O{aaq&
+  354f6 dKBG
+  3551a %>YR
+  35524 U{;X4
+  3554d R;h`
+  35562 /.X^
+  3557b v8Uk6
+  35657 }GZhfR
+  356eb {m"F7
+  3574a uyky
+  357c4 :K32
+  3583c daQ]gTP
+  3588c h4HZJ
+  358dd DPRS6
+  35912 f50u.
+  35920 B~u8
+  35926 QWZi
+  3592d ,-ju
+  3594e i(4AE
+  35975 a*^:
+  359ba :R<z
+  35a6d Gn/9
+  35a99 un%%3
+  35aab !^Photoshop 3.0
+  35abb 8BIM
+  35ad7 8BIM
+  35af2 N8BIM
+  35b0d printOutput
+  35b20 PstSbool
+  35b2d Inteenum
+  35b39 Inte
+  35b41 Img 
+  35b49 printSixteenBitbool
+  35b61 printerNameTEXT
+  35b7a printProofSetupObjc
+  35b91 h!h7
+  35b9f proofSetup
+  35bb1 Bltnenum
+  35bbd builtinProof
+  35bcc 	proofCMYK
+  35bd7 8BIM
+  35bf1 printOutputOptions
+  35c0b Cptnbool
+  35c18 Clbrbool
+  35c25 RgsMbool
+  35c32 CrnCbool
+  35c3f CntCbool
+  35c4c Lblsbool
+  35c59 Ngtvbool
+  35c66 EmlDbool
+  35c73 Intrbool
+  35c80 BckgObjc
+  35c92 RGBC
+  35c9e Rd  doub@o
+  35cb2 Grn doub@o
+  35cc6 Bl  doub@o
+  35cda BrdTUntF#Rlt
+  35cf2 Bld UntF#Rlt
+  35d0a RsltUntF#Pxl@r
+  35d22 vectorDatabool
+  35d35 PgPsenum
+  35d41 PgPs
+  35d49 PgPC
+  35d51 LeftUntF#Rlt
+  35d69 Top UntF#Rlt
+  35d81 Scl UntF#Prc@Y
+  35d99 cropWhenPrintingbool
+  35db2 cropRectBottomlong
+  35dcc cropRectLeftlong
+  35de4 cropRectRightlong
+  35dfd cropRectToplong
+  35e11 8BIM
+  35e2d 8BIM
+  35e47 8BIM
+  35e57 8BIM
+  35e67 8BIM
+  35e7d 8BIM'
+  35e93 8BIM
+  35ee7 8BIM
+  35f63 8BIM
+  35f71 8BIM
+  35f89 8BIM
+  35f9b 8BIM
+  35fb1 8BIM
+  35fcd 8BIM
+  35fdd 8BIM
+  3607c null
+  36088 boundsObjc
+  3609c Rct1
+  360a8 Top long
+  360b8 Leftlong
+  360c8 Btomlong
+  360d8 Rghtlong
+  360e8 slicesVlLs
+  360f6 Objc
+  36104 slice
+  36111 sliceIDlong
+  36124 groupIDlong
+  36137 originenum
+  36145 ESliceOrigin
+  36155 autoGenerated
+  36166 Typeenum
+  36172 ESliceType
+  36180 Img 
+  36188 boundsObjc
+  3619c Rct1
+  361a8 Top long
+  361b8 Leftlong
+  361c8 Btomlong
+  361d8 Rghtlong
+  361e8 urlTEXT
+  361f9 nullTEXT
+  3620b MsgeTEXT
+  3621d altTagTEXT
+  36231 cellTextIsHTMLbool
+  36248 cellTextTEXT
+  3625d 	horzAlignenum
+  3626f ESliceHorzAlign
+  36282 default
+  3628c 	vertAlignenum
+  3629e ESliceVertAlign
+  362b1 default
+  362bc bgColorTypeenum
+  362cf ESliceBGColorType
+  362e4 None
+  362eb 	topOutsetlong
+  36301 leftOutsetlong
+  36317 bottomOutsetlong
+  3632f rightOutsetlong
+  36343 8BIM
+  3635b 8BIM
+  36369 8BIM
+  36379 8BIM
+  363a6 XICC_PROFILE
+  363b8 HLino
+  363c1 mntrRGB XYZ 
+  363d9 acspMSFT
+  363e5 IEC sRGB
+  36404 -HP  
+  36439 cprt
+  36444 3desc
+  36450 lwtpt
+  3645d bkpt
+  36469 rXYZ
+  36475 gXYZ
+  36481 bXYZ
+  3648d dmnd
+  36498 pdmdd
+  364a5 vued
+  364b1 view
+  364bc $lumi
+  364c9 meas
+  364d4 $tech
+  364e1 rTRC
+  364ed gTRC
+  364f9 bTRC
+  36505 text
+  3650d Copyright (c) 1998 Hewlett-Packard Company
+  36539 desc
+  36545 sRGB IEC61966-2.1
+  36562 sRGB IEC61966-2.1
+  365a5 XYZ 
+  365b9 XYZ 
+  365cd XYZ 
+  365e1 XYZ 
+  365f5 XYZ 
+  36609 desc
+  36615 IEC http://www.iec.ch
+  36636 IEC http://www.iec.ch
+  36679 desc
+  36684 .IEC 61966-2.1 Default RGB colour space - sRGB
+  366bd .IEC 61966-2.1 Default RGB colour space - sRGB
+  36701 desc
+  3670c ,Reference Viewing Condition in IEC61966-2.1
+  36743 ,Reference Viewing Condition in IEC61966-2.1
+  36789 view
+  367ad XYZ 
+  367c1 meas
+  367e5 sig 
+  367ed CRT curv
+  369a7 	%	:	O	d	y	
+  36b1b  A l 
+  36b27 !H!u!
+  36b31 "'"U"
+  36b3d #8#f#
+  36b49 $M$|$
+  36b51 %	%8%h%
+  36b5d &'&W&
+  36b69 'I'z'
+  36b73 (?(q(
+  36b7d )8)k)
+  36b87 *5*h*
+  36b91 +6+i+
+  36b9b ,9,n,
+  36ba5 -A-v-
+  36bb7 /$/Z/
+  36bc1 050l0
+  36bd3 2*2c2
+  36be5 4+4e4
+  36bf7 676r6
+  36bff 7$7`7
+  36c19 :6:t:
+  36c21 ;-;k;
+  36c29 <'<e<
+  36c31 ="=a=
+  36c39 > >`>
+  36c41 ?!?a?
+  36c49 @#@d@
+  36c51 A)AjA
+  36c59 B0BrB
+  36c61 C:C}C
+  36c77 F"FgF
+  36c7f G5G{G
+  36c95 J7J}J
+  36ca3 L*LrL
+  36cb1 N%NnN
+  36cbf P'PqP
+  36ccd R1R|R
+  36ce1 U(UuU
+  36cf5 X/X}X
+  36d15 ]']x]
+  37001 Adobe_CM
+  3700f Adobe
+  37126 b34r
+  3716e 7GWgw
+  37195 AQaq"
+  371c6 dEU6te
+  371f0 '7GWgw
+  37216 P%9*
+  37222 JrT	N
+  37261 @y\pX
+  37275 QNt1c
+  37281 LJE2L
+  37293 )2I$
+  372f3 Q%v 9Xq
+  37338 Mw="
+  373d4 ~^(M
+  37422 uGSxsl
+  37486 qK=B
+  374cc YI}v?o
+  374ee [n=a
+  37589 f&F6NsXwz
+  375e7 r32s
+  375f0 TKju
+  376ae }/cY
+  3773b HB<D
+  3779e M2VYb
+  377ad <UktsbX
+  377cf p}V;
+  377e0 TS&{p
+  37886 }7xr
+  378bf BBQ;J'
+  37949 >d)'-#
+  379a5 BMys
+  37a22 uqs}
+  37a42 IpI$
+  37a53 8BIM
+  37ab5 8BIM
+  37ac1 maniIRFR
+  37acd 8BIMAnDs
+  37ae7 null
+  37af3 AFStlong
+  37b03 FrInVlLs
+  37b0f Objc
+  37b1d null
+  37b29 FrIDlong5
+  37b39 FrGAdoub@>
+  37b4d FStsVlLs
+  37b59 Objc
+  37b67 null
+  37b73 FsIDlong
+  37b83 AFrmlong
+  37b93 FsFrVlLs
+  37b9f long5
+  37bab LCntlong
+  37bb9 8BIMRoll
+  37bcd 8BIM
+  37bd9 mfri
+  37bf5 8BIM
+  37c0d http://ns.adobe.com/xap/1.0/
+  37c2a <?xpacket begin="
+  37c3e " id="W5M0MpCehiHzreSzNTczkc9d"?>
+  37c61 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        ">
+  37cd0 	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  37d14 		<rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:DocumentID="F6289A1CCBAC5F40F082ECFF46207735" xmpMM:InstanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" xmpMM:OriginalDocumentID="F6289A1CCBAC5F40F082ECFF46207735" dc:format="image/jpeg" photoshop:ColorMode="3" xmp:CreateDate="2018-04-11T09:55:45+08:00" xmp:ModifyDate="2018-04-11T18:35:29+08:00" xmp:MetadataDate="2018-04-11T18:35:29+08:00">
+  37f8b 			<xmpMM:History>
+  37f9f 				<rdf:Seq>
+  37fae 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7AC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  3807c 					<rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:7BC208F7543DE811B409F1ED7C9A0FFC" stEvt:when="2018-04-11T18:35:29+08:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/"/>
+  3814a 				</rdf:Seq>
+  3815a 			</xmpMM:History>
+  3816f 			<photoshop:DocumentAncestors>
+  38191 				<rdf:Bag>
+  381a0 					<rdf:li>F6289A1CCBAC5F40F082ECFF46207735</rdf:li>
+  381d8 				</rdf:Bag>
+  381e8 			</photoshop:DocumentAncestors>
+  3820b 		</rdf:Description>
+  38221 	</rdf:RDF>
+  3822e </x:xmpmeta>
+  3823c                                                                                                     
+  382a1                                                                                                     
+  38306                                                                                                     
+  3836b                                                                                                     
+  383d0                                                                                                     
+  38435                                                                                                     
+  3849a                                                                                                     
+  384ff                                                                                                     
+  38564                                                                                                     
+  385c9                                                                                                     
+  3862e                                                                                                     
+  38693                                                                                                     
+  386f8                                                                                                     
+  3875d                                                                                                     
+  387c2                                                                                                     
+  38827                                                                                                     
+  3888c                                                                                                     
+  388f1                                                                                                     
+  38956                                                                                                     
+  389bb                                                               <?xpacket end='w'?>
+  38aff $3br
+  38b0b %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+  38bd2 	#3R
+  38be6 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+  38c76 N3PJ
+  38cbf WT"{xj;
+  38d19 W c=
+  38d57 :T,w
+  38d6e k[@v
+  38dcc pqA;
+  38de3 zc9'
+  38e4b 	<`qVw
+  38e53 p''=
+  38e58 M'4d
+  38eec WT"}
+  38f2f WDb}
+  39010 ;S=I
+  39017 y=h'
+  39038 *bHq
+  39084 }iTw=M-
+  3908c u8[Q	
+  39095 rNOz
+  390e5 n$pEW
+  391a1 S=:4
+  391e0 ``P[n8
+  391e7 <PHQ
+  39243 I=M+7@
+  39277 0xPF{
+  39344 4Zj2Y
+  3937f Z$}^
+  393ca T28a
+  393ea pp?ZnI
+  39420 IAbi~
+  39462 4p2H
+  39471 jF8]
+  3948f Fij6b
+  39589 JN=9
+  395c9 Z$zt
+  395de {zRPz4
+  3968a y<S;iS
+  396c7 :iIs
+  396f5 1$WD"}
+  39734 Ux#&
+  397a9 M%\Q
+  397e2 {zRt
+  39842 )	*	$n==
+  398f8 =RHk
+  39914 $WDQ
+  39999 v?`x5
+  399a4 Zl0^
+  39a4d cqXZxG8
+  39a5e r;kv
+  39acc $rOz
+  39b63 )VQnj
+  39b69 7#i9E
+  39b81 <p:SI
+  39c4f K#aU
+  39ced vU*uekFUR
+  39d2f ]f+w
+  39d62 _P<B
+  39dcf XgiR0'q
+  39df8 "Hb|
+  39e17 ogorZ'
+  39f41 j'u>!
+  39f64 ]($jX
+  39fe1 <7o`
+  3a054 W<`R*
+  3a08c ^V*v
+  3a0de 7ZxF
+  3a148 {8h.d
+  3a18e A{c6$
+  3a20e 2R{_
+  3a25d }KHY
+  3a26c ^7]55
+  3a27b J$]6EV
+  3a305 ^%I$
+  3a33b E}N[
+  3a3e9 [2O4
+  3a41f 9UiVvK
+  3a43e ixk[
+  3a495 zmln4
+  3a4f2 ]m{I&
+  3a503 <%EN
+  3a547 `msSU?
+  3a64e ;YhZ
+  3a656 !m6Ge\
+  3a6f8 #;Cc
+  3a731 p.q<d
+  3a740 F)5f
+  3a777 "	22
+  3a82e +]rJ
+  3a8bd ak*1P
+  3a8d6 5!N|
+  3a902 !q'BJ
+  3aa37 p67	I
+  3aad3 c(B)
+  3ab0c R18'
+  3ab98 EFOV<
+  3abf6 ?JG9
+  3acb9 Hee<
+  3acce 5MGJ
+  3acf9 Os^g
+  3ae27 viAW
+  3ae52 d#6x
+  3ae7a @?ZF'
+  3aea7 p(nr
+  3af7f ``SL
+  3afa5 A rii
+  3afb6 OSF;
+  3b073 rI TeOrw
+  3b095 	,gxg
+  3b0cd *9_i
+  3b0ef SFp2{R3
+  3b114 Q@.y
+  3b127 dzp(=:4
+  3b162 NF(''
+  3b189 prOA
+  3b1e1 p=sN
+  3b1fa Iu:i
+  3b24f Vn$O
+  3b391 sTz4i
+  3b418 <sI#
+  3b4bc y5Vv
+  3b4fd =28opz
+  3b60e 8XN@
+  3b654 p)'cJ
+  3b65e ^J1][I}
+  3b75b *y[$
+  3b773 ''5R
+  3b7bb zUi\a
+  3b834 #0PI
+  3b86a ``U'c
+  3b913 QZ-.
+  3b979 JG]<K!hH
+  3b991 M*px
+  3b9b3 lr2H
+  3b9c4 Ug8?Z
+  3ba10 `)lA+
+  3ba16 ,O UI
+  3ba86 \[:v
+  3bc35 `U&z
+  3bc4d m#$`
+  3bc5b qA@q
+  3bc63 O PPc<
+  3bc90 null task()
+  3bc9c InitTsk()
+  3bca6 FilesysTsk()
+  3bcb3 PrimaryTsk()
+  3bcc0 OSCOMM:>STD App %s[ID=%d] configure error[=%d]
+  3bcf4 FLG_ID_INT
+  3bcff FLG_ID_GPIO
+  3bd0b FLG_ID_FILESYS
+  3bd1a FLG_ID_PSTORE
+  3bd28 FLG_ID_STIMER
+  3bd36 FLG_ID_PHOTO
+  3bd43 FLG_ID_SLICE
+  3bd50 FLG_ID_PLAYBACK
+  3bd60 FLG_ID_AVI
+  3bd6b FLG_ID_AVI_VID
+  3bd7a FLG_ID_RAWENC
+  3bd88 FLG_ID_MEDIA
+  3bd95 FLG_ID_RECMEDIA
+  3bda5 FLG_ID_USBTSK
+  3bdb3 FLG_ID_DPS
+  3bdbe FLG_ID_PRIMARY
+  3bdcd FLG_ID_WAV
+  3bdd8 FLG_ID_MP3
+  3bde3 FLG_ID_GPS
+  3bdee FLG_ID_INT2
+  3bdfa FLG_ID_IPL
+  3be05 FLG_ID_USBCLASS
+  3be15 FLG_ID_PHOTODISPLAY
+  3be29 FLG_ID_PHOTODIS
+  3be39 FLG_ID_FSBACKGROUND
+  3be4d FLG_ID_LENS
+  3be59 FLG_ID_EP3TSK
+  3be67 FLG_ID_GPIO2
+  3be74 FLG_ID_DISPROTATE
+  3be86 FLG_ID_AF
+  3be90 FLG_ID_FWRT
+  3be9c SEMID_JPEG
+  3bea7 SEMID_AMBA_DMA
+  3beb6 SEMID_SIF
+  3bec0 SEMID_I2C
+  3beca SEMID_SPI
+  3bed4 SEMID_IDE
+  3bede SEMID_HDMI
+  3bee9 SEMID_DAI
+  3bef3 SEMID_SDIO
+  3befe SEMID_XDNAND
+  3bf0b SEMID_USB
+  3bf15 SEMID_UART
+  3bf20 SEMID_UART2
+  3bf2c SEMID_RTC
+  3bf36 SEMID_TIMER
+  3bf42 SEMID_WDT
+  3bf4c SEMID_PWM_0
+  3bf58 SEMID_PWM_1
+  3bf64 SEMID_PWM_2
+  3bf70 SEMID_PWM_CCNT
+  3bf7f SEMID_ADC_0
+  3bf8b SEMID_ADC_1
+  3bf97 SEMID_ADC_2
+  3bfa3 SEMID_GRAPHIC
+  3bfb1 SEMID_SIE
+  3bfbb SEMID_IPE
+  3bfc5 SEMID_IME
+  3bfcf SEMID_IFE
+  3bfd9 SEMID_KNLTIMER
+  3bfe8 SEMID_MI
+  3bff1 SEMID_SCANTG
+  3bffe SEMID_SRA
+  3c008 SEMID_TOP_STRG
+  3c017 SEMID_IPL
+  3c021 SEMID_FSBACKGROUND
+  3c034 SEMID_SICD
+  3c03f SEMID_SENSOR
+  3c04c SEMID_CALIBRATION
+  3c05e SEMID_DISPROT
+  3c06c MBXID_UART_RX
+  3c07a MBXID_UART_TX
+  3c088 POOL_ID_FS_SECTOR
+  3c09a POOL_ID_FS_FAT
+  3c0a9 POOL_ID_STORAGE_SMC
+  3c0c0 Storage change to 0x%.8X fail
+  3c0e0 PRIMARY : Waiting
+  3c0f4 index out of range
+  3c10c %s %s %d
+  3c118  type error,is
+  3c128 %s %s
+  3c130 no this attribute
+  3c144 %s %s %d
+  3c150  type error,is
+  3c160 %s %s
+  3c168 index out of range
+  3c180 no this attribute
+  3c194 %s %d %s 0~%d  
+  3c1a8 no system obj
+  3c1b8 MENU_DRAW_IMAGE_TABLE ,plz assign table
+  3c1e0 No Render
+  3c214 ^RNo acceess right!
+  3c22c ^RY buffer not enough!
+  3c248 ^RU buffer not enough!
+  3c264 ^RV buffer not enough!
+  3c280 ^RParam Err!
+  3c290 ^Rrot task par error!
+  3c2b0 cdiouxXfs
+  3c2bc IND: 
+  3c2c4 WRN: 
+  3c2cc ERR: 
+  3c2d4 ASSERT: 
+  3c2e0 %s: The chip is not NT96220
+  3c300 drv_init
+  3c30c value %x smaller than minmun %x
+  3c330 value %x larger than maximum %x
+  3c354 value %x larger than maximum %x
+  3c378 Unsupported Video1 format %d
+  3c398 Warning: IDE V1 BW not enough!
+  3c3bc Warning: IDE O1 BW not enough!
+  3c3e0 Warning: IDE Disable End!
+  3c3fc Horizontal Scaling down ratio over 2!  
+  3c428 Vertical Scaling down ratio over 2!  
+  3c450 Palette entry exceed the total palette size! uiStart=%d  uiNumber=%d
+  3c498 Non-supported data format!
+  3c4b8 DMA_CH_SIE0
+  3c4c4 DMA_CH_SIE1
+  3c4d0 DMA_CH_SIE2
+  3c4dc DMA_CH_SIE3
+  3c4e8 DMA_CH_IDE_Y_INPUT
+  3c4fb DMA_CH_IDE_CB_INPUT
+  3c50f DMA_CH_IDE_CR_INPUT
+  3c523 DMA_CH_IDE_OSD_INPUT
+  3c538 DMA_CH_MPU
+  3c543 DMA_CH_DAC0
+  3c54f DMA_CH_IPE0
+  3c55b DMA_CH_IME0
+  3c567 DMA_CH_IME1
+  3c573 DMA_CH_IME2
+  3c57f DMA_CH_IME3
+  3c58b DMA_CH_IME4
+  3c597 DMA_CH_IME5
+  3c5a3 DMA_CH_IPE1
+  3c5af DMA_CH_IME7
+  3c5bb DMA_CH_IME8
+  3c5c7 DMA_CH_IPE2
+  3c5d3 DMA_CH_JPG_IMG
+  3c5e2 DMA_CH_JPG_BS
+  3c5f0 DMA_CH_DC_OUTPUT
+  3c601 DMA_CH_AHBC
+  3c60d DMA_CH_GRPH_INPUT0
+  3c620 DMA_CH_GRPH_INPUT1
+  3c633 DMA_CH_SDIO
+  3c63f DMA_CH_SPI
+  3c64a DMA_CH_DAI0
+  3c656 DMA_CH_DAI1
+  3c662 DMA_CH_IFE0
+  3c66e DMA_CH_IFE1
+  3c67a DMA_CH_GRPH_OUTPUT
+  3c690 Overwrite by %s(%d)
+  3c6a8 Set[%d] addr(0x%08x)~(0x%08x)
+  3c6c8 Mem Overwrite by %s
+  3c6e3 [1m Dram capacity not equal to 128Mb
+  3c70f [1m Down grade dram type param error unknow type %d
+  3c748 ADC Err ID!
+  3c758 ADC Divider too large!
+  3c774 ADC Divider too small!
+  3c790 ADC Err ID!(%d)
+  3c7a4 ^RPLL1 Pre-Divider(uiPreDiv) can only set 0x01!
+  3c7d8 ^RPLL1 must be disabled before been set!!!! PLL1 is OFF!!!!
+  3c818 ^RPLL1 configured frequency is out of range(300-700)!  uiLoopDiv=%d
+  3c860 ^RPll2 pre-divider can only use 0x02
+  3c888 ^RPll2 poop-divider should >= 65
+  3c8ac ^RPll2 poop-divider should <= 0x80
+  3c8d4 ^RPLL2 must be disabled before been set!!!! PLL2 is OFF!!!!
+  3c914 ^RPLL2 can only operate between %d-%dMhz!(%d)
+  3c944 ^RPLL2 must be disabled before pll_setPLL2Sspll
+  3c978 ^Rpll_setPLL2Sspll: should NOT be legacy mode
+  3c9a8 ^RPLL2 must be disabled before pll_setPLL2SpreadSpectrum
+  3c9e4 ^Rpll_setPLL2SpreadSpectrum: lower bound %d should between 426~618MHz
+  3ca2c ^Rpll_setPLL2SpreadSpectrum: upper bound %d should between 426~618MHz
+  3ca74 ^RDIV16 of lower bound is NOT equal to that of upper bound, force match
+  3cac0 ^Rpll_setPLL2SpreadSpectrum: actual lower freq %d Hz is not equal to target %d Hz
+  3cb14 ^Rpll_setPLL2SpreadSpectrum: actual upper freq %d Hz is not equal to target %d Hz
+  3cb68 ^pll_setPLL2Fractional: target %d should between 426~618MHz
+  3cba8 ^pll_setPLL2Fractional: actual freq %d Hz is not equal to target %d Hz
+  3cbf4 ^RNon-supported Clk Mask ID! (0x%x)
+  3cc1c Non-supported Clk Rate offset! (%d)
+  3cc44 ^RCPU Clock frequency exceed 240Mhz!
+  3cc6c ^RAHB clock must not exceed 160Mhz!
+  3cc94 ^RDMA clock must not exceed 198Mhz!
+  3ccbc ^RSIE-Mclk clock must not exceed 96Mhz!
+  3cce8 ^RSIE-PXCLK clock must not exceed 96Mhz!
+  3cd14 ^RIDE-1 clock must not exceed 74.25Mhz!
+  3cd40 ^RMI clock must not exceed 60Mhz!
+  3cd64 ^RSPI clock must not exceed 96Mhz!
+  3cd8c Target(%d) freq can not be divided with no remainder! Result is %dHz.
+  3cdd4 pll_setLDO(): ldoID out of range: 0x%lx
+  3ce00 pll_setLDO(): outVoltage out of range: 0x%lx
+  3ce30 pll_setLDOEn(): ldoID out of range: 0x%lx
+  3ce5c pll_getLDOEn(): ldoID out of range: 0x%lx
+  3cea8 RTC: trigger CSET when CSET isn't done
+  3ced4 RTC: Invalid key
+  3cee8 RTC: Wait for ready timeout
+  3cf08 RTC: Power fail
+  3cf1c RTC: Power fail (POR)
+  3cf34 RTC: Driver is not opened
+  3cf50 RTC: Invalid PWRAlarm parameter
+  3d080 ^Rpinmux_configNAND(): conflict with SPI
+  3d0ac ^Rpinmux_configNAND(): invalid config: 0x%lx
+  3d0dc ^Rpinmux_configSensor(): no bus width assigned: 0x%lx
+  3d114 ^Rpinmux_configScanner(): invalid bus width: 0x%lx
+  3d14c ^Rpinmux_configScanner(): PXCLK already active
+  3d180 ^Rpinmux_configScanner(): MCLK already active
+  3d1b0 ^Rpinmux_configI2C(): invalid config: 0x%lx
+  3d1e0 ^Rpinmux_configSIF(): invalid config: 0x%lx
+  3d210 ^Rpinmux_configUART(): DGPIO1 already assigned to STROBE: 0x%lx
+  3d254 ^Rpinmux_configUART(): PWM0 already assigned: 0x%lx
+  3d28c ^Rpinmux_configUART(): PWM1 already assigned: 0x%lx
+  3d2c4 ^Rpinmux_configUART(): SN_VD already assigned to VD: 0x%lx
+  3d304 ^Rpinmux_configUART(): SN_HD already assigned to HD: 0x%lx
+  3d344 ^Rpinmux_configUART(): invalid config: 0x%lx
+  3d374 ^Rpinmux_configPWM(): PWM0 already assigned: 0x%lx
+  3d3ac ^Rpinmux_configPWM(): DGPIO0 already assigned: 0x%lx
+  3d3e4 ^Rpinmux_configPWM(): PWM1 already assigned: 0x%lx
+  3d41c ^Rpinmux_configPWM(): PWM2 already assigned: 0x%lx
+  3d454 ^Rpinmux_configLCD(): invalid locate: 0x%lx
+  3d484 ^Rpinmux_configLCD2(): invalid locate: 0x%lx
+  3d4b4 ^Rpinmux_configTV(): invalid config: 0x%lx
+  3d4e4 ^Rpinmux_configHDMI(): invalid config: 0x%lx
+  3d514 ^Rpinmux: DGPIO0 already assigned
+  3d538 ^Rpinmux: SIF0 already assigned, P MI conflict
+  3d56c ^Rpinmux: DGPIO0 already assigned, MI RD conflict
+  3d5a0 ^Rpinmux: DGPIO2 already assigned, MI TE conflict
+  3d5d4 ^Rpinmux: DGPIO1 already assigned, MI D8 conflict
+  3d608 ^Rpinmux: invalid primary LCD config: 0x%lx
+  3d638 ^Rpinmux: NAND active, SerialMI conflict
+  3d664 ^Rpinmux: invalid storage LCD config: 0x%lx
+  3d694 ^Rpinmux_activeSDIO(): wai_sem fail
+  3d6bc ^Rpinmux_activeSDIO(): sig_sem fail
+  3d6e4 ^Rpinmux_activeSDIO(): invalid pinmux: 0x%lx
+  3d714 ^Rpinmux_activeSPI(): wai_sem fail
+  3d73c ^Rpinmux_activeSPI(): sig_sem fail
+  3d764 ^Rpinmux_activeSPI(): invalid pinmux: 0x%lx
+  3d794 ^Rpinmux_activeNAND(): storage MI alredy ON
+  3d7c4 ^Rpinmux_activeNAND(): wai_sem fail
+  3d7ec ^Rpinmux_activeNAND(): sig_sem fail
+  3d814 ^Rpinmux_activeNAND(): invalid pinmux: 0x%lx
+  3d844 ^Rpinmux: CISCLK active, MES0 conflict
+  3d870 ^Rpinmux: ADDCLK active, MES1 conflict
+  3d89c ^Rpinmux: CISFS active, FLCTR conflict
+  3d8c8 ^Rpinmux: LEDR active, LEDR conflict
+  3d8f0 ^Rpinmux: LEDG active, LEDG conflict
+  3d918 ^Rpinmux_checkSDIO(): invalid pinmux: 0x%lx
+  3d948 ^Rpinmux_checkMCLK(): invalid pinmux: 0x%lx
+  3d978 ^Rpinmux_init(): SPI, NAND BOTH enabled
+  3d9a4 ^Rpinmux_init(): sensor, scanner BOTH enabled
+  3d9d4 ^Rpinmux_init(): pConfig context error
+  3da00 ^Gpinmux_setDispPinmux(%d): NOT need to handle TV/HDMI
+  3da3c usb_initFOTG200(): sw reset timeout
+  3da64  USB driver is not opened !
+  3da84  USB driver is already opened !
+  3daa8 usb_open(): not contact
+  3dac4 usb_open(): VBUS removed
+  3dae0 usb_open(): open AMBA DMA fail
+  3db04 ^Rusb_open(): USB NOT support AHB 160MHz
+  3db30 data not contact
+  3db44 Press 'q' to exit OR wait test done...
+  3db70 Press 'q' to exit...
+  3db88 Vdat_ref: outside 0.25~0.4V   
+  3dba8 Vdat_ref: inside 0.25~0.4V   
+  3dbc8 NVTFS1.0
+  3dbd4 FAT12   
+  3dbe0 FAT16   
+  3dbec NO NAME    
+  3dbf8 norps_setSectionHead:Out of section range %d
+  3dc28 norps:PS size is zero
+  3dc40 norps:Not enough data buffer for write operation
+  3dc74 norps:The capacity of free block queue was not enough to retain all free blocks information(PS size:0x%x Block size:0x%x blocks:%d)
+  3dcfc norps:PStore size is not a multiple of erased unit
+  3dd34 NORPS:Out of addressing range (Block:0x%x)
+  3dd60 NORPS:Out of addressing range
+  3dd80 norps_ReadByBytes:Read data from PS header is prohibited
+  3ddbc norps_ReadByBytes():Data is not existence(Section ID:%d Addr:0x%x)
+  3de04 norps_ReadByBytes:Data Length error
+  3de2c norps_writeSectorByBytes:Out of PStore range! Sector:%d Addr:%d Size:%d
+  3de78 norps_writeBlockByBytes:Access range exceeds a block.(Addr:%d Size:%d)
+  3dec4 norps_writeSectorByBytes:Erase sector %d fail
+  3def4 norps_writeSectorByBytes:Program sector %d fail.
+  3df28 norps_setSectionHead:Fail in write section header
+  3df5c NorPS:No more free block
+  3df78 norps_WriteByBytes:Write data to header is prohibited
+  3dfb0 norps_WriteByBytes:Exceed the maximum size of a session
+  3dfec norps_writeByBytes:No more free block
+  3e014 norps_writeByBytes:Write data  fail
+  3e03c norps_writeByBytes:Write data fail1
+  3e064 norps_writeByBytes:Erase fail
+  3e084 norps_writeByBytes:Write data fail2
+  3e0ac norps_writeByBytes:Write data fail
+  3e0d4 Erase sector fail %d
+  3e0ec Wrong range
+  3e0fc [Storage Error]File system detects card error
+  3e12c [Storage Error]Storage read/write fail
+  3e158 [Storage Error]Storage is processing, but FilesysTsk doesn't do any command
+  3e1a4 FST : Busy.
+  3e1b4 FST : File system is busy
+  3e1d0 FST : Param error
+  3e1e4 No open file
+  3e1f4 FST : GetFileTime2, Busy.
+  3e210 mode  %d not support
+  3e228 FST : Busy
+  3e238 Busy
+  3e240 Set Segment Size is 16KB align %d 
+  3e268 Set Segment Size is Out of Range %d 
+  3e290 CMD: 0x%x ,Check FileSysInValidAbortCmd Used 
+  3e2c0 PS: Release access right fail
+  3e2e0 PS: Get access right fail
+  3e2fc PS: Parameter error(PPSStrg = NULL)
+  3e324 PS:PStore is not existence
+  3e344 PS: Check sum error
+  3e35c PS: ALL PStore parameters are zero
+  3e384 PS: The pass in Parameter is newer than the parameter read from PStore
+  3e3d0 PS: The pass in Parameter is older than the parameter read from PStore
+  3e41c PS: New Pstore Size 0x%x is not match old Size 0x%x 
+  3e454 No more free section handle for open
+  3e47c PStore_CheckName : %c%c%c%c
+  3e49c PStore_CheckALLName Error 
+  3e4bc PS: PStore has not been init.
+  3e4dc PStore_OpenSection: Found Error Name
+  3e504 PS: Section has opened(Section Name%x) Retry:%d
+  3e538 PS: Section has opened(Section Name%x), and no more retry
+  3e574 PS: Found Error P_Store Error Name
+  3e59c PS: Fail in create a section
+  3e5bc PS: No more section space for create a section
+  3e5f0 PS: Section not found
+  3e608 PS: Section table not found and create a new one(SectionID%d)
+  3e648 PS: Fail in create a new section table
+  3e674 PS: Invalid section handler(Section handler:%x
+  3e6a8 PS: PStore has not opened yet.
+  3e6cc PS: Data length is zero.
+  3e6e8 PS: Invalid section handler.
+  3e708 PS: Section has not opened yet.(Section Name:%x) 
+  3e73c PS: Section was not opened for read operation.(Section Name:%x) 
+  3e780 PS: PStore has not been opened yet.
+  3e7a8 PS: PStore Write Section ID:%d isn't Enable
+  3e7d8 PS: System error ENABLE_WRITE_SECTION is 0x%x 
+  3e80c PS: Section has not been opened yet.(Section Name:%x) 
+  3e848 PS: Section was not opened for write operation.(Section Name:%x) 
+  3e88c PS: Data compare failed%d %x %x
+  3e8b0 PS: Invalid storage object(pPSStrgObj:%x)
+  3e8dc Wrong parameter
+  3e8f0 Set PStore Error 0x%x 
+  3e90c Write uiSectionID = %d 
+  3e928 Set PStore Out of range 0x%x , 0x%x 
+  3e950 DecJpg> Input Bitstream NG! 
+  3e970 Decode timeout 
+  3e984 0000:00:00 00:00:00
+  3e998 ^BQF overflow,StdQ %d->%d
+  3e9b4 ^YQF underflow,StdQ %d->%d
+  3e9d4 ^R[JpegEncOnePic] jpeg_open() error
+  3e9fc ^RJPG_ENC: ^R[JpegEncOnePic] Error! VAEstCtl not support
+  3ea38 ^R[JpegEncOnePic] Error! BSBufSize <= 0
+  3ea64 ^R[JpegEncOnePic] User Defined Lineoffset is smaller than image width
+  3eaac ^R[JpegEncOnePic] User Defined Lineoffset is not word alignment
+  3eaf0 ^R[JpegEncOnePic] Error! DC Mode Setting
+  3eb1c ^RJPG_ENC: [JpegEncOnePic] Warn! Encode BS Buffer is too small
+  3eb60 ^RJPG_ENC: ^R[JpegEncOnePic] Error! No Interrupt
+  3eb94 ^R[JpegEncOnePic] Only YUV420/422 support BRC
+  3ebc4 ^R[JpegEncOnePic] jpeg_close() error
+  3ebec [JpegWaitChannelDone] jpeg_close() error
+  3ec18 ^MInt=%x
+  3ec24 ^BSkip F[%d]=%d
+  3ec38 ^RTail=0x%x,AvailSize=0x%x
+  3ec58 ^RA1=0x%x,S1=0x%x,A2=0x%x,S2=0x%x
+  3ec7c ^RBS flow ERROR--1!!
+  3ec94 ^R Unnormal situration! Skip Frame %d Size=%d
+  3ecc4 ^RBS flow ERROR--2!!
+  3ecdc F[%d]
+  3ece4 ^M gJPGBSBuf.Tail = 0x%x, gJPGBSBuf.AvailSize = 0x%x
+  3ed1c ^R buffer overflow
+  3ed34 ^R BitStream overlap!!! BS=0x%x,F[%d]
+  3ed5c ^MGetF[%d]
+  3ed6c ^RJPG_ENC: [JpegEncRSTHeight] Height = %d
+  3ed98 ^RJPG_ENC: [JpegGetDCOutConfig] Error! Frame Size = %d x %d, Panel Size = %d x %d
+  3edec ^RJPG_ENC: [JpegGetDCOutConfig] Parameter Error! YUVFormat = %x
+  3ee31 [0;35m%s=%d
+  3ee44 g_brcParam.UBoundByte
+  3ee5c g_brcParam.LBoundByte
+  3ee74 g_brcParam.TargetByte
+  3ee8c g_brcParam.Height
+  3eea0 g_brcParam.Width
+  3eeb4 ^MJPGHeaderSize=%d
+  3eecc ^MgFrameWidth=%d, gFrameHeight=%d
+  3eef0 ^MBUF addr Begin=0x%x, End=0x%x, size=0x%x
+  3ef20 ^M gVidBrcMode=0x%x, gTargetFrameSize=%d, Default QF=%d, gBRCWeighting=%d/%d, gMaxValidFrameSize=%d
+  3ef88 ^B The width of input buffer should be 16 aligned.
+  3efc0 ^B The height of input buffer should be 8 aligned.
+  3eff8 ^B The height of input buffer should be 16 aligned.
+  3f030 ^RJPG_ENC: [JpegEncVidConfig] Error! YUVFormat %d
+  3f064 ^M[JpegEncSliceTrigger] AvailSize %d <= %d
+  3f094 ^RJPG_ENC: [JpegEncUpdateHDR] Error! YUVFormat %d
+  3f0c8 Trigger
+  3f0d4 ^MBS=%6d,Q=%3d->%3d->%3d
+  3f0f0 ^R[JpegEncOneChannel] jpeg_open() error
+  3f11c ^R[JpegEncOneChannel] jpeg_setEncodeQTabHW() error
+  3f154 ^R[JpegEncOneChannel] jpeg_setFileFormatHW() error
+  3f18c ^R[JpegEncOneChannel] jpeg_setCmpStartAddr() error
+  3f1c4 ^R[JpegEncOneChannel] User Defined Lineoffset is smaller than image width
+  3f210 ^R[JpegEncOneChannel] User Defined Lineoffset is not word alignment
+  3f258 ^R[JpegEncOneChannel] jpeg_setEnableInt() error
+  3f28c Encode timeout 
+  3f2a0 ^R[JpegEncSetData]JPG_TARGET_SIZE_UPPER_BOUND parameter error!
+  3f2e0 ^R[JpegEncSetData]JPG_TARGET_SIZE_LOWER_BOUND parameter error!
+  3f320 ^R[JpegEncSetData]JPG_MAX_VALID_FRAME_SIZE_RATIO parameter error!
+  3f364 ^R[JpegEncSetData]JPG_BRC_WEIGHTING should NOT be greater than %d.
+  3f3a8 [JpegEncSetData]attribute error
+  3f3c8 [JpegEncGetData]attribute error
+  3f3e8 ^R[JpegEstimateBitRate] BRC not enabled!
+  3f414 ^R[JpegEstimateBitRate] jpeg_open() error
+  3f440 ^R[JpegEstimateBitRate] jpeg_setCmpStartAddr() error
+  3f478 ^R[JpegEstimateBitRate] jpeg_setImgLineOffsetByte() error
+  3f4b4 ^R[JpegEstimateBitRate] jpeg_setEnableInt() error
+  3f4e8 ^RJPG_ENC: [JpegEstimateBitRate] Error! No Frame End Interrupt
+  3f52c ^RJPG_ENC: [JpegEstimateBitRate] Error! jpeg_close()
+  3f564 Software delay!
+  3f578 Performance Timer is already opened!
+  3f5a0 Can't Open the Performance Timer
+  3f5c4 =======================GS1000===========================
+  3f600 LCDMode=%d not support
+  3f61c Error dispdev_RegRead Op!
+  3f638 DispDev NO valid rotate!
+  408c8 ^RNo support Video Format!
+  408e8 ^RNo support HDMI mode
+  40904 LENS_M: Lens_Module_Init
+  40920 LENS_E: %s param error!!
+  4093c Lens_Module_Init
+  40950 LENS_E: %s init part2 error!!
+  40970 Lens_Init
+  4097c LENS_E: %s: init wrong state = %d
+  409a0 LENS_M: Lens Retracting...
+  409c0 LENS_E: %s: fail state=%d
+  409dc Lens_Zoom_Goto
+  409ec Lens_Zoom_Goto2
+  409fc Lens_Zoom_In
+  40a0c Lens_Zoom_In2
+  40a1c Lens_Zoom_Out
+  40a2c Lens_Zoom_Out2
+  40a3c Lens_Zoom_Stop
+  40a4c LENS_E: %s fail state=%d
+  40a68 Lens_Zoom_GetBL
+  40a78 Lens_Zoom_DoBL
+  40a88 Lens_Focus_DoAction
+  40a9c Lens_Focus_DoAction2
+  40ab4 Lens_Focus_Goto2
+  40ac8 Lens_Focus_GotoHome
+  40adc Lens_Focus_GetBL
+  40af0 LENS_E: %s pMotor is null
+  40b0c LensCtrlTsk
+  40b18 lensFF: pMotor is null
+  40b34 B: %d>%d
+  40b40 B2: %d>%d
+  40b4c lensFF: aperture goto wrong state=%d
+  40b74 lensFF: shutter goto wrong state=%d
+  40b9c motorPSEUDO_init already
+  40bb8 SPI flash: get devInfo: driver not opened
+  40be4 SPI flash: get devInfo: Manufacture ID dosen't support. MFG ID:0x%lx, Device ID:0x%lx
+  40c3c SPI flash: close: wait ready timeout
+  40c64 SPI flash: eraseChip: driver not opened
+  40c90 SPI flash: protect base: 0x%lx, protect length: 0x%lx
+  40cc8 SPI flash: eraseChip: detect invalid access
+  40cf8 SPI flash: eraseChip: wait flash ready timeout
+  40d2c SPI flash: eraseChip: timeout after erase
+  40d58 SPI flash: eraseSector: driver not opened
+  40d84 SPI flash: eraseSector: byte address boundary error 0x%lx
+  40dc0 SPI flash: eraseSector: detect invalid access: 0x%lx
+  40df8 SPI flash: eraseSector: wait ready timeout
+  40e28 SPI flash: eraseSector: erase timeout
+  40e50 SPI flash: program: driver not opened
+  40e78 SPI flash: program: detect invalid access, base: 0x%lx, length: 0x%lx
+  40ec0 SPI flash: program: fail at flash address 0x%lx
+  40ef4 SPI flash: read: driver not opened
+  40f1c STD Tsk Config Fail, Ker Tsk Cnt=%d and Cur STD Tsk Cnt=%d
+  40f5c Define STD task [%ld, %s] error [%ld]
+  40f84 STD Flg Config Fail, Ker Flg Cnt=%d and Cur STD Flg Cnt=%d
+  40fc4 STD flag ID=%d duplicated
+  40fe0 Define STD flag [%ld, %s] error [%ld]
+  41008 STD sem Config Fail, Ker Sem Cnt=%d and Cur Sem Cnt=%d
+  41044 STD sem ID=%d duplicated
+  41060 Define STD semaphore [%ld, %s] error [%ld]
+  41090 STD MBX Config Fail, Ker MBX Cnt=%d and Cur MBX Cnt=%d
+  410cc STD MBX ID=%d duplicated
+  410e8 Define STD mailbox [%ld, %s] error [%ld]
+  41114 STD FPL Config Fail, Ker FPL Cnt=%d and Cur FPL Cnt=%d
+  41150 STD Mempool ID=%d duplicated
+  41170 STD Memory Pool [%ld, %s] size [0x%X] isn't 32 bytes alignment
+  411b4 Define fixed memory pool [%ld, %s] error [%ld]
+  411ec Dev1 has not closed!
+  41204 SET_DEVICE no support! (%d)
+  41224 ^RDISPLAYDEV No Support!(%d)
+  41244 ^RDISPCTL No Support!(%d)
+  41260 ^RDISPLYR No Support!(%d)
+  4127c ^RPrevious dev1 has not closed!
+  412a0 Cur Act1 = %d
+  412b0 Non of DISP1 DEV (%d)
+  412c8 ^MCant chg obj of act dev!
+  412e8 Non of DISP1 REG WRITE (%d)
+  41308 Non of DISP1 Rotate (%d)
+  41324 ^RErr BL param
+  41338 No BL CTL
+  41344 ^RErr PWR param
+  41358 No PWR CTL
+  41368 Non of DISP1 REG READ (%d)
+  41388 ^RDISPDEV No Support!(%d)
+  413a4 Dev2 has not closed!
+  413bc ^RDISDEVPCTL2 No Support!(%d)
+  413dc ^RDISPCTL2 No Support!(%d)
+  413fc ^RDISPLYR2 has only vdo1
+  41418 ^RDISPLYR2 Vdo1 can not disable!
+  4143c ^RDISPLYR2 No Support!(%d)
+  4145c ^RPrevious dev2 has not closed!
+  41480 Cur Act2 = %d
+  41490 Non of DISP2 DEV (%d)
+  414a8 ^MDISP2 can support PANEL only!
+  414cc Non of DISP2 REG WRITE (%d)
+  414ec Non of DISP2 Rotate (%d)
+  41508 ^RErr BL2 param
+  4151c No BL2 CTL
+  4152c ^RErr PWR2 param
+  41540 No PWR2 CTL
+  41550 Non of DISP1 REG READ (%d)
+  41570 ^RDISPDEV2 No Support!(%d)
+  41590 value %x larger than maximum %x
+  415b4 MI:Frm
+  415c0 MI:Fifo
+  415cc MI:Sync
+  415d8 MI:BWF
+  415e4 SPI: attach: PINMUX Fail, please use SPI_PINMUX_STORAGE
+  41620 SPI: lock: wait semaphore fail
+  41644 SPI: open: lock fail
+  4165c SPI: open: pre set flag fail
+  4167c SPI: init: clock divider > 256: 0x%lx
+  416a4 SPI: init: clock divider <= 4: 0x%lx
+  416cc SPI: init: not support SPI slave mode
+  416f4 SPI: init: not CS active HIGH
+  41714 SPI: init: incorrect mode: 0x%lx
+  41738 SPI: init: incorrect pinmux: 0x%lx
+  41760 spi: waitFlag: timeout occured
+  41784 SPI: setTransferLen: incorrect length: 0x%lx
+  417b4 spi: waitClrFlag: timeout occured
+  417d8 SPI: wrData: input word count: 0x%lx
+  41800 SPI: wrData: don't support word count value is zero or exceed 0x%lx
+  41848 SPI: wrData: don't support full duplex transfer under DMA mode
+  4188c SPI: starting address must be word aligment!!
+  418bc SPI: wrData: don't support full duplex transfer under wide bus PIO mode
+  41908 SPI: readSingle: rx buffer is NULL
+  41930 SPI: writeReadSingle: rx buffer is NULL
+  4195c SPI: writeReadSingle: don't support full-duplex transfer in wide bus mode
+  419a8 spi: waitBitMatch: allocate timer fail
+  41c90 [JPGDRV] Error! jpeg_lock()
+  41cb0 [JPGDRV] Error! clr_flg()
+  41ccc [JPGDRV] Error! jpeg_unlock()
+  41cec [JPGDRV] Error! INTEnable %d
+  41d0c [JPGDRV][jpeg_setImgLineOffsetByte] Error! YLOFS %d, ULOFS %d, VLOFS %d
+  41d58 [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X, YLOFS %d < ImageWidth %d
+  41db0 [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X, ULOFS %d < ImageWidth/2 %d
+  41e0c [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X, VLOFS %d < ImageWidth/2 %d
+  41e68 [JPGDRV][jpeg_setImgLineOffsetByte] Error! YUVFormat 0x%08X
+  41ea8 [JPGDRV] Error! ImgWidth %d, ImgHeight %d
+  41ed4 [JPGDRV] Error! Fileformat 0x%08X
+  41ef8 [JPGDRV] Error! nY_x %d, nY_y %d, nU_x %d, nU_y %d, nV_x %d, nV_y %d
+  41f40 ^R%s should NOT be invoked!!!
+  41f60 jpeg_waitDone
+  41f70 jpeg_waitDonePolling
+  41f88 [JPGDRV] Error! LineNum %d
+  41fa8 [JPGDRV] Error! slice buffer overflow
+  41fd0 [JPGDRV][jpeg_setRestartEOF] Error! Not find 0xFFDX
+  42008 [JPGDRV][jpeg_setDCOut] Error! DCYLineOffset %d, DCULineOffset %d, DCVLineOffset %d
+  42060 [JPGDRV][jpeg_setDCOut] Error! DCYLineOffset Update %d
+  4209c [JPGDRV][jpeg_setDCOut] Error! DCULineOffset Update %d
+  420d8 [JPGDRV][jpeg_setDCOut] Error! DCVLineOffset Update %d
+  42114 [JPGDRV][jpeg_setDCOut] Error! DCEnable %d
+  42144 [JPGDRV] Error! CropX %d, CropY %d, CropWidth %d, CropHeight %d
+  42188 [JPGDRV] Error! Y_LineOft %d, UV_LineOft %d
+  421b8 [JPGDRV] Error! ScaleRatio %d
+  421d8 [JPGDRV] Error! QTabY %d
+  421f4 [JPGDRV] Error! QTabUV %d
+  42210 %02X 
+  4221c [JPGDRV] Error! BRCChannel %d
+  4223c , and please double check - Outout DMA Channel %d
+  42270 , and please double check - Input DMA Channel
+  422a0 ^RY channel overflow%s
+  422bc ^RCb channel overflow%s
+  422d8 ^RCr channel overflow%s
+  422f4 ^RY channel : 0x00000000%s
+  42314 ^RCb channel : 0x00000000%s
+  42334 ^RCr channel : 0x00000000%s
+  42354 ^RY channel is not Word Aligned%s
+  42378 ^RCb channel is not Word Aligned%s
+  423a0 ^RCr channel is not Word Aligned%s
+  423c8 ^RThe last 2-bit of values bweteen Cb (0x%08x) and Cr (0x%08x) channel address are not the same%s
+  4242c ^R[ ime_getEngineInformation ] - Error - No such a case to get IME engine Informaion %d...
+  4248c ^R[ ime_cal_StripeWithSliceHeight ] - Error - IME horizontal input size must be 16x!!
+  424e4 [ ime_cal_StripeWithSliceHeight ] - Doubt for IME Slice Height setting may be due to output size of vertical smaller than the Slice-Height
+  42574 ^R[ ime_setStripeInfo ] - Warning - IME ST_HN overflow ...
+  425b4 ^R[ ime_setStripeInfo ] - Warning - IME ST_HL overflow ...
+  425f4 ^R[ ime_setStripeInfo ] - Warning - IME ST_HM overflow ...
+  42634 ^R[ ime_setStripeInfo ] - Error - IME ST_VN error ...
+  4266c ^R[ ime_setStripeInfo ] - Error - IME ST_VL error ...
+  426a4 ^R[ ime_setStripeInfo ] - Error - IME ST_VN overflow ...
+  426e0 ^R[ ime_setStripeInfo ] - Error - IME ST_VL overflow ...
+  4271c ^R[ ime_setStripeInfo ] - Error - IME ST_VM overflow ...
+  42758 ^R[ ime_setInputImageInfo ] - Error - IPE direct to IME does not support YCC420 format ...
+  427b8 ^R[ IME Engine ] - Error - Horizontal stripe setting do not match with the width size of input image (multi-stripe mode) ...
+  42838 ^R[ IME Engine ] - Error - Vertical stripe setting do not match with the height size of input image (multi-stripe mode) ...
+  428b8 ^R[ IME Engine ] - Error - Horizontal stripe setting do not match with the width size of input image (single-stripe mode) ...
+  42938 ^R[ IME Engine ] - Error - Vertical stripe setting do not match with the height size of input image (single-stripe mode) ...
+  429b8 ^R[ IME Engine ] - Current stripe Setting Mode is STRIPE_AUTO_MODE ...
+  42a04 ^R[ IME Engine ] - Current stripe Setting Mode is STRIPE_USER_MODE, please apply API ime_setUserStripeInfo() for stripe setting ...
+  42a8c ^R[ ime_setInputLineoffsetInfo ] - Error - Input lineoffset of Y channel overflow, and please double check it
+  42afc ^R[ ime_setInputLineoffsetInfo ] - Error - Input lineoffset of Cb channel overflow, and please double check it
+  42b70 ^R[ ime_setInputLineoffsetInfo ] - Error - Input lineoffset of Cr channel overflow, and please double check it
+  42be4 ^R[ ime_setMode ] - Error - Input lineoffset of Y channel DO NOT the multiple of 4, and please double check it
+  42c58 ^R[ ime_setMode ] - Error - Input lineoffset of Cb channel DO NOT the multiple of 4, and please double check it
+  42ccc ^R[ ime_setMode ] - Error - Input lineoffset of Cr channel DO NOT the multiple of 4, and please double check it
+  42d40 ^R[ ime_setOutputDMAAddrInfo ] - Error - Output DMA address info NULL
+  42d88 ^R[ ime_setOutputDMAAddrInfo ] - Warning - Ouput DMA channel 0 address Cb and Cr LSB 2 bits must be the same !!!
+  42dfc ^R[ ime_setOutputDMAAddrInfo ] - Warning - Ouput DMA channel 1 address Cb and Cr LSB 2 bits must be the same !!!
+  42e70 ^R[ ime_setOutputDMAAddrInfo ] - Warning - Ouput DMA channel 2 address Cb and Cr LSB 2 bits must be the same !!!
+  42ee4 ^R[ ime_setOutputDMAAddrInfo ] - Warning - Ouput DMA channel 3 address Cb and Cr LSB 2 bits must be the same !!!
+  42f58 ^R[ ime_setOutputDMAAddrInfo ] - Warning - Ouput DMA channel 4 address Cb and Cr LSB 2 bits must be the same !!!
+  42fcc ^R[ ime_setOutputLineoffsetInfo ] - Error - Parameter NULL, and please double check it
+  43028 ^R[ ime_setOutputLineoffsetInfo ] - Error - Output lineoffset of Y channel overflow, and please double check it
+  4309c ^R[ ime_setOutputLineoffsetInfo ] - Error - Output lineoffset of Cb channel overflow, and please double check it
+  43110 ^R[ ime_setOutputLineoffsetInfo ] - Error - Output lineoffset of Cr channel overflow, and please double check it
+  43184 ^R[ ime_setMode ] - Error - Output lineoffset of Y channel DO NOT the multiple of 4, and please double check it
+  431f8 ^R[ ime_setMode ] - Error - Output lineoffset of Cb channel DO NOT the multiple of 4, and please double check it
+  4326c ^R[ ime_setMode ] - Error - Output lineoffset of Cr channel DO NOT the multiple of 4, and please double check it
+  432e0 ^R[ ime_setChangeIOImageInfo ] - Error - User horizontal scaling down rate overflow (setting value = %d) , and please double check it
+  43368 ^R[ ime_setChangeIOImageInfo ] - Error - User horizontal output size overflow (setting value = %d) , and please double check it
+  433ec ^R[ ime_setChangeIOImageInfo ] - Error - User vertical scaling down rate overflow (setting value = %d) , and please double check it
+  43474 ^R[ ime_setChangeIOImageInfo ] - Error - User vertical output size overflow (setting value = %d) , and please double check it
+  434f4 ^R[ ime_setScaleFilering ] - Error - Horizontal scale filtering parameter NULL
+  43548 ^R[ ime_setScaleFilering ] - Warning - Horizontal scale filtering coefficient overflow : %d, and replaced as max value %d
+  435c4 ^R[ ime_setScaleFilering ] - Warning - Vertical scale filtering coefficient overflow : %d, and replaced as max value %d
+  43640 ^R[ ime_calScaleFilterCoef_H ] - Divide by zero!!
+  43674 ^R[ ime_setColorSpaceTransform ] - Error - Parameter NULL
+  436b0 ^R[ ime_setColorSpaceTransform ] - Error - Programable Parameters NULL
+  436fc ^R[ ime_setColorSpaceTransform ] - Warning - Coefficient value overflow : %d, and replaced as max value %d
+  4376c ^R[ ime_setChromaFilter ] - Warning - Horizontal average filter coefficient overflow : %d, and replaced as max value %d
+  437e8 ^R[ ime_setChromaFilter ] - Warning - Horizontal average filter threshold overflow : %d, and replaced as max value %d
+  43860 ^R[ ime_setCurveMappingLUT ] - Warning - Curve Mapping LUT value overflow LUT[%d] : %d, and replaced as max value %d
+  438d8 ^R[ ime_setCurveMappingParam ] - Error - Curve mapping parameter NULL
+  43920 ^R[ ime_setCurveMappingParam ] - Warning - Curve mapping center setting value overflow : %d, and replaced as default value 128
+  439a4 ^R[ ime_setCurveMappingParam ] - Warning - Curve mapping center setting value overflow : %d, and replaced as default value 128 ...
+  43a2c ^R[ ime_setFilmGrain ] - Warnging - File grain weighting value overflow : %d, and replaced as max value %d
+  43a9c ^R[ ime_setFilmGrain ] - Warnging - File grain initial value overflow : %d, and replaced as max value %d
+  43b08 ^R[ ime_setStart ] - Correct status : %d or %d
+  43b3c ^R[ ime_setStart ] - Current status : %d
+  43b68 ^R[ ime_setStart ] - State Machine error ...
+  43b98 ^R[ ime_setReset ] - Error - IME is in busy ...
+  43bcc ^R[ ime_setReset ] - Correct State : %d or %d
+  43bfc ^R[ ime_setReset ] - Current State : %d
+  43c28 ^R[ ime_setReset ] - State Machine Error ...
+  43c58 ^R[ime_open] - IME Re-opened...
+  43c7c ^R[ ime_open ] - Correct State : %d
+  43ca4 ^R[ ime_open ] - Current State : %d
+  43ccc ^R[ ime_open ] - IME State Machine Error ...
+  43cfc ^R[ ime_chgParam ] - Correct State : %d or %d
+  43d2c ^R[ ime_chgParam ] - Current State : %d
+  43d58 ^R[ ime_chgParam ] - State Machine Error ...
+  43d88 ^R[ ime_chgParam ] - Error - Color Space Transformation Parameters setting error ...
+  43de0 ^R[ ime_chgParam ] - Error - Chroma Filter Parameters setting error  ...
+  43e2c ^R[ ime_chgParam ] - Error - Curve Mapping Parameters NULL...
+  43e6c ^R[ ime_chgParam ] - Error - Film Grain Parameters NULL...
+  43eac ^R[ ime_chgParam ] - Error - Change Input/Output Image Size Parameters NULL...
+  43f00 ^R[ ime_chgParam ] - Error - Change Input/Output DMA Address Parameters NULL...
+  43f54 ^R[ ime_chgParam ] - Error - Change Scale filtering Parameters NULL...
+  43fa0 ^R[ ime_chgParam ] - Error - Change outout format parameter NULL...
+  43fe8 ^R[ ime_setMode ] - Correct State : %d
+  44014 ^R[ ime_setMode ] - Current State : %d
+  44040 ^R[ ime_setMode ] - State Machine error ...
+  44070 ^R[ ime_setMode ] - Warning - Output path selection error, replacing as default. Please check, thank you...
+  440e0 ^R[ ime_setMode ] - Error - Slice Mode DO NOT support RGB888 packing format ...
+  44134 ^R[ ime_setMode ] - Error - Processing mode setting error, no such a mode : %d
+  44188 ^R[ ime_setMode ] - Error - If color space transform, the output path of IME can not be ONLY Y CHANNEL OUTPUT ...
+  441fc ^R[ ime_triggerSlice ] - Correct State : %d
+  4422c ^R[ ime_triggerSlice ] - Current State : %d
+  4425c ^R[ ime_triggerSlice ] - State Machine Error ...
+  44290 ^R[ ime_TS ] - double trigger
+  442b0 ^R[ ime_pause ] - Warning - IME pause in pause, please check your flow 
+  442fc ^R[ ime_pause ] - Correct State : %d
+  44324 ^R[ ime_pause ] - Current State : %d
+  4434c ^R[ ime_pause ] - State Machine Error ...
+  44378 ^R[ ime_close ] - IME engine was already closed, can not close again ...
+  443c4 ^R[ ime_close ] - Correct State : %d or %d
+  443f4 ^R[ ime_close ] - Current State : %d
+  4441c ^R[ ime_close ] - State Machine Error ...
+  44448 ^R[ ime_getOutputDMAAddrInfo_P1 ] - Error - OPPB ID error
+  44484 ^R[ ime_getOutputPath1Add ] - Error - Get output buffer address error ...
+  447a5 (:3=<9387@H\N@DWE78PmQW_bghg>Mqypdx\egc
+  447d5 /cB8Bcccccccccccccccccccccccccccccccccccccccccccccccccc
+  4483b  , #&')*)
+  44846 -0-(0%()(
+  4485e ((((((((((((((((((((((((((((((((((((((((((((((((((headerlen=%lx, buf_p=%lx, RIFF2FFD8_Size=%lx,
+  448c0 JpegDec> Format doesn't support !
+  448e4 JpegDec> Shortage of Mandatory Tag (Model) !
+  44914 JpegDec> Wrong type (0x8822)!
+  44934 JpegDec> Wrong type (0x8827)!
+  44954 JpegDec> Wrong type (0x9207)!
+  44974 JpegDec> Wrong type (0x9209)!
+  44994 JpegDec> Wrong type (0xA402)!
+  449b4 JpegDec> Wrong type (0xA403)!
+  449d4 GPS: version = 0x%X
+  449ec ^GPS: LatitudeRef = %c
+  44a08 ^GPS: Latitude sec: %d/%d
+  44a24 ^GPS: Latitude min: %d/%d
+  44a40 ^GPS: Latitude hour: %d/%d
+  44a60 ^GPS: LongitudeRef = %c
+  44a7c ^GPS: Longitude sec: %d/%d
+  44a9c ^GPS: Longitude min: %d/%d
+  44abc ^GPS: Longitude hour: %d/%d
+  44adc Invalid LCDMode %d
+  44af4 LcdInf Has not implemented!(%d)
+  44b18 NT96220 JPEG no support UV pack format
+  44b65 @@@@@@@@@AAAAA@@@@@@@@@@@@@@@@@@
+  44b95           
+  44d18 Sunday
+  44d1f xxxMonday
+  44d29 xxxTuesday
+  44d34 xxWednesday
+  44d40 Thursday
+  44d49 xFriday
+  44d51 xxxSaturday
+  44d8e January
+  44d96 xxFebruary
+  44da1 xMarch
+  44da8 xxxxApril
+  44db2 xxxxMay
+  44dba xxxxxxJune
+  44dc5 xxxxxJuly
+  44dcf xxxxxAugust
+  44ddb xxxSeptember
+  44de8 October
+  44df0 xxNovember
+  44dfb xDecember
+  44e0c %x %X
+  44e12 %d %b %Y
+  44e1b %H:%M:%S
+  44ebc PTDC
+  44ec1 MEDIA
+  45150 ViviLnk0
+  45768 NVTIM
+  4576e IMAG
+  45773 IMAG
+  4577c IMAG
+  45785 IMAG
+  4578a IMAG
+  458d9 [31m
+  45b08 2.01.004
+  45b11 Jul 13 2011, 17:06:53
+  462dc A:\DCIM\
+  463d5 $3br
+  463e1 %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+  464a0 	#3R
+  464b4 &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+  46542 AVI1
+  4656e (:3=<9387@H\N@DWE78PmQW_bghg>Mqypdx\egc
+  4659f /cB8Bcccccccccccccccccccccccccccccccccccccccccccccccccc
+  465fe AVI1
+  46610 AppleMark
+  46622 mjpg
+  46664 (:3=<9387@H\N@DWE78PmQW_bghg>Mqypdx\egc
+  46695 /cB8Bcccccccccccccccccccccccccccccccccccccccccccccccccc
+  4671e $3br
+  4672a %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+  467e9 	#3R
+  467fd &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+  48000 BCL1
+  48acc 01wb
+  48b01 L8@-
+  48fdb lJUNKH	%
+  48fe8 LISTmovi@B
+  49159 l01wb
+  49330 L0dc
+  4992a HH	%
+  4a64a tRIFF<#
+  4a653 AVI LISThdrl
+  4a663 strlP#
+  4a676 vidsmjpgMJPG
+  4a69b audsH$
+  4a6cf IDITavih
+  4a6df movi|&
+  4a6f1 d00dc
+  4a711 WAVE<'
+  4ab43 0|@-
+  4bb8a l0@-
+  4c96d  00dc
+  4df8c @d `
+  4ea26 CALE
+  4ea34 HCALD
+  5369d $>@-
+  53fc4 300C2
+  555e2 h,b%
+  5f054 Hp@-
+  60776 <8@-
+  61482 |p@-
+  62548 `8@-
+  62605 X>@-
+  63e53 dp@-
+  67a31 lp@-
+  688c5 |p@-
+  68b5b l(pG
+  69ffc ,8@-
+  6b363 L|@-
+  6e156  p@-
+  6f667 ffirp
+  6f6ad RIFF`[
+  6f87e <avih
+  6fa59 RIFFd\
+  6fa61 AVI strlLISThdrl
+  6fa75 JUNKmovix
+  6fbd7 pmovi
+  6fbe7 WAVE\
+  700ea idx1p@-
+  7043b strh
+  70443 vids
+  7044b audsstrf
+  704e5 mjpg
+  704ed MJPGH264
+  7061e $ffir
+  708f8 |GPS 4
+  70910 nidx
+  70e7c 0moviLIST
+  724ad @8@-
+  72d1d mjpg
+  73371 Tmjpg 
+  739bc 01wb
+  73f9d $1p@
+  7414c Hp@-
+  745f2 T ;%
+  74f39 (p@-
+  75390 ffir
+  76b4d \p@-
+  781d1 JUNK
+  793ca 00dc
+  7b1a3 Hnidx
+  7b322 Dnidx
+  7b999 Dx]%
+  7b9ae 462H
+  7d427 $p@-
+  7ee8a xp@-
+  7efc7 `>@-
+  7f005 *@+n
+  7fb03 dp@-
+  80781 333333
+  8101b hp@-
+  81bc1 *TXE
+  81e32 (	0E
+  822ff 40@-
+  844fc idx1
+  84511 $01wb
+  8a384 l8@-
+  8b219 Qgfff
+  8bc43 	h\ 
+  8c1cb <X	 
+  8c219 $0 B
+  8d49e 50 A2	
+  8d4aa 500B2	
+  8e60e @|@-
+  8f064 hp@-
+  8f6d7 Lp_%
+  912c1 Xp@-
+  91455 Pp@-
+  934d6 tgfff
+  939a5 (h	!
+  98462 Xp@-
+  9b35a 8>@-
+  9b80b D`("
+  9c7e8 ,8@-
+  9c929 8*@3
+  9d257 <@	P
+  9d32e D@	P
+  9d8b9 3dPE
+  9e0d5 X8@-
+  9ee07 4`^"
+  9f4b8 $8@-
+  a1236 H,X!
+  a172c l0V!
+  a1851 d8V!
+  a383d h8@-
+  a4698 USBS
+  a47ce USBC-
+  a6618 PFHEPFDA
+  a801e \p@-
+  a933b Hpa%
+  a9a77 dLa%
+  a9e13 Ppa%
+  a9e20 X8@-
+  aa137 |<I&
+  aa2a4 X<I&
+  aa9c3 RIFFWAVE
+  aae6a RIFFdata
+  aae7a WAVEfmt T
+  aae86 fact
+  ab5d9 @D !a
+  af10a l8@-
+  af640 x	pF
+  b04b5 	@<p
+  b16f9 40 B
+  b3dbc P,G&
+  b3ec3 X,G&
+  b4032 0,G&
+  b883e <xL&
+  b8847 VUUU
+  b8910 HxL&
+  b9f36 L @D
+  bb1da ,!`#
+  bbd29 DoE"
+  bbe91 8DoE
+  bca91 RRaAd
+  bd345 $l]&
+  bd366 L<\&
+  bec48 X8@-
+  c0224 Pdh%
+  c1679 x8@-
+  c2ec3 08@-
+  c38d6 *	 D
+  c52d2 L8@-
+  c60a2 \:00
+  c68cc tl O
+  c6929  C/O
+  c831f X,I&
+  ca116 $8@-
+  cbbbb @(l%
+  cc131 Lp@-
+  cc60f Tp@-
+  cd047 xp@-
+  cd931 x<I&
+  cd9d2 Lp@-
+  cda43 L<I&
+  ce0d4 lTI&
+  ce762 %x %x %s
+  ce76c 0addr = 0x%08X, data
+  ce787 bad command or invalid parameters
+  ce7ac Dlength
+  ce7b8 %08lX : 
+  ce7d6 2CPU??
+  ce7eb CPU/AHB/DMA = %d/%d/%d
+  ce80a "help
+  ce812 w 0xHex_Address
+  ce824 Data : write
+  ce833 pto memory
+  ce84c T]: re
+  ce856 ntents of
+  ce864 ?   : display help message
+  ce884  asen 
+  ce88d 5xff 
+  ce894 a1x 
+  ce89b 5xbb
+  ce8a7 (tart
+  ce8ae rec 
+  ce8b5  !!!!!!!
+  ce8c0 autotest
+  ce8d7 amba robust
+  ce8e5 dma 
+  ce8eb 9 size
+  ce8f4 =x success
+  ce904 (fail
+  ce90b %Benchmark : get buffer
+  ce928 	 card
+  ce930 0Card...
+  ce94c Lnan
+  ce952 LNan
+  ce960 4Total
+  ce969 <%d MB, tim
+  ce977 us: %f MB/s
+  ce985 Peak MIN at %d:
+  ce99f Worst%d perf is
+  ce9b8 Dresult:
+  ce9c3 	%d KB	
+  ce9cd Hnit
+  ce9d2 	%2.2f
+  ce9e3 Hchknand all
+  ce9f2 erase
+  ce9fb card ou
+  cea05 xRemove
+  cea1a Insert
+  cea23 opy iso
+  cea2c donfig save
+  cea38 Saving completed!
+  cea4e menu info to flash...
+  cea68 	Drese
+  cea72 sett
+  cea7e Kdefault
+  cea88 Mcal
+  cea92 HCalibration mode
+  ceaaa $ECS
+  ceaaf ECS 
+  ceabb  AWB
+  ceac0 chgclk pb
+  ceadc Hclk
+  ceae3 delaychain
+  ceaf3 [1m PAD dri
+  ceb02 0x97100110[
+  ceb10 }] =>
+  ceb18 ,clk[%02d]T/DQSIN
+  ceb3a 0---DRAM &
+  ceb4a b---
+  ceb52 \1/8
+  ceb82  Unknow
+  ceb8c dump ker
+  ceba1 sdinfo
+  cebc7  A:\
+  cebd4 forma
+  cebeb Done
+  cebfc @nand2
+  cec09 fl e
+  cec18 trig
+  cec33 1sys
+  cec3a kdel
+  cec41 Del Ke
+  cec66 Down
+  cec71 Right
+  cec88 JPG_ENC_BS_DBG_NONE
+  ceca3 FRAM
+  cecb0 QVALU
+  cecbc Enter
+  cecc7 Mode
+  cecd1 Menu
+  cecdd lZoom I
+  cece7 ; releas
+  cecf2 %kzi
+  ced08 5kzo
+  ced15 Shutter1
+  ced2d 	pli
+  ced33 Lens Init
+  ced44 retrac
+  ced5c %d %d 
+  ced6b lcd w
+  ced80 |photo
+  ced8c  Mod
+  ced97 setup
+  ceda5 playback
+  cedb9  msdc
+  cedc1 MSDC
+  cedc8 sicd
+  cedcf SICD
+  cede3 Hovie
+  cee07 ps init
+  cee26 pf update 
+  cee34 	%d picture
+  cee46 5 fram
+  cee4e uA:\MISC\%02ld.JPG
+  cee62 	8finish
+  cee79 enable
+  cee88 pf stor
+  cee93 power off
+  ceea7 Single Capture 
+  ceebd Burst
+  ceec5 3 pic
+  ceedd Stop
+  ceeea ^Social Network value
+  cef18 0set
+  cef26 show
+  cef2c 1savealljpg
+  cef45 hset
+  cef4d z %d:%d:
+  cef65 TestClk
+  cef71 Lpcal
+  cef80 lunifont
+  cef8c A:\UNI_FONT.BIN
+  cef9e 0load Unicode 
+  cefae *... 
+  cefbb 5failed
+  cefd4 y= %d m
+  cefe1 $ing...
+  ceff2 zoom
+  cf008 ====
+  cf01c p  Firmware  build: %s
+  cf037   ver
+  cf03f ----
+  cf054 dProject
+  cf065   Applic
+  cf078   Driver(COD)
+  cf086  $IPP
+  cf08c !$SYS
+  cf093 $Kernel
+  cf0a0 $Copyr
+  cf0a9 >(c) 2011 Novatek Microelectronic Corp
+  cf0d5 	%NT96220
+  cf304 tSIZE
+  cf30a FCLK
+  cf323 JPEG
+  cf32c IDESrc
+  cf34f TVDacOff
+  cf358 USBEn
+  cf35f iADR
+  cf370 DATA
+  cf377 CARD
+  cf37e SENSO
+  cf390 <GPIO
+  cf39e OTHE
+  cf3a7 PSlew
+  cf47a @DQS
+  cf481 hFLCT
+  cf48d @QM0
+  cf4f7 PLL2:  %d
+  cf509 *** 96610 ***
+  cf521  Undefined Value
+  cf534   Reserv
+  cf546 XSound_ParseWAVHeader: No wav
+  cf56b or output
+  cf57a <Set h
+  cf585 ;error
+  cf591 8Audio is not PCM
+  cf5ab 416bits
+  cf5b6 !lRead
+  cf5c4 Flash charge
+  cf5d8 mGet_NVTCMD:
+  cf5e7 Un key (0x%.8X)
+  cf5f8 <KeyScanTsk 2222
+  cf612 1111
+  cf61c 0EYSCAN ERR: Error ope
+  cf634 Xscan
+  cf64b bmmmmmm 
+  cf656 .BIN
+  cf666 GSStatus=0x%x 
+  cf67e ****
+  cf689 _PoweroffFlow_09
+  cf6b2 Timer id
+  cf6c1 TP:Event=%d, X=%03d, Y
+  cf6dc 8Ges
+  cf6e9 Ghandled!
+  cf6f4 <debug text> gbFlagScreenSaveIsOff
+  cf71d xDetUSB_return
+  cf72d a^R USB plugging i
+  cf744 UIBackground
+  cf753 `... while print
+  cf76e / bus
+  cf776 =####
+  cf787 usb_StateChange()
+  cf79b UUSB is connected to
+  cf7b2 ~r 3
+  cf7b9 4UIFlowWndPlayPictB
+  cf7cf L usb
+  cf7d6 ? type
+  cf7f0 Storage
+  cf817 S gbOne
+  cf82a FST_STA_OK
+  cf83a DISK_UNFORMAT
+  cf84d KNOWN_
+  cf858  CARD_ERR
+  cf865 	`UT_OF_ID
+  cf871 LTV is
+  cf87a ked GPIOMap_DetTV
+  cf89d Switch and
+  cf8aa |TV NTSC
+  cf8bf a# HDMI
+  cf8e8 "]Primary_Wait4
+  cf8fa 6ModeDon
+  cf90b +(%d)
+  cf916 b>IN 
+  cf91d 4CheckEng
+  cf928 &TextFile
+  cf93d exist
+  cf95a dinput_
+  cf969 RESSED
+  cf970 RELEA
+  cf97f X ADC
+  cf987 Vkey group 
+  cf9a0 ctask
+  cf9b2 Not enough
+  cf9d4 Register vend
+  cf9eb 0 ! 
+  cf9fc [AppInitAVI]: uiSensorRecordS
+  cfa1d , ui
+  cfa37 ,IME P1
+  cfa41 h!!!!
+  cfa4e 0AVIEncObj.uiMemA
+  cfa6f $AVI
+  cfa7e xnot 
+  cfa87 filetyp
+  cfa91 hov atom
+  cfa9f MediaDecode1st: BS addr=0x%lx,
+  cfada %video resolu
+  cfaea :%dx
+  cfaf5 w_Mode
+  cfb18 @Open(%d) +++
+  cfb2f Close
+  cfb3c )Defect Pix
+  cfb4a XUserPF_Read
+  cfb7b ;file
+  cfb87 addrOffse
+  cfba6 (Write
+  cfbdb Yname=%s
+  cfbe6 f ok
+  cfbf4 2MHD
+  cfbfd 1.3M
+  cfc06 x%ld.
+  cfc11 4_ZoomControl: Lens
+  cfc27 _Stop
+  cfc3e H as 
+  cfc45 "OOM_CTRL_
+  cfc62 /xOU
+  cfc6c 8Out
+  cfc7b GotoStep(UI_D
+  cfc8c IDX_MIN
+  cfca6  0x%x
+  cfcb1 ZObj: On
+  cfcc2 PPlay
+  cfccf _GetData]no this attribute
+  cfcef #OnRotate,uiIndex
+  cfd06  ExeDel: uhS
+  cfd20 	$Protect
+  cfd2b (E: 
+  cfd30 	+ZoomNavi
+  cfd46 (FlowPB: 
+  cfd51 + AVI
+  cfd5a hdmi in width
+  cfd6a khei=%d 
+  cfd79 0Codec = MEDIAPLAY_VIDEO_MJPG
+  cfda6 8Str
+  cfdae %s: out of string
+  cfdca Ltamp
+  cfdd7 ^R #1
+  cfdf8 $User
+  cfe00 Zoverflow
+  cfe10 REC STOP
+  cfe1e Hfile lock
+  cfe4a 4 PB_WAIT_INFINITE
+  cfe62 ,Filesys
+  cfe71 LBAuto
+  cfe93 MenuUSB
+  d0574 " ""
+  d1c63 99%s
+  d1c69 NEXTBASE
+  d1c85 %02d:
+  d1c98 %04d
+  d1cac F%s  NBDVR122
+  d1cbe  FlowMovie_StartRec: Not yet,g_MovSelfTimerSec
+  d1cf7 wSysGetFlag(FL_DCF_FILE_ID)
+  d1d18  0DIR
+  d1d24 opRec==>last_did:%d	
+  d1d3f     line
+  d1d60 uhFileId
+  d1d6f  older
+  d1d84 GetP
+  d1d99 unsafe to take
+  d1daf no spac
+  d1db9 encode RAW
+  d1dd8 0ADC : 
+  d1de4 X:%.3f  Y
+  d1df5 %s%s
+  d1dfd R06.2
+  d1e10 TPanel
+  d1e19 Static_time
+  d1e27 usICN_EV
+  d1e37 TIcon_PIM
+  d1e5d `	`	 N N NReset
+  d1e70 &Tim
+  d1e79 A:\Mass
+  d1e84 w.txt
+  d1e8d `open file %s
+  d1e9e t====
+  d1eab $A:\PowerOn
+  d1eb8 DA:\Updat
+  d1ed0 aetCurrRecUnlock  LINE
+  d1ef1 parttingmode  
+  d1f0d #$app_parking_
+  d1f25 H gCurrentMenuInfo.
+  d1f3d _permonth
+  d1f51 {Max
+  d1f5f ==Directory
+  d1f6f -nam
+  d1f78 0totalfil
+  d1f86 uiDir
+  d1f95  xre
+  d1fb1 Curr
+  d1fb7 Z_vedio: %s
+  d1fc7 $delete reach en
+  d1fe1 OnExe
+  d1feb ][%d]
+  d1ff5 Xfocusing_samoo
+  d2017 AA:\
+  d201e _test
+  d2034 _gsensor
+  d2055 &.bi
+  d206d J battery 
+  d20a8 }A:\
+  d20af s12.bin
+  d20b7 [FLY]
+  d20c0 srtc_getPwrOnSource(
+  d20da PLD122
+  d20f2 2 LCD turn on
+  d210c pClose
+  d2115 lOnKeyRight
+  d2135 . <text>=1MIN:menuall
+  d2153 W and
+  d2167 'pnex
+  d21b0 Whild
+  d21b9 2 gMovData.Stat
+  d21e1 send
+  d21f7 8>  do
+  d2201 ^num
+  d220d Line : %d, 
+  d221c x standby
+  d2229 oout
+  d2238 X  888
+  d2241 __LINE:
+  d22b6 TLogic C 
+  d22e6  usb auto r
+  d22fc 3camera
+  d2307 _RES
+  d230e CyclicRec
+  d2319  Parti
+  d234d `_Tes
+  d236a 3Key
+  d2376 Menu
+  d238e Down
+  d2395 Lock
+  d23a0 atransmit
+  d23ad lread:(0x%x, 
+  d23d2 0write
+  d23ec 	I had
+  d2404 Winput height
+  d2416 (low
+  d241c %DA380
+  d2425 :Type is
+  d2434 	2sn't mir3da_da380
+  d244f core_init fail
+  d247f ,MIR3DA_
+  d2491 !(b6
+  d2498 d0x%x
+  d24a1 rang
+  d24bb read_raw_
+  d24cc -, rst
+  d24ec Found 
+  d24f9 * ! cid=%x m
+  d250c Do softrese
+  d251a bed !
+  d2523 `find M
+  d2534 No miramems
+  d2543 stance f
+  d2550 chip resume
+  d2573 xextbas
+  d2582 H ucSDCIDCrc
+  d25ba Month
+  d25c2 @ Yea
+  d25e6 0MMC
+  d2601 FWRevisio
+  d2628 iVer
+  d263b T--A-
+  d2643 0Model: 				
+  d2651 '122
+  d266c v:			Char
+  d267c  Ful
+  d2688 Medium
+  d269b Empt
+  d26aa _Exhauste
+  d26b6 <FCC-ID
+  d26bf  2AOT9-
+  d26d6 3Manf Date:		%.02d -
+  d26f0 $Serial No:		
+  d2702 	@ode
+  d2711 OEM 
+  d2725 Type
+  d275d P			FAT3
+  d2775 h%d.%d%dGB
+  d2781 $Clas
+  d2792 Used Spac
+  d27a1 AVideo Menu
+  d27b8 A720P
+  d27c0 WVGA
+  d27d1 Exposu
+  d2825 <udio 
+  d282e =ing:		Off
+  d2853 `1 Minute
+  d287c N Stamp
+  d28ae High
+  d28e2 z History
+  d28ee Minim
+  d295f IDD/MM/YY
+  d296f MM/DD
+  d2981 Languag
+  d298a tEnglish
+  d29a1 Germa
+  d29b5 Frenc
+  d29bc HItali
+  d29d0 Norweg
+  d29e0 |Swed
+  d29e8 Keep User S
+  d29f7 ls:	
+  d2a0c S Save
+  d2a1f 10 Second
+  d2a36 tDevice Sound
+  d2a52 Auto 
+  d2a5a D Off
+  d2a74 Number / License Pl
+  d2aa2 N chec
+  d2ace ImageCB]: ALGMSG_QVSTAR
+  d2aec (PREVIEWSTABLE
+  d2afd ^GIPL BUF END
+  d2b12 t^GSET
+  d2b21 `^R %s, memsize:
+  d2b40 >> Free ImgNum = %l
+  d2b56 t%05
+  d2b5f [0;32mDCF_Set
+  d2b74 hnew Dir
+  d2ba8 icTXT
+  d2bb5 SelftimerCn
+  d2bc6 &PNL_FDFrame
+  d2c04 is too
+  d2c19 nevt
+  d2c23 hZoomin
+  d2c2f 0Out
+  d2c39 ,KeyU
+  d2c44 !(Down
+  d2c56 !,Ente
+  d2c74 Yimag
+  d2c87 t: OnQV
+  d2c99 XDSC
+  d2cac aFreeP
+  d2cb8 DISO
+  d2cc5 AntiShaking
+  d2cdd Qualit
+  d2cfd 9gra
+  d2d07 >ContinueSho
+  d2d2d epeed
+  d2d4a _locked
+  d2d6c #g_Plb
+  d2d82 IIsKeyToneEnabled
+  d2dac .lash
+  d2dd0  Sharpness
+  d2dea  Tab
+  d2dfb BPri
+  d2e07 MovFileTotalT
+  d2e1a GlayBack
+  d2e2e  Sto
+  d2e38  Fwd
+  d2e4a lDat
+  d2e7f .AVI
+  d2e89 4FIle Name :%s Fmt :
+  d2ea9 1080P
+  d2eb7 WVGA
+  d2ec9 @%d/
+  d2ee9 %01l
+  d2ef5 HPLAY_CURRMODE_FALSE
+  d2f19 XThumb
+  d2f8c VFileFilm
+  d2fda hMagnif
+  d2fef :Dir
+  d3006 $)Left
+  d300d ZoomWi
+  d301d $ExternalWin(x,y,x2,y2)=(%d,%d,
+  d304b ((W,H
+  d305f PanSrc
+  d306f , PanMax
+  d3083 IZoomLvlTbl
+  d3096 6Ori
+  d309c M_X,Y
+  d30a3 ~PanLoop
+  d30b8 =Key
+  d30be *Move
+  d30ca NPB_G
+  d30dd hWaitMoment
+  d30fa 8: Exp
+  d3117 Eevent
+  d3127 Tto c
+  d3130 wait m
+  d3138 ? win
+  d315c 9Done
+  d3173 LrnMsg
+  d3180 TipsIconRetur
+  d3199 TextBac
+  d31b5 COnOpen g_ui
+  d31f2 (SDC
+  d31f9 `xt_
+  d3203 $USB_Inf
+  d3218 	USB
+  d3225 TMMMMMm
+  d3230 MenuCallback
+  d3249 SlideShow
+  d3259 ConfirmDel_TitleIconTab1
+  d3282 mext
+  d32a2 -: s
+  d32b5 nBar
+  d32ec IPal
+  d3316  uwOption
+  d3328 $8ItemId
+  d3331 18iM
+  d3345 TDat
+  d335a %YMD_Y
+  d337b witch
+  d3382 "VALUE_Other0
+  d33a7 (AMP
+  d3405 _List_
+  d3471 No an
+  d349c *SystemInfo
+  d34fb GPIO_INT_USBPLUGIN
+  d3515 www.
+  d351d .com
+  d3533 0x%x
+  d3549 SDIO
+  d3554 LFAT 32
+  d3591 'Bar
+  d3596 TurnOff
+  d3648 ;CarNu
+  d36a6 "UIcarnum1 = %c
+  d36b9 |= car
+  d36c7 %s%s
+  d36dc i  <
+  d36e7 ^> LINE
+  d3712 aBar
+  d374c -Name
+  d3776 /Date
+  d381e fommonIte
+  d385f setdatel
+  d388c Dmenu ente
+  d38b2  pItem->SysFlag
+  d38c4 FpPage->Sel
+  d3916 Lang
+  d395c 3FirInfo
+  d396b _Msg_Head
+  d39bc mUSB
+  d39fe %ld. %s
+  d3a16 UDOKTip
+  d3d54 `ffff
+  d3db8 D@D D D
+  d419b ll`c
+  d440a  !ac
+  d442d 66$$
+  d45a4 A Il6
+  d4d8f )))))))
+  d557b FFFF
+  d5583 CCCC
+  d558b AAAA
+  d5a42 ====
+  d7536 11111
+  d9326 ~~~~
+  d96af 0nnn
+  da7f9 ))))
+  dabca ````
+  dabdb aaaa
+  dabef bbbb
+  dac00 cccc
+  dac14 dddd
+  dac25 eeee
+  dac36 ffff
+  dac4a gggg
+  dac5b hhhh
+  dac6c iiii
+  dac80 jjjj
+  dac91 kkkk
+  daca5 llll
+  dacb6 mmmm
+  dacc7 nnnn
+  dacdb oooo
+  dad00 ~~~~
+  dad11 }}}}
+  dad22 ||||
+  dad36 {{{{
+  dad47 zzzz
+  dad5b yyyy
+  db6b3 :B=B
+  dc328 (===
+  f2d18 4SystemData_TitleIconTab2
+  f2d34 Menu
+  f2d50 Text
+  f2d61 AReturn
+  f2d6d BBack
+  f2d79 .Ente
+  f2d83 tPanel
+  f2d8d List
+  f2ddf Gsensor_Test
+  f2df5 %.2f Vdc
+  f2e04 R00.1
+  f2e13 X = %d / Y
+  f2e26 0X:%.3f  Y
+  f2e68 View_Static
+  f2e84 $ParkingMode
+  f2eda <3d 
+  f2ee7 %d %
+  f2f04 @%d/
+  f2f0f ====
+  f2f19  standby time out power off! 
+  f2f3a %x %x 
+  f2f49 A:\AWBGS.txt
+  f2f64 No  
+  f2f6a !Get dpfect pixel buffer error!!
+  f2f8f $ECS
+  f2f97 Pstore open to read FAIL
+  f2fb5 write
+  f2fbd AAA_Adjust.Mshutter=%d
+  f2fe6 Face Light and Press ENTER
+  f3003 hRgain
+  f301f x ErrorCode %d
+  f3059 YPrvD %d, ER
+  f3080 0PrvW
+  f309c \Cap Total
+  f30b2 ocess...2
+  f30bc Cover Lens
+  f30cc PDark
+  f30df POOL_ID_ECS Addr=0x
+  f3100 ^R %s:
+  f3114 xl_ShowCalRst
+  f3123 DP P
+  f3129 nnum: Prv:
+  f3141 l: OK
+  f3178 create
+  f3181 H fail
+  f3194 uaddr = 0x%08X, length
+  f31b0 t%08lX : 
+  f31d3 MFile: pos=0x%lx, size
+  f31f4 0bitrate control not enable..! BytesPerSecond is zero
+  f322c dbyte
+  f3241 TSeamless cut
+  f3251 Bis 5min
+  f325b VfsMaxtim = %ld! index
+  f327a |lcCutT
+  f328b MediaRecSetVAmemoryAddr: 
+  f32b5 y !! need
+  f32c0 ;given
+  f32c8 <order is
+  f32d4 iopen, changing parameter
+  f32f1 s...
+  f3302 : wait Ready finished
+  f3319 ,start
+  f332a Only support max f
+  f3350 (MEDIAREC_VRATE_15/30/60 can be served.
+  f3383 	, type=
+  f338d [p1=%d!
+  f339f 08old recFormat cannot
+  f33be 1T no
+  f33c9 Hset Cutsec
+  f33d7 G, realc
+  f33ef LEndtype
+  f3405 k: Alr
+  f340e _open
+  f3416 XOpen( )
+  f3430 ged.
+  f3440 I buf
+  f3453 $JPG
+  f3459  H264
+  f346e /FAST_FWD
+  f3482 SAVETYPE_HALF_SEC
+  f3495 Cshould be alig
+  f34b4 >: Not 
+  f34be Ping
+  f34c9 Stop
+  f34d3 stop:READY
+  f34ee  OLF SHOT
+  f34fb vfr = 60
+  f350e g, resolution must
+  f3524 maller than 848x480
+  f3539 @olfshot
+  f3556 hei=
+  f3564 Z ERR
+  f356f [ Fail
+  f357b $not
+  f3599 -ER- Don't have enough disk spac
+  f35bc #unsafe
+  f35c7 chk: flash has
+  f35df gCHK
+  f35f0 ClearOrde
+  f3608 Savefile queue full!
+  f361f Eold
+  f362a m block
+  f3635 get: vidB
+  f365c Hupdate header OK. audf
+  f367a 0step1
+  f3682 Ustop
+  f368a einQ
+  f3691 hmax
+  f369a ,Delete old takes %d ms
+  f36c1 X search
+  f36d0  V =
+  f36d7 V(%d)
+  f36e3 Xtheon
+  f36ed newSaveS
+  f36fb qnewAdd2Q
+  f372a alibCut
+  f3739 W mayb
+  f374e [%d].
+  f3756 -=%d!
+  f3776 tcut prer
+  f3788 ,^R 
+  f3790 RecUti_AllocBuf2VA
+  f37c8 Z to
+  f37d9 Idx1
+  f37e7 GPSBuf
+  f37f2  Nidx
+  f37fd TCmd task
+  f3810 CMD:
+  f382b Pclr dummy
+  f3838 <CMD idle
+  f3843 !Wait
+  f384f IDLE
+  f385a busy
+  f3860 ,SET
+  f3870 @Pre
+  f3877 &Cut
+  f387f S: g
+  f3892 Trmal
+  f38a9 BWriting
+  f38be \ometh
+  f38ca t, no video in saveQueu
+  f38ea front
+  f38f7 topaddres
+  f3915 2S!!
+  f393c ACH MAXtime!!  moov
+  f3956 dARDFULL
+  f3967 Gslow22
+  f3971 0TOP
+  f397c HGPS add
+  f3992 ;las
+  f39a1 uaud, vid close
+  f39d6 Pall
+  f39dd Ocallback
+  f39e9 INEED SetInfo()
+  f39ff AviCheckH
+  f3a0d ,Queue: %d
+  f3a1c lempty
+  f3a25 mERROR:
+  f3a2f pGetActVideo
+  f3a3e cinpu
+  f3a4a >zero !!!
+  f3a5a )Byte:
+  f3a66 |ENC_SETINFO_ENCODEBUF a
+  f3a82  VIDEO
+  f3a8b Fore
+  f3a9e 	Enc
+  f3aad total
+  f3ab4 hset FRAMERATE %d
+  f3acc  ^R 
+  f3ad3 #SaveVF
+  f3ae8 newVidP
+  f3b17 h264_
+  f3b25 WARNING:
+  f3b30 6pad
+  f3b37 Eough
+  f3b46 ndia encode
+  f3b55  function
+  f3b61 \_H264ENC_Init
+  f3b79 5AVI:
+  f3b82  Desc
+  f3b91 zthis
+  f3ba1 h[0]
+  f3ba8 bh264l
+  f3bb6 OVMJPG
+  f3bd2 HOUTPUT BUF 
+  f3bf2 after r
+  f3bff /Buf
+  f3c1f DFS Disk INFO
+  f3c3d p AUDI
+  f3c5b @GetAudioBufSize:valu
+  f3c78  FAST
+  f3c88 l....
+  f3c95 2=%d
+  f3c9e Q BUF_FULL, gAudDmad
+  f3cb9 HAudBuf %d
+  f3cdd ving
+  f3d0b LAAC
+  f3d14 @AUD BUSY
+  f3d20  AAC
+  f3d35 slast file
+  f3d46 [lx 
+  f3d51 8ing
+  f3d58 | MB 
+  f3d65 ;=%lld bytes,bps=%ld, sec
+  f3d85 ySetGPSData ADDR ZERO
+  f3da0 $SIZ
+  f3da7 7more
+  f3db0 ClusterSize
+  f3dc1 NEW CRASH FOLDER NAME = %
+  f3de6 OK, hdr
+  f3dfa Ddisk2
+  f3e10 tsec MAX 
+  f3e1c uNO FILE IN DCIM
+  f3e37 FS: 
+  f3e42 \drAD
+  f3e62 aTIME
+  f3e70 ay on
+  f3e81 FS22:
+  f3e89 J, of
+  f3e98 xoldname=%s!new
+  f3eb2 q: FS
+  f3ebe (cmdok
+  f3ec7 `FScmd endF
+  f3f02 kRIFF
+  f3f0a 0VI LIST$
+  f3f16 hdrlavih8
+  f3f4d Trlstr
+  f3f55 Lvidsmjpg
+  f3f84 MJPG
+  f3f91 |auds
+  f3fba IDIT
+  f3fcb INFOISFT(
+  f3fff G!!!(
+  f400a 5= 1)
+  f4011 I%s: guiAVIRecBufThreshol
+  f403f  CANOT CLOSE
+  f405c T yet
+  f406f  waveS
+  f4078 iudidx
+  f4088 ,uiMem
+  f4095 Y, uiTmp
+  f40b8 3is too
+  f40d0 " stat
+  f40f0 setM
+  f40f7 VValue
+  f410b (SIZE
+  f4112 (EC_RESET
+  f4139 new:
+  f4162  ^G 
+  f4177 RECORD
+  f418f [444
+  f41a8 11111
+  f41b3 dcom
+  f41be Over M
+  f41cc -AVI
+  f41d7 4Leave,
+  f41ed tGetTop
+  f41ff TMINUS
+  f4214 X555
+  f4222 	 Please set TBR firstl
+  f423f (save
+  f4247 ynumber
+  f4250 4^B b
+  f427d VRec
+  f4284 j: over
+  f4294 3RecTs
+  f42a8 LSLOW
+  f42b9 (CARD 
+  f42d5 8 420->422
+  f42f2 \ JPEG
+  f4301 %d %s
+  f4309 ImgQuickViewCB
+  f4320 FQV Ime 
+  f432b (%d)
+  f4332 fqv 
+  f4346 T %d:ratio
+  f4353 TImgFormJpg
+  f4360 Screenail
+  f436d retry
+  f4380 Jpg re-compression  - rtStatus
+  f43be SliceTsk_N
+  f43ce FileSysMsgID1
+  f43dd H-E- 
+  f43e8 4FLGSLICETSK1_FSTFAIL  222 
+  f440c <AlgInfo->DriveM
+  f4421 	 uiFla
+  f4432 SIECAP TSK >Capture 
+  f445f :Busy...E_NOMEM!
+  f4471 %APSTATUS
+  f447d iCalNeed:
+  f4499 / NOT
+  f44a2 u32MaxWidth4
+  f44c1 ?play
+  f44d1 >. Need
+  f44df s ,but All
+  f44f0  Play
+  f4504 ~CMDOK
+  f450d &PLAY_
+  f451b JPG speed
+  f4527 9Refresh
+  f4541 %s: 
+  f454f tShow1s
+  f455c (art
+  f4578 Btyp
+  f4590 T in
+  f459b Ratom
+  f45b3 iail, free
+  f45c0 &ess o
+  f45c9 T= 0
+  f45df 4tepby
+  f45ec Play
+  f45f3 /AndExit,
+  f460f $Pause
+  f4629 !ing
+  f462f !REFREASH pos1
+  f4640 n, [%d]=
+  f4653 CQUEUE
+  f465c D: ini
+  f466b maxNum
+  f4678 4udInQ num =
+  f468f DEMPT
+  f469b @: no
+  f46a4 data
+  f46ab Dart
+  f46ba Z, WaveEn
+  f46ca ;BUF
+  f46e0 |channel
+  f4702 yide
+  f471e fail
+  f472a )dec 
+  f4751 hThis, jumplevel
+  f4788 PLAYTASK
+  f479a |Object
+  f47cb cErr22
+  f47dc waitVD OK
+  f4809 imsgID
+  f4815 hNidx  len
+  f482c CHECK NIDX LEN
+  f4852 find
+  f4870 ,Fil
+  f4878 very
+  f489a B a 30 min
+  f48af Cmake new idx1
+  f48d6 Z HDR
+  f4919 MOVREC_OPEN
+  f4934 IPHOTO
+  f493d 1_E: Phot
+  f4958 "==>
+  f4967 DWarning:
+  f4981 ntsk -
+  f4998 r%s: Stamp
+  f49aa  , can't run
+  f49b9 Fconfig
+  f49dd |_IDLE or
+  f49e8 	EFWCTRL
+  f49f9 @Display_WaitIdle
+  f4a0d tIDE FW handsh
+  f4a29 =fwctrlBufidx
+  f4a3d Nmatch 
+  f4a54 ]whe
+  f4a5c Rec. dcou
+  f4a6f oTsk
+  f4a7f 4AFTSK ERR:CAF
+  f4a99 jIPL is off
+  f4aaa 0AF sync NG
+  f4aba AF_CAF
+  f4acd = Pri-
+  f4ade 4B> Parse EXIF-
+  f4b00  AVI
+  f4b06  Get
+  f4b1a 8Image
+  f4b22 XSN_GET:
+  f4b2d huser
+  f4b47 (soci
+  f4b50 twork 
+  f4b74 B_SetIMEIDE
+  f4b93 $offset
+  f4bad Qsucessfu
+  f4bbc ,failur
+  f4bc9 (pucIdentify
+  f4bdd yPB> 
+  f4be5 uINI
+  f4bf0 RawEn
+  f4c0d 8 Task
+  f4c21 bRAW
+  f4c34 `^B RAWENC:
+  f4c43  wrong
+  f4c58 +for
+  f4c67 =timeo
+  f4c90 \WAV
+  f4ca6 	 Invalid Dir ID
+  f4ccb pWavFile
+  f4cd6 C= N
+  f4cfd  No WAV
+  f4d13 !odec
+  f4d1b Dsampl
+  f4d23 Wrat
+  f4d34  bits per
+  f4d48 xAVFmt
+  f4d56 (WAV err : 
+  f4d76 (set 
+  f4db5 Rof rang
+  f4dc7 attribute
+  f4dda LpNo Palette tab
+  f4ded }No font
+  f4dfc Ux_DrawShowObj->Wrong Type
+  f4e1c  TextProperty
+  f4e3e ,Lin
+  f4e47 ,Ellips
+  f4e53 0RoundRec
+  f4e68 ,set
+  f4e76 7Ux_PostEvent: Mailbox ID incorrect
+  f4ea2 *owrkSendComman
+  f4eb4 Z - 
+  f4ecc #Wait
+  f4edc Sevent_i
+  f4ef2 8Flush
+  f4efe 0Background
+  f4f36 GetFocusedWindow()
+  f4f4b vnull
+  f4f6a <exceeds %d.
+  f4f79 ctake
+  f4f86 	i %s
+  f4f8e Ra wnd
+  f4fa1 \MAX 
+  f4fc4 " dou
+  f5000 GetRoot
+  f5016 ` Locked
+  f5021 ` pCurrnetWn
+  f5042 DPS_E:Send
+  f504f !CB is
+  f505b  Oper: 
+  f5065  oper
+  f506d {another
+  f5078 is sen
+  f5082 is illega
+  f5097 4for RSP
+  f50a9 AddNotifyDevice
+  f50c9 )_Req_NJS
+  f50dc  Unknow
+  f50e6 g0x%X, Reaso
+  f510b sp_Dis
+  f511b ,CPS:
+  f5127 9PrintServic
+  f5143 Pild
+  f5166 &(SJ
+  f5174 (CIM
+  f51a4  Job
+  f51b7 0Get 
+  f51ca 2t indicated RSP
+  f51dd tBusy o
+  f51f5 	PInit: 
+  f520a $tJob
+  f5214 	>CapIte
+  f522e 4: Amoun
+  f5264 ,Fill 
+  f5299 |path =
+  f52a9 i, HN
+  f52d0  DPOF
+  f5330 $Abo
+  f5339 DContinu
+  f5348 (GetCapabilit
+  f5361 "PAll: Qua
+  f5374 (Pap
+  f5382 ,Mor
+  f5387 )0Typ
+  f538d $,File
+  f5398 (Date
+  f53a2 &TNam
+  f53a8 )0Layou
+  f53b4 Xxed
+  f53bf =Optim
+  f53c6 &0Cropp
+  f53e7 (Job
+  f53ed %Jul 13 2011, 17:07:10
+  f5406 - Debug Module ver: %1d.%2d.%03d, build:
+  f5437 0.a doe
+  f5441 lwith 
+  f5450 $for Semaphore[%.2ld, %s]
+  f5481  Flag
+  f5488 ;, Pattern
+  f5495 H.8X
+  f54a6 * OR
+  f54b0 ` CLEAR
+  f54b9 <MailBox
+  f54e0 @-Suspend, 
+  f54f1 Running
+  f5526 ltack Area: ^M[
+  f5538 f>^N ~ ^C<
+  f5545 ]^N, 
+  f554c )Pointer
+  f5562 v ->  Prior
+  f557a Emight
+  f5584 flow
+  f55bf (First
+  f55c8 :is r
+  f55d8 (The
+  f55e0 us of 
+  f55ed s are "
+  f55f7 Y" or
+  f564a t    
+  f566e %c (Max
+  f5678 G, Cur
+  f5681 ), Owner: 
+  f56a1 HPool
+  f56c7 Byte[%8dK.%4d
+  f56dd xInfo
+  f56f7 , dormant
+  f570b , in kernel
+  f572f Flag
+  f573c $Mempool
+  f5747 wakeup
+  f57a0 P^RAssert: %s()@Line:
+  f57b7 8,ex
+  f57bf [%s] is FALS
+  f57ce  SHUTTER
+  f57d7 MCLK
+  f57dc MES0
+  f57e5 FLCTR
+  f57eb STROBE
+  f57fd SCANTRIG
+  f5806 ACYC
+  f580b CDSCLK1
+  f5823 CISFS
+  f5829 LEDR
+  f5844 %-10s: %3s,
+  f586f (LL2
+  f5876 tPLL1
+  f587e \-- C
+  f588c @Legac
+  f589c /al-N
+  f58aa Spectrum
+  f58bd ^) [Max 160 MHz]
+  f58e0 !APB
+  f58fc SIE 
+  f591c }ScannerTG
+  f592e 0IPE
+  f593b Graphic
+  f5943 IDE 
+  f595f 74.25
+  f596e JPEG
+  f5976 SB H
+  f5985 $	BusCLK
+  f59b3 Timer
+  f59c0 tPWM
+  f59c7 8PWM0
+  f59cf  CCNT
+  f59db UART
+  f59ed VDAI
+  f59f9 CCIR656
+  f5a06 Serial RGB 6-Bits
+  f5a20 YCbCr
+  f5a28 LCD+DGPIO, 
+  f5a34 Parallel MI
+  f5a4b HMI bi-dir
+  f5a5c sepa
+  f5a67 1STG
+  f5a6e 4Non-
+  f5a83 H4sAct [%s
+  f5a91 	%-8s=
+  f5aa6 @PIN Mux
+  f5ab4 DExist,
+  f5ad1 swapped
+  f5ae2 aSensor
+  f5aef tF_CH0
+  f5b01 qSN_VD/SN_HD
+  f5b18 CTS/RTS
+  f5b2b (PWM_
+  f5b33 4DDC
+  f5b38 HOTPLUG
+  f5b47 NT96220 
+  f5b52 +r's
+  f5b6c f OSD1 
+  f5b79 0^RNot HDMI
+  f5b8b /mode
+  f5b94 Non-S
+  f5bc9 (Not S
+  f5bf2 o man
+  f5bfb fs!May 
+  f5c05 Qsty
+  f5c0f 4NAC
+  f5c27 clkdiv > 3+tsr+gs
+  f5c3a @0x001 <= tsr
+  f5c4a 0x3FB
+  f5c71  nterva
+  f5c7b @ => USB
+  f5c94 $ERR!ipe
+  f5c9f #buf
+  f5cbc ipe_
+  f5cc5 Size() Hl
+  f5cd0 " lim
+  f5ce9 vtical str
+  f5cf5 uis accep
+  f5d01 q in DVI
+  f5d11 VA set
+  f5d21 |setSat()
+  f5d3a hIE SAO1
+  f5d46 -n't be 0x0. Se
+  f5d58 	defaut
+  f5d65 0ECS Hsca
+  f5d7a SAO2
+  f5d7f ,`output DMA
+  f5d95 $DPC
+  f5da0 FS/DP in und
+  f5dc9 !multi
+  f5dd1 Lpause
+  f5de6  machin
+  f5df1  st %d op
+  f5e05 RDFS
+  f5e10 dlic
+  f5e46  , #&')*)
+  f5e51 -0-(0%()(
+  f5e69 ((((
+  f5e92 !, p
+  f5e99 Huse ExifW_ModifyTag( )
+  f5eb8  Inser
+  f5ec5 ! No
+  f5ed7 	8W_
+  f5edd 9Data
+  f5ee4 T) Len is
+  f5f02 6Ptr
+  f5f2a Kcal exif
+  f5f36 	not 4-byt
+  f5f44 ,ment
+  f5f52 xd 0thIFD
+  f5f5e Dreache
+  f5f83 $gps
+  f5f8e nter
+  f5f9d $ad 1st
+  f5fb4 mmaxLen
+  f5fc2 SetSpecial
+  f5fd5 	 Complete
+  f5fe8 Y thumbnai
+  f6001 ]IMAG BS
+  f6011 [calc
+  f601d D re
+  f602b 8SOMETHING
+  f6043 T:-ER- 
+  f606c Shas been
+  f6090 WARN:fs_f
+  f60b1 kdoesn'
+  f60cd Zero
+  f60dd 	 Try t
+  f611f on get
+  f6128 pinueous
+  f6136 TS: A
+  f613e *ect
+  f6146 turn
+  f6187 rFAT
+  f6199 OEntry ER,
+  f61a9 Renam
+  f61b1 n, bec
+  f61c5 ed. 
+  f61cc fs_r
+  f61eb Zlong 
+  f6217  Moving - Open Src
+  f624e DDst
+  f625d DIRENTRY
+  f6273 n Link
+  f627b $Store FAT
+  f6287 eSet A
+  f62bf %s%s
+  f62c7 Path
+  f62d4  (%d chars)
+  f62e3 bched!
+  f6306 ddir %
+  f6317 Tfs_rmdir()
+  f6347 \setLab
+  f6355 hA:\
+  f635a 	DTruncate
+  f6377 (nClu
+  f6388 {_ISR
+  f6390 -mulit en
+  f639f H_BACKGROUND_E:
+  f63b3 5:Sem
+  f63c8 FST :
+  f63d4 ilesysRestoreRe
+  f63e7 dInfo:
+  f63f2  working
+  f6407 8Set
+  f640e )Nex
+  f6419 Nout
+  f6421  ,use Ma
+  f643d LGetDCFNumCache
+  f644e E,%d 
+  f6456 ifile! from 100 , 
+  f6476 Border_M: Se
+  f6498 yAcquire F
+  f64b0 3for
+  f64c7 Pr D
+  f6503 LPreview
+  f6512 	*Scal
+  f6549 4apQuick
+  f657d rJPG
+  f6589 pegDec
+  f659a :jpg
+  f65ab pCALE
+  f65bb | ^R NOT ENOUGH
+  f65ce $raw
+  f65e6 Hraw
+  f65ee CgMjpgVidMaxYI
+  f660a /0JPG DECODE END
+  f6621 |jpgEr
+  f6641 tTP_E:
+  f664a AddObjToSICDList:
+  f665e Dwante
+  f6675 <Reg
+  f667c [Cb:
+  f668e  trive_
+  f6697 |Block_Cb_By_Upper_Layer:(
+  f66b3 9)fil
+  f66c2 	DOp_CheckCmd
+  f66de EMSDC:
+  f66e7 Aost No Response
+  f6700 _CLOSE:
+  f6718 $chgStrg
+  f672f odet
+  f6736 5 LUN
+  f6745 `Lun 
+  f6757 NOVAUPccOpen: dis
+  f676b cUVC,
+  f6773 x CA
+  f677b BulkO
+  f67ab USBPccSet
+  f67b7 GRat
+  f67dc ,Out
+  f67f6 	-PCC
+  f6811 Tsk:
+  f6817 p, uiOutWidth
+  f6851 [???
+  f685c Hg_fpSetPCC2CapRaw
+  f6878  : uiAddrJpg
+  f6888 ISize
+  f689d 	regi
+  f68a5 mREQ
+  f68ad 0x21 to 0xFF
+  f68bc Usicd_openN
+  f68ca wFIFO
+  f68d1 l[USBSICD_
+  f68f2 @Ope
+  f68fd : re-
+  f6905 busb
+  f6916 s: storage o
+  f6934 X OK
+  f6945 \ini
+  f6966 Tsame as the uiL
+  f6983 VnData
+  f6992 Gyet implement
+  f69a2 4Mass
+  f69a8 	5: I
+  f69de WAVW
+  f6a05 Z ADPCM
+  f6a12 tWAV
+  f6a37 Xat Po
+  f6a54 ]WAVR: I
+  f6a6c ^call
+  f6a74 _Set
+  f6a80 B() to
+  f6ab8 none
+  f6abd in 2 out
+  f6ac6 slidein left 2 righ
+  f6ae5 push up 2 down
+  f6af9  2 up
+  f6aff 	3perfect fix
+  f6b18 	 checker
+  f6b36 #xit
+  f6b45 C 2nd stage
+  f6b51 RIFF -> avi
+  f6b60 not 
+  f6b6f 3f00 
+  f6bbf YPerS
+  f6bcc AVI dur
+  f6bd6 -sec,
+  f6bdd zFR=%
+  f6be5 5RIFF
+  f6bed HIFF+
+  f6bfa LIST
+  f6c17 bReadFile=
+  f6c29 0!! buf=0
+  f6c4a ALib_
+  f6c69 qAVI:prev i
+  f6c80 next
+  f6c94 larg
+  f6ca0 |HW 
+  f6cb3 %junk
+  f6cc2 [%d]
+  f6cc7 	9X,
+  f6ce6 \ERRR!!! 
+  f6cf3 B, 2
+  f6d06 PVf=
+  f6d1a sfter
+  f6d2f mbuf a
+  f6d74 mbreak!!
+  f6da3 <(0)
+  f6dc4 imum re-
+  f6ddd ,aud_
+  f6de7 : ONLY
+  f6df8 |^R	Re
+  f6e04 Td, target SR:
+  f6e14 (Curren
+  f6e24 ERatio, T
+  f6e2f C%d,
+  f6e79 miss
+  f6e80 ayntax:
+  f6e9c 4Rea
+  f6ea7 RReg[%x, %x
+  f6eb5 bae lock
+  f6ed9 1awb
+  f6ef3 9awbmsg 
+  f6f0d lMSG
+  f6f14 bad c
+  f6f1c tor i
+  f6f2a dp old
+  f6f34 infor
+  f6f3d dp th
+  f6f45 chroma
+  f6f4e  filter test
+  f6f5d Vchksie io
+  f6f6a POUT
+  f6f72 w   = 
+  f6f7f B   x,y,w,h
+  f6f8d ,%d,
+  f6f99 $CRP
+  f6f9e !$ACT
+  f6fa4 !$VDHD s,s,t,t
+  f6fb4 $Phase  h,v,d
+  f6fc9  Inv  
+  f6fdb drawca
+  f6fe8 maprot
+  f6ff5 -x %x
+  f7021 PPFUNC
+  f7034 Yflip
+  f7040 getsieraw
+  f704c pFPGA\SIE1.RAW
+  f7066 	4 - card
+  f707c ,RAW
+  f7083 $%8x
+  f7093 gRAW(%dx%d)
+  f70a4 Pslic
+  f70d1 H outf
+  f70ee fGet 
+  f711a $IME_s
+  f7139 gets
+  f7151 "mp(0X%x
+  f7168 	8CA%ld
+  f717d XCA RAW_%d X %d(0x%x
+  f7199 IRIS 0 
+  f71be \d %d
+  f71c4 fpga 
+  f71d1 p ~~~~
+  f7219 zgoto 
+  f7230 ]^R chg i
+  f724f Tipp before
+  f725c 2Disp
+  f7266 I^R 220 do
+  f7277 Wflip(chip func.)
+  f7295 , plz
+  f729d gsen
+  f72b4 colorgai
+  f72c4 <^R pimmux api remov
+  f72e2 LPP_PauseEng_SysclkTest
+  f72fc Start
+  f7304  @%d
+  f7374 dzoom..
+  f73b7 GLib
+  f73cb ht_IME_Ou
+  f73e6 M_BeginIPP
+  f73f7 tSIE
+  f7401 AllocatResource
+  f7418 Stop
+  f741f -Dra
+  f742e /stop!
+  f743d _IPEIME_P 
+  f7464 `-E-
+  f746b csID(%d) > Max
+  f7480 prm: cap
+  f748a 3 do
+  f7491 K10bit 
+  f749b En so fa
+  f74ae Qitdepth
+  f74c9 $Exec
+  f74d5 ^R IFE
+  f74e9 repea
+  f74fd =FE D2D
+  f750b D%s: if
+  f7515 Iter
+  f7533 ife_embedded
+  f7546 Bjob
+  f754d TIME horizont
+  f755d Yput
+  f756c ^RDoub
+  f7585 ]may
+  f758b 4due to
+  f75a3 1the
+  f75d8 P%s: Sub
+  f75f0 )GetSubOutRGBinfo
+  f760c m8x8
+  f761b #Color
+  f7631  Gai
+  f7639 ChgImg
+  f7660 %%s:
+  f766d /off
+  f7675 tSetMode
+  f768a ?One
+  f769d <>>Cal_SaveRAWs
+  f76af +%d x
+  f76b7 HAe Converg
+  f76c5 @(WaitAe
+  f76d4 xCAL_AE
+  f76fb _Init
+  f7703 |Calib
+  f7737 rby (CAL_CASOURCE_SUBOUT
+  f7752 <>>Yavg
+  f7764 ExpoT
+  f7773 (Cal_DPC
+  f77b4 $AWB
+  f77ba $Y=%d 
+  f77c7 ,ECS
+  f77ec a :forc
+  f77ff oous
+  f7813 `PL_Chg
+  f7831  ail
+  f7846 SLock
+  f7860 AObj->uiCmd
+  f788b `VidT
+  f7897 ST8003
+  f78a2 DZ5311
+  f78a9 ST2089
+  f78b0 UNKNOWN
+  f78b8 PSEUDO
+  f78bf WT7026
+  f78c6 R2A30423
+  f78d8 ln lens
+  f78ec $motor
+  f7903 8LensDrv (%s), M
+  f7920 focus P
+  f792c zoom P
+  f793a howe
+  f795e Qffw
+  f797d (aper
+  f7985 Fbig
+  f79cd zinit1
+  f7a1c nterface
+  f7a2e Y----
+  f7a5a p_ISOG
+  f7a78 Iris
+  f7a92 <CapEV_
+  f7aa7 $Prv
+  f7aad $ExpectY
+  f7ab8 Add_
+  f7aee W		:
+  f7af5 @3ld  
+  f7b18 (Cal_
+  f7b4e ybe 0(
+  f7b5c tamp
+  f7b67 $ fm
+  f7b6e +diffe
+  f7b90 ~Copy
+  f7b9f  src
+  f7bb7 $dst
+  f7bbd HThumb
+  f7bcd crush
+  f7be3 $IDEWin WDiff
+  f7c07 uPlay
+  f7c16  Out
+  f7c20 $Free
+  f7c39 Assign
+  f7c42 PFAIL(1)
+  f7c5e #chun
+  f7c67 mBuf
+  f7c8f XAVI
+  f7cbe *PB>
+  f7cc5 dlag
+  f7ceb  Ini
+  f7d19 ermin
+  f7d21 4DIT
+  f7d40 \WAV
+  f7d57 data
+  f7d83 Lapp
+  f7d8b :WAV to
+  f7d9e )xtrac
+  f7daa from
+  f7db4 znot
+  f7dbb j, incr
+  f7de4 HSliderUI
+  f7df0 J:rectGapX=%d,
+  f7e1f M x M
+  f7e27 Maaa_EstBlkAverBayerG
+  f7e43 :cfa
+  f7e4d 8GetCAResult
+  f7e5a BitD
+  f7e7d i^RAEALG: AEAlg_all
+  f7e99 c AeCurv
+  f7ea4 ?.8x
+  f7eb8 Llg_get
+  f7ec2 y: une
+  f7ecb | ca
+  f7ed2 eAFAL
+  f7ee3 .hoose AF
+  f7ef5 ( AF step
+  f7f01 i256
+  f7f09 "../DCIM/%03dNVTIM/IMAG%04d.JPG
+  f7f29 2003/00/00/00:00:00
+  f7f3d CFG TRM = 
+  f7f56 DPOF_SetQty: d
+  f7f8d Soo sh
+  f7f96 PREV
+  f7f9d No REV
+  f7fbb 0CRT
+  f7fc4 DPOF
+  f7ff7 Fnd:pQData=%x
+  f8033 }A:\MISC\AUTPRINT.MRK
+  f804c 8OF:
+  f805c yequals
+  f8069 dEXIF2 -J
+  f8099 RItem
+  f80bc 4DumpJob:No
+  f80ca Idebug-leve
+  f80dc $Mem
+  f80ef  Xml
+  f8105 	Middlewar
+  f8117 PTxData: TX is
+  f8131 DAddR
+  f815e hserialN
+  f816a productName
+  f8176 vendor
+  f817f %ficVersion
+  f819f Mies
+  f81b0 Types 
+  f81b9 ="0000
+  f81ee layout
+  f820d lget
+  f8239  xmlns="http://www.cipa.jp/dps/schema/"
+  f8262 ?xml v
+  f826b 6="1.0"?
+  f827f DTyp
+  f82b5 0Xml_Req_SJ_F_PI:
+  f82ed xArea
+  f82f5 tileID
+  f830c IprtP
+  f8325 abortStyle
+  f835c figur
+  f8375 wRSP_CONFIGURE_
+  f8387 :_SERVICE
+  f83a4 "XGET_CAPABILITY
+  f83bb 0JOB_
+  f83c6 &0DEVICE
+  f83d2  4ABOR
+  f83dc  ,EQ_NOTIFY
+  f8403 XFILE_
+  f841e  archXmlCod
+  f8434 (_ProgressField
+  f8446 ygth
+  f8455 "hort,
+  f8464 'T2nd
+  f8480 0FindSymbolC
+  f8498 g"</s
+  f84ab ,dps
+  f84b9 DReceive
+  f84c5 NDS: D
+  f84d2 jobEnd
+  f850a disconnectE
+  f8539 	InewJob
+  f8554 ,JS: PrtPi
+  f856a nPath
+  f85ad 	Abas
+  f85ba <GFI: B
+  f85dc _Avail
+  f8710 (: NJS
+  f8719 4: ND
+  f8720  GFI
+  f872a [REQ
+  f873e x: G
+  f8771 H<in/
+  f877f (dps
+  f8785 "^RDD
+  f8796 Bus L
+  f87b2 P=(%d), H-res
+  f87db &Un-K
+  f87ef Code
+  f87f7 !Exten
+  f8805 tag 
+  f8812 ,DDC
+  f8819 iCou
+  f8824 PBAD EDID
+  f8836 dpar
+  f884e Y61B
+  f887e HExt-
+  f888a Mkip
+  f8898 <HDMI
+  f88ad .: 0X
+  f88c6 Short
+  f88cf .Descripto
+  f88ea 8Nativ
+  f8911 Desir
+  f891f Sink
+  f8927 !! O
+  f8931 aBasic
+  f8942 ^Ramba dma cycle cn
+  f8961 SDIO host%d :
+  f8983 Dfined
+  f8992 FAT16   
+  f89a8 X%d: CMD=0x%x,St
+  f89c0 52/53 R5
+  f89cf mRSP=
+  f89d6 (Int St
+  f89e7 < WaitTx
+  f89f2 ^: SEND
+  f8a29 "pinmux
+  f8a35 Dsend extCsd
+  f8a46 blk l
+  f8a57 GNULL
+  f8a88  csd cm
+  f8a95 ,int s
+  f8ab7 Wock
+  f8abe XMMC
+  f8ad8 (get
+  f8ae6 xwitch
+  f8b21 <(CMD6)
+  f8b30  tSDSpee
+  f8b49 $to HS
+  f8b52 lget
+  f8b57 	Dun
+  f8b6f \AppDat:
+  f8b88 <CMD55
+  f8b90 \ACMD%d
+  f8ba1 $ rsp
+  f8ba9 yrsp
+  f8bb9 { end,
+  f8bff Dopen: installed
+  f8c32 mwith P
+  f8c40 Tetup INTC
+  f8c57 |rd was unplugg
+  f8c70 $dle
+  f8c81  CMD8 ech
+  f8cb1  Get OCR tm
+  f8cc3  MMC
+  f8cd3 @CID
+  f8cdd  RCA
+  f8ce3  get/set 
+  f8cfa dLECT
+  f8d47 LR_CARD_DET
+  f8d60 4T_BUS_WIDTH
+  f8d8c SHS tim
+  f8dbd $_SWITCH 1b
+  f8de2 \EXT
+  f8dfa Lwide bu
+  f8e08 (8bit
+  f8e28 pBLOCKLE
+  f8e52 xInt
+  f8e5d tetstdBy
+  f8e68 tcmd13
+  f8e97 W 0x08
+  f8ed4 `Mem
+  f8f19 PWCard
+  f8f27 Bnto trans
+  f8f43 ' cou
+  f8f66 $sing
+  f8f7d _SD_STOP_TRANSMISSION
+  f8f98 8STOP
+  f8fb6 $INT
+  f901c ,buf
+  f9032 \rite
+  f908b eLBA
+  f909e d%s:
+  f90a5 |sdioPrtcl_
+  f90b6 ,sRemap
+  f9102 $err
+  f917c 4wrtFmtSec
+  f918a fmtExFAT
+  f91af DBPB
+  f91b8 8backup
+  f91c8 'ded Boot 
+  f91e7 Tain OEM
+  f9219 boot
+  f922a t1st FAT
+  f9239 @@1st BitMap
+  f924a D%dth
+  f9256 up-c
+  f926d dir entry
+  f9299 "ready
+  f92c7 lFS_INFO
+  f9305 xclear
+  f9317 4AT1
+  f933a hset
+  f9347 (rc clk
+  f935b <<<SD/MMC
+  f9373 Q>>>
+  f937e V:		1.0-1.01
+  f93a8 FCMD20:		
+  f93bd peed Class
+  f93da F S/N:		
+  f93ee 0name
+  f93fc 8:			SUPPORTED
+  f940d NOT 
+  f9414 SDHC
+  f942a @Host HS En:		TRUE
+  f9449 0SDHS
+  f9464 \In High
+  f946f {Mode:
+  f947c 	:Drive/
+  f948d :	%f mA
+  f9497 Bus Freq
+  f94a2 E hz
+  f94d7 tusb_FIFO_EPxCfg
+  f94f0 5 USB
+  f9500 <waitEPDone
+  f950d mno AMBA DMA
+  f9537 HriteEndpoint
+  f955d 8request 
+  f9569 ;h %
+  f9583 4clrEPFIFO
+  f9593  maps to
+  f95b8 (maskEPINT
+  f95e3 ,setEPinStall
+  f9613 dout
+  f962e ,OUT
+  f9637 	<TX0Byt
+  f965e `getEP
+  f967c @IFE:IFE O
+  f9696 $from
+  f96be .nd.
+  f96d0 are bot
+  f96e4 @Crvmap InOffs
+  f9707 (Out
+  f9716 (R/B
+  f972e #,>= -
+  f9774 l!! ife_s
+  f9799 jD2D
+  f97cb 4fat_Get
+  f97fc rEnd
+  f9806 FS :
+  f980f 1 pag
+  f984f @Free
+  f985a [];,+=
+  f9867 I   
+  f986c .:"?<>| /\
+  f987a T-ER-
+  f989a 3Err
+  f98aa GPBR
+  f98c2 %dKB is big
+  f990b p in
+  f9927 \cach
+  f996c  FAT
+  f9981 xDisk
+  f998d @NVTFS1.0
+  f99b6 Lrror. in Find
+  f99c8 qInFolder
+  f99d6  Det
+  f9a08 ~ing roo
+  f9a13 b- 1.
+  f9a25 in Segment
+  f9a3e mrtSect %d,Num
+  f9a67 8 in Create
+  f9a7a <. : 1
+  f9a8c nClus1
+  f9aa3 HERR Nomore
+  f9ab3 file 
+  f9abd in fs
+  f9ae2 FS: %s
+  f9afb reeRootEntCnt
+  f9b2a zRec
+  f9b32 unkonw commman
+  f9b46 (FST_STA_FAT_ERR
+  f9bb1 4Set
+  f9bb9 > of
+  f9bc6 Lhe 999th
+  f9be9 Hnd will
+  f9bf9 8T_CMDSys
+  f9c2c xhave any ac
+  f9c3b Xsot
+  f9c68 , pos
+  f9c78 ,rem
+  f9c84 LNo E
+  f9c92 Space !
+  f9ca0 5u is g
+  f9cc6 Disk
+  f9ce0 Q-x(H),
+  f9cef u   
+  f9cf8 FAT Typ
+  f9d31 pnex
+  f9d39 3: DCF DirID
+  f9d72 T***
+  f9d7c P****
+  f9d9c Dir 
+  f9dcd lERR:assigned
+  f9dea etWrtieSpecID
+  f9dfa ^%d < Max
+  f9e0a @ROTA
+  f9e2a  fs_
+  f9e42 A:\RECYCLER
+  f9e52 %s%03d%s\
+  f9e64 	4d.
+  f9e6b tCF_GetOneTyp
+  f9e7c Num:
+  f9e8c (Add
+  f9e95 $Del
+  f9ead Anam
+  f9ec2 @ByID: Forc
+  f9ee6 ssom
+  f9f1c Lile
+  f9f33 L%03d
+  f9f40 canDCFObj
+  f9f4c &OUT_OF
+  f9f5f path
+  f9f6a ,etValidDCFP
+  f9f7d lDCIM000
+  f9f88 DA:\DCIM
+  f9fb6 lad whol
+  f9fe7 lWRITE ONE
+  fa00f 4JPG_BRC:
+  fa01c #Level
+  fa051 	&V 7
+  fa05c |V 6
+  fa11c tar_ro_tmp %ll
+  fa131 emp_uint*cu
+  fa169 *Ro =
+  fa179  (0x%llX)
+  fa1be H264
+  fa1d4 JUNKSIZE POS
+  fa1e4 OAVI
+  fa1f8 zlen=
+  fa201 Mjun
+  fa234 Knew
+  fa241 know
+  fa249 Pvideo
+  fa26f `utV:
+  fa291 L[%d]to
+  fa2a0 final[v 
+  fa2b4 pclr v
+  fa2c5 8 clr
+  fa2cb #<v%d[%d].
+  fa2e8 !oldS
+  fa2f3  NEW
+  fa2f9  MAKEVA
+  fa319 	 AVI Obj
+  fa32a Make
+  fa35a 2Frame
+  fa36a TEMPidx1
+  fa39c 8set
+  fa3d5 MP_PCMEnc_g
+  fa3e9 c1 = 
+  fa3f7 AUDRAWADDR
+  fa417 4OM_get
+  fa422 {NO 
+  fa429 # LEF
+  fa440 (free
+  fa44a TFind
+  fa483 TS_data_del:dir
+  fa4a4  =%s
+  fa4ba \linkInit:head< e
+  fa4d1 $ObjList
+  fa4fd ect:
+  fa505 dobj
+  fa510 ,_with_
+  fa51a X_objid
+  fa52c ]NameX:
+  fa53c =, path
+  fa553 _By_FullPath:
+  fa572 1found,
+  fa58e Prop
+  fa595 \:Set dateti
+  fa5ad 7Obj
+  fa5c2 ((cb
+  fa5da NInfo:Ge
+  fa5fa T_Dir_And
+  fa610 ull_
+  fa658 (OpenS
+  fa662 D:SE
+  fa670 Gzero
+  fa67b <RES_
+  fa682 @_ALREADY_OPEN
+  fa6e9   EP0
+  fa702 gver
+  fa71f SDC 
+  fa72c {hase
+  fa748 #bad units, XD
+  fa77d  READ
+  fa795 LUN %d
+  fa79f _ed to
+  fa7c2 dCBW r
+  fa7d2 VC:[SU Selec
+  fa7e2 >rol] Not im
+  fa801 $S Prob
+  fa80c :--GET_RES
+  fa81b ,Commi
+  fa829 ed CONTROL
+  fa887 <StsReq:
+  fa896 d#SetCancelReq
+  fa8c5 @nvt_rcv_msg (%d)
+  fa8df 'null parser
+  fa8fb !,7BMXcny
+  fa917 0rotat
+  fa92b  YUV R
+  fa932 	$set
+  fa9ab hlcd adc2: %d 
+  fa9be cofig 
+  fa9c6 "ili9342!
+  fa9d3  t20p194
+  fa9e9 vdispdev
+  fa9f5 FromLcdGpi
+  fabd7 use dram
+  fabe3 chanel 0
+  fabed CMOS
+  fabf4 Wneed SIE_CHOUT_EN
+  fac0a Lsie func
+  fac17 . - 
+  fac3c uCS ...
+  fac56 c65x65
+  fac7b Sie sub
+  fac88 ^1~5
+  facb1 KFLIP,
+  facc4 \sie HSCL_EN
+  face2 0unc tu
+  facec Rto 
+  fad03 HPBUFFER: ippbuf_SetBuf:
+  fad26 ,F2F:
+  fad34 (End
+  fad41 HImePath1
+  fad63 Yer_ContF2F
+  fad70 Xbuferre
+  fad88 '`si
+  fada3 ,STAMP
+  fadae ,JPG
+  fadb9 f2f: Buf.
+  faddd $S2S
+  fade3 Time
+  fadfe 4s2s
+  fae1e $   
+  fae27 nail :
+  fae58 PLC_BUF
+  fae71 8^R 8m
+  fae80 IFE YCC
+  fae8e ,buf is
+  faea9 ,Cap_MinCase
+  faeca 4RAW
+  faedb TAlphaBl
+  faef6 DieRaw
+  faf14 Exif
+  faf1c IFED2D(Boundry CC
+  faf57 8YCC
+  faf5c 	WRepeat:
+  faf71 XQV_DISPLA
+  faf88 YMode
+  faf96 `PRE
+  faf9b +\DCOUT
+  fafe4 ,>JPG&RAW
+  faffc TCap
+  fb004 xCase
+  fb017 dCap
+  fb029 8RAME_BUF_CR
+  fb060 TExecut
+  fb071  ****
+  fb08d >cra
+  fb095 TCap
+  fb0bd -s-trig:id->jd 
+  fb0cf jd->i
+  fb0da pDcout_TrigCtrl
+  fb0f7 isrCB
+  fb100 d %s 
+  fb10e line
+  fb116 0U!=V
+  fb11c 	PSet
+  fb123 	size
+  fb12a TJpg 
+  fb139 Wconst
+  fb14a <FOpen
+  fb170 MachChk
+  fb17e 0chg
+  fb1a7 tPCTRL_
+  fb1c4 @deMap_IPL2IPPBuf
+  fb1db 8: prepar
+  fb1e7 tchk st
+  fb1f1 /low
+  fb217 8IPPctrl
+  fb226 Hpipelin
+  fb248 	@all
+  fb251 {flow
+  fb267 Close2
+  fb272 : ime
+  fb27b V or
+  fb287 =0!!
+  fb2a7 qtoo
+  fb2ba flwo 
+  fb2cf ( : IPP_Slic
+  fb2de E_F2
+  fb31f 9 op
+  fb338 (CAP:
+  fb341 50X%x
+  fb356  Sie
+  fb37f t != V
+  fb38d 2SieCa
+  fb39f ,%s:
+  fb3b2 oEven
+  fb3c8 "%s:
+  fb3d2 4pingpong num
+  fb3e6 ,GetIMEJPGAddr
+  fb404 (ENG CFG
+  fb40f MIFE post p
+  fb430 6(equal to) 4
+  fb457 7Y curv
+  fb466 dYcc
+  fb490 ~(bit stream
+  fb4a8 PBit
+  fb4ae  retry: %d,
+  fb4c9 \mgFQV
+  fb4e4 (%d ->
+  fb4ee @Sie 
+  fb502 4DPC: DPC_Bayer_
+  fb538 0width
+  fb542 Mght
+  fb54c 0fiel
+  fb555 1Cnt
+  fb561 dynamic
+  fb575 lgetHisto
+  fb585 (%d : MA
+  fb5c9 Line
+  fb724 ,nMode2Tbl
+  fb72f ipe_IQp
+  fb73f 1mod
+  fb764 i,ime msg 
+  fb794 -E- Msg
+  fb7f4  SENLIBDRV:
+  fb808 Set2
+  fb853 <(%d)!!
+  fb860 ]Raw E
+  fb873 (Cap AE
+  fb88c =for ca
+  fb897 cap),
+  fb8ac : 20130927 [NTK#RandyHo]  
+  fb8c9 D	 IQ_A
+  fb8d4 0x_Date
+  fb8e1 		Color
+  fb901 Dmmon
+  fb90b  UI 
+  fb91f u  ISO
+  fb929  AWB
+  fb936 DP_Prv
+  fb989 tAE IsoCompens
+  fb9a9 Real Gain
+  fb9b9 JPG Q
+  fb9d0 cData()
+  fb9db uErr
+  fb9f4 !Cap Sie
+  fba0a rot one op
+  fba1d time(
+  fba25 7MBEDDED_EN or
+  fba35 ?_YCC
+  fba8f (reg)
+  fbaad OV9712_Se
+  fbac8 6AE_
+  fbad0 .ISO_
+  fbd8a PB> 
+  fbdaa -Slide Effec
+  fbdbf tOVERLAP (Y&Cb
+  fbdd6 cb&C
+  fbdde Qor Y
+  fbde8 image
+  fbdf5 HSave
+  fbe16 aSZ NG
+  fbe32 [PB_NovaLight]
+  fbe4a kInsuffiecnt
+  fbe66 yPB> PlaySepcFil
+  fbe87 (RedEyeRemoval
+  fbe9d 7%d red eye
+  fbede Shidden
+  fbeff xPri-
+  fbf18 	8mary
+  fbf68 Lser
+  fbfa2 lPB>
+  fbfaa ^EXIF
+  fbfb3 Dtag: DirI
+  fbff3 u NG
+  fbffb $N_SET_ALL
+  fc015 $dirI
+  fc026 (query sequence 
+  fc044 Hfile
+  fc04d @[HDRL] 
+  fc059 #ound STR
+  fc07a 5Fcc
+  fc085 )Chun
+  fc093 ly. S
+  fc09c WSTRF 
+  fc0f1 XwSca
+  fc110 (AudC
+  fc132 NAlig
+  fc166 ERate
+  fc187 ,VIDS ta
+  fc1a4 b0x38
+  fc1b5 KpAvi
+  fc1bd As->ui
+  fc1d2 `dexdata
+  fc1ff Uhae
+  fc23a 8IDIT
+  fc24e 2Num: SF
+  fc272 ReadData
+  fc2a3 wFinish
+  fc2d0 YB: A
+  fc2dd jing, d
+  fc2e7 EHDISCVRY.DP
+  fc2f6 oHREQUEST
+  fc302 SPONSE
+  fc31c G = 
+  fc330 	:DT
+  fc33b (PTP
+  fd203    ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~ 
+  fd404 ! !!!"!#!$!%!&!'!(!)!*!+!,!-!.!/!0!1!2!3!4!5!6!7!8!9!:!;!<!=!>!?!@!A!B!C!D!E!F!G!H!I!J!K!L!M!2!O!P!Q!R!S!T!U!V!W!X!Y!Z![!\!]!^!_!`!a!b!c!d!e!f!g!h!i!j!k!l!m!n!o
+  fd52d , ,!,",#,$,%,&,',(,),*,+,,,-,.,_,`,`,b,c,d,e,f,g,g,i,i,k,k,m,n,o,p,q,r,s,t,u,u,w,x,y,z,{,|,},~,
+  fd87c "yet released by IF
+  fd8a2 TExif
+  fd8b0 &%d!!
+  fd8b7 makerNote P
+  fd8cc userc
+  fd8ed LatRef = %c
+  fd8fd Sec[%d/%d
+  fd914 Hour
+  fd942 tRead
+  fd94a LSOI mark
+  fd95d $ no APP
+  fd97b ddata/
+  fd993 @GPS
+  fd9d2 \, bu
+  fd9e3 user 
+  fd9f2 pBenchmark :
+  fda0c LFS_SPD.TST
+  fda50 =ms, 
+  fda7d <mov
+  fda9d ]Test
+  fdaa6 (Inclu
+  fdaaf HOpen/
+  fdab9 wtime)
+  fdaed <No pNandStr
+  fdafc eMTP_E:
+  fdb0a BFriendlyName:
+  fdb21 xstring
+  fdb2c =255
+  fdb35 indows
+  fdb3c DigitalCamera
+  fdb53 OPropList
+  fdb65 |Exif
+  fdb6e Oxif:
+  fdb81 |A:\
+  fdba9 |Obj
+  fdbcb ^R[JpegS
+  fdbe1 SYUV
+  fdbf6 tMode
+  fdc0a 4SetPrv
+  fdc1a SIE_SLICE_MODE
+  fdc2c C2-pingpp
+  fdd90 @GetReg
+  fdda4 Data
+  fddab AFDRV MSG:
+  fddb8 F= %d; 
+  fddc3 y ,Step
+  fddcd zLens: S
+  fddd8 ~Near:%ld F
+  fddeb sk	: OZoomIdx
+  fddff d Cur
+  fde14 w]: 
+  fde20 Step
+  fde32 Vari
+  fde48 xpeak
+  fde53 4_PreF
+  fde5b 	Flow
+  fde67 Column
+  fde83 >_Back
+  fde94 (WidthMain
+  fdea1  ISO
+  fdebb %ld 
+  fdecb .Y  	: 
+  fdee5 	 [PB_FileLock]
+  fdf4b ENOT
+  fdf59 r1st
+  fdf6c tNON
+  fdf74 hile
+  fdfae xPB_JpgBRC
+  fdfbb F] Original B
+  fdfe3 Crop
+  fdfee  - R
+  fdff6 !BUF
+  fe011 CopyT
+  fe044 Pull,
+  fe04e ontin
+  fe079 spac
+  fe093 eHWS
+  fe09f lOri
+  fe0fb amall
+  fe117 eMay 31 2021 16:24:41
+  fe156  1.00RIFF
+  fe163 WAVEfmt 
+  fe17e data
+ 102890 E	/ 
+ 10374f 	/	>
+ 107fd9 | '	
+ 108883 "#	q"
+ 10b17d 	6	Y
+ 10c785 D	B	|
+ 119590 $$LISTB
+ 11959a INFOISFT5
+ 1195a6 GoldWave (C) Chris S. Craig, http://www.goldwave.com
+ 1196c9 ! bYY
+ 1196f5 ;:Pj3
+ 119898 O/.0
+ 1198ad r9yR
+ 1198ea t<X]
+ 11ab21 IfQ~P
+ 11ab9d 8	Os0
+ 11be13 j )%
+ 11d570 #p"8
+ 11e0eb '"_ 
+ 11fb5d !n09-
+ 11fe9a E#a&{"
+ 11feb9 &z,S/
+ 11ff1b 321E'
+ 11ff57  U*j3
+ 11ff77 !J,O4h.
+ 11ff97 $l/G5'.
+ 11fff9 3;11(
+ 120014 ]!7+B4!/,%
+ 120037 -F4r-*"
+ 120059 3i+9
+ 120077 0	2-)
+ 1200b2 8 [)b2;.t$
+ 1200d2 |"G+
+ 1200f3 $t-@3k+H
+ 120112 =&v/
+ 120133 'v1~1
+ 120170 C"N+
+ 1201f1 (!2U0
+ 1202ec =$6,/3h+
+ 12032f 0-2e(
+ 12034c a)|2
+ 120371 /u$E
+ 120391 -X";
+ 1203aa h'R/
+ 1203af 5U,1
+ 120408 2")+
+ 12042d 4L/+$
+ 120449 &S.P5
+ 1204e6 u%!-,5
+ 120509 .<5,-
+ 120527 ((0=4P+
+ 12054b 3m)v
+ 120565  N*O3u1
+ 120587 +;4n/
+ 120622 ="e*W,B'D
+ 121796 dSOCLE
+ 12181e NSA_NTO
+ 1231f7 6x1.0
+ 1241db HL	!
+ 1246a0 ^000
+ 1249b5 P| !
+ 1249d4 P$!!
+ 124a50 @L"!
+ 124aaa (<$!
+ 124ade @8"!
+ 124b5b (T'!
+ 124bd0 @T)!
+ 124c5e @d,!
+ 124d41 (|/!
+ 124d60 ($0!
+ 124ec1 |H4!
+ 124f1b (86!
+ 124f50 |44!
+ 12510d @P<!
+ 125176 8@?!
+ 1251f7 \p9!
+ 1252e7 4PC!
+ 125388 HLH!
+ 1253ec (DJ!
+ 125400 4hF!
+ 1255bf D@P!
+ 12568d (,T!
+ 1256d3 0LU!
+ 125990 \h\!
+ 125a66 0D_!
+ 125aec (Ta!
+ 125b5e 0dc!
+ 125c9b  ti!
+ 125d18  pY!
+ 125d85 lHV!
+ 125e68 \8o!
+ 125e7d $0q!
+ 125eca T(r!
+ 125f08 (xs!
+ 126264 0H~!
+ 126631 L<w!
+ 126936 BCDEFGHIJKLMNOPQRSTUVWXYZ-.
+ 128c79 (T""
+ 128e7b L +"
+ 128ee2 lP."
+ 128fa5 x44"
+ 1290e2 Lx:"
+ 1292e1 PP?"
+ 129398 `\C"
+ 1293d4 ,0D"
+ 129421 xD>"
+ 12945b `HB"
+ 129585 )0PG"
+ 1295d4 4tI"
+ 129684 $`HJ"
+ 12986b hpR"
+ 12989d 8|T"
+ 1298b5 8(U"
+ 1298ed 84W"
+ 1299a7 PH["
+ 1299ff Ph\"
+ 129afe nCalibration
+ 129b92 dL`"
+ 129c7b 0$c"
+ 129e54 x0j"
+ 12a001 dxo"
+ 12a125 H,u"
+ 12a1b4 @hz"
+ 12a25d l<~"
+ 12a3eb 4\m"
+ 12aec2 CRAS
+ 12aef5 2.00.002
+ 12aefe Oct 08 2012, 14:40:01
+ 12b014 UI V1.2.2
+ 12b020 Novatek Company
+ 12b034 	=amera
+ 12b04a :>ABCD0123456
+ 12b064 May 07 2018, 15:29:44
+ 12b123 }.008
+ 12b129 Jan 03
+ 12b132 h0:36:09
+ 12b142 1:53
+ 12b218 $3br
+ 12b224 %&'()*456789:
+ 12b23a Pcdefghijstuvwxyz
+ 12b2ca 	#3R
+ 12b548 eNTNT
+ 12b550 @   
+ 12b55c NOVATEK DIGITAL CAMERA
+ 12b574 !NTK96630
+ 12b589 Ver.
+ 12b594 T2001:07:01 12:00:00
+ 12b5d0 6101
+ 12b673 &8P3
+ 12b69b Jun 12
+ 12b6a4 78:44:4
+ 12b7a9 					
+ 12bb51 $`]U2
+ 12be18 [HDR]
+ 12be1e [JOB]
+ 12be24 01.10
+ 12be2a GEN REV
+ 12be38 PRT TYP
+ 12be40 IMG FMT
+ 12be4e CFG DSC
+ 12be56 ATR DTM
+ 12be5f (PID=%03d
+ 12be73 Digital
+ 12bf02 SYSTEMID
+ 12bf0b VOLUME1
+ 12bfb9 BRC_DEBUG_LEVEL_DISABLE
+ 12bfd3 SIMPLE
+ 12bfdb 0FULL
+ 12bfe3 HCOMBINED_YUV420
+ 12bffa SEPERATE
+ 12c00b v102001
+ 12c015 N11011
+ 12c03e $fir
+ 12c07b twos
+ 12c3b1 Exif
+ 12c4ea S   
+ 12c529 hFPXR
+ 12c617 `aVT
+ 12ccab  HHHH
+ 12d316 mjpg

@@ -1,0 +1,3 @@
+FW122A.bin: data
+-rwxrwxrwx 1 mine mine 1.2M Aug 17 18:24 FW122A.bin
+5d737fdc738127b6cb95cc6cc9755914c1e30c694c7f57f486afb69588c62fb1  FW122A.bin

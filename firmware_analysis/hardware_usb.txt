@@ -1,0 +1,152 @@
+  2c930 NOVATEK
+  2cbee POOL_ID_MSDCVENDOR
+  2d050 USBSICDEP3Tsk()
+  2d060 USBSICDTsk()
+  2d070 USBPccVideoTsk()
+  2d084 USBMSDC_StrgTsk()
+  2d098 USBSetupHalTsk()
+  2d0ac USBCtlStartTsk()
+  2d0e8 LensCtrlTsk()
+  2d0f8 PhotoDisplayTsk()
+  2d10c SieCapTsk()
+  2d178 DispRotateTsk()
+  2d9c4 SysGetDispRotateBuffSize() 0x%x
+  2d9e8 ^R[SysGetDispRotateAddr]: addr = 0x%x
+  3bda5 FLG_ID_USBTSK
+  3be05 FLG_ID_USBCLASS
+  3be15 FLG_ID_PHOTODISPLAY
+  3be4d FLG_ID_LENS
+  3be74 FLG_ID_DISPROTATE
+  3bf0b SEMID_USB
+  3bfb1 SEMID_SIE
+  3c03f SEMID_SENSOR
+  3c05e SEMID_DISPROT
+  3c4b8 DMA_CH_SIE0
+  3c4c4 DMA_CH_SIE1
+  3c4d0 DMA_CH_SIE2
+  3c4dc DMA_CH_SIE3
+  3ccbc ^RSIE-Mclk clock must not exceed 96Mhz!
+  3cce8 ^RSIE-PXCLK clock must not exceed 96Mhz!
+  3d0dc ^Rpinmux_configSensor(): no bus width assigned: 0x%lx
+  3d9a4 ^Rpinmux_init(): sensor, scanner BOTH enabled
+  3da00 ^Gpinmux_setDispPinmux(%d): NOT need to handle TV/HDMI
+  3da3c usb_initFOTG200(): sw reset timeout
+  3da64  USB driver is not opened !
+  3da84  USB driver is already opened !
+  3daa8 usb_open(): not contact
+  3dac4 usb_open(): VBUS removed
+  3dae0 usb_open(): open AMBA DMA fail
+  3db04 ^Rusb_open(): USB NOT support AHB 160MHz
+  3f61c Error dispdev_RegRead Op!
+  3f638 DispDev NO valid rotate!
+  40904 LENS_M: Lens_Module_Init
+  40920 LENS_E: %s param error!!
+  4093c Lens_Module_Init
+  40950 LENS_E: %s init part2 error!!
+  40970 Lens_Init
+  4097c LENS_E: %s: init wrong state = %d
+  409a0 LENS_M: Lens Retracting...
+  409c0 LENS_E: %s: fail state=%d
+  409dc Lens_Zoom_Goto
+  409ec Lens_Zoom_Goto2
+  409fc Lens_Zoom_In
+  40a0c Lens_Zoom_In2
+  40a1c Lens_Zoom_Out
+  40a2c Lens_Zoom_Out2
+  40a3c Lens_Zoom_Stop
+  40a4c LENS_E: %s fail state=%d
+  40a68 Lens_Zoom_GetBL
+  40a78 Lens_Zoom_DoBL
+  40a88 Lens_Focus_DoAction
+  40a9c Lens_Focus_DoAction2
+  40ab4 Lens_Focus_Goto2
+  40ac8 Lens_Focus_GotoHome
+  40adc Lens_Focus_GetBL
+  40af0 LENS_E: %s pMotor is null
+  40b0c LensCtrlTsk
+  40b18 lensFF: pMotor is null
+  40b4c lensFF: aperture goto wrong state=%d
+  40b74 lensFF: shutter goto wrong state=%d
+  41224 ^RDISPLAYDEV No Support!(%d)
+  41244 ^RDISPCTL No Support!(%d)
+  41260 ^RDISPLYR No Support!(%d)
+  412b0 Non of DISP1 DEV (%d)
+  412e8 Non of DISP1 REG WRITE (%d)
+  41308 Non of DISP1 Rotate (%d)
+  41368 Non of DISP1 REG READ (%d)
+  41388 ^RDISPDEV No Support!(%d)
+  413dc ^RDISPCTL2 No Support!(%d)
+  413fc ^RDISPLYR2 has only vdo1
+  41418 ^RDISPLYR2 Vdo1 can not disable!
+  4143c ^RDISPLYR2 No Support!(%d)
+  41490 Non of DISP2 DEV (%d)
+  414a8 ^MDISP2 can support PANEL only!
+  414cc Non of DISP2 REG WRITE (%d)
+  414ec Non of DISP2 Rotate (%d)
+  41550 Non of DISP1 REG READ (%d)
+  41570 ^RDISPDEV2 No Support!(%d)
+  a4698 USBS
+  a47ce USBC-
+  ce864 ?   : display help message
+  ced33 Lens Init
+  cedb9  msdc
+  cedc1 MSDC
+  cf0a9 >(c) 2011 Novatek Microelectronic Corp
+  cf358 USBEn
+  cf71d xDetUSB_return
+  cf72d a^R USB plugging i
+  cf787 usb_StateChange()
+  cf79b UUSB is connected to
+  cf7cf L usb
+  cf9fc [AppInitAVI]: uiSensorRecordS
+  cfc11 4_ZoomControl: Lens
+  cfe93 MenuUSB
+  d2034 _gsensor
+  d22e6  usb auto r
+  d22fc 3camera
+  d3203 $USB_Inf
+  d3218 	USB
+  d34fb GPIO_INT_USBPLUGIN
+  d39bc mUSB
+  f2ddf Gsensor_Test
+  f30bc Cover Lens
+  f4432 SIECAP TSK >Capture 
+  f49f9 @Display_WaitIdle
+  f58fc SIE 
+  f5ae2 aSensor
+  f5c7b @ => USB
+  f66de EMSDC:
+  f6757 NOVAUPccOpen: dis
+  f676b cUVC,
+  f67ab USBPccSet
+  f67f6 	-PCC
+  f685c Hg_fpSetPCC2CapRaw
+  f68d1 l[USBSICD_
+  f6905 busb
+  f6f5d Vchksie io
+  f7040 getsieraw
+  f704c pFPGA\SIE1.RAW
+  f725c 2Disp
+  f73f7 tSIE
+  f78d8 ln lens
+  f7903 8LensDrv (%s), M
+  f94d7 tusb_FIFO_EPxCfg
+  f94f0 5 USB
+  fa9e9 vdispdev
+  fabf4 Wneed SIE_CHOUT_EN
+  fac0a Lsie func
+  fac7b Sie sub
+  facc4 \sie HSCL_EN
+  faf71 XQV_DISPLA
+  fb356  Sie
+  fb38d 2SieCa
+  fb4ee @Sie 
+  fb9f4 !Cap Sie
+  fc33b (PTP
+  fdb3c DigitalCamera
+  fdc1a SIE_SLICE_MODE
+  fddcd zLens: S
+ 12b020 Novatek Company
+ 12b55c NOVATEK DIGITAL CAMERA
+ 12b574 !NTK96630
+ 12be73 Digital
